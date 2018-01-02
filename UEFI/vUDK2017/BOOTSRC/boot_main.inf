@@ -1,0 +1,28 @@
+[Defines]
+  INF_VERSION                    = 1.25
+  BASE_NAME                      = BOOTLOAD
+  FILE_GUID                      = e48fe3df-dc88-49f7-bba2-6a4d02792233
+  MODULE_TYPE                    = UEFI_APPLICATION
+  VERSION_STRING                 = 1.0
+  ENTRY_POINT                    = UEFIBootMain
+
+[Sources]
+  boot_main.c
+
+[Packages]
+  MdePkg/MdePkg.dec
+  
+[LibraryClasses]
+  UefiApplicationEntryPoint
+  
+# Unused:
+  
+[Guids]
+
+[Ppis]
+
+[Protocols]
+
+[FeaturePcd]
+
+[Pcd]
