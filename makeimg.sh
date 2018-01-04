@@ -8,3 +8,4 @@ cd ..
 rm -rf img_files
 mkdir -p img_files/EFI/BOOT
 cp UEFI/BOOTX64.efi img_files/EFI/BOOT/
+echo "KERNEL CODE" > img_files/kernel.x

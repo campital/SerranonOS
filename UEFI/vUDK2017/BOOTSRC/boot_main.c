@@ -69,9 +69,33 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     EFI_FILE_PROTOCOL* kernelFile;
     //open file:
     error = fsAction->Open(fsAction, &kernelFile, KERNEL_FILE_NAME, EFI_FILE_MODE_READ, EFI_FILE_ARCHIVE);
-    checkError(error, L"FATAL: Could not open kernel file.\r\n");
-    
-    
+    if(error != EFI_SUCCESS) {
+        SystemTable->ConOut->OutputString(SystemTable->ConOut, L"FATAL: Could not open kernel file.\r\n");
+        switch(error) {
+            case EFI_NOT_FOUND:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"File not found.\r\n");
+                break;
+            case EFI_NO_MEDIA:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Device error (no media).\r\n");
+                break;
+            case EFI_DEVICE_ERROR:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Device error.\r\n");
+                break;
+            case EFI_VOLUME_CORRUPTED:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Corrupted volume.\r\n");
+                break;
+            case EFI_WRITE_PROTECTED:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Write protected.\r\n");
+                break;
+            case EFI_ACCESS_DENIED:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Access denied.\r\n");
+                break;
+            default:
+                SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Unknown error.\r\n");
+                break;
+        }
+        HALT;
+    }
     
     SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Exiting boot services.\r\n");
     
