@@ -11,4 +11,5 @@
 - Possibly ethernet
 - Possibly audio
 
+To run, copy files and directories from img_files onto a USB stick with a GPT partition table.
 Have a nice day!
