@@ -19,7 +19,7 @@
 4. Create a FAT32 partition
 5. Rename the partition to read "SERRANONOS"
 6. Paste the files and directories from the "img_files" folder onto the root of the USB stick
-7. Reboot and make sure secure boot is disabled and that (if the setting exists) UEFI secure boot path (or a similar setting)is disabled
+7. Reboot and make sure secure boot is disabled and that (if the setting exists) UEFI secure boot path (or a similar setting) is disabled
 8. Access the boot menu and select the UEFI option for your USB device
 9. SerranonOS should load
 

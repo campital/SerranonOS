@@ -61,7 +61,7 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     checkError(error, L"FATAL: Could not locate any protocol instances, or there were too many storage devices connected.\r\n");
     int deviceFound = 0;
 
-    for(int i = 0; i < handlesBufferSize/sizeof(EFI_HANDLE); i++) {
+    for(unsigned int i = 0; i < handlesBufferSize/sizeof(EFI_HANDLE); i++) {
         error = SystemTable->BootServices->OpenProtocol(allStorageHandles[i], &volumeGUID, (void**)&volumeInterface, 
                                                         ImageHandle, NULL, EFI_OPEN_PROTOCOL_BY_HANDLE_PROTOCOL); // load the interface
         if(error != EFI_SUCCESS)
@@ -69,6 +69,7 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
         error = volumeInterface->OpenVolume(volumeInterface, &fsAction);
         if(error != EFI_SUCCESS)
             continue;
+        infoBufferSize = INFO_BUFFER_SIZE; // reset from output
         error = fsAction->GetInfo(fsAction, &fileSystemInfoGUID, &infoBufferSize, labelBuffer); // get partition name
         if(error != EFI_SUCCESS)
             continue;
