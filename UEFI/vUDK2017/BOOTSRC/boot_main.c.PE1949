@@ -1,26 +1,18 @@
-// includes
+// required includes
 #include <Uefi.h>
 #include <Protocol/SimpleFileSystem.h>
-#include <Guid/FileSystemVolumeLabelInfo.h>
 #define HALT while(1)
-#define INFO_BUFFER_SIZE 256
-#define MAX_KERNEL_FILE_SIZE 0x100000
 
-CHAR16 KERNEL_FILE_NAME[] = L"kernel.x";
-UINTN kernelFileSize = MAX_KERNEL_FILE_SIZE; // 1 MiB
-CHAR16 VOLUME_NAME[] = L"SERRANONOS";
-UINTN infoBufferSize = INFO_BUFFER_SIZE;
-CHAR16 labelBuffer[INFO_BUFFER_SIZE/2]; // is 2 bytes
+CHAR16 KERNEL_FILE_NAME[] = L"kernel.x\0";
 EFI_MEMORY_DESCRIPTOR memmapbuffer[128];
 EFI_HANDLE allStorageHandles[128] = {}; // null init
-UINTN mmapSize = sizeof(memmapbuffer);
-UINTN mapKey;
-UINTN descSize;
+long long unsigned int mmapSize = sizeof(memmapbuffer);
+long long unsigned int mapKey;
+long long unsigned int descSize;
 unsigned int descVersion;
 EFI_STATUS error;
 EFI_SIMPLE_FILE_SYSTEM_PROTOCOL *volumeInterface;
 EFI_GUID volumeGUID = EFI_SIMPLE_FILE_SYSTEM_PROTOCOL_GUID;
-EFI_GUID fileSystemInfoGUID = EFI_FILE_SYSTEM_VOLUME_LABEL_ID;
 EFI_FILE_PROTOCOL* fsAction;
 EFI_SYSTEM_TABLE *GlobalSystemTable;
 
@@ -32,22 +24,6 @@ void checkError(EFI_STATUS returnCode, CHAR16* errorString)
     }
 }
 
-int compareCHAR16(CHAR16* string1, CHAR16* string2, unsigned int numberOfBYTESToCompare) // 1 for equal and zero for not
-{
-    char* string1char = (char*) string1;
-    char* string2char = (char*) string2;
-    for(unsigned int i = 0; i < numberOfBYTESToCompare; i++) {
-        if(string1char[i] != string2char[i])
-            return 0;
-    }
-    return 1;
-}
-
-void jumpToKernel(void* address)
-{
-    __asm__ __volatile__("jmp %%rax" :: "a" (address));
-}
-
 EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable)
 {
     GlobalSystemTable = SystemTable;
@@ -56,30 +32,18 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Booting SerranonOS...\r\n"); // 16 bit string
 
     // Load kernel:
-    UINTN handlesBufferSize = sizeof(allStorageHandles);
-    error = SystemTable->BootServices->LocateHandle(ByProtocol, &volumeGUID, NULL, &handlesBufferSize, allStorageHandles); // get all storage device handles
+    unsigned long long bufferSize = sizeof(allStorageHandles);
+    error = SystemTable->BootServices->LocateHandle(ByProtocol, &volumeGUID, NULL, &bufferSize, allStorageHandles); // get all storage device handles
     checkError(error, L"FATAL: Could not locate any protocol instances, or there were too many storage devices connected.\r\n");
     int deviceFound = 0;
 
-    for(int i = 0; i < handlesBufferSize/sizeof(EFI_HANDLE); i++) {
-        error = SystemTable->BootServices->OpenProtocol(allStorageHandles[i], &volumeGUID, (void**)&volumeInterface, 
-                                                        ImageHandle, NULL, EFI_OPEN_PROTOCOL_BY_HANDLE_PROTOCOL); // load the interface
+    for(int i = 0; i < bufferSize/sizeof(EFI_HANDLE); i++) {
+        error = SystemTable->BootServices->InstallProtocolInterface(&(allStorageHandles[i]), &volumeGUID, EFI_NATIVE_INTERFACE, volumeInterface); // load the interface
         if(error != EFI_SUCCESS)
             continue;
         error = volumeInterface->OpenVolume(volumeInterface, &fsAction);
         if(error != EFI_SUCCESS)
             continue;
-        error = fsAction->GetInfo(fsAction, &fileSystemInfoGUID, &infoBufferSize, labelBuffer); // get partition name
-        if(error != EFI_SUCCESS)
-            continue;
-        if(compareCHAR16(VOLUME_NAME, labelBuffer, sizeof(VOLUME_NAME))) {
-            deviceFound = 1;
-            break;
-        }
-    }
-    if(deviceFound == 0) {
-        SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Could not locate a file system with the label SERRANONOS.\r\n");
-        HALT;
     }
     EFI_FILE_PROTOCOL* kernelFile;
     //open file:
@@ -112,14 +76,6 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
         HALT;
     }
     
-    // read kernel file
-    unsigned char* kernelDataBuffer = (unsigned char*)0x1000000;
-    error = kernelFile->Read(kernelFile, &kernelFileSize, kernelDataBuffer); // will return actual size in kernelFileSize
-    checkError(error, L"Unable to read from kernel file.\r\n");
-    error = kernelFile->Close(kernelFile);
-    checkError(error, L"Unable to close kernel file.\r\n");
-    SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Loaded the kernel!\r\n");
-    
     SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Exiting boot services.\r\n");
     
     error = SystemTable->BootServices->GetMemoryMap(&mmapSize, memmapbuffer, &mapKey, &descSize, &descVersion);
@@ -134,8 +90,9 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     
     error = SystemTable->BootServices->ExitBootServices(ImageHandle, mapKey);
     checkError(error, L"FATAL: Could not exit UEFI services.\r\n");
+    SystemTable = NULL; // no more UEFI
     // jump to kernel:
-    jumpToKernel((void*)kernelDataBuffer);
     
+    HALT;
     return EFI_ABORTED; // should never get to here
 }

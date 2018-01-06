@@ -17,10 +17,11 @@
 2. Execute the "makeimg.sh" script
 3. Use gdisk to GPT format the partition table on a USB stick
 4. Create a FAT32 partition
-5. Paste the files and directories from the "img_files" folder onto the root of the USB stick
-6. Reboot and make sure secure boot is disabled
-7. Access the boot menu and select the UEFI option for your USB device
-8. SerranonOS should load
+5. Rename the partition to read "SERRANONOS"
+6. Paste the files and directories from the "img_files" folder onto the root of the USB stick
+7. Reboot and make sure secure boot is disabled and that (if the setting exists) UEFI secure boot path (or a similar setting)is disabled
+8. Access the boot menu and select the UEFI option for your USB device
+9. SerranonOS should load
 
 If you have any issues or find a bug, open an issue ticket.
 
