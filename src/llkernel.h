@@ -1,5 +1,3 @@
-void halt();
-
 // paste from latest UEFI spec in related definitions for GetMemoryMap();
 typedef struct {
  unsigned int Type;
@@ -9,7 +7,7 @@ typedef struct {
  unsigned long Attribute;
 } EFI_MEMORY_DESCRIPTOR;
 
-struct PAGE_ENTRY_2MB
+typedef struct
 {
    unsigned long present    : 1;
    unsigned long rw         : 1;
@@ -26,8 +24,8 @@ struct PAGE_ENTRY_2MB
    unsigned long addr       : 30;
    unsigned long resvd      : 12;
    unsigned long xd         : 1; // execute disable (may not be available or enabled)
-}; // for paging
-struct PAGE_ENTRY
+} PAGE_ENTRY_2MB; // for paging
+typedef struct
 {
    unsigned long present    : 1;
    unsigned long rw         : 1;
@@ -39,4 +37,10 @@ struct PAGE_ENTRY
    unsigned long addr       : 32;
    unsigned long resvd      : 19;
    unsigned long xd         : 1; // execute disable (may not be available or enabled)
-}; // for paging
+} PAGE_ENTRY; // for paging
+
+void halt();
+void initIdentity(unsigned long numberOfPagesToInitialize, PAGE_ENTRY* base);
+void fillMemory(unsigned char* base, unsigned long size, unsigned char data);
+void reloadPaging(unsigned long base);
+void mapPage(unsigned long virtualPage, unsigned long physicalMapping, unsigned long base, unsigned char is_present, unsigned char is_user_page, unsigned char rw);

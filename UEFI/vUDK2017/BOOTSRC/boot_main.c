@@ -5,10 +5,11 @@
 #define HALT while(1)
 #define INFO_BUFFER_SIZE 256
 #define MAX_KERNEL_FILE_SIZE 0x100000
+#define KERNEL_FINAL_LOAD_LOCATION 0x1000000
 
 CHAR16 KERNEL_FILE_NAME[] = L"kernel.x";
+CHAR16 VERIFICATION_FILE_NAME[] = L"06981uT3C8p";
 UINTN kernelFileSize = MAX_KERNEL_FILE_SIZE; // 1 MiB
-CHAR16 VOLUME_NAME[] = L"SERRANONOS";
 UINTN infoBufferSize = INFO_BUFFER_SIZE;
 CHAR16 labelBuffer[INFO_BUFFER_SIZE/2]; // is 2 bytes
 EFI_MEMORY_DESCRIPTOR memmapbuffer[128];
@@ -32,6 +33,14 @@ void checkError(EFI_STATUS returnCode, CHAR16* errorString)
     }
 }
 
+void relocateMemory(unsigned long* baseAddressSource, unsigned long* baseAddressDestination, unsigned long size)
+{
+    // use longs to go faster
+    for(unsigned long i = 0; i < size / 4; i++) {
+        baseAddressDestination[i] = baseAddressSource[i];
+    }
+}
+
 int compareCHAR16(CHAR16* string1, CHAR16* string2, unsigned int numberOfBYTESToCompare) // 1 for equal and zero for not
 {
     char* string1char = (char*) string1;
@@ -43,9 +52,9 @@ int compareCHAR16(CHAR16* string1, CHAR16* string2, unsigned int numberOfBYTESTo
     return 1;
 }
 
-void jumpToKernel(void* address)
+void jumpToKernel(void* address, EFI_MEMORY_DESCRIPTOR* mmapBuffer, unsigned long numberOfEntries)
 {
-    __asm__ __volatile__("jmp %%rax" :: "a" (address));
+    __asm__ __volatile__("jmp %%rax" :: "a" (address), "c" (mmapBuffer), "d" (numberOfEntries));
 }
 
 EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable)
@@ -73,13 +82,15 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
         error = fsAction->GetInfo(fsAction, &fileSystemInfoGUID, &infoBufferSize, labelBuffer); // get partition name
         if(error != EFI_SUCCESS)
             continue;
-        if(compareCHAR16(VOLUME_NAME, labelBuffer, sizeof(VOLUME_NAME))) {
-            deviceFound = 1;
-            break;
-        }
+        EFI_FILE_PROTOCOL* testFile;
+        error = fsAction->Open(fsAction, &testFile, VERIFICATION_FILE_NAME, EFI_FILE_MODE_READ, EFI_FILE_ARCHIVE);
+        if(error != EFI_SUCCESS)
+            continue;
+        testFile->Close(testFile);
+        deviceFound = 1;
     }
     if(deviceFound == 0) {
-        SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Could not locate a file system with the label SERRANONOS.\r\n");
+        SystemTable->ConOut->OutputString(SystemTable->ConOut, L"FATAL: Could not locate a file system with the verification file intact.\r\n");
         HALT;
     }
     EFI_FILE_PROTOCOL* kernelFile;
@@ -114,11 +125,15 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     }
     
     // read kernel file
-    unsigned char* kernelDataBuffer = (unsigned char*)0x1000000;
+    unsigned char* kernelDataBuffer = (unsigned char*) 1; // may not be null
+    error = SystemTable->BootServices->AllocatePages(AllocateAnyPages, EfiLoaderData, MAX_KERNEL_FILE_SIZE / 0x1000, (EFI_PHYSICAL_ADDRESS*) kernelDataBuffer);
+    if(error == EFI_OUT_OF_RESOURCES || error == EFI_NOT_FOUND)
+        SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Not enough memory for kernel.\r\n");
+    checkError(error, L"FATAL: Unable to allocate memory for the kernel.\r\n");
     error = kernelFile->Read(kernelFile, &kernelFileSize, kernelDataBuffer); // will return actual size in kernelFileSize
-    checkError(error, L"Unable to read from kernel file.\r\n");
+    checkError(error, L"FATAL: Unable to read from kernel file.\r\n");
     error = kernelFile->Close(kernelFile);
-    checkError(error, L"Unable to close kernel file.\r\n");
+    checkError(error, L"FATAL: Unable to close kernel file.\r\n");
     SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Loaded the kernel!\r\n");
     
     SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Exiting boot services.\r\n");
@@ -136,7 +151,8 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     error = SystemTable->BootServices->ExitBootServices(ImageHandle, mapKey);
     checkError(error, L"FATAL: Could not exit UEFI services.\r\n");
     // jump to kernel:
-    jumpToKernel((void*)kernelDataBuffer);
+    relocateMemory((unsigned long*) kernelDataBuffer, (unsigned long*) KERNEL_FINAL_LOAD_LOCATION, MAX_KERNEL_FILE_SIZE);
+    jumpToKernel((void*)KERNEL_FINAL_LOAD_LOCATION, memmapbuffer, mmapSize);
     
     return EFI_ABORTED; // should never get to here
 }
