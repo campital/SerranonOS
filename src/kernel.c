@@ -3,10 +3,10 @@ void* pagingBase = 0;
 
 void start(EFI_MEMORY_DESCRIPTOR* mmapBuffer, unsigned long numberOfEntries)
 {
+    // TODO: setup IDT, exceptions, and GDT
     pagingBase = (void*) 0x100000; // temporaty, check mmapBuffer
     initIdentity(1024, (PAGE_ENTRY*) pagingBase); // initialize 2mb identity pages
-    halt();
-    reloadPaging((unsigned long) pagingBase);
+    reloadPaging((unsigned long) pagingBase); // load cr3
     halt();
 }
 

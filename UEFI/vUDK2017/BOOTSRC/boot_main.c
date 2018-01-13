@@ -88,7 +88,11 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
             continue;
         testFile->Close(testFile);
         deviceFound = 1;
+        break;
     }
+    fsAction->GetInfo(fsAction, &fileSystemInfoGUID, &infoBufferSize, labelBuffer);
+    SystemTable->ConOut->OutputString(SystemTable->ConOut, labelBuffer);
+    SystemTable->ConOut->OutputString(SystemTable->ConOut, L"\r\n"); // line end
     if(deviceFound == 0) {
         SystemTable->ConOut->OutputString(SystemTable->ConOut, L"FATAL: Could not locate a file system with the verification file intact.\r\n");
         HALT;
