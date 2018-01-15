@@ -16,5 +16,5 @@ do
 gcc $i -o ../kernel_bin/`basename $i .c`.o -Wall -O3 -fstrength-reduce -fomit-frame-pointer -finline-functions -fno-stack-protector -nostdinc -fno-builtin -fno-pie -c
 done
 cd ..
-ld -T c_link.ld -o img_files/kernel.x kernel_bin/kernel.o kernel_bin/paging.o
+ld -T c_link.ld -o img_files/kernel.x kernel_bin/kernel.o kernel_bin/paging.o kernel_bin/gdt.o
 echo Done!
