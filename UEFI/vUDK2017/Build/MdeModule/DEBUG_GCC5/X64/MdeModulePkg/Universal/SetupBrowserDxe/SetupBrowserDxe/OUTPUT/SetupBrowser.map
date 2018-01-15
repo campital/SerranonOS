@@ -1,0 +1,1091 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(Setup.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(IfrParse.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(Expression.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(Presentation.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000000000       0x22 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x28 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata._gUefiDriverRevision
+                0x0000000000000000        0x4 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/cci1DCM3.ltrans0.ltrans.o
+LOAD /tmp/cci1DCM3.ltrans1.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/OUTPUT/SetupBrowser.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x11734
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.IsResetRequired
+                0x0000000000000240        0x7 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.RegiserExitHandler
+                0x0000000000000247        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.FormDisplayCallback
+                0x000000000000024f       0x2b /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.EfiEventEmptyFunction
+                0x000000000000027a        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x000000000000027b        0x4 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InternalSafeStringNoStrOverlap
+                0x000000000000027f       0x27 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InsertHeadList
+                0x00000000000002a6       0x15 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x00000000000002bb       0x27 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.HiiToLower
+                0x00000000000002e2       0x3c /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000002e2                HiiToLower
+ .text.DeleteString
+                0x000000000000031e       0x25 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000031e                DeleteString
+ .text.NewString
+                0x0000000000000343       0x19 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000343                NewString
+ .text.PasswordCheck
+                0x000000000000035c      0x15c /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.IsDevicePathEnd
+                0x00000000000004b8       0x11 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000004b8                IsDevicePathEnd
+ .text.DevicePathNodeLength
+                0x00000000000004c9        0x5 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000004c9                DevicePathNodeLength
+ .text.FreePool
+                0x00000000000004ce        0xa /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000004ce                FreePool
+ .text.ValidateHiiHandle.part.12
+                0x00000000000004d8       0x41 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000004d8                ValidateHiiHandle.part.12
+ .text.AllocatePool
+                0x0000000000000519       0x99 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000519                AllocatePool
+ .text.UnicodeSPrint
+                0x00000000000005b2       0xc4 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000005b2                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x0000000000000676       0x28 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000676                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x000000000000069e       0x28 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000069e                BasePrintLibFillBuffer
+ .text.UnicodeValueToStringS
+                0x00000000000006c6      0x1c2 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000006c6                UnicodeValueToStringS
+ .text.AsciiStrLen
+                0x0000000000000888        0xe /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000888                AsciiStrLen
+ .text.AsciiStrnCmp.part.3
+                0x0000000000000896       0x52 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000896                AsciiStrnCmp.part.3
+ .text.StrLen   0x00000000000008e8        0xf /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000008e8                StrLen
+ .text.StrSize  0x00000000000008f7       0x14 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000008f7                StrSize
+ .text.StrStr   0x000000000000090b       0x42 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000090b                StrStr
+ .text.StrCmp   0x000000000000094d       0x22 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000094d                StrCmp
+ .text.AsciiStrnLenS
+                0x000000000000096f       0x24 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000096f                AsciiStrnLenS
+ .text.StrnLenS
+                0x0000000000000993       0x27 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000993                StrnLenS
+ .text.StrCatS  0x00000000000009ba      0x14c /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000009ba                StrCatS
+ .text.StrnCpyS
+                0x0000000000000b06      0x145 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.StrCpyS  0x0000000000000c4b      0x12a /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000c4b                StrCpyS
+ .text.IsNull   0x0000000000000d75        0x7 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000d75                IsNull
+ .text.IsListEmpty
+                0x0000000000000d7c        0x7 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000d7c                IsListEmpty
+ .text.SetScope
+                0x0000000000000d83       0x5e /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.RemoveEntryList
+                0x0000000000000de1       0x19 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000de1                RemoveEntryList
+ .text.UiFreeMenuList
+                0x0000000000000dfa       0x38 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000dfa                UiFreeMenuList
+ .text.GetNextNode
+                0x0000000000000e32        0x4 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000e32                GetNextNode
+ .text.GetFirstNode
+                0x0000000000000e36        0x4 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000e36                GetFirstNode
+ .text.SubmitCallbackForForm.part.10
+                0x0000000000000e3a       0xc0 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SubmitCallback.part.11
+                0x0000000000000efa       0x6b /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InsertTailList
+                0x0000000000000f65       0x16 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000f65                InsertTailList
+ .text.InitializeListHead
+                0x0000000000000f7b        0xb /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000f7b                InitializeListHead
+ .text._ModuleEntryPoint
+                0x0000000000000f86      0x289 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000000f86                _ModuleEntryPoint
+ .text.IsZeroGuid
+                0x000000000000120f       0x20 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000120f                IsZeroGuid
+ .text.CompareGuid
+                0x000000000000122f       0x42 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000122f                CompareGuid
+ .text.UiFindParentMenu
+                0x0000000000001271       0x4d /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001271                UiFindParentMenu
+ .text.CopyMem  0x00000000000012be      0x211 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000012be                CopyMem
+ .text.CleanBrowserStorage
+                0x00000000000014cf      0x1b4 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ValidateFormSet
+                0x0000000000001683       0x4c /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001683                ValidateFormSet
+ .text.IsBrowserDataModified
+                0x00000000000016cf      0x146 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetFormSetFromHiiHandle
+                0x0000000000001815       0x79 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SetBitsQuestionValue
+                0x000000000000188e       0x8d /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetBitsQuestionValue
+                0x000000000000191b       0x6f /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.AllocateCopyPool
+                0x000000000000198a      0x10e /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000198a                AllocateCopyPool
+ .text.SetValueByName.part.5
+                0x0000000000001a98      0x116 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001a98                SetValueByName.part.5
+ .text.ConfigRespToStorage
+                0x0000000000001bae      0x10f /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.NewStringCpy
+                0x0000000000001cbd       0x3f /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetValueByName.part.4
+                0x0000000000001cfc       0x92 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001cfc                GetValueByName.part.4
+ .text.SynchronizeStorage
+                0x0000000000001d8e      0x179 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetToken
+                0x0000000000001f07       0x48 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001f07                GetToken
+ .text.CompareMem
+                0x0000000000001f4f       0x2e /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001f4f                CompareMem
+ .text.ZeroMem  0x0000000000001f7d       0x88 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000001f7d                ZeroMem
+ .text.AllocateZeroPool
+                0x0000000000002005       0xf9 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000002005                AllocateZeroPool
+ .text.RegisterHotKey
+                0x00000000000020fe      0x13a /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InitializeFormSet
+                0x0000000000002238     0x2123 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000002238                InitializeFormSet
+ .text.ConfigRequestAdjust
+                0x000000000000435b      0x25e /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetSyncRestoreConfigRequest
+                0x00000000000045b9      0x17f /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SetQuestionValue
+                0x0000000000004738      0x60e /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000004738                SetQuestionValue
+ .text.BufferToValue
+                0x0000000000004d46      0x237 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetQuestionDefault
+                0x0000000000004f7d      0x99a /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.GetQuestionValue
+                0x0000000000005917      0x587 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000005917                GetQuestionValue
+ .text.LoadFormSetConfig
+                0x0000000000005e9e      0x113 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ExtractDefault.part.23
+                0x0000000000005fb1      0x811 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ExtractDefault
+                0x00000000000067c2       0x42 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.InitializeCurrentSetting
+                0x0000000000006804      0x399 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.IsQuestionValueChanged
+                0x0000000000006b9d      0x244 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000006b9d                IsQuestionValueChanged
+ .text.UpdateFlagForForm
+                0x0000000000006de1       0xb4 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ValueChangeResetFlagUpdate.part.15
+                0x0000000000006e95       0x6f /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SendDiscardInfoToDriver
+                0x0000000000006f04      0x119 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.DiscardForm
+                0x000000000000701d      0x277 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000701d                DiscardForm
+ .text.NewStringCat
+                0x0000000000007294       0x76 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000007294                NewStringCat
+ .text.ProcessStorage
+                0x000000000000730a      0x158 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.BrowserCallback
+                0x0000000000007462      0x26c /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.PopupErrorMessage
+                0x00000000000076ce       0xb1 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x00000000000076ce                PopupErrorMessage
+ .text.ConfirmSaveFail
+                0x000000000000777f       0x78 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ValidateQuestion
+                0x00000000000077f7      0x14f /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.NoSubmitCheck
+                0x0000000000007946      0x10d /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.ValueChangedValidation
+                0x0000000000007a53       0x6f /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000007a53                ValueChangedValidation
+ .text.UiCopyMenuList
+                0x0000000000007ac2       0xaa /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SubmitForFormSet.part.16
+                0x0000000000007b6c      0x62e /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SubmitForSystem
+                0x000000000000819a      0x4aa /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SaveReminder
+                0x0000000000008644      0x13d /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SubmitForm
+                0x0000000000008781      0x334 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x0000000000008781                SubmitForm
+ .text.ExecuteAction
+                0x0000000000008ab5      0x1c3 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.SendForm
+                0x0000000000008c78     0x1878 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .text.HiiGetSupportedLanguages
+                0x000000000000a4f0       0x81 /tmp/cci1DCM3.ltrans0.ltrans.o
+                0x000000000000a4f0                HiiGetSupportedLanguages
+ .text.FormUpdateNotify
+                0x000000000000a571        0xa /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000a571                FormUpdateNotify
+ .text.RefreshEventNotifyForForm
+                0x000000000000a57b       0x23 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000a57b                RefreshEventNotifyForForm
+ .text.HiiValueToUINT64
+                0x000000000000a59e       0x35 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.GetLengthForValue
+                0x000000000000a5d3       0x30 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.GetBufferForValue
+                0x000000000000a603       0x24 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.IsTypeInBuffer
+                0x000000000000a627       0x1a /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.IfrStrToUpper
+                0x000000000000a641       0x1e /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.InitializeUnicodeCollationProtocol
+                0x000000000000a65f       0x33 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.PopExpression
+                0x000000000000a692       0x4a /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.GetBestLanguage.constprop.10
+                0x000000000000a6dc       0xf0 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.IdToQuestion2
+                0x000000000000a7cc       0x67 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.UpdateStatementStatusForForm
+                0x000000000000a833       0x7b /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.IdToQuestion
+                0x000000000000a8ae       0xac /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.ProcessChangedData
+                0x000000000000a95a       0x59 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.GetFormsetGuidFromHiiHandle
+                0x000000000000a9b3      0x15f /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.FindParentFormSet
+                0x000000000000ab12       0x73 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.FreeStatementData
+                0x000000000000ab85       0xba /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.StrHexToUint64S.constprop.21
+                0x000000000000ac3f      0x13b /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000ac3f                StrHexToUint64S.constprop.21
+ .text.BasePrintLibSPrintMarker.constprop.19
+                0x000000000000ad7a      0xca4 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000ad7a                BasePrintLibSPrintMarker.constprop.19
+ .text.unlikely.BasePrintLibSPrint.constprop.18
+                0x000000000000ba1e       0xb8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.InternalAllocatePool.constprop.17
+                0x000000000000bad6       0x37 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bad6                InternalAllocatePool.constprop.17
+ .text.HiiGetHiiHandles.constprop.9
+                0x000000000000bb0d       0x8b /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bb0d                HiiGetHiiHandles.constprop.9
+ .text.DevicePathToHiiHandle
+                0x000000000000bb98       0xe4 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.HiiSetString.constprop.8
+                0x000000000000bc7c      0x129 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bc7c                HiiSetString.constprop.8
+ .text.HiiGetString.constprop.7
+                0x000000000000bda5      0x1b1 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bda5                HiiGetString.constprop.7
+ .text.CreateExpression.constprop.6
+                0x000000000000bf56       0x34 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bf56                CreateExpression.constprop.6
+ .text.IsNvUpdateRequiredForForm
+                0x000000000000bf8a       0x54 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bf8a                IsNvUpdateRequiredForForm
+ .text.IsNvUpdateRequiredForFormSet
+                0x000000000000bfde       0x5f /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000bfde                IsNvUpdateRequiredForFormSet
+ .text.FindNextMenu
+                0x000000000000c03d      0x11c /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c03d                FindNextMenu
+ .text.UpdateStatementStatusForFormSet
+                0x000000000000c159       0x69 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c159                UpdateStatementStatusForFormSet
+ .text.UpdateStatementStatus
+                0x000000000000c1c2       0x85 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c1c2                UpdateStatementStatus
+ .text.GetBrowserStatement
+                0x000000000000c247       0x67 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c247                GetBrowserStatement
+ .text.FreeDisplayFormData
+                0x000000000000c2ae       0xc0 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c2ae                FreeDisplayFormData
+ .text.IsTrue   0x000000000000c36e       0x3a /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c36e                IsTrue
+ .text.CompareHiiValue
+                0x000000000000c3a8      0x19d /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c3a8                CompareHiiValue
+ .text.ExtendValueToU64
+                0x000000000000c545       0x36 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c545                ExtendValueToU64
+ .text.IdToForm
+                0x000000000000c57b       0x5b /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c57b                IdToForm
+ .text.PopScope
+                0x000000000000c5d6       0x53 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c5d6                PopScope
+ .text.PopConditionalExpression
+                0x000000000000c629       0xa0 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c629                PopConditionalExpression
+ .text.PushConditionalStack
+                0x000000000000c6c9       0xdb /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c6c9                PushConditionalStack
+ .text.PushStack
+                0x000000000000c7a4      0x108 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c7a4                PushStack
+ .text.PushScope
+                0x000000000000c8ac       0x32 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c8ac                PushScope
+ .text.IsStatementOpCode
+                0x000000000000c8de       0x5a /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c8de                IsStatementOpCode
+ .text.IsExpressionOpCode
+                0x000000000000c938       0x42 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c938                IsExpressionOpCode
+ .text.DestroyExpression
+                0x000000000000c97a       0xd7 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000c97a                DestroyExpression
+ .text.DestroyFormSet
+                0x000000000000ca51      0x4cf /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000ca51                DestroyFormSet
+ .text.GetQuestionValueFromForm
+                0x000000000000cf20      0x132 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.EvaluateExpression
+                0x000000000000d052     0x2716 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000d052                EvaluateExpression
+ .text.EvaluateExpressionList
+                0x000000000000f768       0xa2 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000f768                EvaluateExpressionList
+ .text.ProcessCallBackFunction.constprop.0
+                0x000000000000f80a      0x4fc /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000f80a                ProcessCallBackFunction.constprop.0
+ .text.UpdateStatement
+                0x000000000000fd06       0x65 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .text.RefreshIntervalProcess
+                0x000000000000fd6b      0x10d /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000fd6b                RefreshIntervalProcess
+ .text.RefreshEventNotifyForStatement
+                0x000000000000fe78       0xac /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000fe78                RefreshEventNotifyForStatement
+ .text.ProcessGotoOpCode
+                0x000000000000ff24      0x2e9 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000000ff24                ProcessGotoOpCode
+ .text.GetFstStgFromBrsStg
+                0x000000000001020d       0xba /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x000000000001020d                GetFstStgFromBrsStg
+ .text.StorageToConfigResp.constprop.3
+                0x00000000000102c7      0x125 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x00000000000102c7                StorageToConfigResp.constprop.3
+ .text.GetFstStgFromVarId
+                0x00000000000103ec       0x5b /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x00000000000103ec                GetFstStgFromVarId
+ .text.InitializeRequestElement
+                0x0000000000010447      0x2cb /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000010447                InitializeRequestElement
+ .text.CreateStorage
+                0x0000000000010712      0x66e /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000010712                CreateStorage
+ .text.CreateStatement
+                0x0000000000010d80      0x148 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000010d80                CreateStatement
+ .text.CreateQuestion
+                0x0000000000010ec8      0x1da /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000010ec8                CreateQuestion
+ .text.IsHiiHandleInBrowserContext.part.25
+                0x00000000000110a2       0x65 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x00000000000110a2                IsHiiHandleInBrowserContext.part.25
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x0000000000011107        0x1 
+ .rodata.CleanBrowserStorage.str2.2
+                0x0000000000011108       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.ConfigRespToStorage.str2.2
+                0x0000000000011118        0xe /tmp/cci1DCM3.ltrans0.ltrans.o
+                                         0x12 (size before relaxing)
+ .rodata.GetToken.str2.2
+                0x0000000000011126        0x4 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x000000000001112a        0x2 
+ .rodata.InitializeFormSet
+                0x000000000001112c      0x1c0 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.ConfigRequestAdjust.str2.2
+                0x00000000000112ec        0xe /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.GetSyncRestoreConfigRequest.str2.2
+                0x00000000000112fa       0x22 /tmp/cci1DCM3.ltrans0.ltrans.o
+                                         0x2e (size before relaxing)
+ .rodata.InitializeCurrentSetting.str2.2
+                0x000000000001131c       0x3c /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.ConfirmSaveFail.str2.2
+                0x0000000000011358       0x34 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.SubmitForSystem.str2.2
+                0x000000000001138c       0x42 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.SendForm.str2.2
+                0x00000000000113ce       0x42 /tmp/cci1DCM3.ltrans0.ltrans.o
+                                          0x2 (size before relaxing)
+ *fill*         0x00000000000113ce        0x2 
+ .rodata.mHexStr
+                0x00000000000113d0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .rodata.CSWTCH.209
+                0x00000000000113e0        0x3 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x00000000000113e3        0x1 
+ .rodata.HiiValueToUINT64
+                0x00000000000113e4       0x1c /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.19.str1.1
+                0x0000000000011400       0x7b /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.HiiSetString.constprop.8.str1.1
+                0x000000000001147b        0x7 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.HiiGetString.constprop.7.str1.1
+                0x0000000000011482        0x7 /tmp/cci1DCM3.ltrans1.ltrans.o
+                                          0x1 (size before relaxing)
+ .rodata.HiiGetString.constprop.7.str2.2
+                0x0000000000011482       0x1a /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.IsTrue
+                0x000000000001149c       0x14 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.ExtendValueToU64
+                0x00000000000114b0       0x1c /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.EvaluateExpression.str2.2
+                0x00000000000114cc       0x50 /tmp/cci1DCM3.ltrans1.ltrans.o
+                                         0x56 (size before relaxing)
+ .rodata.EvaluateExpression
+                0x000000000001151c      0x1c0 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.ProcessCallBackFunction.constprop.0
+                0x00000000000116dc       0x20 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.StorageToConfigResp.constprop.3.str2.2
+                0x00000000000116fc        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.InitializeRequestElement.str2.2
+                0x00000000000116fc       0x38 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .rodata.CreateStorage.str2.2
+                0x0000000000011734       0x1c /tmp/cci1DCM3.ltrans1.ltrans.o
+                                         0x28 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000011750      0x224 /tmp/cci1DCM3.ltrans1.ltrans.o
+                                        0x235 (size before relaxing)
+ *(.got .got.*)
+ .got           0x0000000000011974        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x0000000000011974        0x0 PcdLib.obj (symbol from plugin)
+                0x0000000000011974                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000011980        0x0
+ .plt           0x0000000000011980        0x0 PcdLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000011978        0x0
+ .plt.got       0x0000000000011978        0x0 PcdLib.obj (symbol from plugin)
+
+.data           0x0000000000011980      0x5e8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000011980       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000011990       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x00000000000119a0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEdkiiFormBrowserExProtocolGuid
+                0x00000000000119b0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEdkiiFormBrowserEx2ProtocolGuid
+                0x00000000000119c0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiFormBrowser2ProtocolGuid
+                0x00000000000119d0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiDevicePathFromTextProtocolGuid
+                0x00000000000119e0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x00000000000119f0       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000011a00       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEdkiiFormDisplayEngineProtocolGuid
+                0x0000000000011a10       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiPlatformSetupFormsetGuid
+                0x0000000000011a20       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEdkiiIfrBitVarstoreGuid
+                0x0000000000011a30       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiStandardFormGuid
+                0x0000000000011a40       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x0000000000011a50       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.mBrowserScopeFirstSet
+                0x0000000000011a60        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011a61        0xf 
+ .data.rel.local.gBrowserHotKeyList
+                0x0000000000011a70       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.rel.local.mPrivateData
+                0x0000000000011a80       0x98 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011b18        0x8 
+ .data.rel.local.gBrowserSaveFailFormSetList
+                0x0000000000011b20       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .data.rel.local.gBrowserContextList
+                0x0000000000011b30       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011b30                gBrowserContextList
+ .data.rel.local.gBrowserStorageList
+                0x0000000000011b40       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011b40                gBrowserStorageList
+ .data.gEfiUnicodeCollation2ProtocolGuid
+                0x0000000000011b50       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .data.gEfiUserManagerProtocolGuid
+                0x0000000000011b60       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .data.gEfiRegularExpressionProtocolGuid
+                0x0000000000011b70       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .data.rel.local.mRefreshEventList
+                0x0000000000011b80       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011b80                mRefreshEventList
+ .data.rel.local.gBrowserFormSetList
+                0x0000000000011b90       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011b90                gBrowserFormSetList
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000011ba0       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .data.gBrowserSettingScope
+                0x0000000000011bb0        0x4 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011bb0                gBrowserSettingScope
+ *fill*         0x0000000000011bb4        0xc 
+ .data.gEfiGlobalVariableGuid
+                0x0000000000011bc0       0x10 /tmp/cci1DCM3.ltrans1.ltrans.o
+ *fill*         0x0000000000011bd0       0x10 
+ .data.rel.ro.local.mStatusString
+                0x0000000000011be0      0x138 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .data.rel.ro   0x0000000000011d18        0x0 PcdLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.gST       0x0000000000011d18        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x0000000000011d20        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gHiiImage
+                0x0000000000011d28        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gHiiFont  0x0000000000011d30        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gHiiConfigRouting
+                0x0000000000011d38        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gBrowserContextCount
+                0x0000000000011d40        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mFinishRetrieveCall
+                0x0000000000011d48        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011d49        0x1 
+ .bss.mCurrentFormId
+                0x0000000000011d4a        0x2 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011d4c        0x4 
+ .bss.mCurrentFormSetGuid
+                0x0000000000011d50       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mCurFakeQestId
+                0x0000000000011d60        0x2 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gFlagReconnect
+                0x0000000000011d62        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011d63        0x5 
+ .bss.mCurrentHiiHandle
+                0x0000000000011d68        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mSystemSubmit
+                0x0000000000011d70        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011d71        0xf 
+ .bss.gZeroGuid
+                0x0000000000011d80       0x10 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mMapExpressionListEnd
+                0x0000000000011d90        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mCurrentExpressionEnd
+                0x0000000000011d98        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mOptionExpressionEnd
+                0x0000000000011da0        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mStatementExpressionEnd
+                0x0000000000011da8        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mFormExpressionEnd
+                0x0000000000011db0        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mMapExpressionListPointer
+                0x0000000000011db8        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mMapExpressionListStack
+                0x0000000000011dc0        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mCurrentExpressionPointer
+                0x0000000000011dc8        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mCurrentExpressionStack
+                0x0000000000011dd0        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mExpressionOpCodeIndex
+                0x0000000000011dd8        0x2 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mUsedQuestionId
+                0x0000000000011dda        0x2 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.gExitRequired
+                0x0000000000011ddc        0x1 /tmp/cci1DCM3.ltrans0.ltrans.o
+ *fill*         0x0000000000011ddd        0x3 
+ .bss.ExitHandlerFunction
+                0x0000000000011de0        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mSystemLevelFormSet
+                0x0000000000011de8        0x8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .bss.mStatementIndex
+                0x0000000000011df0        0x2 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011df0                mStatementIndex
+ *fill*         0x0000000000011df2        0x6 
+ .bss.mOptionExpressionPointer
+                0x0000000000011df8        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011df8                mOptionExpressionPointer
+ .bss.mOptionExpressionStack
+                0x0000000000011e00        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e00                mOptionExpressionStack
+ .bss.mStatementExpressionPointer
+                0x0000000000011e08        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e08                mStatementExpressionPointer
+ .bss.mStatementExpressionStack
+                0x0000000000011e10        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e10                mStatementExpressionStack
+ .bss.mFormExpressionPointer
+                0x0000000000011e18        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e18                mFormExpressionPointer
+ .bss.mFormExpressionStack
+                0x0000000000011e20        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e20                mFormExpressionStack
+ .bss.mOpCodeScopeStackEnd
+                0x0000000000011e28        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.mOpCodeScopeStackPointer
+                0x0000000000011e30        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e30                mOpCodeScopeStackPointer
+ .bss.mOpCodeScopeStack
+                0x0000000000011e38        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e38                mOpCodeScopeStack
+ .bss.mUserManager
+                0x0000000000011e40        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.mExpressionEvaluationStackEnd
+                0x0000000000011e48        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.mExpressionEvaluationStackPointer
+                0x0000000000011e50        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.mExpressionEvaluationStack
+                0x0000000000011e58        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.mExpressionEvaluationStackOffset
+                0x0000000000011e60        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.mUnicodeCollation
+                0x0000000000011e68        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+ .bss.gEmptyString
+                0x0000000000011e70        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e70                gEmptyString
+ .bss.mValueChangedEvent
+                0x0000000000011e78        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e78                mValueChangedEvent
+ .bss.gDisplayFormData
+                0x0000000000011e80       0x90 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011e80                gDisplayFormData
+ .bss.mHiiDatabase
+                0x0000000000011f10        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f10                mHiiDatabase
+ .bss.mFormDisplay
+                0x0000000000011f18        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f18                mFormDisplay
+ .bss.mPathFromText
+                0x0000000000011f20        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f20                mPathFromText
+ .bss.mHiiPackageListUpdated
+                0x0000000000011f28        0x1 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f28                mHiiPackageListUpdated
+ *fill*         0x0000000000011f29        0x7 
+ .bss.gCurrentSelection
+                0x0000000000011f30        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f30                gCurrentSelection
+ .bss.gCallbackReconnect
+                0x0000000000011f38        0x1 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f38                gCallbackReconnect
+ .bss.gResetRequiredSystemLevel
+                0x0000000000011f39        0x1 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f39                gResetRequiredSystemLevel
+ .bss.gResetRequiredFormLevel
+                0x0000000000011f3a        0x1 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f3a                gResetRequiredFormLevel
+ *fill*         0x0000000000011f3b        0x5 
+ .bss.mHiiConfigRouting
+                0x0000000000011f40        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f40                mHiiConfigRouting
+ .bss.gRT       0x0000000000011f48        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f48                gRT
+ .bss.gHiiString
+                0x0000000000011f50        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f50                gHiiString
+ .bss.gHiiDatabase
+                0x0000000000011f58        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f58                gHiiDatabase
+ .bss.gBS       0x0000000000011f60        0x8 /tmp/cci1DCM3.ltrans1.ltrans.o
+                0x0000000000011f60                gBS
+
+.eh_frame       0x0000000000011f80        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000011f80        0x0
+ .dynbss        0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000011f80        0x0
+ .gnu.version_d
+                0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000011f80        0x0
+ .gnu.version   0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000011f80        0x0
+ .gnu.version_r
+                0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000011f80      0x5e8
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000011f80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserHotKeyList
+                0x0000000000011f80       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPrivateData
+                0x0000000000011fb0      0x120 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserSaveFailFormSetList
+                0x00000000000120d0       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserContextList
+                0x0000000000012100       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserStorageList
+                0x0000000000012130       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mRefreshEventList
+                0x0000000000012160       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBrowserFormSetList
+                0x0000000000012190       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x00000000000121c0      0x3a8 PcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000012568       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000012568       0x24 PcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/SetupBrowserDxe/SetupBrowserDxe/DEBUG/SetupBrowser.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x1febc
+ .debug_info    0x0000000000000000    0x13b20 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_info    0x0000000000013b20     0xc39c /tmp/cci1DCM3.ltrans1.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0xdb5
+ .debug_abbrev  0x0000000000000000      0x74c /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000074c      0x669 /tmp/cci1DCM3.ltrans1.ltrans.o
+
+.debug_loc      0x0000000000000000    0x1df89
+ .debug_loc     0x0000000000000000    0x1315a /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_loc     0x000000000001315a     0xae2f /tmp/cci1DCM3.ltrans1.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xa70
+ .debug_aranges
+                0x0000000000000000      0x670 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000670      0x400 /tmp/cci1DCM3.ltrans1.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x2e50
+ .debug_ranges  0x0000000000000000     0x1e80 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000001e80      0xfd0 /tmp/cci1DCM3.ltrans1.ltrans.o
+
+.debug_line     0x0000000000000000     0x4e5b
+ .debug_line    0x0000000000000000     0x2d51 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_line    0x0000000000002d51     0x210a /tmp/cci1DCM3.ltrans1.ltrans.o
+
+.debug_str      0x0000000000000000     0x6674
+ .debug_str     0x0000000000000000     0x4ee4 /tmp/cci1DCM3.ltrans0.ltrans.o
+                                       0x5ae1 (size before relaxing)
+ .debug_str     0x0000000000004ee4     0x1790 /tmp/cci1DCM3.ltrans1.ltrans.o
+                                       0x435a (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3dc0
+ .debug_frame   0x0000000000000000     0x24f8 /tmp/cci1DCM3.ltrans0.ltrans.o
+ .debug_frame   0x00000000000024f8     0x18c8 /tmp/cci1DCM3.ltrans1.ltrans.o

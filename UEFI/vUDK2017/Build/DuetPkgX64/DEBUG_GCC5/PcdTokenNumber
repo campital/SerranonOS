@@ -1,0 +1,3 @@
+PcdTokenNumber: 
+('PcdBootState', 'gEfiIntelFrameworkModulePkgTokenSpaceGuid') : 1
+('PcdNvStoreDefaultValueBuffer', 'gEfiMdeModulePkgTokenSpaceGuid') : 2

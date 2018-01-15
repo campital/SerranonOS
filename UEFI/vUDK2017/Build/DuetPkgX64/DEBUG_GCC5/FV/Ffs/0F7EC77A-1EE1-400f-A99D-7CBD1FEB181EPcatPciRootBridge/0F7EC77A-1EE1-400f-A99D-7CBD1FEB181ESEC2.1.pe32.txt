@@ -1,0 +1,1 @@
+GenSec -s EFI_SECTION_PE32 -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/0F7EC77A-1EE1-400f-A99D-7CBD1FEB181EPcatPciRootBridge/0F7EC77A-1EE1-400f-A99D-7CBD1FEB181ESEC2.1.pe32 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciRootBridgeNoEnumerationDxe/PciRootBridgeNoEnumeration/OUTPUT/PcatPciRootBridge.efi

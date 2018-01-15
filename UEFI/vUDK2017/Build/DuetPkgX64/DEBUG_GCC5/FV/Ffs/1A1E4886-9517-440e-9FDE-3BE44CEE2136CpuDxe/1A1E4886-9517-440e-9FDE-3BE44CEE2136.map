@@ -1,0 +1,870 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibMmioBuffer.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoHighLevel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoFifo.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePciCf8Lib/BasePciCf8Lib/OUTPUT/BasePciCf8Lib.lib(PciCf8Lib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePciLibCf8/BasePciLibCf8/OUTPUT/BasePciLibCf8.lib(PciLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BasePlatformHookLibNull/BasePlatformHookLibNull/OUTPUT/BasePlatformHookLibNull.lib(BasePlatformHookLibNull.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DuetTimerLib/DuetTimerLib/OUTPUT/DuetTimerLib.lib(X86TimerLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib(CpuSleep.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib(CpuFlushTlb.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/BaseSerialPortLib16550.lib(BaseSerialPortLib16550.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib(InternalGetSpinLockProperties.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib(SynchronizationGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/BaseXApicLib.lib(BaseXApicLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/DebugAgentLibNull/DebugAgentLibNull/OUTPUT/DebugAgentLibNull.lib(DebugAgentLibNull.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib(InitializeFpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MtrrLib/MtrrLib/OUTPUT/MtrrLib.lib(MtrrLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib(DxeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(ExceptionHandlerAsm.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(ArchExceptionHandler.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(CpuExceptionCommon.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(PeiDxeSmmCpuException.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(DxeException.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MpInitLib/DxeMpInitLib/OUTPUT/DxeMpInitLib.lib(MpFuncs.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MpInitLib/DxeMpInitLib/OUTPUT/DxeMpInitLib.lib(DxeMpLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MpInitLib/DxeMpInitLib/OUTPUT/DxeMpInitLib.lib(MpLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MpInitLib/DxeMpInitLib/OUTPUT/DxeMpInitLib.lib(Microcode.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(CpuDxe.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(CpuGdt.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(CpuMp.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(CpuPageTable.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(CpuAsm.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetGdtr  0x0000000000000000        0x5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000000000       0x25 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.PciAnd16.constprop.33
+                0x0000000000000000       0x64 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.PciOr16  0x0000000000000000       0x66 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.PciCf8Read32
+                0x0000000000000000       0x55 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.PciCf8Read16
+                0x0000000000000000       0x5f /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.PciCf8Read8
+                0x0000000000000000       0x5e /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetApicMode
+                0x0000000000000000        0x6 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SetApicMode.constprop.27
+                0x0000000000000000        0x1 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InitializeExceptionStackSwitchHandlers
+                0x0000000000000000      0x160 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mExternalInterruptHandlerTable
+                0x0000000000000000      0x100 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mReservedVectorsData
+                0x0000000000000000      0xb00 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000       0x50 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoFifo.obj)
+ .data          0x0000000000000000        0x0 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(ExceptionHandlerAsm.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccxKx1SZ.ltrans0.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePciCf8Lib/BasePciCf8Lib/OUTPUT/BasePciCf8Lib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePciLibCf8/BasePciLibCf8/OUTPUT/BasePciLibCf8.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BasePlatformHookLibNull/BasePlatformHookLibNull/OUTPUT/BasePlatformHookLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DuetTimerLib/DuetTimerLib/OUTPUT/DuetTimerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/BaseSerialPortLib16550.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/BaseXApicLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/DebugAgentLibNull/DebugAgentLibNull/OUTPUT/DebugAgentLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MtrrLib/MtrrLib/OUTPUT/MtrrLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MpInitLib/DxeMpInitLib/OUTPUT/DxeMpInitLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x8ec0
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.MtrrGetVariableMtrrWorker.constprop.24
+                0x0000000000000240       0x53 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SyncCpuDisableWriteProtection
+                0x0000000000000293        0xd /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetPageTableEntry
+                0x00000000000002a0       0xb3 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.PageAttributeToLength
+                0x0000000000000353       0x32 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SyncMemoryPageAttributesAp
+                0x0000000000000385       0x55 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SyncCpuEnableWriteProtection
+                0x00000000000003da        0xd /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SetGcdMemorySpaceAttributes
+                0x00000000000003e7       0xd5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuRegisterInterruptHandler
+                0x00000000000004bc       0x6c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuInit  0x0000000000000528        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuGetInterruptState
+                0x0000000000000533       0x1a /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuDisableInterrupt
+                0x000000000000054d        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuEnableInterrupt
+                0x0000000000000558        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuFlushCpuDataCache
+                0x0000000000000563       0x1e /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.WaitApWakeup
+                0x0000000000000581       0x14 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetCpuMpData
+                0x0000000000000595        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibLowestType
+                0x000000000000059d       0x11 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibAppendVariableMtrr
+                0x00000000000005ae       0x35 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibCalculateLeastMtrrs
+                0x00000000000005e3      0x1a6 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibCalculateSubtractivePath
+                0x0000000000000789      0x394 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibGetNumberOfTypes
+                0x0000000000000b1d       0x5f /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetVariableMtrrCountWorker
+                0x0000000000000b7c        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ReleaseSpinLock
+                0x0000000000000b87       0x1b /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.AcquireSpinLockOrFail
+                0x0000000000000ba2       0x26 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InitializeSpinLock
+                0x0000000000000bc8        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SerialPortReadRegister
+                0x0000000000000bd3        0x6 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SerialPortWritable
+                0x0000000000000bd9        0x3 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalAcpiGetTimerTick
+                0x0000000000000bdc        0xd /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.FreePool
+                0x0000000000000be9        0xa /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalAllocatePool
+                0x0000000000000bf3       0x34 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x0000000000000c27       0x28 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.AsmReadGdtr
+                0x0000000000000c4f        0x4 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.AsmReadIdtr
+                0x0000000000000c53        0x4 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x0000000000000c57       0x24 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SetInterruptState
+                0x0000000000000c7b        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SaveAndDisableInterrupts
+                0x0000000000000c86        0xb /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuDeadLoop
+                0x0000000000000c91       0x1c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.HighBitSet32
+                0x0000000000000cad       0x19 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.HighBitSet64
+                0x0000000000000cc6       0x22 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CalculateSum32
+                0x0000000000000ce8       0x18 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x0000000000000d00       0x17 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.EfiGetSystemConfigurationTable
+                0x0000000000000d17       0x5e /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetHobList
+                0x0000000000000d75       0x35 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetFirstGuidHob
+                0x0000000000000daa       0x47 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalGetApciDescrptionTable
+                0x0000000000000df1       0x39 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetPerformanceCounter
+                0x0000000000000e2a       0xa7 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CheckTimeout.part.3
+                0x0000000000000ed1       0x73 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CopyMem  0x0000000000000f44      0x211 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibSetMemoryType
+                0x0000000000001155      0x1b2 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibApplyVariableMtrrs
+                0x0000000000001307      0x12f /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalMemSetMem
+                0x0000000000001436       0xce /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SetMem   0x0000000000001504       0x12 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ZeroMem.part.0
+                0x0000000000001516        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibGetRawVariableRanges
+                0x000000000000151e       0x74 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalAllocateZeroPool
+                0x0000000000001592       0x28 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.40
+                0x00000000000015ba       0xb6 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.41
+                0x0000000000001670      0xa58 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InternalPrintMessage
+                0x00000000000020c8      0x190 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.DumpModuleImageInfo
+                0x0000000000002258       0x15 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MicroSecondDelay
+                0x000000000000226d      0x12b /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuGetTimerValue
+                0x0000000000002398       0x8c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CalculateTimeout
+                0x0000000000002424       0x5e /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.AcquireSpinLock
+                0x0000000000002482       0xcf /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SetApState
+                0x0000000000002551       0x25 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SyncCpuFlushTlb
+                0x0000000000002576        0x5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.UpdateIdtTable.constprop.14
+                0x000000000000257b       0xe0 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetCurrentPagingContext
+                0x000000000000265b       0xe3 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ConvertMemoryPageAttributes.part.1.constprop.7
+                0x000000000000273e      0x2fc /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InitializePageTablePool
+                0x0000000000002a3a      0x138 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.AllocatePageTableMemory
+                0x0000000000002b72       0xe5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetCurrentMicrocodeSignature
+                0x0000000000002c57       0x33 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MicrocodeDetect
+                0x0000000000002c8a      0x1e2 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.IsMwaitSupport
+                0x0000000000002e6c       0x2d /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SaveVolatileRegisters
+                0x0000000000002e99       0x91 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.IsMtrrSupported
+                0x0000000000002f2a       0x4f /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.RefreshMemoryAttributesFromMtrr
+                0x0000000000002f79      0x3dd /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrGetAllMtrrs
+                0x0000000000003356      0x105 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibInitializeMtrrMask
+                0x000000000000345b       0x81 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.LocalApicBaseAddressMsrSupported
+                0x00000000000034dc       0x3d /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ApFuncEnableX2Apic
+                0x0000000000003519        0x1 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetLocalApicBaseAddress
+                0x000000000000351a       0xc2 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.WriteLocalApicReg
+                0x00000000000035dc       0x1c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ReadLocalApicReg
+                0x00000000000035f8       0x18 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.DisableApicTimerInterrupt
+                0x0000000000003610       0x23 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ProgramVirtualWireMode
+                0x0000000000003633       0x66 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SendIpi  0x0000000000003699       0x9d /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.WakeUpAP
+                0x0000000000003736      0x4e0 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ResetProcessorToIdleState
+                0x0000000000003c16       0x57 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CheckAllAPs
+                0x0000000000003c6d      0x18d /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CheckThisAP
+                0x0000000000003dfa       0x92 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CheckAndUpdateApsStatus
+                0x0000000000003e8c       0xcc /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CheckApsStatus
+                0x0000000000003f58       0xa5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MpInitChangeApLoopCallback
+                0x0000000000003ffd      0x133 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.RestoreVolatileRegisters
+                0x0000000000004130       0xaf /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.FutureBSPProc
+                0x00000000000041df       0x13 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.IdleLoopEventCallback
+                0x00000000000041f2        0x5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetInitialApicId
+                0x00000000000041f7       0x85 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetApicId
+                0x000000000000427c       0x22 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.InitializeApData
+                0x000000000000429e       0xc2 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetProcessorNumber
+                0x0000000000004360       0x53 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MpInitLibWhoAmI
+                0x00000000000043b3       0xb5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.WhoAmI   0x0000000000004468        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.EnableDisableAP
+                0x0000000000004470      0x171 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SwitchBSP
+                0x00000000000045e1      0x2dc /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.StartupAllAPs
+                0x00000000000048bd      0x2a6 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.StartupThisAPWorker
+                0x0000000000004b63      0x117 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.StartupThisAP
+                0x0000000000004c7a       0xc5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MpInitLibGetNumberOfProcessors
+                0x0000000000004d3f      0x127 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetNumberOfProcessors
+                0x0000000000004e66       0x20 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MpInitLibGetProcessorInfo
+                0x0000000000004e86      0x447 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.GetProcessorInfo
+                0x00000000000052cd        0xe /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.RelocateApLoop
+                0x00000000000052db       0xfe /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrLibPreMtrrChange
+                0x00000000000053d9       0x47 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrSetMemoryAttributeInMtrrSettings.part.10.constprop.18
+                0x0000000000005420      0xf3f /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuSetMemoryAttributes.part.1
+                0x000000000000635f      0x3b8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CpuSetMemoryAttributes
+                0x0000000000006717       0x11 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.MtrrSetAllMtrrs.part.8
+                0x0000000000006728      0x15c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ApInitializeSync
+                0x0000000000006884      0x111 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.ApWakeupFunction
+                0x0000000000006995      0x381 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.SetMtrrsFromBuffer
+                0x0000000000006d16       0x25 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .text.CommonExceptionHandler
+                0x0000000000006d3b      0x5df /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                0x0000000000006d3b                CommonExceptionHandler
+ .text._ModuleEntryPoint
+                0x000000000000731a      0xd39 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                0x000000000000731a                _ModuleEntryPoint
+ *fill*         0x0000000000008053        0xd 
+ .text          0x0000000000008060        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                0x0000000000008060                AsmWriteTr
+ *fill*         0x0000000000008066        0xa 
+ .text          0x0000000000008070       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                0x0000000000008070                AsmCpuid
+ *fill*         0x0000000000008097        0x9 
+ .text          0x00000000000080a0       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                0x00000000000080a0                AsmCpuidEx
+ *fill*         0x00000000000080cf        0x1 
+ .text          0x00000000000080d0       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                0x00000000000080d0                AsmEnableCache
+ *fill*         0x00000000000080e3        0xd 
+ .text          0x00000000000080f0       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                0x00000000000080f0                AsmDisableCache
+ *fill*         0x0000000000008103        0xd 
+ .text          0x0000000000008110        0x2 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib(CpuSleep.obj)
+                0x0000000000008110                CpuSleep
+ *fill*         0x0000000000008112        0xe 
+ .text          0x0000000000008120        0x7 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib(CpuFlushTlb.obj)
+                0x0000000000008120                CpuFlushTlb
+ *fill*         0x0000000000008127        0x9 
+ .text          0x0000000000008130       0x1d /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib(InitializeFpu.obj)
+                0x0000000000008130                InitializeFloatingPointUnits
+ *fill*         0x000000000000814d        0x3 
+ .text          0x0000000000008150      0x3f8 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/CpuExceptionHandlerLib/DxeCpuExceptionHandlerLib/OUTPUT/DxeCpuExceptionHandlerLib.lib(ExceptionHandlerAsm.obj)
+                0x0000000000008361                CommonInterruptEntry
+                0x000000000000851d                AsmGetTemplateAddressMap
+                0x0000000000008541                AsmVectorNumFixup
+ *fill*         0x0000000000008548        0x8 
+ .text          0x0000000000008550      0x2a1 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/MpInitLib/DxeMpInitLib/OUTPUT/DxeMpInitLib.lib(MpFuncs.obj)
+                0x0000000000008550                RendezvousFunnelProc
+                0x00000000000086ed                AsmRelocateApLoop
+                0x000000000000874c                AsmGetAddressMap
+                0x000000000000877a                AsmExchangeRole
+ *fill*         0x00000000000087f1        0xf 
+ .text          0x0000000000008800       0x2c /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib(CpuAsm.obj)
+                0x0000000000008800                SetCodeSelector
+                0x000000000000881c                SetDataSelectors
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.BasePrintLibSPrintMarker.constprop.41.str1.1
+                0x000000000000882c       0x7b /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .rodata.DumpModuleImageInfo.str1.1
+                0x00000000000088a7       0x29 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .rodata.MtrrSetMemoryAttributeInMtrrSettings.part.10.constprop.18
+                0x00000000000088d0       0x1c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .rodata.CommonExceptionHandler.str1.1
+                0x00000000000088ec      0x2d5 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                                        0x2d7 (size before relaxing)
+ *fill*         0x0000000000008bc1        0x7 
+ .rodata.mDoFarReturnFlag
+                0x0000000000008bc8        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                0x0000000000008bc8                mDoFarReturnFlag
+ .rodata.mExceptionReservedStr
+                0x0000000000008bd0        0x9 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000008bd9      0x3de /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                                        0x3ef (size before relaxing)
+ *fill*         0x0000000000008fb7        0x1 
+ .rodata.mErrorCodeFlag
+                0x0000000000008fb8        0x4 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                0x0000000000008fb8                mErrorCodeFlag
+ *fill*         0x0000000000008fbc        0x4 
+ .rodata.CSWTCH.81
+                0x0000000000008fc0        0xe /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000008fce       0x12 
+ .rodata.mPageAttributeTable
+                0x0000000000008fe0       0x48 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009028       0x18 
+ .rodata.mMtrrLibFixedMtrrTable
+                0x0000000000009040       0x84 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x00000000000090c4        0xc 
+ .rodata.mHexStr
+                0x00000000000090d0       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .rodata        0x00000000000090e0        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib(InitializeFpu.obj)
+ *(.got .got.*)
+ .got           0x00000000000090e6        0x0 PcdLib.obj (symbol from plugin)
+ *fill*         0x00000000000090e6        0x2 
+ .got.plt       0x00000000000090e8       0x18 PcdLib.obj (symbol from plugin)
+                0x00000000000090e8                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000009100        0x0
+ .plt           0x0000000000009100        0x0 PcdLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000009100        0x0
+ .plt.got       0x0000000000009100        0x0 PcdLib.obj (symbol from plugin)
+
+.data           0x0000000000009100      0x4a0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiHobListGuid
+                0x0000000000009100       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.gEfiAcpiDescriptionGuid
+                0x0000000000009110       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.gEfiDxeServicesTableGuid
+                0x0000000000009120       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009130       0x10 
+ .data.GdtTemplate
+                0x0000000000009140       0x48 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009188        0x8 
+ .data.gEfiVectorHandoffTableGuid
+                0x0000000000009190       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.mCpuInitMpLibHobGuid
+                0x00000000000091a0       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.gEfiEventLegacyBootGuid
+                0x00000000000091b0       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.gEfiSecPlatformInformationPpiGuid
+                0x00000000000091c0       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.gEfiSecPlatformInformation2PpiGuid
+                0x00000000000091d0       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.rel.local.mMpServicesTemplate
+                0x00000000000091e0       0x38 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.mNumberOfProcessors
+                0x0000000000009218        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.gIdleLoopEventGuid
+                0x0000000000009220       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009230       0x10 
+ .data.rel.local.gCpu
+                0x0000000000009240       0x48 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009288        0x8 
+ .data.gEfiCpuArchProtocolGuid
+                0x0000000000009290       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.rel.ro.local.mExceptionNameStr
+                0x00000000000092a0       0xa8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009348        0x8 
+ .data.gEfiTimerArchProtocolGuid
+                0x0000000000009350       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.mStopCheckAllApsStatus
+                0x0000000000009360        0x1 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009361        0xf 
+ .data.gEfiMpServiceProtocolGuid
+                0x0000000000009370       0x10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.rel.ro.local.mStatusString
+                0x0000000000009380      0x138 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .data.rel.ro   0x00000000000094b8        0x0 PcdLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.mHobList  0x00000000000094b8        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.gST       0x00000000000094c0        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x00000000000094c8        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.gRT       0x00000000000094d0        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mLegacyBootEvent
+                0x00000000000094d8        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mMpInitExitBootServicesEvent
+                0x00000000000094e0        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mCheckAllApsEvent
+                0x00000000000094e8        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mMpServiceHandle
+                0x00000000000094f0        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mCpuHandle
+                0x00000000000094f8        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mCpuMpData
+                0x0000000000009500        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mReservedTopOfApStack
+                0x0000000000009508        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mReservedApLoopFunc
+                0x0000000000009510        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mNumberToFinish
+                0x0000000000009518        0x4 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x000000000000951c        0x4 
+ .bss.gAcpiDesc
+                0x0000000000009520        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.InterruptState
+                0x0000000000009528        0x1 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009529        0x7 
+ .bss.mTimerPeriod
+                0x0000000000009530        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mIsFlushingGCD
+                0x0000000000009538        0x1 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009539        0x7 
+ .bss.gDS       0x0000000000009540        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mValidMtrrBitsMask
+                0x0000000000009548        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mValidMtrrAddressMask
+                0x0000000000009550        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.gBS       0x0000000000009558        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ .bss.mPageTablePool
+                0x0000000000009560        0x8 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+ *fill*         0x0000000000009568       0x18 
+ .bss.mExceptionHandlerData
+                0x0000000000009580       0x20 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.eh_frame       0x00000000000095c0        0x0
+ *(.eh_frame)
+ .eh_frame      0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+
+.dynbss         0x00000000000095c0        0x0
+ .dynbss        0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x00000000000095c0        0x0
+ .gnu.version_d
+                0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version    0x00000000000095c0        0x0
+ .gnu.version   0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x00000000000095c0        0x0
+ .gnu.version_r
+                0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+
+.rela           0x00000000000095c0      0xa68
+ *(.rela .rela.*)
+ .rela.plt      0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x00000000000095c0        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text     0x00000000000095c0      0x360 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mMpServicesTemplate
+                0x0000000000009920       0xa8 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gCpu
+                0x00000000000099c8       0xc0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mExceptionNameStr
+                0x0000000000009a88      0x1f8 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x0000000000009c80      0x3a8 PcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000a028       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000a028       0x24 PcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x17b3b
+ .debug_info    0x0000000000000000    0x17b3b /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x80c
+ .debug_abbrev  0x0000000000000000      0x80c /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000    0x10c0f
+ .debug_loc     0x0000000000000000    0x10c0f /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x870
+ .debug_aranges
+                0x0000000000000000      0x870 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x2f10
+ .debug_ranges  0x0000000000000000     0x2f10 /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x3dba
+ .debug_line    0x0000000000000000     0x3dba /tmp/ccxKx1SZ.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x783d
+ .debug_str     0x0000000000000000     0x783d /tmp/ccxKx1SZ.ltrans0.ltrans.o
+                                       0x8214 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1ef0
+ .debug_frame   0x0000000000000000     0x1ef0 /tmp/ccxKx1SZ.ltrans0.ltrans.o

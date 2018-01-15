@@ -1,0 +1,732 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDebugLibConOut/UefiDebugLibConOut/OUTPUT/UefiDebugLibConOut.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(ComponentName.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(Vtutf8.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(Ansi.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(TerminalConOut.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(TerminalConIn.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(Terminal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.ReportStatusCodeWithDevicePath
+                0x0000000000000000       0x31 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.IsNodeInList.str1.1
+                0x0000000000000000       0x44 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x82 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.InternalAssertJumpBuffer.str1.1
+                0x0000000000000000       0x86 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000       0x56 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/cctNyCVu.ltrans0.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDebugLibConOut/UefiDebugLibConOut/OUTPUT/UefiDebugLibConOut.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/OUTPUT/TerminalDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x78a0
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.InternalAllocatePool.constprop.12
+                0x0000000000000240       0x37 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.StopTerminalStateMachine
+                0x0000000000000277       0x51 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsUnicodeFiFoFull
+                0x00000000000002c8       0x1e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsEfiKeyFiFoFull
+                0x00000000000002e6       0x1e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.RawFiFoRemoveOneKey
+                0x0000000000000304       0x34 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInWaitForKey
+                0x0000000000000338       0x19 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInWaitForKeyEx
+                0x0000000000000351        0x5 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInSetState
+                0x0000000000000356       0x20 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutEnableCursor
+                0x0000000000000376       0x16 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x000000000000038c        0x3 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x000000000000038f        0x3 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x0000000000000392       0x26 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x00000000000003b8       0x28 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UnicodeSPrintAsciiFormat.constprop.17
+                0x00000000000003e0       0x29 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x0000000000000409       0x5e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UnicodeFiFoInsertOneKey
+                0x0000000000000467       0x88 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInResetEx
+                0x00000000000004ef       0x6b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsKeyRegistered
+                0x000000000000055a       0x4f /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutSetCursorPosition
+                0x00000000000005a9      0x186 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutClearScreen
+                0x000000000000072f       0x80 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutSetAttribute
+                0x00000000000007af      0x152 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutSetMode
+                0x0000000000000901       0xa6 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutQueryMode
+                0x00000000000009a7       0x8a /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutTestString
+                0x0000000000000a31       0xb3 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInReset
+                0x0000000000000ae4       0x7c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutOutputString
+                0x0000000000000b60      0x295 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConOutReset
+                0x0000000000000df5       0x79 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DevicePathSubType
+                0x0000000000000e6e       0x37 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DevicePathType
+                0x0000000000000ea5       0x36 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsDevicePathEndType
+                0x0000000000000edb       0x41 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsDevicePathEnd
+                0x0000000000000f1c       0x53 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.CopyMem  0x0000000000000f6f      0x273 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.InternalAllocateCopyPool.constprop.10
+                0x00000000000011e2       0x90 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.EfiKeyFiFoRemoveOneKey
+                0x0000000000001272       0xa0 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInReadKeyStrokeEx
+                0x0000000000001312      0x11d /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInReadKeyStroke
+                0x000000000000142f      0x11f /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.CompareMem.part.0
+                0x000000000000154e       0xc6 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.WriteUnaligned64
+                0x0000000000001614       0x3f /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x0000000000001653       0x37 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalTypeFromGuid
+                0x000000000000168a       0x88 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x0000000000001712       0x3e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.ReadUnaligned24
+                0x0000000000001750       0x3b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x000000000000178b       0x37 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DevicePathNodeLength
+                0x00000000000017c2       0x40 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalDriverBindingSupported
+                0x0000000000001802      0x1d3 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.NextDevicePathNode
+                0x00000000000019d5       0x3f /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsDevicePathValid.constprop.9
+                0x0000000000001a14       0x88 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x0000000000001a9c       0x4e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UefiDevicePathLibDuplicateDevicePath
+                0x0000000000001aea       0xb6 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UefiDevicePathLibGetNextDevicePathInstance
+                0x0000000000001ba0       0x9c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UefiDevicePathLibAppendDevicePathInstance
+                0x0000000000001c3c      0x14e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000001d8a       0x7a /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.AsciiStrnCmp.part.3
+                0x0000000000001e04       0xc0 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.LookupUnicodeString2.part.1
+                0x0000000000001ec4       0xfa /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalComponentNameGetDriverName
+                0x0000000000001fbe       0x5b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.StrSize  0x0000000000002019       0x99 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x00000000000020b2       0x5d /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.18
+                0x000000000000210f      0xbc2 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.19
+                0x0000000000002cd1       0xb8 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000002d89       0x92 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsListEmpty
+                0x0000000000002e1b       0x3e /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.RemoveEntryList
+                0x0000000000002e59       0x50 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.GetFirstNode
+                0x0000000000002ea9       0x3b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.IsNull   0x0000000000002ee4       0x43 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.GetNextNode
+                0x0000000000002f27       0x3b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.KeyNotifyProcessHandler
+                0x0000000000002f62      0x204 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.EfiKeyFiFoInsertOneKey
+                0x0000000000003166      0x1a3 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UnicodeToEfiKeyFlushState
+                0x0000000000003309       0xcf /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInUnregisterKeyNotify
+                0x00000000000033d8       0xfb /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UnicodeVSPrintAsciiFormat
+                0x00000000000034d3       0xe8 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.DebugPrint
+                0x00000000000035bb       0x67 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.StartTerminalStateMachine
+                0x0000000000003622      0x198 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.UnicodeToEfiKey
+                0x00000000000037ba      0x9c1 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInTimerHandler
+                0x000000000000417b      0x380 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.FreePool
+                0x00000000000044fb       0x5a /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.GetVariable2.constprop.3
+                0x0000000000004555      0x18d /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.SetTerminalDevicePath
+                0x00000000000046e2      0x204 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalRemoveConsoleDevVariable
+                0x00000000000048e6      0x22c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalUpdateConsoleDevVariable
+                0x0000000000004b12      0x22b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.AddUnicodeString2.part.3
+                0x0000000000004d3d      0x266 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.FreeUnicodeStringTable
+                0x0000000000004fa3       0x46 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalDriverBindingStop
+                0x0000000000004fe9      0x42b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.InitializeControllerNameTable
+                0x0000000000005414      0x132 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalComponentNameGetControllerName
+                0x0000000000005546      0x1f4 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x000000000000573a      0x15f /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalDriverBindingStart
+                0x0000000000005899      0xb29 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text.TerminalConInRegisterKeyNotify
+                0x00000000000063c2      0x23c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x00000000000065fe      0x194 /tmp/cctNyCVu.ltrans0.ltrans.o
+                0x00000000000065fe                _ModuleEntryPoint
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.UnicodeSPrintAsciiFormat.constprop.17.str1.1
+                0x0000000000006792       0x18 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x00000000000067aa        0xc /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.UnicodeFiFoInsertOneKey.str1.1
+                0x00000000000067b6       0x71 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.TerminalConInResetEx.str1.1
+                0x0000000000006827       0x15 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.IsKeyRegistered.str1.1
+                0x000000000000683c       0x3c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.TerminalConOutSetCursorPosition.str2.2
+                0x0000000000006878        0x0 /tmp/cctNyCVu.ltrans0.ltrans.o
+                                          0x2 (size before relaxing)
+ .rodata.TerminalConOutSetCursorPosition.str1.1
+                0x0000000000006878       0x63 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.ReportStatusCodeWithDevicePath.str1.1
+                0x00000000000068db       0x87 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.DevicePathSubType.str1.1
+                0x0000000000006962       0x73 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x00000000000069d5       0xd6 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.InternalAllocateCopyPool.constprop.10.str1.1
+                0x0000000000006aab       0xa3 /tmp/cctNyCVu.ltrans0.ltrans.o
+                                         0xba (size before relaxing)
+ .rodata.EfiKeyFiFoRemoveOneKey.str1.1
+                0x0000000000006b4e        0xf /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.CompareMem.part.0.str1.1
+                0x0000000000006b5d       0x97 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.WriteUnaligned64.str1.1
+                0x0000000000006bf4       0x4a /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x0000000000006c3e       0x96 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.AsciiStrnCmp.part.3.str1.1
+                0x0000000000006cd4       0x70 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.StrSize.str1.1
+                0x0000000000006d44       0x5d /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000006da1       0x4b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.18.str1.1
+                0x0000000000006dec      0x186 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x0000000000006f72       0xa1 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.IsListEmpty.str1.1
+                0x0000000000007013       0x26 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.RemoveEntryList.str1.1
+                0x0000000000007039       0x15 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.GetFirstNode.str1.1
+                0x000000000000704e       0x22 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.UnicodeVSPrintAsciiFormat.str1.1
+                0x0000000000007070       0x76 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.StartTerminalStateMachine.str1.1
+                0x00000000000070e6       0x92 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.UnicodeToEfiKey.str1.1
+                0x0000000000007178       0xb1 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007229        0x3 
+ .rodata.UnicodeToEfiKey
+                0x000000000000722c      0x13c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.GetVariable2.constprop.3.str1.1
+                0x0000000000007368       0x5f /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.SetTerminalDevicePath.str1.1
+                0x00000000000073c7       0x5f /tmp/cctNyCVu.ltrans0.ltrans.o
+                                         0x46 (size before relaxing)
+ *fill*         0x00000000000073c7        0x1 
+ .rodata.TerminalDriverBindingStop.str2.2
+                0x00000000000073c8       0x3a /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.InitializeControllerNameTable.str1.1
+                0x0000000000007402        0x4 /tmp/cctNyCVu.ltrans0.ltrans.o
+                                          0x7 (size before relaxing)
+ .rodata.TerminalComponentNameGetControllerName.str1.1
+                0x0000000000007406       0x62 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.AllocateZeroPool.str1.1
+                0x0000000000007468       0x8b /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.TerminalDriverBindingStart.str1.1
+                0x00000000000074f3       0xf5 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x00000000000075e8      0x183 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x000000000000776b      0x22b /tmp/cctNyCVu.ltrans0.ltrans.o
+                                        0x23c (size before relaxing)
+ .rodata.str2.2
+                0x0000000000007996      0x11c /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.CSWTCH.60
+                0x0000000000007ab2        0x7 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.CSWTCH.59
+                0x0000000000007ab9        0x7 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x0000000000007ac0        0x4 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007ac4        0xc 
+ .rodata.mHexStr
+                0x0000000000007ad0       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000007ae0        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .got.plt       0x0000000000007ae0        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+                0x0000000000007ae0                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000007ae0        0x0
+ .plt           0x0000000000007ae0        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000007ae0        0x0
+ .plt.got       0x0000000000007ae0        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.data           0x0000000000007b00      0x658
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiTtyTermGuid
+                0x0000000000007b00       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiVTUTF8Guid
+                0x0000000000007b10       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiVT100PlusGuid
+                0x0000000000007b20       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiVT100Guid
+                0x0000000000007b30       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiPcAnsiGuid
+                0x0000000000007b40       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiComponentNameProtocolGuid
+                0x0000000000007b50       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiDriverBindingProtocolGuid
+                0x0000000000007b60       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007b70       0x10 
+ .data.rel.local.mTerminalDriverNameTable
+                0x0000000000007b80       0x20 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.rel.local.gTerminalDriverBinding
+                0x0000000000007ba0       0x30 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007bd0       0x10 
+ .data.UnicodeToPcAnsiOrAscii
+                0x0000000000007be0       0xcc /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007cac        0x4 
+ .data.mSetModeString
+                0x0000000000007cb0        0xc /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007cbc        0x4 
+ .data.mSetAttributeString
+                0x0000000000007cc0       0x1e /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007cde        0x2 
+ .data.mClearScreenString
+                0x0000000000007ce0        0xa /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007cea        0x6 
+ .data.mSetCursorPositionString
+                0x0000000000007cf0       0x12 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007d02        0x6 
+ .data.mCursorForwardString
+                0x0000000000007d08        0xc /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007d14        0x4 
+ .data.mCursorBackwardString
+                0x0000000000007d18        0xc /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007d24        0xc 
+ .data.rel.local.gTerminalComponentName2
+                0x0000000000007d30       0x18 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007d48        0x8 
+ .data.rel.local.gTerminalComponentName
+                0x0000000000007d50       0x18 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007d68       0x18 
+ .data.rel.ro.local.mSerialConsoleNames
+                0x0000000000007d80       0x28 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007da8       0x18 
+ .data.mTerminalConsoleModeData
+                0x0000000000007dc0       0x30 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007df0       0x10 
+ .data.rel.local.mTerminalDevTemplate
+                0x0000000000007e00      0x158 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007f58        0x8 
+ .data.gEfiSimpleTextInputExProtocolGuid
+                0x0000000000007f60       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiSimpleTextInProtocolGuid
+                0x0000000000007f70       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiSimpleTextOutProtocolGuid
+                0x0000000000007f80       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiSerialIoProtocolGuid
+                0x0000000000007f90       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000007fa0       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007fb0       0x10 
+ .data.rel.ro.local.mTerminalType
+                0x0000000000007fc0       0x28 /tmp/cctNyCVu.ltrans0.ltrans.o
+ *fill*         0x0000000000007fe8        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x0000000000007ff0       0x10 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.rel.ro.local.mStatusString
+                0x0000000000008000      0x138 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .data.rel.ro   0x0000000000008138        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.gST       0x0000000000008138        0x8 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x0000000000008140        0x8 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .bss.gRT       0x0000000000008148        0x8 /tmp/cctNyCVu.ltrans0.ltrans.o
+ .bss.gBS       0x0000000000008150        0x8 /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.eh_frame       0x0000000000008180        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000008180        0x0
+ .dynbss        0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000008180        0x0
+ .gnu.version_d
+                0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000008180        0x0
+ .gnu.version   0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000008180        0x0
+ .gnu.version_r
+                0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.rela           0x0000000000008180      0x720
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.got      0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000008180        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.mTerminalDriverNameTable
+                0x0000000000008180       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gTerminalDriverBinding
+                0x00000000000081b0       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gTerminalComponentName2
+                0x00000000000081f8       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gTerminalComponentName
+                0x0000000000008240       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mSerialConsoleNames
+                0x0000000000008288       0x78 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.mTerminalDevTemplate
+                0x0000000000008300      0x180 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mTerminalType
+                0x0000000000008480       0x78 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x00000000000084f8      0x3a8 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x00000000000088a0       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000088a0       0x24 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe/DEBUG/TerminalDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000     0xc11b
+ .debug_info    0x0000000000000000     0xc11b /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x5f3
+ .debug_abbrev  0x0000000000000000      0x5f3 /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000     0xb115
+ .debug_loc     0x0000000000000000     0xb115 /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x5e0
+ .debug_aranges
+                0x0000000000000000      0x5e0 /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x1330
+ .debug_ranges  0x0000000000000000     0x1330 /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x2396
+ .debug_line    0x0000000000000000     0x2396 /tmp/cctNyCVu.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x3575
+ .debug_str     0x0000000000000000     0x3575 /tmp/cctNyCVu.ltrans0.ltrans.o
+                                       0x3c12 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1aa8
+ .debug_frame   0x0000000000000000     0x1aa8 /tmp/cctNyCVu.ltrans0.ltrans.o

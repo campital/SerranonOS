@@ -1,0 +1,1298 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSortLib/BaseSortLib/OUTPUT/BaseSortLib.lib(BaseSortLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib(DxeServicesLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib(DxeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib(PerformanceLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate/OUTPUT/BaseTimerLibNullTemplate.lib(TimerLibNull.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmPerformance.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConnect.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmMisc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConsole.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBoot.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBootDescription.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmLoadOption.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmHotkey.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmDriverHealth.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/PlatformBootManagerLibNull/PlatformBootManagerLibNull/OUTPUT/PlatformBootManagerLib.lib(PlatformBootManager.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib(HwErrRecSupport.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib(Language.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib(BdsEntry.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000000000       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x28 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BdsDxeOnConnectConInCallBack
+                0x0000000000000000        0x7 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.CheckDeferredLoadImageOnReadyToBoot
+                0x0000000000000000       0xf2 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.AsciiStrCpyS.constprop.43
+                0x0000000000000000      0x102 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata._gUefiDriverRevision
+                0x0000000000000000        0x4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDeferredImageLoadProtocolGuid
+                0x0000000000000000       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiLibMaxPrintBufferSize
+                0x0000000000000000        0x4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccGyb9yk.ltrans0.ltrans.o
+LOAD /tmp/ccGyb9yk.ltrans1.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSortLib/BaseSortLib/OUTPUT/BaseSortLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate/OUTPUT/BaseTimerLibNullTemplate.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/PlatformBootManagerLibNull/PlatformBootManagerLibNull/OUTPUT/PlatformBootManagerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0xd4e4
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.EfiEventEmptyFunction
+                0x0000000000000240        0x1 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000000240                EfiEventEmptyFunction
+ .text.FreePages
+                0x0000000000000241        0xa /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x000000000000024b        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000024b                ReadUnaligned64
+ .text.UnicodeVSPrint
+                0x000000000000024f       0xaa /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.UefiDevicePathLibCatPrint
+                0x00000000000002f9      0x13f /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextEndInstance
+                0x0000000000000438       0x18 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextBBS
+                0x0000000000000450       0xce /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathRelativeOffsetRange
+                0x000000000000051e       0x20 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextFvFile
+                0x000000000000053e       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextFv
+                0x000000000000055a       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextMediaProtocol
+                0x0000000000000576       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextFilePath
+                0x0000000000000592       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextCDROM
+                0x00000000000005ae       0x40 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextHardDrive
+                0x00000000000005ee       0x96 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextBluetoothLE
+                0x0000000000000684       0x3f /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextBluetooth
+                0x00000000000006c3       0x37 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextVlan
+                0x00000000000006fa       0x1d /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextiSCSI
+                0x0000000000000717       0xf6 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextUart
+                0x000000000000080d      0x107 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextInfiniBand
+                0x0000000000000914       0x2d /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.CatIPv6Address
+                0x0000000000000941       0x6b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.CatIPv4Address
+                0x00000000000009ac       0x2c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.CatNetworkProtocol
+                0x00000000000009d8       0x49 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextMacAddr
+                0x0000000000000a21       0x83 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextI2O
+                0x0000000000000aa4       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextSata
+                0x0000000000000ac0       0x2b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextUsbClass
+                0x0000000000000aeb      0x1c6 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextLogicalUnit
+                0x0000000000000cb1       0x1d /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextUsb
+                0x0000000000000cce       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToText1394
+                0x0000000000000cf0       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextEmmc
+                0x0000000000000d0c       0x1d /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextSd
+                0x0000000000000d29       0x1d /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextUfs
+                0x0000000000000d46       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextNVMe
+                0x0000000000000d68       0x48 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextSasEx
+                0x0000000000000db0      0x1aa /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextFibreEx
+                0x0000000000000f5a       0xae /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextFibre
+                0x0000000000001008       0x20 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextScsi
+                0x0000000000001028       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextAtapi
+                0x000000000000104a       0x6b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextAcpi
+                0x00000000000010b5       0xc6 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextBmc
+                0x000000000000117b       0x29 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextController
+                0x00000000000011a4       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextMemMap
+                0x00000000000011c0       0x27 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextPccard
+                0x00000000000011e7       0x1d /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextPci
+                0x0000000000001204       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.PerformanceMeasurementEnabled
+                0x0000000000001226        0x3 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001226                PerformanceMeasurementEnabled
+ .text.DevicePathFromHandle
+                0x0000000000001229       0x35 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001229                DevicePathFromHandle
+ .text.DevicePathSubType
+                0x000000000000125e        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000125e                DevicePathSubType
+ .text.DevicePathType
+                0x0000000000001262        0x3 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001262                DevicePathType
+ .text.BmDestroyRamDisk
+                0x0000000000001265       0xba /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001265                BmDestroyRamDisk
+ .text.EfiGetNameGuidFromFwVolDevicePathNode
+                0x000000000000131f       0x26 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000131f                EfiGetNameGuidFromFwVolDevicePathNode
+ .text.IsDevicePathEndType
+                0x0000000000001345       0x13 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001345                IsDevicePathEndType
+ .text.IsDevicePathEnd
+                0x0000000000001358       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001358                IsDevicePathEnd
+ .text.EfiBootManagerConnectDevicePath
+                0x000000000000137a      0x127 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000137a                EfiBootManagerConnectDevicePath
+ .text.FreePool
+                0x00000000000014a1        0xa /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000014a1                FreePool
+ .text.BmConnectUsbShortFormDevicePath
+                0x00000000000014ab      0x187 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.InternalAllocatePool
+                0x0000000000001632       0x34 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001632                InternalAllocatePool
+ .text.AllocatePool
+                0x0000000000001666       0x9e /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001666                AllocatePool
+ .text.GetVariable2
+                0x0000000000001704       0xd4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001704                GetVariable2
+ .text.GetEfiGlobalVariable2
+                0x00000000000017d8       0x12 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000017d8                GetEfiGlobalVariable2
+ .text.Print    0x00000000000017ea       0x8a /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000017ea                Print
+ .text.UnicodeSPrint
+                0x0000000000001874       0x1d /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001874                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x0000000000001891       0x28 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001891                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x00000000000018b9       0x28 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000018b9                BasePrintLibFillBuffer
+ .text.ReadUnaligned16
+                0x00000000000018e1        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000018e1                ReadUnaligned16
+ .text.DevicePathNodeLength
+                0x00000000000018e5       0x15 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000018e5                DevicePathNodeLength
+ .text.DevPathToTextNodeGeneric
+                0x00000000000018fa      0x10b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextDns
+                0x0000000000001a05       0xad /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextIPv6
+                0x0000000000001ab2      0x103 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextIPv4
+                0x0000000000001bb5      0x112 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextAcpiAdr
+                0x0000000000001cc7       0x8e /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.NextDevicePathNode
+                0x0000000000001d55       0x14 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001d55                NextDevicePathNode
+ .text.IsDevicePathValid
+                0x0000000000001d69       0x71 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001d69                IsDevicePathValid
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x0000000000001dda       0x49 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001dda                UefiDevicePathLibGetDevicePathSize
+ .text.AsciiStrLen
+                0x0000000000001e23        0xe /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000001e23                AsciiStrLen
+ .text.DevPathToTextAcpiEx
+                0x0000000000001e31      0x1ee /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.AsciiStrnCmp.part.3
+                0x000000000000201f       0x52 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000201f                AsciiStrnCmp.part.3
+ .text.StrLen   0x0000000000002071        0xf /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002071                StrLen
+ .text.StrSize  0x0000000000002080       0x14 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002080                StrSize
+ .text.StrnCmp.part.0
+                0x0000000000002094       0x56 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002094                StrnCmp.part.0
+ .text.StrCmp   0x00000000000020ea       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000020ea                StrCmp
+ .text.AsciiStrnLenS
+                0x000000000000210c       0x26 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000210c                AsciiStrnLenS
+ .text.StrnLenS
+                0x0000000000002132       0x27 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002132                StrnLenS
+ .text.InternalSafeStringIsOverlap
+                0x0000000000002159       0x20 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002159                InternalSafeStringIsOverlap
+ .text.AsciiStrToUnicodeStrS
+                0x0000000000002179      0x118 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002179                AsciiStrToUnicodeStrS
+ .text.StrCatS  0x0000000000002291      0x152 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002291                StrCatS
+ .text.GetFirstNode
+                0x00000000000023e3        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000023e3                GetFirstNode
+ .text.IsNull   0x00000000000023e7        0x7 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000023e7                IsNull
+ .text.GetNextNode
+                0x00000000000023ee        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000023ee                GetNextNode
+ .text.CompareGuid
+                0x00000000000023f2       0x42 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000023f2                CompareGuid
+ .text.BmIsBootManagerMenuFilePath
+                0x0000000000002434       0x6f /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.EfiGetSystemConfigurationTable
+                0x00000000000024a3       0x66 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.GetHobList
+                0x0000000000002509       0x35 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x000000000000253e       0xfb /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000253e                _ModuleEntryPoint
+ .text.DevPathToTextRamDisk
+                0x0000000000002639      0x11b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextVendor
+                0x0000000000002754      0x36c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x0000000000002ac0       0x27 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002ac0                CopyGuid
+ .text.CopyMem  0x0000000000002ae7      0x211 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002ae7                CopyMem
+ .text.DevPathToTextUri
+                0x0000000000002cf8       0x6c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.DevPathToTextWiFi
+                0x0000000000002d64       0x3b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.SetDevicePathEndNode
+                0x0000000000002d9f       0x12 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002d9f                SetDevicePathEndNode
+ .text.InternalAllocateCopyPool
+                0x0000000000002db1       0x36 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002db1                InternalAllocateCopyPool
+ .text.AllocateCopyPool
+                0x0000000000002de7       0x9e /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002de7                AllocateCopyPool
+ .text.DevPathToTextUsbWWID
+                0x0000000000002e85       0x82 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.UefiDevicePathLibDuplicateDevicePath
+                0x0000000000002f07       0x2a /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002f07                UefiDevicePathLibDuplicateDevicePath
+ .text.BmGetRamDiskDevicePath
+                0x0000000000002f31       0x9e /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000002f31                BmGetRamDiskDevicePath
+ .text.UefiDevicePathLibGetNextDevicePathInstance
+                0x0000000000002fcf       0x9b /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.BmUpdateSystemTableConsole
+                0x000000000000306a      0x1ab /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.UefiDevicePathLibAppendDevicePathInstance
+                0x0000000000003215       0xb6 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.UefiDevicePathLibAppendDevicePath
+                0x00000000000032cb       0xa5 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000032cb                UefiDevicePathLibAppendDevicePath
+ .text.UefiDevicePathLibAppendDevicePathNode
+                0x0000000000003370       0x91 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.EfiBootManagerGetBootManagerMenu
+                0x0000000000003401      0x5f9 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000003401                EfiBootManagerGetBootManagerMenu
+ .text.BmAdjustFvFilePath
+                0x00000000000039fa      0x1af /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.CompareMem
+                0x0000000000003ba9       0x2e /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000003ba9                CompareMem
+ .text.BmExpandMediaDevicePath
+                0x0000000000003bd7      0x261 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.BmExpandLoadFile
+                0x0000000000003e38      0x2c1 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.BmDelPartMatchInstance
+                0x00000000000040f9       0xff /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.BmCachePartitionDevicePath
+                0x00000000000041f8      0x141 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.EfiBootManagerConnectConsoleVariable.part.1
+                0x0000000000004339      0x307 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000004339                EfiBootManagerConnectConsoleVariable.part.1
+ .text.EfiBootManagerConnectAllDefaultConsoles
+                0x0000000000004640      0x18b /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000004640                EfiBootManagerConnectAllDefaultConsoles
+ .text.EfiBootManagerConnectAll
+                0x00000000000047cb       0x8a /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000047cb                EfiBootManagerConnectAll
+ .text.BmGetNextLoadOptionDevicePath
+                0x0000000000004855     0x100a /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000004855                BmGetNextLoadOptionDevicePath
+ .text.ZeroMem  0x000000000000585f       0x88 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x000000000000585f                ZeroMem
+ .text.BmWriteBootToOsPerformanceData
+                0x00000000000058e7       0xdb /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .text.EfiBootManagerBoot
+                0x00000000000059c2      0x722 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000059c2                EfiBootManagerBoot
+ .text.AllocateZeroPool
+                0x00000000000060e4       0xfe /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000060e4                AllocateZeroPool
+ .text.GetBestLanguage
+                0x00000000000061e2      0x121 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000061e2                GetBestLanguage
+ .text.UefiDevicePathLibConvertDevicePathToText
+                0x0000000000006303      0x1bd /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x0000000000006303                UefiDevicePathLibConvertDevicePathToText
+ .text.BmPrintDp
+                0x00000000000064c0       0x2c /tmp/ccGyb9yk.ltrans0.ltrans.o
+                0x00000000000064c0                BmPrintDp
+ .text.BdsReadKeys.part.0
+                0x00000000000064ec       0x36 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BdsWaitForSingleEvent
+                0x0000000000006522       0xec /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmGenerateKeyShiftState
+                0x000000000000660e       0xcf /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmRegisterHotkeyNotify
+                0x00000000000066dd       0x5a /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmEliminateExtraSpaces
+                0x0000000000006737       0x34 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.EfiAcquireLock.constprop.22
+                0x000000000000676b       0x2b /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.EfiReleaseLock.constprop.21
+                0x0000000000006796       0x1e /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.EfiBootManagerFreeDriverHealthInfo
+                0x00000000000067b4       0x44 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmTxtInExCallback
+                0x00000000000067f8      0x172 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BdsFormalizeConsoleVariable
+                0x000000000000696a       0x87 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.IsLangInSupportedLangCodes
+                0x00000000000069f1       0xc6 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmRepairNotify
+                0x0000000000006ab7       0x1d /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmGetControllerName
+                0x0000000000006ad4      0x183 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmDisplayMessages
+                0x0000000000006c57      0x2ab /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmGetActiveConsoleIn
+                0x0000000000006f02       0xb9 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmProcessKeyOption.part.5
+                0x0000000000006fbb      0x19d /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmStopHotkeyService
+                0x0000000000007158      0x1d3 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000007158                BmStopHotkeyService
+ .text.BmGetLoadFileDescription
+                0x000000000000732b       0xbf /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000732b                BmGetLoadFileDescription
+ .text.EfiBootManagerIsValidLoadOptionVariableName.part.6
+                0x00000000000073ea       0xd3 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmGetNvmeDescription
+                0x00000000000074bd      0x2bd /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x00000000000074bd                BmGetNvmeDescription
+ .text.BmGetNetworkDescription
+                0x000000000000777a      0x32d /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000777a                BmGetNetworkDescription
+ .text.BmGetMiscDescription
+                0x0000000000007aa7      0x206 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000007aa7                BmGetMiscDescription
+ .text.BmGetUsbDescription
+                0x0000000000007cad      0x1ec /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000007cad                BmGetUsbDescription
+ .text.BmGetDescriptionFromDiskInfo
+                0x0000000000007e99      0x297 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000007e99                BmGetDescriptionFromDiskInfo
+ .text.BasePrintLibSPrintMarker.constprop.40
+                0x0000000000008130      0xea8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000008130                BasePrintLibSPrintMarker.constprop.40
+ .text.unlikely.BasePrintLibSPrint.constprop.39
+                0x0000000000008fd8       0xb8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.unlikely.AsciiPrint.constprop.29
+                0x0000000000009090      0x13d /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.InternalReallocatePool.constprop.33
+                0x00000000000091cd       0x72 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x00000000000091cd                InternalReallocatePool.constprop.33
+ .text.BmGetSingleControllerHealthStatus
+                0x000000000000923f      0x1a3 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.EfiBootManagerGetDriverHealthInfo
+                0x00000000000093e2      0x257 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmCollectKeyOptions
+                0x0000000000009639      0x220 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmForEachVariable
+                0x0000000000009859       0xd6 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.FileDevicePath.constprop.32
+                0x000000000000992f       0x8d /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000992f                FileDevicePath.constprop.32
+ .text.EfiCreateEventReadyToBootEx.constprop.25
+                0x00000000000099bc       0x52 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x00000000000099bc                EfiCreateEventReadyToBootEx.constprop.25
+ .text.GetSectionFromFv.constprop.17
+                0x0000000000009a0e       0xb2 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000009a0e                GetSectionFromFv.constprop.17
+ .text.BmSetVariableAndReportStatusCodeOnError
+                0x0000000000009ac0       0xd4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000009ac0                BmSetVariableAndReportStatusCodeOnError
+ .text.InitializeLangVariable
+                0x0000000000009b94       0x93 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmRepairAllControllers
+                0x0000000000009c27      0x2dd /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000009c27                BmRepairAllControllers
+ .text.EfiBootManagerDeleteLoadOptionVariable.part.2
+                0x0000000000009f04      0x107 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x0000000000009f04                EfiBootManagerDeleteLoadOptionVariable.part.2
+ .text.BmGetNextLoadOptionBuffer
+                0x000000000000a00b      0x71e /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000a00b                BmGetNextLoadOptionBuffer
+ .text.ProcessLoadOptions
+                0x000000000000a729      0x29f /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.EfiBootManagerFreeLoadOption
+                0x000000000000a9c8       0x4c /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000a9c8                EfiBootManagerFreeLoadOption
+ .text.EfiBootManagerFreeLoadOptions
+                0x000000000000aa14       0x49 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000aa14                EfiBootManagerFreeLoadOptions
+ .text.EfiBootManagerFindLoadOption
+                0x000000000000aa5d       0x8f /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000aa5d                EfiBootManagerFindLoadOption
+ .text.EfiBootManagerInitializeLoadOption
+                0x000000000000aaec       0xd8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000aaec                EfiBootManagerInitializeLoadOption
+ .text.EfiBootManagerVariableToLoadOptionEx.part.7
+                0x000000000000abc4      0x1a8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000abc4                EfiBootManagerVariableToLoadOptionEx.part.7
+ .text.BmCollectLoadOptions
+                0x000000000000ad6c      0x111 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.BmHotkeyCallback
+                0x000000000000ae7d      0x11e /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .text.EfiBootManagerGetLoadOptions
+                0x000000000000af9b      0x225 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000af9b                EfiBootManagerGetLoadOptions
+ .text.EfiBootManagerLoadOptionToVariable
+                0x000000000000b1c0      0x18c /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000b1c0                EfiBootManagerLoadOptionToVariable
+ .text.BdsEntry
+                0x000000000000b34c      0xa7e /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000b34c                BdsEntry
+ .text.BmGetFreeOptionNumber
+                0x000000000000bdca       0xf7 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000bdca                BmGetFreeOptionNumber
+ .text.BmMatchPartitionDevicePathNode.part.4
+                0x000000000000bec1       0xa7 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000bec1                BmMatchPartitionDevicePathNode.part.4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.DevPathToTextEndInstance.str2.2
+                0x000000000000bf68        0x0 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                          0x4 (size before relaxing)
+ .rodata.DevPathToTextBBS.str2.2
+                0x000000000000bf68       0x66 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x84 (size before relaxing)
+ *fill*         0x000000000000bfce        0x2 
+ .rodata.DevPathToTextBBS
+                0x000000000000bfd0       0x18 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathRelativeOffsetRange.str2.2
+                0x000000000000bfe8       0x28 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextFvFile.str2.2
+                0x000000000000c010       0x16 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextFv.str2.2
+                0x000000000000c026        0xe /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextMediaProtocol.str2.2
+                0x000000000000c034       0x14 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextFilePath.str2.2
+                0x000000000000c048        0x6 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextCDROM.str2.2
+                0x000000000000c04e       0x48 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextHardDrive.str2.2
+                0x000000000000c096       0x64 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x7e (size before relaxing)
+ .rodata.DevPathToTextBluetoothLE.str2.2
+                0x000000000000c0fa       0x5a /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextBluetooth.str2.2
+                0x000000000000c154       0x48 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextVlan.str2.2
+                0x000000000000c19c       0x12 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextiSCSI.str2.2
+                0x000000000000c1ae       0x7e /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x8e (size before relaxing)
+ .rodata.DevPathToTextUart.str2.2
+                0x000000000000c22c       0x5c /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x74 (size before relaxing)
+ .rodata.DevPathToTextInfiniBand.str2.2
+                0x000000000000c288       0x4c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.CatIPv6Address.str2.2
+                0x000000000000c2d4       0x90 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.CatIPv4Address.str2.2
+                0x000000000000c364       0x18 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.CatNetworkProtocol.str2.2
+                0x000000000000c37c        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x12 (size before relaxing)
+ .rodata.DevPathToTextMacAddr.str2.2
+                0x000000000000c384        0xa /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x14 (size before relaxing)
+ .rodata.DevPathToTextI2O.str2.2
+                0x000000000000c38e       0x14 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextSata.str2.2
+                0x000000000000c3a2       0x2a /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsbClass.str2.2
+                0x000000000000c3cc      0x250 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextLogicalUnit.str2.2
+                0x000000000000c61c       0x16 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsb.str2.2
+                0x000000000000c632       0x1e /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToText1394.str2.2
+                0x000000000000c650       0x1c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextEmmc.str2.2
+                0x000000000000c66c       0x16 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextSd.str2.2
+                0x000000000000c682       0x12 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextUfs.str2.2
+                0x000000000000c694       0x1e /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextNVMe.str2.2
+                0x000000000000c6b2       0x66 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextSasEx.str2.2
+                0x000000000000c718       0xbc /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0xce (size before relaxing)
+ .rodata.DevPathToTextFibreEx.str2.2
+                0x000000000000c7d4       0x16 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextFibre.str2.2
+                0x000000000000c7ea       0x26 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextScsi.str2.2
+                0x000000000000c810       0x20 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextAtapi.str2.2
+                0x000000000000c830       0x72 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpi.str2.2
+                0x000000000000c8a2       0xfc /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextBmc.str2.2
+                0x000000000000c99e       0x20 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextController.str2.2
+                0x000000000000c9be       0x16 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextMemMap.str2.2
+                0x000000000000c9d4       0x3e /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextPccard.str2.2
+                0x000000000000ca12       0x1a /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextPci.str2.2
+                0x000000000000ca2c       0x1e /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextNodeGeneric.str2.2
+                0x000000000000ca4a       0x22 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextDns.str2.2
+                0x000000000000ca6c        0xa /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextIPv6.str2.2
+                0x000000000000ca76       0x80 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextIPv4.str2.2
+                0x000000000000caf6       0x24 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0x2e (size before relaxing)
+ .rodata.DevPathToTextAcpiAdr.str2.2
+                0x000000000000cb1a       0x26 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpiEx.str2.2
+                0x000000000000cb40       0x9e /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                         0xba (size before relaxing)
+ .rodata.DevPathToTextRamDisk.str2.2
+                0x000000000000cbde       0xca /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                        0x136 (size before relaxing)
+ .rodata.DevPathToTextVendor.str2.2
+                0x000000000000cca8      0x154 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                        0x166 (size before relaxing)
+ .rodata.DevPathToTextUri.str2.2
+                0x000000000000cdfc       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextWiFi.str2.2
+                0x000000000000ce0c       0x14 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsbWWID.str2.2
+                0x000000000000ce20       0x3a /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.EfiBootManagerGetBootManagerMenu.str2.2
+                0x000000000000ce5a       0x24 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.BmExpandMediaDevicePath.str2.2
+                0x000000000000ce7e       0x2c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.EfiBootManagerConnectAllDefaultConsoles.str2.2
+                0x000000000000ceaa       0x28 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.BmGetNextLoadOptionDevicePath.str2.2
+                0x000000000000ced2        0xa /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.BmWriteBootToOsPerformanceData.str2.2
+                0x000000000000cedc       0x20 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.EfiBootManagerBoot.str2.2
+                0x000000000000cefc       0x5c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.UefiDevicePathLibConvertDevicePathToText.str2.2
+                0x000000000000cf58        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000cf5c        0x4 
+ .rodata.mHexStr
+                0x000000000000cf60       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x000000000000cf70        0x4 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.CSWTCH.44
+                0x000000000000cf74        0x6 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x000000000000cf7a       0x8a /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .rodata.BmGenerateKeyShiftState
+                0x000000000000d004       0x14 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BmRepairNotify.str2.2
+                0x000000000000d018       0x34 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BmGetControllerName.str2.2
+                0x000000000000d04c       0x1a /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                         0x24 (size before relaxing)
+ .rodata.BmGetControllerName.str1.1
+                0x000000000000d066        0xa /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                          0xb (size before relaxing)
+ .rodata.BmDisplayMessages.str2.2
+                0x000000000000d070       0x2c /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BmGetNetworkDescription.str2.2
+                0x000000000000d09c       0xb4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BmGetMiscDescription.str2.2
+                0x000000000000d150       0xba /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                         0xc8 (size before relaxing)
+ .rodata.BmGetUsbDescription.str2.2
+                0x000000000000d20a        0x4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BmGetDescriptionFromDiskInfo.str2.2
+                0x000000000000d20e       0x2c /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.40.str1.1
+                0x000000000000d23a       0x7b /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.AsciiPrint.constprop.29.str1.1
+                0x000000000000d2b5       0x5f /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BmCollectKeyOptions.str2.2
+                0x000000000000d314        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                         0x20 (size before relaxing)
+ .rodata.FileDevicePath.constprop.32.str2.2
+                0x000000000000d31c       0x2c /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata.BdsEntry.str2.2
+                0x000000000000d31c       0xe8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                        0x144 (size before relaxing)
+ .rodata.BdsEntry.str1.1
+                0x000000000000d404        0x7 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000d40b        0x1 
+ .rodata.str2.2
+                0x000000000000d40c       0x84 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                         0xa6 (size before relaxing)
+ .rodata._gPcd_FixedAtBuild_PcdDriverHealthConfigureForm
+                0x000000000000d490       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLang
+                0x000000000000d4a0        0x6 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultLang
+                0x000000000000d4a6        0x4 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000d4aa        0x6 
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLangCodes
+                0x000000000000d4b0       0x12 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000d4c2        0x6 
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultLangCodes
+                0x000000000000d4c8        0xd /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000d4d5        0x3 
+ .rodata._gPcd_FixedAtBuild_PcdFirmwareVendor
+                0x000000000000d4d8        0xe /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000d4e6        0xa 
+ .rodata._gPcd_FixedAtBuild_PcdBootManagerMenuFile
+                0x000000000000d4f0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000d4f0                _gPcd_FixedAtBuild_PcdBootManagerMenuFile
+ .rodata.str1.1
+                0x000000000000d500      0x224 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                        0x235 (size before relaxing)
+ *(.got .got.*)
+ .got           0x000000000000d724        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x000000000000d724        0x0 PcdLib.obj (symbol from plugin)
+                0x000000000000d724                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x000000000000d730        0x0
+ .plt           0x000000000000d730        0x0 PcdLib.obj (symbol from plugin)
+
+.plt.got        0x000000000000d728        0x0
+ .plt.got       0x000000000000d728        0x0 PcdLib.obj (symbol from plugin)
+
+.data           0x000000000000d740     0x10c8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiDebugPortProtocolGuid
+                0x000000000000d740       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiSasDevicePathGuid
+                0x000000000000d750       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiUartDevicePathGuid
+                0x000000000000d760       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiVTUTF8Guid
+                0x000000000000d770       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiVT100PlusGuid
+                0x000000000000d780       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiVT100Guid
+                0x000000000000d790       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiPcAnsiGuid
+                0x000000000000d7a0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiPersistentVirtualCdGuid
+                0x000000000000d7b0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiPersistentVirtualDiskGuid
+                0x000000000000d7c0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiVirtualCdGuid
+                0x000000000000d7d0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiVirtualDiskGuid
+                0x000000000000d7e0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000d7f0       0x10 
+ .data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x000000000000d800       0x60 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x000000000000d860      0x320 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x000000000000db80       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x000000000000db90       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x000000000000dba0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x000000000000dbb0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x000000000000dbc0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x000000000000dbd0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiDxeServicesTableGuid
+                0x000000000000dbe0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.rel.local.gBds
+                0x000000000000dbf0        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000dbf8        0x8 
+ .data.gEfiBdsArchProtocolGuid
+                0x000000000000dc00       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.mBmAcpiLowMemoryBase
+                0x000000000000dc10        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000dc18        0x8 
+ .data.gEfiPciIoProtocolGuid
+                0x000000000000dc20       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiSimpleTextOutProtocolGuid
+                0x000000000000dc30       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiSimpleTextInProtocolGuid
+                0x000000000000dc40       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000dc50       0x10 
+ .data.rel.ro.local.mConVarName
+                0x000000000000dc60       0x30 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiRamDiskProtocolGuid
+                0x000000000000dc90       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.mBmHardDriveBootVariableGuid
+                0x000000000000dca0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiMemoryTypeInformationGuid
+                0x000000000000dcb0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.mBmAutoCreateBootOptionGuid
+                0x000000000000dcc0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiBootLogoProtocolGuid
+                0x000000000000dcd0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.rel.local.mPlatformBootDescriptionHandlers
+                0x000000000000dce0       0x10 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.mBmUefiPrefix
+                0x000000000000dcf0        0xc /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000dcfc        0x4 
+ .data.rel.ro.local.mBmBootDescriptionHandlers
+                0x000000000000dd00       0x30 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .data.gEfiDiskInfoSdMmcInterfaceGuid
+                0x000000000000dd30       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDiskInfoScsiInterfaceGuid
+                0x000000000000dd40       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDiskInfoIdeInterfaceGuid
+                0x000000000000dd50       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDiskInfoAhciInterfaceGuid
+                0x000000000000dd60       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDiskInfoProtocolGuid
+                0x000000000000dd70       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiUsbIoProtocolGuid
+                0x000000000000dd80       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000dd80                gEfiUsbIoProtocolGuid
+ .data.gEfiNvmExpressPassThruProtocolGuid
+                0x000000000000dd90       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDevicePathProtocolGuid
+                0x000000000000dda0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000dda0                gEfiDevicePathProtocolGuid
+ .data.gEfiBlockIoProtocolGuid
+                0x000000000000ddb0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000ddb0                gEfiBlockIoProtocolGuid
+ .data.gEfiLoadFileProtocolGuid
+                0x000000000000ddc0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000ddc0                gEfiLoadFileProtocolGuid
+ .data.gEfiFileInfoGuid
+                0x000000000000ddd0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiSimpleFileSystemProtocolGuid
+                0x000000000000dde0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000dde0                gEfiSimpleFileSystemProtocolGuid
+ *fill*         0x000000000000ddf0       0x10 
+ .data.rel.ro.local.mBmLoadOptionOrderName
+                0x000000000000de00       0x20 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000de00                mBmLoadOptionOrderName
+ .data.rel.local.mBmHotkeyList
+                0x000000000000de20       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiComponentNameProtocolGuid
+                0x000000000000de30       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiComponentName2ProtocolGuid
+                0x000000000000de40       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiDriverHealthProtocolGuid
+                0x000000000000de50       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiFormBrowser2ProtocolGuid
+                0x000000000000de60       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000de70       0x10 
+ .data.rel.ro.local.mBmLoadOptionName
+                0x000000000000de80       0x20 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000de80                mBmLoadOptionName
+ .data.gPerformanceProtocolGuid
+                0x000000000000dea0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000dea0                gPerformanceProtocolGuid
+ .data.gEfiSimpleTextInputExProtocolGuid
+                0x000000000000deb0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.mBmHotkeyBootOption
+                0x000000000000dec0       0x58 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000df18        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x000000000000df20       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000df20                gEfiGlobalVariableGuid
+ *fill*         0x000000000000df30       0x10 
+ .data.rel.ro.local.mReadOnlyVariables
+                0x000000000000df40       0x28 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000df68        0x8 
+ .data.gEdkiiVariableLockProtocolGuid
+                0x000000000000df70       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.gEfiFirmwareVolume2ProtocolGuid
+                0x000000000000df80       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000df80                gEfiFirmwareVolume2ProtocolGuid
+ .data.gEfiLoadedImageProtocolGuid
+                0x000000000000df90       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000df90                gEfiLoadedImageProtocolGuid
+ .data.mBmHotkeyLock
+                0x000000000000dfa0       0x18 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ *fill*         0x000000000000dfb8        0x8 
+ .data.gEfiEventReadyToBootGuid
+                0x000000000000dfc0       0x10 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000dfc0                gEfiEventReadyToBootGuid
+ *fill*         0x000000000000dfd0       0x10 
+ .data.rel.ro.local.mStatusString
+                0x000000000000dfe0      0x138 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .data.rel.ro   0x000000000000e118        0x0 PcdLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.mHobList  0x000000000000e118        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss.gHiiImage
+                0x000000000000e120        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss.gHiiFont  0x000000000000e128        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss.gHiiConfigRouting
+                0x000000000000e130        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ *fill*         0x000000000000e138        0x8 
+ .bss.mBmPerfHeader
+                0x000000000000e140      0x670 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss.gDS       0x000000000000e7b0        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss.mRamDisk  0x000000000000e7b8        0x8 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .bss.gHiiString
+                0x000000000000e7c0        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000e7c0                gHiiString
+ .bss.gHiiDatabase
+                0x000000000000e7c8        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000e7c8                gHiiDatabase
+ .bss.mBmTxtInExRegistration
+                0x000000000000e7d0        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .bss.mBmHotkeyTriggered
+                0x000000000000e7d8        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .bss.mBmHotkeySupportCount
+                0x000000000000e7e0        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+ .bss.gRT       0x000000000000e7e8        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000e7e8                gRT
+ .bss.gImageHandle
+                0x000000000000e7f0        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000e7f0                gImageHandle
+ .bss.gBS       0x000000000000e7f8        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000e7f8                gBS
+ .bss.gST       0x000000000000e800        0x8 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                0x000000000000e800                gST
+
+.eh_frame       0x000000000000e840        0x0
+ *(.eh_frame)
+ .eh_frame      0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+
+.dynbss         0x000000000000e840        0x0
+ .dynbss        0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x000000000000e840        0x0
+ .gnu.version_d
+                0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version    0x000000000000e840        0x0
+ .gnu.version   0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x000000000000e840        0x0
+ .gnu.version_r
+                0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+
+.rela           0x000000000000e840      0xb70
+ *(.rela .rela.*)
+ .rela.plt      0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x000000000000e840        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x000000000000e840       0x78 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x000000000000e8b8      0x498 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBds
+                0x000000000000ed50       0x18 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mConVarName
+                0x000000000000ed68       0x90 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPlatformBootDescriptionHandlers
+                0x000000000000edf8       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmBootDescriptionHandlers
+                0x000000000000ee28       0x90 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionOrderName
+                0x000000000000eeb8       0x48 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mBmHotkeyList
+                0x000000000000ef00       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionName
+                0x000000000000ef30       0x60 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mReadOnlyVariables
+                0x000000000000ef90       0x78 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x000000000000f008      0x3a8 PcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000f3b0       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000f3b0       0x24 PcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x2079d
+ .debug_info    0x0000000000000000    0x119e1 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_info    0x00000000000119e1     0xedbc /tmp/ccGyb9yk.ltrans1.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0xe96
+ .debug_abbrev  0x0000000000000000      0x708 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000708      0x78e /tmp/ccGyb9yk.ltrans1.ltrans.o
+
+.debug_loc      0x0000000000000000    0x162ea
+ .debug_loc     0x0000000000000000     0xd73c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_loc     0x000000000000d73c     0x8bae /tmp/ccGyb9yk.ltrans1.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xc10
+ .debug_aranges
+                0x0000000000000000      0x870 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000870      0x3a0 /tmp/ccGyb9yk.ltrans1.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x2830
+ .debug_ranges  0x0000000000000000     0x1940 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000001940      0xef0 /tmp/ccGyb9yk.ltrans1.ltrans.o
+
+.debug_line     0x0000000000000000     0x4eb8
+ .debug_line    0x0000000000000000     0x2b5c /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_line    0x0000000000002b5c     0x235c /tmp/ccGyb9yk.ltrans1.ltrans.o
+
+.debug_str      0x0000000000000000     0x9327
+ .debug_str     0x0000000000000000     0x64d1 /tmp/ccGyb9yk.ltrans0.ltrans.o
+                                       0x6f46 (size before relaxing)
+ .debug_str     0x00000000000064d1     0x2e56 /tmp/ccGyb9yk.ltrans1.ltrans.o
+                                       0x6738 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3c48
+ .debug_frame   0x0000000000000000     0x2400 /tmp/ccGyb9yk.ltrans0.ltrans.o
+ .debug_frame   0x0000000000002400     0x1848 /tmp/ccGyb9yk.ltrans1.ltrans.o

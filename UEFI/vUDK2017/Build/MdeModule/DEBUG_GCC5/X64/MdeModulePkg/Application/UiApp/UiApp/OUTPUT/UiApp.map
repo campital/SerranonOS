@@ -1,0 +1,2275 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDebugLibStdErr/UefiDebugLibStdErr/OUTPUT/UefiDebugLibStdErr.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSortLib/BaseSortLib/OUTPUT/BaseSortLib.lib(BaseSortLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib(DxeServicesLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib(DxeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib(PerformanceLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate/OUTPUT/BaseTimerLibNullTemplate.lib(TimerLibNull.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmPerformance.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConnect.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmMisc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmConsole.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBoot.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmBootDescription.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmLoadOption.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmHotkey.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib(BmDriverHealth.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib(FileExplorerVfr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib(FileExplorer.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib(DeviceManagerVfr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib(DeviceManager.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib(BootManagerVfr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib(BootManager.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenanceManager.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenance.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootOption.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(ConsoleOption.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(Data.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(Variable.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(UpdatePage.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BmLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenanceManagerCustomizedUi.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(BootMaintenanceManagerCustomizedUiSupport.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib(AutoGen.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPageVfr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPage.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPageCustomizedUi.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(FrontPageCustomizedUiSupport.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.IsNodeInList.str1.1
+                0x0000000000000000       0x44 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x82 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.InternalAssertJumpBuffer.str1.1
+                0x0000000000000000       0x86 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000       0x56 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmCollectLoadOptions.str1.1
+                0x0000000000000000       0x1f /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmCollectLoadOptions
+                0x0000000000000000      0x159 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdDebugPropertyMask
+                0x0000000000000000        0x1 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata._gUefiDriverRevision
+                0x0000000000000000        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.AsciiStrCpyS.constprop.78
+                0x0000000000000000      0x178 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumLinkedListLength
+                0x0000000000000000        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .data.rel.ro.local.mBmmCallbackInfo
+                0x0000000000000000        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdFixedDebugPrintErrorLevel
+                0x0000000000000000        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccm6Pbgw.ltrans0.ltrans.o
+LOAD /tmp/ccm6Pbgw.ltrans1.ltrans.o
+LOAD /tmp/ccm6Pbgw.ltrans2.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDebugLibStdErr/UefiDebugLibStdErr/OUTPUT/UefiDebugLibStdErr.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSortLib/BaseSortLib/OUTPUT/BaseSortLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate/OUTPUT/BaseTimerLibNullTemplate.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/FileExplorerLib/FileExplorerLib/OUTPUT/FileExplorerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/DeviceManagerUiLib/DeviceManagerUiLib/OUTPUT/DeviceManagerUiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootManagerUiLib/BootManagerUiLib/OUTPUT/BootManagerUiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Library/BootMaintenanceManagerUiLib/BootMaintenanceManagerUiLib/OUTPUT/BootMaintenanceManagerUiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/OUTPUT/UiApp.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x213c0
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.EfiEventEmptyFunction
+                0x0000000000000240        0x1 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.PerformanceMeasurementEnabled
+                0x0000000000000241        0x3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmEliminateExtraSpaces
+                0x0000000000000244       0x34 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000244                BmEliminateExtraSpaces
+ .text.UefiLibGetStringWidth
+                0x0000000000000278       0x6c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000278                UefiLibGetStringWidth
+ .text.DevicePathFromHandle
+                0x00000000000002e4       0x35 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000002e4                DevicePathFromHandle
+ .text.AllocatePool
+                0x0000000000000319       0x99 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000319                AllocatePool
+ .text.AsciiStrnLenS
+                0x00000000000003b2       0x26 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000003b2                AsciiStrnLenS
+ .text.InternalSafeStringIsOverlap
+                0x00000000000003d8       0x20 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000003d8                InternalSafeStringIsOverlap
+ .text.InternalSafeStringNoStrOverlap
+                0x00000000000003f8       0x11 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000003f8                InternalSafeStringNoStrOverlap
+ .text.InternalMemSetMem
+                0x0000000000000409       0xf1 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000409                InternalMemSetMem
+ .text.DebugPrintEnabled
+                0x00000000000004fa        0x3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000004fa                DebugPrintEnabled
+ .text.DebugAssertEnabled
+                0x00000000000004fd        0x3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000004fd                DebugAssertEnabled
+ .text.DebugAssert
+                0x0000000000000500       0x5e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000500                DebugAssert
+ .text.DevicePathSubType
+                0x000000000000055e       0x37 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000055e                DevicePathSubType
+ .text.DevicePathType
+                0x0000000000000595       0x36 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000595                DevicePathType
+ .text.EfiGetNameGuidFromFwVolDevicePathNode
+                0x00000000000005cb       0x54 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.IsDevicePathEndType
+                0x000000000000061f       0x41 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000061f                IsDevicePathEndType
+ .text.IsDevicePathEnd
+                0x0000000000000660       0x53 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000660                IsDevicePathEnd
+ .text.EfiBootManagerConnectDevicePath
+                0x00000000000006b3      0x15c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.WriteUnaligned64
+                0x000000000000080f       0x3f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x000000000000084e       0x37 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000084e                ReadUnaligned64
+ .text.CompareGuid
+                0x0000000000000885       0x4d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000885                CompareGuid
+ .text.BmIsBootManagerMenuFilePath
+                0x00000000000008d2       0x6b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.EfiGetSystemConfigurationTable
+                0x000000000000093d       0x67 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000093d                EfiGetSystemConfigurationTable
+ .text.CopyGuid
+                0x00000000000009a4       0x3e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000009a4                CopyGuid
+ .text.WriteUnaligned32
+                0x00000000000009e2       0x3c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000009e2                WriteUnaligned32
+ .text.ReadUnaligned32
+                0x0000000000000a1e       0x36 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000a1e                ReadUnaligned32
+ .text.WriteUnaligned16
+                0x0000000000000a54       0x3d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000a54                WriteUnaligned16
+ .text.SetDevicePathNodeLength
+                0x0000000000000a91       0x4b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000a91                SetDevicePathNodeLength
+ .text.ReadUnaligned16
+                0x0000000000000adc       0x37 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000adc                ReadUnaligned16
+ .text.DevicePathNodeLength
+                0x0000000000000b13       0x40 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000b13                DevicePathNodeLength
+ .text.NextDevicePathNode
+                0x0000000000000b53       0x3f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000b53                NextDevicePathNode
+ .text.IsDevicePathValid
+                0x0000000000000b92       0x9a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x0000000000000c2c       0x4e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000c2c                UefiDevicePathLibGetDevicePathSize
+ .text.AsciiStrLen
+                0x0000000000000c7a       0x81 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000c7a                AsciiStrLen
+ .text.AsciiStrSize
+                0x0000000000000cfb       0x11 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000cfb                AsciiStrSize
+ .text.AsciiStrnCmp.part.3
+                0x0000000000000d0c       0xc0 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000d0c                AsciiStrnCmp.part.3
+ .text.StrLen   0x0000000000000dcc       0x9c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000dcc                StrLen
+ .text.StrSize  0x0000000000000e68       0x14 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000e68                StrSize
+ .text.StrnCmp.part.0
+                0x0000000000000e7c       0xc3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000e7c                StrnCmp.part.0
+ .text.StrStr   0x0000000000000f3f       0x9e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000f3f                StrStr
+ .text.InternalHiiCompareSubString
+                0x0000000000000fdd       0xdd /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000000fdd                InternalHiiCompareSubString
+ .text.StrCmp   0x00000000000010ba       0x7f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000010ba                StrCmp
+ .text.AsciiStrToUnicodeStrS
+                0x0000000000001139      0x23f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001139                AsciiStrToUnicodeStrS
+ .text.StrnLenS
+                0x0000000000001378       0x5d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001378                StrnLenS
+ .text.StrCatS  0x00000000000013d5      0x2b9 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000013d5                StrCatS
+ .text.StrCpyS  0x000000000000168e      0x25a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000168e                StrCpyS
+ .text.InitializeListHead
+                0x00000000000018e8       0x3e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000018e8                InitializeListHead
+ .text.InternalBaseLibIsListValid
+                0x0000000000001926       0x92 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.IsListEmpty
+                0x00000000000019b8       0x3e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000019b8                IsListEmpty
+ .text.RemoveEntryList
+                0x00000000000019f6       0x50 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000019f6                RemoveEntryList
+ .text.GetFirstNode
+                0x0000000000001a46       0x3b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001a46                GetFirstNode
+ .text.IsNull   0x0000000000001a81       0x43 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001a81                IsNull
+ .text.GetNextNode
+                0x0000000000001ac4       0x3b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001ac4                GetNextNode
+ .text.InsertTailList
+                0x0000000000001aff       0x52 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001aff                InsertTailList
+ .text.CopyMem  0x0000000000001b51      0x273 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001b51                CopyMem
+ .text.SetDevicePathEndNode
+                0x0000000000001dc4       0x48 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.AllocateCopyPool
+                0x0000000000001e0c      0x160 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001e0c                AllocateCopyPool
+ .text.UefiDevicePathLibDuplicateDevicePath
+                0x0000000000001f6c       0x2a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000001f6c                UefiDevicePathLibDuplicateDevicePath
+ .text.BmGetRamDiskDevicePath
+                0x0000000000001f96       0xde /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.UefiDevicePathLibGetNextDevicePathInstance
+                0x0000000000002074       0x9c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002074                UefiDevicePathLibGetNextDevicePathInstance
+ .text.UefiDevicePathLibAppendDevicePathInstance
+                0x0000000000002110       0xb8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002110                UefiDevicePathLibAppendDevicePathInstance
+ .text.UefiDevicePathLibAppendDevicePath
+                0x00000000000021c8       0xa5 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.SetMem16.part.0
+                0x000000000000226d       0x9b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000226d                SetMem16.part.0
+ .text.CompareMem
+                0x0000000000002308       0xdb /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002308                CompareMem
+ .text.BmMatchPartitionDevicePathNode.part.4
+                0x00000000000023e3       0xb3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.ZeroMem  0x0000000000002496       0x72 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002496                ZeroMem
+ .text.AllocateZeroPool
+                0x0000000000002508       0xf9 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002508                AllocateZeroPool
+ .text.BmGetDescriptionFromDiskInfo
+                0x0000000000002601      0x32e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002601                BmGetDescriptionFromDiskInfo
+ .text.GetBestLanguage
+                0x000000000000292f      0x13f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000292f                GetBestLanguage
+ .text.UnicodeVSPrint
+                0x0000000000002a6e      0x105 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.UnicodeVSPrintAsciiFormat
+                0x0000000000002b73       0xe8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002b73                UnicodeVSPrintAsciiFormat
+ .text.DebugPrint
+                0x0000000000002c5b       0x67 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002c5b                DebugPrint
+ .text.HiiRemovePackages
+                0x0000000000002cc2       0x8c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002cc2                HiiRemovePackages
+ .text.GetHobList
+                0x0000000000002d4e       0x9e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002d4e                GetHobList
+ .text.FreePool
+                0x0000000000002dec       0x5a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002dec                FreePool
+ .text.BmGetUsbDescription
+                0x0000000000002e46      0x21b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000002e46                BmGetUsbDescription
+ .text.BmWriteBootToOsPerformanceData
+                0x0000000000003061      0x114 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmSetVariableAndReportStatusCodeOnError
+                0x0000000000003175       0xd4 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmDelPartMatchInstance
+                0x0000000000003249       0xff /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmCachePartitionDevicePath
+                0x0000000000003348       0xcb /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmConnectUsbShortFormDevicePath
+                0x0000000000003413      0x19e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.HiiGetSupportedLanguages
+                0x00000000000035b1       0xa7 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000035b1                HiiGetSupportedLanguages
+ .text.HiiUpdateForm
+                0x0000000000003658      0x513 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000003658                HiiUpdateForm
+ .text.HiiFreeOpCodeHandle
+                0x0000000000003b6b       0x48 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000003b6b                HiiFreeOpCodeHandle
+ .text.HiiAllocateOpCodeHandle
+                0x0000000000003bb3       0x4e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000003bb3                HiiAllocateOpCodeHandle
+ .text.HiiAddPackages
+                0x0000000000003c01      0x104 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000003c01                HiiAddPackages
+ .text.GetVariable2
+                0x0000000000003d05      0x12c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000003d05                GetVariable2
+ .text.GetEfiGlobalVariable2
+                0x0000000000003e31       0x12 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000003e31                GetEfiGlobalVariable2
+ .text.EfiBootManagerConnectConsoleVariable.part.1
+                0x0000000000003e43      0x352 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmUpdateSystemTableConsole
+                0x0000000000004195      0x24b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.EfiBootManagerConnectAllDefaultConsoles
+                0x00000000000043e0      0x18b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.EfiBootManagerConnectAll
+                0x000000000000456b       0x8a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000456b                EfiBootManagerConnectAll
+ .text.Print    0x00000000000045f5       0xfa /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000045f5                Print
+ .text.FileDevicePath
+                0x00000000000046ef       0x90 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000046ef                FileDevicePath
+ .text.BmExpandMediaDevicePath
+                0x000000000000477f      0x363 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.UefiDevicePathLibAppendDevicePathNode
+                0x0000000000004ae2       0x91 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000004ae2                UefiDevicePathLibAppendDevicePathNode
+ .text.BmAdjustFvFilePath
+                0x0000000000004b73      0x1c1 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.ReallocatePool
+                0x0000000000004d34       0xfc /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000004d34                ReallocatePool
+ .text.InternalHiiGrowOpCodeHandle
+                0x0000000000004e30       0xa8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.InternalHiiAppendOpCodes
+                0x0000000000004ed8       0x85 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000004ed8                InternalHiiAppendOpCodes
+ .text.InternalHiiCreateOpCodeExtended
+                0x0000000000004f5d       0x8a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000004f5d                InternalHiiCreateOpCodeExtended
+ .text.InternalHiiCreateOpCode
+                0x0000000000004fe7       0x23 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000004fe7                InternalHiiCreateOpCode
+ .text.HiiCreateGotoOpCode
+                0x000000000000500a       0x82 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000500a                HiiCreateGotoOpCode
+ .text.HiiCreateOneOfOptionOpCode
+                0x000000000000508c       0x82 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000508c                HiiCreateOneOfOptionOpCode
+ .text.HiiCreateEndOpCode
+                0x000000000000510e       0x1f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000510e                HiiCreateEndOpCode
+ .text.HiiGetFormSetFromHiiHandle
+                0x000000000000512d      0x1f8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000512d                HiiGetFormSetFromHiiHandle
+ .text.UefiDevicePathLibCatPrint
+                0x0000000000005325      0x18a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.UefiDevicePathLibConvertDevicePathToText
+                0x00000000000054af      0x1c2 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000054af                UefiDevicePathLibConvertDevicePathToText
+ .text.BmPrintDp
+                0x0000000000005671       0x55 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextNodeGeneric
+                0x00000000000056c6      0x119 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextEndInstance
+                0x00000000000057df       0x18 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextBBS
+                0x00000000000057f7       0xce /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextRamDisk
+                0x00000000000058c5      0x20d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathRelativeOffsetRange
+                0x0000000000005ad2       0x20 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextFvFile
+                0x0000000000005af2       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextFv
+                0x0000000000005b0e       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextMediaProtocol
+                0x0000000000005b2a       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextFilePath
+                0x0000000000005b46       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextCDROM
+                0x0000000000005b62       0x40 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextHardDrive
+                0x0000000000005ba2       0x96 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextUri
+                0x0000000000005c38       0x9f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextBluetoothLE
+                0x0000000000005cd7       0x3f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextWiFi
+                0x0000000000005d16       0x42 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextBluetooth
+                0x0000000000005d58       0x37 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextVlan
+                0x0000000000005d8f       0x1d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextiSCSI
+                0x0000000000005dac       0xf6 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextUart
+                0x0000000000005ea2      0x107 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextInfiniBand
+                0x0000000000005fa9       0x2d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.CatIPv6Address
+                0x0000000000005fd6       0x6b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.CatIPv4Address
+                0x0000000000006041       0x2c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextDns
+                0x000000000000606d       0xad /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.CatNetworkProtocol
+                0x000000000000611a       0x49 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextIPv6
+                0x0000000000006163      0x103 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextIPv4
+                0x0000000000006266      0x112 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextMacAddr
+                0x0000000000006378       0x83 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextI2O
+                0x00000000000063fb       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextSata
+                0x0000000000006417       0x2b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextUsbClass
+                0x0000000000006442      0x1c6 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextLogicalUnit
+                0x0000000000006608       0x1d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextUsbWWID
+                0x0000000000006625       0xb9 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextUsb
+                0x00000000000066de       0x22 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToText1394
+                0x0000000000006700       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextEmmc
+                0x000000000000671c       0x1d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextSd
+                0x0000000000006739       0x1d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextUfs
+                0x0000000000006756       0x22 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextNVMe
+                0x0000000000006778       0x48 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextSasEx
+                0x00000000000067c0      0x1aa /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextFibreEx
+                0x000000000000696a       0xae /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextFibre
+                0x0000000000006a18       0x20 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextScsi
+                0x0000000000006a38       0x22 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextAtapi
+                0x0000000000006a5a       0x6b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextAcpiAdr
+                0x0000000000006ac5       0x8f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextAcpi
+                0x0000000000006b54       0xc6 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextBmc
+                0x0000000000006c1a       0x33 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextController
+                0x0000000000006c4d       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextVendor
+                0x0000000000006c69      0x381 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextMemMap
+                0x0000000000006fea       0x27 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextPccard
+                0x0000000000007011       0x1d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.DevPathToTextPci
+                0x000000000000702e       0x22 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.FreePages
+                0x0000000000007050       0x92 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmDestroyRamDisk
+                0x00000000000070e2      0x2d3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmExpandLoadFile
+                0x00000000000073b5      0x31f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BmGetNextLoadOptionDevicePath
+                0x00000000000076d4     0x11c1 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.UnicodeSPrint
+                0x0000000000008895       0x1d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000008895                UnicodeSPrint
+ .text.BmGetNetworkDescription
+                0x00000000000088b2      0x39f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x00000000000088b2                BmGetNetworkDescription
+ .text.EfiBootManagerRefreshAllBootOption
+                0x0000000000008c51      0x7d7 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000008c51                EfiBootManagerRefreshAllBootOption
+ .text.EfiBootManagerBoot
+                0x0000000000009428     0x134e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x0000000000009428                EfiBootManagerBoot
+ .text.DevPathToTextAcpiEx
+                0x000000000000a776      0x1ee /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .text.BasePrintLibValueToString
+                0x000000000000a964       0x28 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000a964                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x000000000000a98c       0x28 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000a98c                BasePrintLibFillBuffer
+ .text.UnicodeValueToStringS
+                0x000000000000a9b4      0x2f1 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                0x000000000000a9b4                UnicodeValueToStringS
+ .text.LibExtractConfig
+                0x000000000000aca5       0x23 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000aca5                LibExtractConfig
+ .text.BootManagerExtractConfig
+                0x000000000000acc8       0x23 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.DeviceManagerExtractConfig
+                0x000000000000aceb       0x23 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.LibRouteConfig
+                0x000000000000ad0e       0x23 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000ad0e                LibRouteConfig
+ .text.BootManagerRouteConfig
+                0x000000000000ad31        0x5 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.DeviceManagerRouteConfig
+                0x000000000000ad36        0x5 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.LibGetMenuEntry
+                0x000000000000ad3b       0x92 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.EfiBootManagerFreeDriverHealthInfo
+                0x000000000000adcd       0x44 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.DmExtractDevicePathFromHiiHandle
+                0x000000000000ae11       0x8c /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmSetConsoleMode
+                0x000000000000ae9d      0x490 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmGetSingleControllerHealthStatus
+                0x000000000000b32d      0x2b3 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.EfiBootManagerGetDriverHealthInfo
+                0x000000000000b5e0      0x328 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BootMaintExtractConfig
+                0x000000000000b908      0x1f8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000b908                BootMaintExtractConfig
+ .text.UpdateConsoleContent
+                0x000000000000bb00      0x362 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BootMaintCallback
+                0x000000000000be62     0x1dec /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000be62                BootMaintCallback
+ .text.LibAppendFileName
+                0x000000000000dc4e      0x1ec /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.IsMacAddressDevicePath
+                0x000000000000de3a      0x40f /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.CreateDeviceManagerForm
+                0x000000000000e249      0x7e0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.DeviceManagerCallback
+                0x000000000000ea29      0x145 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmGetLoadFileDescription
+                0x000000000000eb6e       0xbf /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.LibGetDevicePath
+                0x000000000000ec2d       0x55 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.LibCreateNewFile
+                0x000000000000ec82      0x336 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmRepairNotify
+                0x000000000000efb8       0x47 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmGetControllerName
+                0x000000000000efff      0x183 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmDisplayMessages
+                0x000000000000f182      0x121 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.EfiBootManagerIsValidLoadOptionVariableName.part.6
+                0x000000000000f2a3       0xd6 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmGetMiscDescription
+                0x000000000000f379      0x28d /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.BmGetNvmeDescription
+                0x000000000000f606      0x278 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.UiDevicePathToStr
+                0x000000000000f87e       0xef /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000f87e                UiDevicePathToStr
+ .text.ExtractFileNameFromDevicePath
+                0x000000000000f96d       0xbd /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000f96d                ExtractFileNameFromDevicePath
+ .text.BmmSetConsoleMode
+                0x000000000000fa2a      0x490 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000fa2a                BmmSetConsoleMode
+ .text._ModuleEntryPoint
+                0x000000000000feba     0x21ff /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000000feba                _ModuleEntryPoint
+ .text.LibUpdateFileExplorePage
+                0x00000000000120b9      0x23e /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000120b9                LibUpdateFileExplorePage
+ .text.LibToLowerString
+                0x00000000000122f7       0x1e /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000122f7                LibToLowerString
+ .text.LibStrDuplicate
+                0x0000000000012315       0x78 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000012315                LibStrDuplicate
+ .text.LibDestroyMenuEntry
+                0x000000000001238d       0xa0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000001238d                LibDestroyMenuEntry
+ .text.LibFreeMenu
+                0x000000000001242d       0x9c /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000001242d                LibFreeMenu
+ .text.LibCreateMenuEntry
+                0x00000000000124c9       0x56 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000124c9                LibCreateMenuEntry
+ .text.LibCallback
+                0x000000000001251f      0x5db /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000001251f                LibCallback
+ .text.BmRepairAllControllers
+                0x0000000000012afa      0x3a9 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000012afa                BmRepairAllControllers
+ .text.EfiBootManagerFreeLoadOption
+                0x0000000000012ea3       0x4c /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000012ea3                EfiBootManagerFreeLoadOption
+ .text.EfiBootManagerFreeLoadOptions
+                0x0000000000012eef       0x49 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000012eef                EfiBootManagerFreeLoadOptions
+ .text.EfiBootManagerDeleteLoadOptionVariable
+                0x0000000000012f38      0x166 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000012f38                EfiBootManagerDeleteLoadOptionVariable
+ .text.EfiBootManagerFindLoadOption
+                0x000000000001309e       0x89 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000001309e                EfiBootManagerFindLoadOption
+ .text.EfiBootManagerInitializeLoadOption
+                0x0000000000013127       0xd8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000013127                EfiBootManagerInitializeLoadOption
+ .text.BootMaintRouteConfig
+                0x00000000000131ff     0x13e1 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000131ff                BootMaintRouteConfig
+ .text.EfiBootManagerVariableToLoadOptionEx.part.7
+                0x00000000000145e0      0x23c /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000145e0                EfiBootManagerVariableToLoadOptionEx.part.7
+ .text.BmHotkeyCallback
+                0x000000000001481c      0x21d /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000001481c                BmHotkeyCallback
+ .text.BootManagerCallback
+                0x0000000000014a39      0x92b /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .text.EfiBootManagerLoadOptionToVariable
+                0x0000000000015364      0x209 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000015364                EfiBootManagerLoadOptionToVariable
+ .text.BmGetFreeOptionNumber
+                0x000000000001556d      0x1a6 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x000000000001556d                BmGetFreeOptionNumber
+ .text.BmGetBootDescription
+                0x0000000000015713      0x1dd /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000015713                BmGetBootDescription
+ .text.FakeRouteConfig
+                0x00000000000158f0       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.FakeExtractConfig
+                0x0000000000015910       0x23 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.IsIsaSerialNode
+                0x0000000000015933       0x4e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.RetrieveUartUid
+                0x0000000000015981       0xc9 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.96
+                0x0000000000015a4a     0x1056 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000015a4a                BasePrintLibSPrintMarker.constprop.96
+ .text.unlikely.BasePrintLibSPrint.constprop.97
+                0x0000000000016aa0       0xb8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.UnicodeSPrintAsciiFormat.constprop.95
+                0x0000000000016b58       0x29 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000016b58                UnicodeSPrintAsciiFormat.constprop.95
+ .text.LShiftU64.constprop.90
+                0x0000000000016b81        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000016b81                LShiftU64.constprop.90
+ .text.IsZeroBuffer.constprop.86
+                0x0000000000016b89       0x4c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000016b89                IsZeroBuffer.constprop.86
+ .text.InternalAllocatePool.constprop.75
+                0x0000000000016bd5       0x37 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000016bd5                InternalAllocatePool.constprop.75
+ .text.CreatePopUp.constprop.66
+                0x0000000000016c0c      0x699 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000016c0c                CreatePopUp.constprop.66
+ .text.BootFromFile
+                0x00000000000172a5      0x266 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000172a5                BootFromFile
+ .text.EfiAcquireLock.constprop.65
+                0x000000000001750b       0x55 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001750b                EfiAcquireLock.constprop.65
+ .text.EfiReleaseLock.constprop.64
+                0x0000000000017560       0x50 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017560                EfiReleaseLock.constprop.64
+ .text.HiiGetHiiHandles.constprop.57
+                0x00000000000175b0       0x8b /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000175b0                HiiGetHiiHandles.constprop.57
+ .text.InternalHiiBrowserCallback.constprop.55
+                0x000000000001763b      0x10f /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001763b                InternalHiiBrowserCallback.constprop.55
+ .text.HiiConstructConfigHdr.constprop.54
+                0x000000000001774a      0x220 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001774a                HiiConstructConfigHdr.constprop.54
+ .text.HiiIsConfigHdrMatch.constprop.53
+                0x000000000001796a       0x9c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001796a                HiiIsConfigHdrMatch.constprop.53
+ .text.HiiCreateGuidOpCode.constprop.50
+                0x0000000000017a06       0x5a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017a06                HiiCreateGuidOpCode.constprop.50
+ .text.RefreshUpdateData
+                0x0000000000017a60       0x52 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.HiiCreateActionOpCode.constprop.49
+                0x0000000000017ab2       0x6e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017ab2                HiiCreateActionOpCode.constprop.49
+ .text.HiiCreateSubTitleOpCode.constprop.48
+                0x0000000000017b20       0x67 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017b20                HiiCreateSubTitleOpCode.constprop.48
+ .text.HiiCreateGotoExOpCode.constprop.47
+                0x0000000000017b87       0xa2 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017b87                HiiCreateGotoExOpCode.constprop.47
+ .text.HiiCreateCheckBoxOpCode.constprop.46
+                0x0000000000017c29       0x9d /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017c29                HiiCreateCheckBoxOpCode.constprop.46
+ .text.HiiCreateOneOfOpCode.constprop.43
+                0x0000000000017cc6      0x10f /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017cc6                HiiCreateOneOfOpCode.constprop.43
+ .text.HiiSetString.constprop.40
+                0x0000000000017dd5      0x16f /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017dd5                HiiSetString.constprop.40
+ .text.HiiGetString.constprop.39
+                0x0000000000017f44      0x194 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000017f44                HiiGetString.constprop.39
+ .text.ReSendForm
+                0x00000000000180d8      0x1e8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.CreateDriverOptionFromFile
+                0x00000000000182c0       0x9e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000182c0                CreateDriverOptionFromFile
+ .text.CreateBootOptionFromFile
+                0x000000000001835e       0x9e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001835e                CreateBootOptionFromFile
+ .text.EfiBootManagerGetLoadOptions.part.9.constprop.31
+                0x00000000000183fc      0x1a8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000183fc                EfiBootManagerGetLoadOptions.part.9.constprop.31
+ .text.EfiBootManagerAddLoadOptionVariable.constprop.23
+                0x00000000000185a4      0x272 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000185a4                EfiBootManagerAddLoadOptionVariable.constprop.23
+ .text.ChooseFile.constprop.20
+                0x0000000000018816      0x4da /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000018816                ChooseFile.constprop.20
+ .text.EfiLibDeleteVariable.constprop.10
+                0x0000000000018cf0       0x29 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000018cf0                EfiLibDeleteVariable.constprop.10
+ .text.IsRequiredDriver
+                0x0000000000018d19      0x103 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000018d19                IsRequiredDriver
+                0x0000000000018d19                RequiredDriver
+ .text.GetNextLanguage
+                0x0000000000018e1c       0xbe /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000018e1c                GetNextLanguage
+ .text.FrontPageCallback
+                0x0000000000018eda      0x261 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.UiCustomizeFrontPageBanner
+                0x000000000001913b       0x40 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001913b                UiCustomizeFrontPageBanner
+ .text.UiSetConsoleMode
+                0x000000000001917b      0x490 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001917b                UiSetConsoleMode
+ .text.GetOptionalStringByIndex
+                0x000000000001960b       0xaa /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001960b                GetOptionalStringByIndex
+ .text.CleanUpPage
+                0x00000000000196b5       0x45 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000196b5                CleanUpPage
+ .text.UpdatePageEnd
+                0x00000000000196fa       0xaa /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000196fa                UpdatePageEnd
+ .text.UpdatePageStart
+                0x00000000000197a4       0x4c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000197a4                UpdatePageStart
+ .text.GetConsoleOutMode
+                0x00000000000197f0       0x95 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000197f0                GetConsoleOutMode
+ .text.BmMatchDevicePaths
+                0x0000000000019885       0x8f /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000019885                BmMatchDevicePaths
+ .text.BOpt_GetOptionNumber
+                0x0000000000019914      0x13a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000019914                BOpt_GetOptionNumber
+ .text.BOpt_GetMenuEntry
+                0x0000000000019a4e       0x92 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000019a4e                BOpt_GetMenuEntry
+ .text.UpdateConsolePage
+                0x0000000000019ae0      0x2a5 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.UpdateComAttributeFromVariable
+                0x0000000000019d85      0x21c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.ChangeTerminalDevicePath
+                0x0000000000019fa1      0x1f8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000019fa1                ChangeTerminalDevicePath
+ .text.Var_UpdateConsoleOption
+                0x000000000001a199      0x234 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001a199                Var_UpdateConsoleOption
+ .text.GetDriverOrder
+                0x000000000001a3cd       0xbe /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.GetBootOrder
+                0x000000000001a48b       0xbe /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.UpdateOrderPage
+                0x000000000001a549      0x27b /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.UpdatePageBody
+                0x000000000001a7c4       0x93 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001a7c4                UpdatePageBody
+ .text.BOpt_DestroyMenuEntry
+                0x000000000001a857      0x10d /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001a857                BOpt_DestroyMenuEntry
+ .text.BOpt_FreeMenu
+                0x000000000001a964       0x9c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001a964                BOpt_FreeMenu
+ .text.BOpt_CreateMenuEntry
+                0x000000000001aa00       0x9b /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001aa00                BOpt_CreateMenuEntry
+ .text.GetConsoleMenu
+                0x000000000001aa9b      0x455 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .text.BOpt_GetDriverOptions
+                0x000000000001aef0      0x358 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001aef0                BOpt_GetDriverOptions
+ .text.BOpt_GetBootOptions
+                0x000000000001b248      0x507 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001b248                BOpt_GetBootOptions
+ .text.BootMaintenanceManagerUiLibConstructor
+                0x000000000001b74f      0xe8b /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001b74f                BootMaintenanceManagerUiLibConstructor
+ .text.CleanUselessBeforeSubmit
+                0x000000000001c5da       0x93 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000001c5da                CleanUselessBeforeSubmit
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.DebugAssert.str1.1
+                0x000000000001c66d       0x1e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevicePathSubType.str1.1
+                0x000000000001c68b       0x5e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x73 (size before relaxing)
+ .rodata.EfiGetNameGuidFromFwVolDevicePathNode.str1.1
+                0x000000000001c6e9       0x6e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.EfiBootManagerConnectDevicePath.str1.1
+                0x000000000001c757       0xaa /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.WriteUnaligned64.str1.1
+                0x000000000001c801       0x4a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x61 (size before relaxing)
+ .rodata.SetDevicePathNodeLength.str1.1
+                0x000000000001c84b       0x47 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.IsDevicePathValid.str1.1
+                0x000000000001c892       0x47 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x1b (size before relaxing)
+ .rodata.AsciiStrLen.str1.1
+                0x000000000001c892       0x7f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x96 (size before relaxing)
+ .rodata.AsciiStrnCmp.part.3.str1.1
+                0x000000000001c911       0x70 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.StrLen.str1.1
+                0x000000000001c981       0x5d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.StrnCmp.part.0.str1.1
+                0x000000000001c9de       0x72 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.StrStr.str1.1
+                0x000000000001ca50       0x32 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.InternalHiiCompareSubString.str1.1
+                0x000000000001ca82       0x89 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.AsciiStrToUnicodeStrS.str1.1
+                0x000000000001cb0b      0x173 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.StrCatS.str1.1
+                0x000000000001cc7e       0x9f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.InitializeListHead.str1.1
+                0x000000000001cd1d       0x64 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x000000000001cd81       0x41 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x56 (size before relaxing)
+ .rodata.IsListEmpty.str1.1
+                0x000000000001cdc2       0x26 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.RemoveEntryList.str1.1
+                0x000000000001cde8       0x15 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.GetFirstNode.str1.1
+                0x000000000001cdfd       0x22 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x000000000001ce1f       0xd6 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.AllocateCopyPool.str1.1
+                0x000000000001cef5       0xa3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetRamDiskDevicePath.str1.1
+                0x000000000001cf98       0x7a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.SetMem16.part.0.str1.1
+                0x000000000001d012       0xbc /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.CompareMem.str1.1
+                0x000000000001d0ce       0x97 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.ZeroMem.str1.1
+                0x000000000001d165       0x8b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetDescriptionFromDiskInfo.str2.2
+                0x000000000001d1f0       0x2c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetDescriptionFromDiskInfo.str1.1
+                0x000000000001d21c       0x63 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x7f (size before relaxing)
+ .rodata.GetBestLanguage.str1.1
+                0x000000000001d27f       0x6b /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.UnicodeVSPrint.str1.1
+                0x000000000001d2ea       0x9d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.HiiRemovePackages.str1.1
+                0x000000000001d387       0x35 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x4f (size before relaxing)
+ .rodata.GetHobList.str1.1
+                0x000000000001d3bc       0x62 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetUsbDescription.str2.2
+                0x000000000001d41e       0x2c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                          0x4 (size before relaxing)
+ .rodata.BmWriteBootToOsPerformanceData.str1.1
+                0x000000000001d41e       0x70 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmWriteBootToOsPerformanceData.str2.2
+                0x000000000001d48e       0x20 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.HiiGetSupportedLanguages.str1.1
+                0x000000000001d4ae       0x55 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.HiiUpdateForm.str1.1
+                0x000000000001d503       0x55 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x22 (size before relaxing)
+ .rodata.HiiFreeOpCodeHandle.str1.1
+                0x000000000001d503       0x55 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x1d (size before relaxing)
+ .rodata.GetVariable2.str1.1
+                0x000000000001d503       0x5d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmUpdateSystemTableConsole.str1.1
+                0x000000000001d560       0xcd /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001d62d        0x1 
+ .rodata.EfiBootManagerConnectAllDefaultConsoles.str2.2
+                0x000000000001d62e       0x28 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.Print.str1.1
+                0x000000000001d656       0x88 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmExpandMediaDevicePath.str1.1
+                0x000000000001d6de       0x21 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001d6ff        0x1 
+ .rodata.BmExpandMediaDevicePath.str2.2
+                0x000000000001d700       0x2c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.InternalHiiAppendOpCodes.str1.1
+                0x000000000001d72c       0x3a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.InternalHiiCreateOpCodeExtended.str1.1
+                0x000000000001d766       0x25 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.UefiDevicePathLibCatPrint.str1.1
+                0x000000000001d78b       0x74 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001d7ff        0x1 
+ .rodata.UefiDevicePathLibConvertDevicePathToText.str2.2
+                0x000000000001d800        0x4 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmPrintDp.str1.1
+                0x000000000001d804        0x3 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001d807        0x1 
+ .rodata.DevPathToTextNodeGeneric.str2.2
+                0x000000000001d808       0x22 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x34 (size before relaxing)
+ .rodata.DevPathToTextBBS.str2.2
+                0x000000000001d82a       0x32 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x80 (size before relaxing)
+ .rodata.DevPathToTextBBS
+                0x000000000001d85c       0x18 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextRamDisk.str2.2
+                0x000000000001d874       0xca /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                        0x136 (size before relaxing)
+ .rodata.DevPathRelativeOffsetRange.str2.2
+                0x000000000001d93e       0x28 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextFvFile.str2.2
+                0x000000000001d966       0x16 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextFv.str2.2
+                0x000000000001d97c        0xe /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextMediaProtocol.str2.2
+                0x000000000001d98a       0x14 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextFilePath.str2.2
+                0x000000000001d99e       0x14 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                          0x6 (size before relaxing)
+ .rodata.DevPathToTextCDROM.str2.2
+                0x000000000001d99e       0x48 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextHardDrive.str2.2
+                0x000000000001d9e6       0x64 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x7e (size before relaxing)
+ .rodata.DevPathToTextUri.str1.1
+                0x000000000001da4a       0x17 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001da61        0x1 
+ .rodata.DevPathToTextUri.str2.2
+                0x000000000001da62       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextBluetoothLE.str2.2
+                0x000000000001da72       0x5a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextWiFi.str2.2
+                0x000000000001dacc       0x14 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextBluetooth.str2.2
+                0x000000000001dae0       0x48 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextVlan.str2.2
+                0x000000000001db28       0x12 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextiSCSI.str2.2
+                0x000000000001db3a       0x7e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x8e (size before relaxing)
+ .rodata.DevPathToTextUart.str2.2
+                0x000000000001dbb8       0x5c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x74 (size before relaxing)
+ .rodata.DevPathToTextInfiniBand.str2.2
+                0x000000000001dc14       0x4c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.CatIPv6Address.str2.2
+                0x000000000001dc60       0x90 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.CatIPv4Address.str2.2
+                0x000000000001dcf0       0x18 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextDns.str2.2
+                0x000000000001dd08        0xa /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.CatNetworkProtocol.str2.2
+                0x000000000001dd12        0x8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x12 (size before relaxing)
+ .rodata.DevPathToTextIPv6.str2.2
+                0x000000000001dd1a       0x80 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x8e (size before relaxing)
+ .rodata.DevPathToTextIPv4.str2.2
+                0x000000000001dd9a       0x24 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0x2e (size before relaxing)
+ .rodata.DevPathToTextMacAddr.str2.2
+                0x000000000001ddbe        0xa /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextI2O.str2.2
+                0x000000000001ddc8       0x14 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextSata.str2.2
+                0x000000000001dddc       0x2a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsbClass.str2.2
+                0x000000000001de06      0x250 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextLogicalUnit.str2.2
+                0x000000000001e056       0x16 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsbWWID.str1.1
+                0x000000000001e06c       0x17 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001e083        0x1 
+ .rodata.DevPathToTextUsbWWID.str2.2
+                0x000000000001e084       0x3a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsb.str2.2
+                0x000000000001e0be       0x1e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToText1394.str2.2
+                0x000000000001e0dc       0x1c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextEmmc.str2.2
+                0x000000000001e0f8       0x16 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextSd.str2.2
+                0x000000000001e10e       0x12 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextUfs.str2.2
+                0x000000000001e120       0x1e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextNVMe.str2.2
+                0x000000000001e13e       0x66 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextSasEx.str2.2
+                0x000000000001e1a4       0xbc /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0xc0 (size before relaxing)
+ .rodata.DevPathToTextFibreEx.str2.2
+                0x000000000001e260       0x16 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextFibre.str2.2
+                0x000000000001e276       0x26 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextScsi.str2.2
+                0x000000000001e29c       0x20 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextAtapi.str2.2
+                0x000000000001e2bc       0x72 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpiAdr.str2.2
+                0x000000000001e32e       0x26 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpi.str2.2
+                0x000000000001e354       0xfc /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextBmc.str2.2
+                0x000000000001e450       0x20 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextController.str2.2
+                0x000000000001e470       0x16 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextVendor.str2.2
+                0x000000000001e486      0x154 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                        0x172 (size before relaxing)
+ .rodata.DevPathToTextMemMap.str2.2
+                0x000000000001e5da       0x3e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextPccard.str2.2
+                0x000000000001e618       0x1a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.DevPathToTextPci.str2.2
+                0x000000000001e632       0x1e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.FreePages.str1.1
+                0x000000000001e650        0xb /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmDestroyRamDisk.str1.1
+                0x000000000001e65b       0x60 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetNextLoadOptionDevicePath.str1.1
+                0x000000000001e6bb       0x19 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetNextLoadOptionDevicePath.str2.2
+                0x000000000001e6d4        0xa /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.BmGetNetworkDescription.str2.2
+                0x000000000001e6de       0xb4 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.EfiBootManagerRefreshAllBootOption.str1.1
+                0x000000000001e792       0x34 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.EfiBootManagerRefreshAllBootOption.str2.2
+                0x000000000001e7c6        0xc /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.EfiBootManagerBoot.str2.2
+                0x000000000001e7d2       0x5c /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.EfiBootManagerBoot.str1.1
+                0x000000000001e82e      0x341 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                        0x343 (size before relaxing)
+ *fill*         0x000000000001eb6f        0x1 
+ .rodata.DevPathToTextAcpiEx.str2.2
+                0x000000000001eb70       0x9e /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                         0xae (size before relaxing)
+ .rodata.UnicodeValueToStringS.str1.1
+                0x000000000001ec0e      0x111 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x000000000001ed1f        0x1 
+ .rodata.mHexStr
+                0x000000000001ed20       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x000000000001ed30        0x4 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.CSWTCH.44
+                0x000000000001ed34        0x6 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x000000000001ed3a       0x8a /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.mEndOfPakageList
+                0x000000000001edc4        0x4 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.mHiiDefaultTypeToWidth
+                0x000000000001edc8        0x8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdBootManagerMenuFile
+                0x000000000001edd0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .rodata.LibGetMenuEntry.str1.1
+                0x000000000001ede0       0x7f /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0x94 (size before relaxing)
+ .rodata.DmExtractDevicePathFromHiiHandle.str1.1
+                0x000000000001ee5f       0x5f /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0x76 (size before relaxing)
+ .rodata.BmSetConsoleMode.str1.1
+                0x000000000001eebe       0x5b /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0x90 (size before relaxing)
+ .rodata.BmGetSingleControllerHealthStatus.str1.1
+                0x000000000001ef19       0xa5 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.EfiBootManagerGetDriverHealthInfo.str1.1
+                0x000000000001efbe       0x24 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BootMaintExtractConfig.str1.1
+                0x000000000001efe2       0x88 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BootMaintExtractConfig.str2.2
+                0x000000000001f06a       0x40 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.UpdateConsoleContent.str2.2
+                0x000000000001f0aa       0x28 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.UpdateConsoleContent.str1.1
+                0x000000000001f0aa       0x84 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BootMaintCallback.str2.2
+                0x000000000001f12e       0x1e /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BootMaintCallback.str1.1
+                0x000000000001f14c      0x54b /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                        0x6d2 (size before relaxing)
+ *fill*         0x000000000001f697        0x1 
+ .rodata.BootMaintCallback
+                0x000000000001f698       0xc0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.LibAppendFileName.str1.1
+                0x000000000001f758       0x17 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0x2b (size before relaxing)
+ *fill*         0x000000000001f76f        0x1 
+ .rodata.LibAppendFileName.str2.2
+                0x000000000001f770        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.IsMacAddressDevicePath.str1.1
+                0x000000000001f774       0x1f /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0x34 (size before relaxing)
+ *fill*         0x000000000001f793        0x1 
+ .rodata.IsMacAddressDevicePath.str2.2
+                0x000000000001f794        0xa /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.CreateDeviceManagerForm.str2.2
+                0x000000000001f79e        0xc /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmRepairNotify.str1.1
+                0x000000000001f7aa       0x1a /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmRepairNotify.str2.2
+                0x000000000001f7c4       0x34 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmGetControllerName.str2.2
+                0x000000000001f7f8       0x1a /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0x24 (size before relaxing)
+ .rodata.BmGetControllerName.str1.1
+                0x000000000001f812        0xa /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                          0xb (size before relaxing)
+ .rodata.BmDisplayMessages.str1.1
+                0x000000000001f81c       0x16 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmDisplayMessages.str2.2
+                0x000000000001f832       0x2c /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmGetMiscDescription.str2.2
+                0x000000000001f85e       0xa4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0xc8 (size before relaxing)
+ .rodata.BmGetMiscDescription.str1.1
+                0x000000000001f902       0x7e /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.UiDevicePathToStr.str1.1
+                0x000000000001f902       0x17 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x000000000001f919      0x53b /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                        0x5d3 (size before relaxing)
+ .rodata._ModuleEntryPoint.str2.2
+                0x000000000001fe54       0xc4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0xc8 (size before relaxing)
+ .rodata.LibStrDuplicate.str1.1
+                0x000000000001ff18       0x15 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x000000000001ff2d        0x1 
+ .rodata.LibCallback.str2.2
+                0x000000000001ff2e        0xa /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmRepairAllControllers.str1.1
+                0x000000000001ff38       0x4d /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.EfiBootManagerDeleteLoadOptionVariable.str1.1
+                0x000000000001ff85       0xcd /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.EfiBootManagerDeleteLoadOptionVariable.str2.2
+                0x0000000000020052        0xe /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BootMaintRouteConfig.str1.1
+                0x0000000000020052      0x228 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BootMaintRouteConfig.str2.2
+                0x000000000002027a       0xb0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                         0xba (size before relaxing)
+ .rodata.EfiBootManagerVariableToLoadOptionEx.part.7.str1.1
+                0x000000000002032a       0x23 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmHotkeyCallback.str1.1
+                0x000000000002032a       0xad /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                        0x107 (size before relaxing)
+ .rodata.BootManagerCallback.str1.1
+                0x00000000000203d7      0x158 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                        0x190 (size before relaxing)
+ *fill*         0x000000000002052f        0x1 
+ .rodata.BootManagerCallback.str2.2
+                0x0000000000020530       0x1e /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.EfiBootManagerLoadOptionToVariable.str1.1
+                0x000000000002054e       0x19 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmGetFreeOptionNumber.str1.1
+                0x0000000000020567       0x92 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BmGetBootDescription.str1.1
+                0x00000000000205f9       0x38 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000020631        0x1 
+ .rodata.str2.2
+                0x0000000000020632      0x1b2 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000207e4        0xc 
+ .rodata._gPcd_FixedAtBuild_PcdDriverHealthConfigureForm
+                0x00000000000207f0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLangCodes
+                0x0000000000020800       0x12 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000020812        0x6 
+ .rodata.TerminalType
+                0x0000000000020818        0xa /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000020822       0x1e 
+ .rodata.mConfigHdrTemplate
+                0x0000000000020840       0x70 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.96.str1.1
+                0x00000000000208b0      0x227 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                        0x2ad (size before relaxing)
+ .rodata.UnicodeSPrintAsciiFormat.constprop.95.str1.1
+                0x0000000000020ad7       0x18 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.IsZeroBuffer.constprop.86.str1.1
+                0x0000000000020ad7       0x5a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x92 (size before relaxing)
+ .rodata.AsciiStrCpyS.constprop.78.str1.1
+                0x0000000000020b31       0x5b /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0xbc (size before relaxing)
+ .rodata.CreatePopUp.constprop.66.str1.1
+                0x0000000000020b8c       0x99 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                        0x1e7 (size before relaxing)
+ *fill*         0x0000000000020c25        0x1 
+ .rodata.CreatePopUp.constprop.66.str2.2
+                0x0000000000020c26        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BootFromFile.str1.1
+                0x0000000000020c2e       0x65 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0xa1 (size before relaxing)
+ .rodata.BootFromFile.str2.2
+                0x0000000000020c93       0x86 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.EfiAcquireLock.constprop.65.str1.1
+                0x0000000000020c93       0x1e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x66 (size before relaxing)
+ .rodata.EfiReleaseLock.constprop.64.str1.1
+                0x0000000000020cb1       0x1e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x0000000000020ccf        0x1 
+ .rodata.HiiConstructConfigHdr.constprop.54.str2.2
+                0x0000000000020cd0       0x28 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.HiiIsConfigHdrMatch.constprop.53.str1.1
+                0x0000000000020cf8       0x1a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x6a (size before relaxing)
+ .rodata.HiiCreateOneOfOpCode.constprop.43.str1.1
+                0x0000000000020d12       0x24 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.HiiSetString.constprop.40.str1.1
+                0x0000000000020d12       0x5a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x8b (size before relaxing)
+ .rodata.HiiGetString.constprop.39.str1.1
+                0x0000000000020d6c        0xe /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                          0xf (size before relaxing)
+ .rodata.HiiGetString.constprop.39.str2.2
+                0x0000000000020d7a       0x1a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.ReSendForm.str1.1
+                0x0000000000020d7a       0x65 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.EfiBootManagerGetLoadOptions.part.9.constprop.31.str2.2
+                0x0000000000020d7a       0x2c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.EfiBootManagerGetLoadOptions.part.9.constprop.31.str1.1
+                0x0000000000020d7a       0x7f /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0xf5 (size before relaxing)
+ .rodata.EfiBootManagerAddLoadOptionVariable.constprop.23.str1.1
+                0x0000000000020df9       0x1f /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x8e (size before relaxing)
+ .rodata.ChooseFile.constprop.20.str2.2
+                0x0000000000020e18       0x5a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x68 (size before relaxing)
+ .rodata.ChooseFile.constprop.20.str1.1
+                0x0000000000020e72       0x57 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0xfe (size before relaxing)
+ .rodata.GetNextLanguage.str1.1
+                0x0000000000020ec9       0x1a /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x94 (size before relaxing)
+ .rodata.FrontPageCallback.str1.1
+                0x0000000000020ee3       0x12 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.UiCustomizeFrontPageBanner.str1.1
+                0x0000000000020ee3       0x4e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.UiSetConsoleMode.str1.1
+                0x0000000000020f31       0x52 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x0000000000020f31        0x1 
+ .rodata.BOpt_GetOptionNumber.str2.2
+                0x0000000000020f32       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_GetOptionNumber.str1.1
+                0x0000000000020f42        0xd /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_GetMenuEntry.str1.1
+                0x0000000000020f4f       0x39 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.UpdateConsolePage.str1.1
+                0x0000000000020f4f       0x1d /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x29 (size before relaxing)
+ .rodata.Var_UpdateConsoleOption.str1.1
+                0x0000000000020f6c       0x85 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0xe8 (size before relaxing)
+ .rodata.GetDriverOrder.str1.1
+                0x0000000000020ff1       0x1d /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.UpdateOrderPage.str1.1
+                0x000000000002100e       0x1d /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x1c (size before relaxing)
+ *fill*         0x000000000002100e        0x2 
+ .rodata.UpdatePageBody
+                0x0000000000021010       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_DestroyMenuEntry
+                0x0000000000021030       0x18 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_CreateMenuEntry
+                0x0000000000021048       0x18 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.GetConsoleMenu.str2.2
+                0x0000000000021060       0x62 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.GetConsoleMenu.str1.1
+                0x0000000000021060       0x96 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_GetDriverOptions.str2.2
+                0x00000000000210f6       0x2e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_GetDriverOptions.str1.1
+                0x00000000000210f6       0x86 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_GetBootOptions.str2.2
+                0x00000000000210f6       0x24 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BOpt_GetBootOptions.str1.1
+                0x00000000000210f6       0x1d /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .rodata.BootMaintenanceManagerUiLibConstructor.str1.1
+                0x00000000000210f6       0x73 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                        0x169 (size before relaxing)
+ *fill*         0x0000000000021169       0x17 
+ .rodata.StopBitsList
+                0x0000000000021180       0x30 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000021180                StopBitsList
+ *fill*         0x00000000000211b0       0x10 
+ .rodata.ParityList
+                0x00000000000211c0       0x50 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000211c0                ParityList
+ *fill*         0x0000000000021210       0x10 
+ .rodata.DataBitsList
+                0x0000000000021220       0x40 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000021220                DataBitsList
+ .rodata.BaudRateList
+                0x0000000000021260      0x130 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000021260                BaudRateList
+ .rodata.str2.2
+                0x0000000000021390       0x4c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                         0x5a (size before relaxing)
+ .rodata.str1.1
+                0x00000000000213dc      0x224 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                        0x235 (size before relaxing)
+ *(.got .got.*)
+ .got           0x0000000000021600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .got.plt       0x0000000000021600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+                0x0000000000021600                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000021600        0x0
+ .plt           0x0000000000021600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000021600        0x0
+ .plt.got       0x0000000000021600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.data           0x0000000000021600     0x7c00
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiDebugPortProtocolGuid
+                0x0000000000021600       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiSasDevicePathGuid
+                0x0000000000021610       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiUartDevicePathGuid
+                0x0000000000021620       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiVTUTF8Guid
+                0x0000000000021630       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiVT100PlusGuid
+                0x0000000000021640       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiVT100Guid
+                0x0000000000021650       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiPcAnsiGuid
+                0x0000000000021660       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiPersistentVirtualCdGuid
+                0x0000000000021670       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiPersistentVirtualDiskGuid
+                0x0000000000021680       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiVirtualCdGuid
+                0x0000000000021690       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiVirtualDiskGuid
+                0x00000000000216a0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x00000000000216b0       0x10 
+ .data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x00000000000216c0       0x60 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x0000000000021720      0x320 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiHobListGuid
+                0x0000000000021a40       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gPerformanceProtocolGuid
+                0x0000000000021a50       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.mBmAcpiLowMemoryBase
+                0x0000000000021a60        0x8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x0000000000021a68        0x8 
+ .data.gEfiSimpleTextInProtocolGuid
+                0x0000000000021a70       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.rel.ro.local.mConVarName
+                0x0000000000021a80       0x30 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiRamDiskProtocolGuid
+                0x0000000000021ab0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.mBmHardDriveBootVariableGuid
+                0x0000000000021ac0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiSimpleTextInputExProtocolGuid
+                0x0000000000021ad0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiEventReadyToBootGuid
+                0x0000000000021ae0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiMemoryTypeInformationGuid
+                0x0000000000021af0       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiFileInfoGuid
+                0x0000000000021b00       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiFirmwareVolume2ProtocolGuid
+                0x0000000000021b10       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiLoadedImageProtocolGuid
+                0x0000000000021b20       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.mBmAutoCreateBootOptionGuid
+                0x0000000000021b30       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiDiskInfoSdMmcInterfaceGuid
+                0x0000000000021b40       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiDiskInfoScsiInterfaceGuid
+                0x0000000000021b50       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiDiskInfoIdeInterfaceGuid
+                0x0000000000021b60       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiDiskInfoAhciInterfaceGuid
+                0x0000000000021b70       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiDiskInfoProtocolGuid
+                0x0000000000021b80       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiUsbIoProtocolGuid
+                0x0000000000021b90       0x10 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .data.gEfiNvmExpressPassThruProtocolGuid
+                0x0000000000021ba0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiBlockIoProtocolGuid
+                0x0000000000021bb0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000021bb0                gEfiBlockIoProtocolGuid
+ .data.rel.local.mPlatformBootDescriptionHandlers
+                0x0000000000021bc0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.mBmUefiPrefix
+                0x0000000000021bd0        0xc /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000021bdc        0x4 
+ .data.rel.ro.local.mBmBootDescriptionHandlers
+                0x0000000000021be0       0x30 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEdkiiVariableLockProtocolGuid
+                0x0000000000021c10       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.rel.local.mBmHotkeyList
+                0x0000000000021c20       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000021c20                mBmHotkeyList
+ *fill*         0x0000000000021c30       0x10 
+ .data.mBmHotkeyBootOption
+                0x0000000000021c40       0x58 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000021c98        0x8 
+ .data.gEfiComponentNameProtocolGuid
+                0x0000000000021ca0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiComponentName2ProtocolGuid
+                0x0000000000021cb0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiDriverHealthProtocolGuid
+                0x0000000000021cc0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000021cd0       0x10 
+ .data.rel.ro.local.mBmHealthStatusText
+                0x0000000000021ce0       0x30 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.mNewFolderQuestionId
+                0x0000000000021d10        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.mNewFileQuestionId
+                0x0000000000021d18        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000021d20       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000021d30       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x0000000000021d40       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiDxeServicesTableGuid
+                0x0000000000021d50       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.FileExplorerLibStrings
+                0x0000000000021d60      0x81a /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x000000000002257a        0x6 
+ .data.FileExplorerVfrBin
+                0x0000000000022580       0xf9 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000022679        0x7 
+ .data.gEfiCallerIdGuid
+                0x0000000000022680       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.FeHiiVendorDevicePath
+                0x0000000000022690       0x18 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000226a8       0x18 
+ .data.DeviceManagerUiLibStrings
+                0x00000000000226c0      0x4b8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000022b78        0x8 
+ .data.DeviceManagerVfrBin
+                0x0000000000022b80      0x12d /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000022cad       0x13 
+ .data.BootManagerUiLibStrings
+                0x0000000000022cc0      0x434 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000230f4        0xc 
+ .data.BootManagerVfrBin
+                0x0000000000023100       0xb3 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000231b3        0xd 
+ .data.mFontBin
+                0x00000000000231c0      0xda0 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.mFontPackageGuid
+                0x0000000000023f60       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.mUiStringPackGuid
+                0x0000000000023f70       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiSmbiosProtocolGuid
+                0x0000000000023f80       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x0000000000023f90       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiIfrFrontPageGuid
+                0x0000000000023fa0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000023fb0       0x10 
+ .data.UiAppStrings
+                0x0000000000023fc0      0x424 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000243e4       0x1c 
+ .data.FrontPageVfrBin
+                0x0000000000024400      0x147 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000024547        0x9 
+ .data.mFrontPageGuid
+                0x0000000000024550       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.mFrontPageHiiVendorDevicePath
+                0x0000000000024560       0x18 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000024578        0x8 
+ .data.gEfiBootLogoProtocolGuid
+                0x0000000000024580       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x0000000000024580                gEfiBootLogoProtocolGuid
+ .data.mBootManagerHiiVendorDevicePath
+                0x0000000000024590       0x18 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000245a8        0x8 
+ .data.mDeviceManagerHiiVendorDevicePath
+                0x00000000000245b0       0x18 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000245c8        0x8 
+ .data.gEfiPciIoProtocolGuid
+                0x00000000000245d0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000245d0                gEfiPciIoProtocolGuid
+ .data.mDeviceManagerGuid
+                0x00000000000245e0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiHiiPlatformSetupFormsetGuid
+                0x00000000000245f0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.rel.local.gDeviceManagerPrivate
+                0x0000000000024600       0x38 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000024638        0x8 
+ .data.mBootManagerGuid
+                0x0000000000024640       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000024650       0x10 
+ .data.rel.ro.local.mDeviceTypeStr
+                0x0000000000024660       0x40 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.rel.local.gBootManagerPrivate
+                0x00000000000246a0       0x30 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x00000000000246d0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .data.gEfiIfrBootMaintenanceGuid
+                0x00000000000246e0       0x10 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000246f0       0x10 
+ .data.mFsOptionMenu
+                0x0000000000024700       0x21 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x0000000000024721        0xf 
+ .data.gEfiSerialIoProtocolGuid
+                0x0000000000024730       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .data.gEfiLoadFileProtocolGuid
+                0x0000000000024740       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000024740                gEfiLoadFileProtocolGuid
+ *fill*         0x0000000000024750       0x10 
+ .data.DriverMenu
+                0x0000000000024760       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000024760                DriverMenu
+ .data._gPcd_BinaryPatch_PcdSetupVideoVerticalResolution
+                0x0000000000024780        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000024780                _gPcd_BinaryPatch_PcdSetupVideoVerticalResolution
+ .data._gPcd_BinaryPatch_PcdSetupVideoHorizontalResolution
+                0x0000000000024784        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000024784                _gPcd_BinaryPatch_PcdSetupVideoHorizontalResolution
+ *fill*         0x0000000000024788       0x18 
+ .data.BootMaintenanceManagerUiLibStrings
+                0x00000000000247a0     0x1b4e /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x00000000000262ee       0x12 
+ .data.BootMaintenanceManagerBin
+                0x0000000000026300      0x594 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x0000000000026894        0xc 
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x00000000000268a0       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000268a0                gEfiHiiConfigAccessProtocolGuid
+ .data.mBmmHiiVendorDevicePath
+                0x00000000000268b0       0x18 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000268b0                mBmmHiiVendorDevicePath
+ *fill*         0x00000000000268c8        0x8 
+ .data.gEdkiiFormBrowserEx2ProtocolGuid
+                0x00000000000268d0       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000268d0                gEdkiiFormBrowserEx2ProtocolGuid
+ .data.rel.local.gBootMaintenancePrivate
+                0x00000000000268e0     0x1c60 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000268e0                gBootMaintenancePrivate
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000028540       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028540                gEfiDevicePathProtocolGuid
+ .data._gPcd_BinaryPatch_PcdSetupConOutRow
+                0x0000000000028550        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028550                _gPcd_BinaryPatch_PcdSetupConOutRow
+ .data._gPcd_BinaryPatch_PcdSetupConOutColumn
+                0x0000000000028554        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028554                _gPcd_BinaryPatch_PcdSetupConOutColumn
+ *fill*         0x0000000000028558        0x8 
+ .data.TerminalTypeGuid
+                0x0000000000028560       0x50 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x00000000000285b0       0x10 
+ .data.TerminalMenu
+                0x00000000000285c0       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000285c0                TerminalMenu
+ .data.DriverOptionMenu
+                0x00000000000285e0       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000285e0                DriverOptionMenu
+ .data.BootOptionMenu
+                0x0000000000028600       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028600                BootOptionMenu
+ .data.ConsoleErrMenu
+                0x0000000000028620       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028620                ConsoleErrMenu
+ .data.ConsoleOutMenu
+                0x0000000000028640       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028640                ConsoleOutMenu
+ .data.ConsoleInpMenu
+                0x0000000000028660       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028660                ConsoleInpMenu
+ .data._gPcd_BinaryPatch_PcdVideoVerticalResolution
+                0x0000000000028680        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028680                _gPcd_BinaryPatch_PcdVideoVerticalResolution
+ .data._gPcd_BinaryPatch_PcdVideoHorizontalResolution
+                0x0000000000028684        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028684                _gPcd_BinaryPatch_PcdVideoHorizontalResolution
+ .data._gPcd_BinaryPatch_PcdConOutRow
+                0x0000000000028688        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028688                _gPcd_BinaryPatch_PcdConOutRow
+ .data._gPcd_BinaryPatch_PcdConOutColumn
+                0x000000000002868c        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000002868c                _gPcd_BinaryPatch_PcdConOutColumn
+ .data.gEfiSimpleTextOutProtocolGuid
+                0x0000000000028690       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028690                gEfiSimpleTextOutProtocolGuid
+ .data.gEfiGraphicsOutputProtocolGuid
+                0x00000000000286a0       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000286a0                gEfiGraphicsOutputProtocolGuid
+ *fill*         0x00000000000286b0       0x10 
+ .data.rel.local.gFrontPagePrivate
+                0x00000000000286c0       0x38 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000286c0                gFrontPagePrivate
+ *fill*         0x00000000000286f8        0x8 
+ .data.gEfiDevicePathToTextProtocolGuid
+                0x0000000000028700       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028700                gEfiDevicePathToTextProtocolGuid
+ .data.gEfiFileSystemVolumeLabelInfoIdGuid
+                0x0000000000028710       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .data.gEfiSimpleFileSystemProtocolGuid
+                0x0000000000028720       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028720                gEfiSimpleFileSystemProtocolGuid
+ .data.FileExplorerGuid
+                0x0000000000028730       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028730                FileExplorerGuid
+ .data.rel.local.gFileExplorerPrivate
+                0x0000000000028740       0x58 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028740                gFileExplorerPrivate
+ *fill*         0x0000000000028798        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x00000000000287a0       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000287a0                gEfiGlobalVariableGuid
+ *fill*         0x00000000000287b0       0x10 
+ .data.rel.ro.local.mBmLoadOptionName
+                0x00000000000287c0       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000287c0                mBmLoadOptionName
+ .data.rel.ro.local.mBmLoadOptionOrderName
+                0x00000000000287e0       0x20 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000287e0                mBmLoadOptionOrderName
+ .data.gEfiIfrTianoGuid
+                0x0000000000028800       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028800                gEfiIfrTianoGuid
+ .data.mBootMaintStorageName
+                0x0000000000028810       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028810                mBootMaintStorageName
+ .data.mBootMaintGuid
+                0x0000000000028820       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028820                mBootMaintGuid
+ .data.gEfiFormBrowser2ProtocolGuid
+                0x0000000000028830       0x10 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028830                gEfiFormBrowser2ProtocolGuid
+ .data.mBmHotkeyLock
+                0x0000000000028840       0x18 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000028840                mBmHotkeyLock
+ *fill*         0x0000000000028858        0x8 
+ .data.rel.ro.local.mStatusString
+                0x0000000000028860      0x138 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .data.rel.ro   0x0000000000028998        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.mHobList  0x0000000000028998        0x8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .bss.mBmPerfHeader
+                0x00000000000289a0      0x670 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .bss.mRamDisk  0x0000000000029010        0x8 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ *fill*         0x0000000000029018        0x8 
+ .bss.mNewFolderName
+                0x0000000000029020       0x28 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x0000000000029048       0x18 
+ .bss.mNewFileName
+                0x0000000000029060       0x28 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mLibEndOpCodeHandle
+                0x0000000000029088        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mLibStartOpCodeHandle
+                0x0000000000029090        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.gHiiImage
+                0x0000000000029098        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.gHiiFont  0x00000000000290a0        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.gDS       0x00000000000290a8        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000290a8                gDS
+ .bss.mBmModeInitialized
+                0x00000000000290b0        0x1 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000290b1        0x7 
+ .bss.gImageHandle
+                0x00000000000290b8        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                0x00000000000290b8                gImageHandle
+ .bss.mResetRequired
+                0x00000000000290c0        0x1 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000290c1        0x7 
+ .bss.gLanguageToken
+                0x00000000000290c8        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.gHiiDriverList
+                0x00000000000290d0        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.gFormBrowser2
+                0x00000000000290d8        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mLanguageString
+                0x00000000000290e0        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mModeInitialized
+                0x00000000000290e8        0x1 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x00000000000290e9        0x7 
+ .bss.gHiiVendorDevicePath
+                0x00000000000290f0        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mSelectedMacAddrString
+                0x00000000000290f8        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mMacDeviceList
+                0x0000000000029100       0x18 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmBootTextModeRow
+                0x0000000000029118        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmBootTextModeColumn
+                0x000000000002911c        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmBootVerticalResolution
+                0x0000000000029120        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmBootHorizontalResolution
+                0x0000000000029124        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmSetupTextModeRow
+                0x0000000000029128        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmSetupTextModeColumn
+                0x000000000002912c        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmSetupVerticalResolution
+                0x0000000000029130        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mBmSetupHorizontalResolution
+                0x0000000000029134        0x4 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mKeyInput
+                0x0000000000029138        0x2 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ *fill*         0x000000000002913a        0x6 
+ .bss.gHiiConfigRouting
+                0x0000000000029140        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.gHiiDriverList.lto_priv.98
+                0x0000000000029148        0x8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mFirstEnterBMMForm
+                0x0000000000029150        0x1 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .bss.mAllMenuInit
+                0x0000000000029151        0x1 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029151                mAllMenuInit
+ *fill*         0x0000000000029152        0x2 
+ .bss.mBmmSetupTextModeRow
+                0x0000000000029154        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029154                mBmmSetupTextModeRow
+ .bss.mBmmSetupTextModeColumn
+                0x0000000000029158        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029158                mBmmSetupTextModeColumn
+ .bss.mBmmSetupVerticalResolution
+                0x000000000002915c        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000002915c                mBmmSetupVerticalResolution
+ .bss.mBmmSetupHorizontalResolution
+                0x0000000000029160        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029160                mBmmSetupHorizontalResolution
+ .bss.mBmmBootTextModeRow
+                0x0000000000029164        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029164                mBmmBootTextModeRow
+ .bss.mBmmBootTextModeColumn
+                0x0000000000029168        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029168                mBmmBootTextModeColumn
+ .bss.mBmmBootVerticalResolution
+                0x000000000002916c        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x000000000002916c                mBmmBootVerticalResolution
+ .bss.mBmmBootHorizontalResolution
+                0x0000000000029170        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029170                mBmmBootHorizontalResolution
+ .bss.mBmmModeInitialized
+                0x0000000000029174        0x1 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ *fill*         0x0000000000029175        0x3 
+ .bss.mEndOpCodeHandle
+                0x0000000000029178        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029178                mEndOpCodeHandle
+ .bss.mStartLabel
+                0x0000000000029180        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .bss.mStartOpCodeHandle
+                0x0000000000029188        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029188                mStartOpCodeHandle
+ .bss.gLanguageString
+                0x0000000000029190        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029190                gLanguageString
+ .bss.gCurrentLanguageIndex
+                0x0000000000029198        0x1 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x0000000000029198                gCurrentLanguageIndex
+ *fill*         0x0000000000029199        0x7 
+ .bss.gStringPackHandle
+                0x00000000000291a0        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291a0                gStringPackHandle
+ .bss.mBootTextModeRow
+                0x00000000000291a8        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291a8                mBootTextModeRow
+ .bss.mBootTextModeColumn
+                0x00000000000291ac        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291ac                mBootTextModeColumn
+ .bss.mBootVerticalResolution
+                0x00000000000291b0        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291b0                mBootVerticalResolution
+ .bss.mBootHorizontalResolution
+                0x00000000000291b4        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291b4                mBootHorizontalResolution
+ .bss.mSetupTextModeRow
+                0x00000000000291b8        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291b8                mSetupTextModeRow
+ .bss.mSetupTextModeColumn
+                0x00000000000291bc        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291bc                mSetupTextModeColumn
+ .bss.mSetupVerticalResolution
+                0x00000000000291c0        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291c0                mSetupVerticalResolution
+ .bss.mSetupHorizontalResolution
+                0x00000000000291c4        0x4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291c4                mSetupHorizontalResolution
+ .bss.mQuestionIdUpdate
+                0x00000000000291c8        0x2 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291c8                mQuestionIdUpdate
+ *fill*         0x00000000000291ca        0x6 
+ .bss.gRT       0x00000000000291d0        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291d0                gRT
+ .bss.gHiiString
+                0x00000000000291d8        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291d8                gHiiString
+ .bss.mUefiFormBrowser2
+                0x00000000000291e0        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+ .bss.gHiiDatabase
+                0x00000000000291e8        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291e8                gHiiDatabase
+ .bss.gST       0x00000000000291f0        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291f0                gST
+ .bss.gBS       0x00000000000291f8        0x8 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                0x00000000000291f8                gBS
+
+.eh_frame       0x0000000000029200        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000029200        0x0
+ .dynbss        0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000029200        0x0
+ .gnu.version_d
+                0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000029200        0x0
+ .gnu.version   0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000029200        0x0
+ .gnu.version_r
+                0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.rela           0x0000000000029200      0xdb0
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.got      0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000029200        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTableGeneric
+                0x0000000000029200       0x78 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mUefiDevicePathLibToTextTable
+                0x0000000000029278      0x498 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mConVarName
+                0x0000000000029710       0x90 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPlatformBootDescriptionHandlers
+                0x00000000000297a0       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmBootDescriptionHandlers
+                0x00000000000297d0       0x90 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.mBmHotkeyList
+                0x0000000000029860       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmHealthStatusText
+                0x0000000000029890       0x90 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gDeviceManagerPrivate
+                0x0000000000029920       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mDeviceTypeStr
+                0x0000000000029968       0xc0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBootManagerPrivate
+                0x0000000000029a28       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gBootMaintenancePrivate
+                0x0000000000029a70       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gFrontPagePrivate
+                0x0000000000029ab8       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.gFileExplorerPrivate
+                0x0000000000029b00       0x60 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionName
+                0x0000000000029b60       0x60 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mBmLoadOptionOrderName
+                0x0000000000029bc0       0x48 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x0000000000029c08      0x3a8 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000029fb0       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000029fb0       0x24 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Application/UiApp/UiApp/DEBUG/UiApp.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x3c7c6
+ .debug_info    0x0000000000000000    0x17f16 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_info    0x0000000000017f16    0x17384 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_info    0x000000000002f29a     0xd52c /tmp/ccm6Pbgw.ltrans2.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x1598
+ .debug_abbrev  0x0000000000000000      0x7bb /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_abbrev  0x00000000000007bb      0x6fb /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000eb6      0x6e2 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+
+.debug_loc      0x0000000000000000    0x2832e
+ .debug_loc     0x0000000000000000    0x1211f /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_loc     0x000000000001211f     0xcccb /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_loc     0x000000000001edea     0x9544 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+
+.debug_aranges  0x0000000000000000     0x1240
+ .debug_aranges
+                0x0000000000000000      0xb00 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000b00      0x330 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000e30      0x410 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x5100
+ .debug_ranges  0x0000000000000000     0x2030 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000002030     0x2270 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_ranges  0x00000000000042a0      0xe60 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+
+.debug_line     0x0000000000000000     0x8c5b
+ .debug_line    0x0000000000000000     0x370d /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_line    0x000000000000370d     0x30fa /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_line    0x0000000000006807     0x2454 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+
+.debug_str      0x0000000000000000     0xccba
+ .debug_str     0x0000000000000000     0x71a2 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+                                       0x7e6d (size before relaxing)
+ .debug_str     0x00000000000071a2     0x4164 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+                                       0x7b42 (size before relaxing)
+ .debug_str     0x000000000000b306     0x19b4 /tmp/ccm6Pbgw.ltrans2.ltrans.o
+                                       0x5120 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x6850
+ .debug_frame   0x0000000000000000     0x3620 /tmp/ccm6Pbgw.ltrans0.ltrans.o
+ .debug_frame   0x0000000000003620     0x18a8 /tmp/ccm6Pbgw.ltrans1.ltrans.o
+ .debug_frame   0x0000000000004ec8     0x1988 /tmp/ccm6Pbgw.ltrans2.ltrans.o

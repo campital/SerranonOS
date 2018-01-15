@@ -1,0 +1,1380 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDebugLibConOut/UefiDebugLibConOut/OUTPUT/UefiDebugLibConOut.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(RegularExpressionDxe.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(OnigurumaUefiPort.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regcomp.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regenc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regerror.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regexec.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(reggnu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regparse.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regposerr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regposix.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regsyntax.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regtrav.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(regversion.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(st.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(ascii.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(unicode.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(utf16_le.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_null_warn
+                0x0000000000000000        0x1 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000000000       0x6e /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000000000       0x5d /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.InternalAssertJumpBuffer.str1.1
+                0x0000000000000000       0x86 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000       0x56 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.onig_snprintf_with_pattern.constprop.11.str1.1
+                0x0000000000000000       0xcf /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onig_snprintf_with_pattern.constprop.11
+                0x0000000000000000      0x407 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.CC_ESC_WARN
+                0x0000000000000000        0x1 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccy9Ulln.ltrans0.ltrans.o
+LOAD /tmp/ccy9Ulln.ltrans1.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDebugLibConOut/UefiDebugLibConOut/OUTPUT/UefiDebugLibConOut.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/OUTPUT/RegularExpressionDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x482f0
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.i_renumber_name
+                0x0000000000000240       0x31 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.str_end_hash.lto_priv.37
+                0x0000000000000271       0x27 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000000271                str_end_hash.lto_priv.37
+ .text.str_end_cmp.lto_priv.36
+                0x0000000000000298       0x3b /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000000298                str_end_cmp.lto_priv.36
+ .text.str_lower_case_match.isra.3
+                0x00000000000002d3       0x7a /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.string_cmp_ic.isra.0
+                0x000000000000034d       0xad /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_error_code_to_format
+                0x00000000000003fa      0x3a0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onigenc_always_false_is_allowed_reverse_match
+                0x000000000000079a        0x3 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000079a                onigenc_always_false_is_allowed_reverse_match
+ .text.onigenc_always_true_is_allowed_reverse_match
+                0x000000000000079d        0x6 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000079d                onigenc_always_true_is_allowed_reverse_match
+ .text.onigenc_single_byte_left_adjust_char_head
+                0x00000000000007a3        0x4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007a3                onigenc_single_byte_left_adjust_char_head
+ .text.onigenc_single_byte_code_to_mbc
+                0x00000000000007a7        0x9 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007a7                onigenc_single_byte_code_to_mbc
+ .text.onigenc_single_byte_code_to_mbclen
+                0x00000000000007b0       0x14 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007b0                onigenc_single_byte_code_to_mbclen
+ .text.onigenc_single_byte_mbc_to_code
+                0x00000000000007c4        0x4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007c4                onigenc_single_byte_mbc_to_code
+ .text.onigenc_single_byte_mbc_enc_len
+                0x00000000000007c8        0x6 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007c8                onigenc_single_byte_mbc_enc_len
+ .text.onigenc_ascii_mbc_case_fold
+                0x00000000000007ce       0x1b /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007ce                onigenc_ascii_mbc_case_fold
+ .text.onigenc_is_mbc_newline_0x0a
+                0x00000000000007e9       0x10 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007e9                onigenc_is_mbc_newline_0x0a
+ .text.onigenc_not_support_get_ctype_code_range
+                0x00000000000007f9        0x6 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007f9                onigenc_not_support_get_ctype_code_range
+ .text.onigenc_ascii_get_case_fold_codes_by_str
+                0x00000000000007ff       0x49 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000007ff                onigenc_ascii_get_case_fold_codes_by_str
+ .text.onigenc_ascii_apply_all_case_fold
+                0x0000000000000848       0x89 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000000848                onigenc_ascii_apply_all_case_fold
+ .text.onigenc_step_back
+                0x00000000000008d1       0x34 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onigenc_get_right_adjust_char_head
+                0x0000000000000905       0x2e /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.concat_opt_exact_info_str.isra.10
+                0x0000000000000933       0x63 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.map_position_value.isra.5
+                0x0000000000000996       0x27 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_char_opt_map_info
+                0x00000000000009bd       0x23 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.clear_opt_exact_info
+                0x00000000000009e0       0x23 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.alt_merge_opt_exact_info.isra.11
+                0x0000000000000a03       0xcb /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.comp_distance_value
+                0x0000000000000ace       0x82 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.subexp_recursive_check
+                0x0000000000000b50       0xac /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.subexp_recursive_check_trav
+                0x0000000000000bfc       0xf8 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.check_type_tree
+                0x0000000000000cf4       0x8a /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.get_head_value_node
+                0x0000000000000d7e       0xad /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.quantifiers_memory_node_info
+                0x0000000000000e2b       0x86 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.numbered_ref_check
+                0x0000000000000eb1       0x57 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.renumber_by_map
+                0x0000000000000f08       0x90 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.select_str_opcode
+                0x0000000000000f98       0x55 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_compile_string_length.isra.1
+                0x0000000000000fed       0x39 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.compile_length_tree
+                0x0000000000001026      0x448 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.distance_multiply
+                0x000000000000146e       0x1b /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.get_min_match_length
+                0x0000000000001489      0x22b /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.subexp_inf_recursive_check
+                0x00000000000016b4      0x164 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.subexp_inf_recursive_check_trav
+                0x0000000000001818       0xa1 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.distance_add
+                0x00000000000018b9       0x1a /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.get_char_length_tree1
+                0x00000000000018d3      0x1f8 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.get_max_match_length
+                0x0000000000001acb      0x20f /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_node_list_add
+                0x0000000000001cda       0x2a /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.sprintf_s
+                0x0000000000001d04       0xbe /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.sprint_byte
+                0x0000000000001dc2       0x21 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_name_to_group_numbers
+                0x0000000000001de3       0x61 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000001de3                onig_name_to_group_numbers
+ .text.setup_subexp_call
+                0x0000000000001e44      0x1a2 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.bitset_invert_to.lto_priv.45
+                0x0000000000001fe6       0x15 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000001fe6                bitset_invert_to.lto_priv.45
+ .text.bitset_invert.lto_priv.44
+                0x0000000000001ffb        0xf /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000001ffb                bitset_invert.lto_priv.44
+ .text.bitset_set_range.lto_priv.46
+                0x000000000000200a       0x29 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000200a                bitset_set_range.lto_priv.46
+ .text.sprint_byte_with_x.lto_priv.40
+                0x0000000000002033       0x21 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002033                sprint_byte_with_x.lto_priv.40
+ .text.onigenc_with_ascii_strncmp
+                0x0000000000002054       0x5b /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002054                onigenc_with_ascii_strncmp
+ .text.onigenc_str_bytelen_null
+                0x00000000000020af       0x4a /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000020af                onigenc_str_bytelen_null
+ .text.onigenc_strlen
+                0x00000000000020f9       0x31 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000020f9                onigenc_strlen
+ .text.onigenc_minimum_property_name_to_ctype
+                0x000000000000212a       0x5d /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000212a                onigenc_minimum_property_name_to_ctype
+ .text.onigenc_get_prev_char_head
+                0x0000000000002187       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002187                onigenc_get_prev_char_head
+ .text.forward_search_range
+                0x000000000000219f      0x597 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_is_in_code_range
+                0x0000000000002736       0x46 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002736                onig_is_in_code_range
+ .text.onig_is_code_in_cc_len
+                0x000000000000277c       0x4e /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_is_code_in_cc
+                0x00000000000027ca       0x39 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000027ca                onig_is_code_in_cc
+ .text.AllocatePool
+                0x0000000000002803       0x99 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002803                AllocatePool
+ .text.node_new.lto_priv.39
+                0x000000000000289c       0x2a /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000289c                node_new.lto_priv.39
+ .text.node_new_cclass.lto_priv.41
+                0x00000000000028c6       0x3c /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000028c6                node_new_cclass.lto_priv.41
+ .text.backward_search_range
+                0x0000000000002902      0x387 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.history_node_new
+                0x0000000000002c89       0x38 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x0000000000002cc1        0x3 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002cc1                DebugAssertEnabled
+ .text.DebugAssert
+                0x0000000000002cc4       0x5e /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002cc4                DebugAssert
+ .text.FreePool
+                0x0000000000002d22       0x51 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002d22                FreePool
+ .text.i_free_name_entry
+                0x0000000000002d73       0x61 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_st_insert_strend
+                0x0000000000002dd4      0x14c /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002dd4                onig_st_insert_strend
+ .text.bbuf_free.lto_priv.43
+                0x0000000000002f20       0x31 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002f20                bbuf_free.lto_priv.43
+ .text.onig_node_free
+                0x0000000000002f51       0xbd /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000002f51                onig_node_free
+ .text.noname_disable_map
+                0x000000000000300e       0xe2 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.history_tree_clear.lto_priv.38
+                0x00000000000030f0       0x6c /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000030f0                history_tree_clear.lto_priv.38
+ .text.onig_region_clear
+                0x000000000000315c       0x55 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.onig_free
+                0x00000000000031b1       0xd4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x0000000000003285       0xc7 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x0000000000003285                _ModuleEntryPoint
+ .text.CopyMem  0x000000000000334c      0x273 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000334c                CopyMem
+ .text.onig_strcpy
+                0x00000000000035bf       0x31 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000035bf                onig_strcpy
+ .text.bbuf_clone.lto_priv.47
+                0x00000000000035f0       0x8c /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000035f0                bbuf_clone.lto_priv.47
+ .text.onig_error_code_to_str
+                0x000000000000367c      0x317 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.concat_opt_exact_info.isra.17
+                0x0000000000003993       0xda /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.select_opt_exact_info
+                0x0000000000003a6d       0xa5 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.optimize_node_left
+                0x0000000000003b12      0xbd2 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.swap_node
+                0x00000000000046e4       0xa0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.setup_look_behind.isra.18
+                0x0000000000004784       0xc4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.RegularExpressionGetInfo
+                0x0000000000004848       0x8c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.ReallocatePool
+                0x00000000000048d4       0xe9 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000048d4                ReallocatePool
+ .text.scan_env_add_mem_entry.lto_priv.42
+                0x00000000000049bd       0xc6 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x00000000000049bd                scan_env_add_mem_entry.lto_priv.42
+ .text.make_capture_history_tree
+                0x0000000000004a83      0x185 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.stack_double
+                0x0000000000004c08      0x10a /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.match_at
+                0x0000000000004d12     0x3201 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.expand_case_fold_make_rem_string
+                0x0000000000007f13      0x1ad /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.expand_case_fold_string
+                0x00000000000080c0      0x527 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.setup_tree
+                0x00000000000085e7      0x827 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_bitset
+                0x0000000000008e0e       0x70 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_bytes
+                0x0000000000008e7e       0x75 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_mem_num
+                0x0000000000008ef3       0x78 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_rel_addr
+                0x0000000000008f6b       0x77 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_opcode
+                0x0000000000008fe2       0x5e /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_compile_string
+                0x0000000000009040       0x82 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.add_opcode_rel_addr
+                0x00000000000090c2       0x23 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.compile_tree
+                0x00000000000090e5     0x10d7 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.compile_tree_n_times
+                0x000000000000a1bc       0x32 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.compile_tree_empty_check
+                0x000000000000a1ee       0x92 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x000000000000a280       0x37 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x000000000000a2b7       0x4d /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.OnigurumaMatch
+                0x000000000000a304     0x1736 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.RegularExpressionMatch
+                0x000000000000ba3a      0x13f /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .text.UnicodeVSPrintAsciiFormat
+                0x000000000000bb79       0xe8 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000bb79                UnicodeVSPrintAsciiFormat
+ .text.BasePrintLibFillBuffer
+                0x000000000000bc61       0x28 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000bc61                BasePrintLibFillBuffer
+ .text.unlikely.ReadUnaligned16
+                0x000000000000bc89        0x4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000bc89                ReadUnaligned16
+ .text.AsciiStrnLenS
+                0x000000000000bc8d       0x26 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                0x000000000000bc8d                AsciiStrnLenS
+ .text.utf16le_left_adjust_char_head
+                0x000000000000bcb3       0x37 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.utf16le_code_to_mbc
+                0x000000000000bcea       0x56 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.utf16le_mbc_to_code
+                0x000000000000bd40       0x50 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.utf16le_is_mbc_newline
+                0x000000000000bd90       0x1a /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.utf16le_mbc_enc_len
+                0x000000000000bdaa        0xf /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.utf16le_code_to_mbclen
+                0x000000000000bdb9       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onigenc_unicode_apply_all_case_fold
+                0x000000000000bdc9      0x2ea /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.code3_hash
+                0x000000000000c0b3        0xa /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.code3_cmp
+                0x000000000000c0bd       0x26 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.code2_hash
+                0x000000000000c0e3        0x7 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.code2_cmp
+                0x000000000000c0ea       0x1c /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.init_code_range_array
+                0x000000000000c106      0x655 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onigenc_utf16_32_get_ctype_code_range
+                0x000000000000c75b       0x33 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.ascii_is_code_ctype
+                0x000000000000c78e       0x1c /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.numhash  0x000000000000c7aa        0x3 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.numcmp   0x000000000000c7ad        0x9 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.type_cclass_hash
+                0x000000000000c7b6       0x3f /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.type_cclass_cmp
+                0x000000000000c7f5       0x22 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.fetch_char_property_to_ctype
+                0x000000000000c817       0xb4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.fetch_escaped_value
+                0x000000000000c8cb      0x23d /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.popular_quantifier_num
+                0x000000000000cb08       0x6a /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.is_invalid_quantifier_target
+                0x000000000000cb72       0x52 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.scan_unsigned_octal_number
+                0x000000000000cbc4       0xa7 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.scan_unsigned_hexadecimal_number
+                0x000000000000cc6b       0xf4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onig_scan_unsigned_number
+                0x000000000000cd5f       0x9b /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.fetch_name
+                0x000000000000cdfa      0x25f /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.fetch_range_quantifier
+                0x000000000000d059      0x22b /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.node_new_quantifier
+                0x000000000000d284       0x5a /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onigenc_unicode_is_code_ctype
+                0x000000000000d2de       0x5c /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.add_code_range_to_buf
+                0x000000000000d33a      0x3c2 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.not_code_range_buf.isra.13
+                0x000000000000d6fc       0xa9 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.add_ctype_to_cc.isra.12
+                0x000000000000d7a5      0x3e4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.add_code_range.isra.9
+                0x000000000000db89       0x26 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.next_state_val
+                0x000000000000dbaf      0x18e /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.and_code_range_buf
+                0x000000000000dd3d      0x1bb /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.or_code_range_buf
+                0x000000000000def8      0x10e /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.and_cclass
+                0x000000000000e006      0x186 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.34
+                0x000000000000e18c      0xcb0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000000e18c                BasePrintLibSPrintMarker.constprop.34
+ .text.unlikely.BasePrintLibSPrint.constprop.35
+                0x000000000000ee3c       0xb8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.fetch_token_in_cc
+                0x000000000000eef4      0x64b /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.parse_char_class
+                0x000000000000f53f      0xb43 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.UnicodeSPrintAsciiFormat.constprop.33
+                0x0000000000010082       0x29 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010082                UnicodeSPrintAsciiFormat.constprop.33
+ .text.DebugPrint.constprop.27
+                0x00000000000100ab       0x61 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x00000000000100ab                DebugPrint.constprop.27
+ .text.InternalAllocatePool.constprop.24
+                0x000000000001010c       0x37 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000001010c                InternalAllocatePool.constprop.24
+ .text.InternalAllocateZeroPool.constprop.23
+                0x0000000000010143       0xeb /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010143                InternalAllocateZeroPool.constprop.23
+ .text.onig_st_init_table_with_size
+                0x000000000001022e       0x6b /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onig_region_free.constprop.20
+                0x0000000000010299       0x7f /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010299                onig_region_free.constprop.20
+ .text.node_new_list.constprop.15
+                0x0000000000010318       0x22 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010318                node_new_list.constprop.15
+ .text.onig_st_foreach
+                0x000000000001033a       0xfe /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000001033a                onig_st_foreach
+ .text.rehash.lto_priv.48
+                0x0000000000010438       0xa4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010438                rehash.lto_priv.48
+ .text.onig_st_add_direct
+                0x00000000000104dc       0x90 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.init_case_fold_table
+                0x000000000001056c      0x1ef /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onig_st_lookup
+                0x000000000001075b       0xa2 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000001075b                onig_st_lookup
+ .text.utf16le_get_case_fold_codes_by_str
+                0x00000000000107fd      0x549 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.utf16le_mbc_case_fold
+                0x0000000000010d46       0xf8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onigenc_unicode_property_name_to_ctype
+                0x0000000000010e3e       0xf0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.onig_st_free_table
+                0x0000000000010f2e       0x5d /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010f2e                onig_st_free_table
+ .text.onigenc_end_unicode
+                0x0000000000010f8b       0x51 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.fetch_token.lto_priv.52
+                0x0000000000010fdc     0x1084 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000010fdc                fetch_token.lto_priv.52
+ .text.onig_reduce_nested_quantifier
+                0x0000000000012060      0x13d /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000012060                onig_reduce_nested_quantifier
+ .text.onig_node_str_cat
+                0x000000000001219d      0x12a /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000001219d                onig_node_str_cat
+ .text.node_new_str.lto_priv.50
+                0x00000000000122c7       0x55 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x00000000000122c7                node_new_str.lto_priv.50
+ .text.node_new_enclose.lto_priv.49
+                0x000000000001231c       0x37 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000001231c                node_new_enclose.lto_priv.49
+ .text.onig_node_new_anchor
+                0x0000000000012353       0x27 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000012353                onig_node_new_anchor
+ .text.onig_node_new_alt
+                0x000000000001237a       0x25 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x000000000001237a                onig_node_new_alt
+ .text.parse_exp
+                0x000000000001239f     0x1369 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.parse_branch
+                0x0000000000013708       0xfe /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .text.parse_subexp.lto_priv.51
+                0x0000000000013806      0x111 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000013806                parse_subexp.lto_priv.51
+ .text.i_apply_case_fold
+                0x0000000000013917      0x155 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.onig_error_code_to_format.str1.1
+                0x0000000000013a6c      0x706 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x0000000000014172        0x2 
+ .rodata.subexp_recursive_check
+                0x0000000000014174       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.subexp_recursive_check_trav
+                0x000000000001418c       0x14 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.check_type_tree
+                0x00000000000141a0       0x14 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.get_head_value_node
+                0x00000000000141b4       0x24 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.quantifiers_memory_node_info
+                0x00000000000141d8       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.numbered_ref_check
+                0x00000000000141f0       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.renumber_by_map
+                0x0000000000014208       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.compile_length_tree
+                0x0000000000014220       0x2c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.get_min_match_length
+                0x000000000001424c       0x2c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.subexp_inf_recursive_check
+                0x0000000000014278       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.subexp_inf_recursive_check_trav
+                0x0000000000014290       0x14 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.get_char_length_tree1
+                0x00000000000142a4       0x2c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.get_max_match_length
+                0x00000000000142d0       0x2c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.sprint_byte.str1.1
+                0x00000000000142fc      0x706 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                                          0x5 (size before relaxing)
+ .rodata.setup_subexp_call
+                0x00000000000142fc       0x18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.sprint_byte_with_x.lto_priv.40.str1.1
+                0x0000000000014314        0x7 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x000000000001431b        0x1 
+ .rodata.forward_search_range
+                0x000000000001431c       0x14 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.backward_search_range
+                0x0000000000014330       0x14 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x0000000000014344       0x2d /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.FreePool.str1.1
+                0x0000000000014371       0x99 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x000000000001440a        0x2 
+ .rodata.onig_node_free
+                0x000000000001440c       0x28 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x0000000000014434       0xaf /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x00000000000144e3       0xd6 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.onig_error_code_to_str.str1.1
+                0x00000000000145b9        0x4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x00000000000145bd        0x3 
+ .rodata.optimize_node_left
+                0x00000000000145c0       0x2c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.match_at
+                0x00000000000145ec      0x144 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.setup_tree
+                0x0000000000014730       0x28 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.compile_tree
+                0x0000000000014758       0x2c /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.ReadUnaligned64.str1.1
+                0x0000000000014784       0x61 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.OnigurumaMatch.str1.1
+                0x00000000000147e5       0x9f /tmp/ccy9Ulln.ltrans0.ltrans.o
+                                         0xa0 (size before relaxing)
+ .rodata.UnicodeVSPrintAsciiFormat.str1.1
+                0x0000000000014884       0x76 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.CSWTCH.225
+                0x00000000000148fa        0x5 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.CSWTCH.226
+                0x00000000000148ff        0x3 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x0000000000014902       0x1e 
+ .rodata.dist_vals.10713
+                0x0000000000014920       0xc8 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x00000000000149e8       0x18 
+ .rodata.clean_info.10850
+                0x0000000000014a00      0x114 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x0000000000014b14        0xc 
+ .rodata.ByteValTable.10709
+                0x0000000000014b20      0x100 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.OnigAsciiLowerMap
+                0x0000000000014c20      0x1a0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000014dc0       0x48 /tmp/ccy9Ulln.ltrans0.ltrans.o
+                                         0x54 (size before relaxing)
+ .rodata.fetch_escaped_value
+                0x0000000000014e08       0x58 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.34.str1.1
+                0x0000000000014e60      0x20a /tmp/ccy9Ulln.ltrans1.ltrans.o
+                                        0x221 (size before relaxing)
+ .rodata.parse_char_class.str1.1
+                0x000000000001506a        0x3 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001506d        0x3 
+ .rodata.parse_char_class
+                0x0000000000015070       0x60 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.UnicodeSPrintAsciiFormat.constprop.33.str1.1
+                0x00000000000150d0       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.InternalAllocateZeroPool.constprop.23.str1.1
+                0x00000000000150d0       0x8b /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001515b        0x1 
+ .rodata.fetch_token.lto_priv.52
+                0x000000000001515c      0x158 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.onig_reduce_nested_quantifier
+                0x00000000000152b4       0x1c /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.parse_exp
+                0x00000000000152d0       0x4c /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x000000000001531c      0x4f7 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                                        0x562 (size before relaxing)
+ *fill*         0x0000000000015813        0xd 
+ .rodata.ReduceTypeTable
+                0x0000000000015820       0x90 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000158b0       0x10 
+ .rodata.primes
+                0x00000000000158c0       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000159a8       0x18 
+ .rodata.OnigEncAsciiCtypeTable
+                0x00000000000159c0      0x200 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.CR_Yi  0x0000000000015bc0       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015be8       0x18 
+ .rodata.CR_Ugaritic
+                0x0000000000015c00       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015c28       0x18 
+ .rodata.CR_Tifinagh
+                0x0000000000015c40       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015c68       0x18 
+ .rodata.CR_Tibetan
+                0x0000000000015c80       0x78 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015cf8        0x8 
+ .rodata.CR_Thai
+                0x0000000000015d00       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015d28        0x8 
+ .rodata.CR_Thaana
+                0x0000000000015d30       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015d48       0x18 
+ .rodata.CR_Telugu
+                0x0000000000015d60       0xc8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015e28       0x18 
+ .rodata.CR_Tamil
+                0x0000000000015e40       0xf8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015f38        0x8 
+ .rodata.CR_Tai_Le
+                0x0000000000015f40       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015f68       0x18 
+ .rodata.CR_Tagbanwa
+                0x0000000000015f80       0x38 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015fb8        0x8 
+ .rodata.CR_Tagalog
+                0x0000000000015fc0       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000015fe8       0x18 
+ .rodata.CR_Syriac
+                0x0000000000016000       0x38 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016038        0x8 
+ .rodata.CR_Syloti_Nagri
+                0x0000000000016040       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016058        0x8 
+ .rodata.CR_Sinhala
+                0x0000000000016060       0xb8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016118        0x8 
+ .rodata.CR_Shavian
+                0x0000000000016120       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016138        0x8 
+ .rodata.CR_Runic
+                0x0000000000016140       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016168       0x18 
+ .rodata.CR_Osmanya
+                0x0000000000016180       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000161a8       0x18 
+ .rodata.CR_Oriya
+                0x00000000000161c0       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000162a8       0x18 
+ .rodata.CR_Old_Persian
+                0x00000000000162c0       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000162e8       0x18 
+ .rodata.CR_Old_Italic
+                0x0000000000016300       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016328        0x8 
+ .rodata.CR_Ogham
+                0x0000000000016330       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016348       0x18 
+ .rodata.CR_New_Tai_Lue
+                0x0000000000016360       0x48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000163a8       0x18 
+ .rodata.CR_Myanmar
+                0x00000000000163c0       0x68 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016428       0x18 
+ .rodata.CR_Mongolian
+                0x0000000000016440       0x48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016488       0x18 
+ .rodata.CR_Malayalam
+                0x00000000000164a0       0xb8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016558        0x8 
+ .rodata.CR_Linear_B
+                0x0000000000016560       0x78 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000165d8        0x8 
+ .rodata.CR_Limbu
+                0x00000000000165e0       0x58 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016638        0x8 
+ .rodata.CR_Latin
+                0x0000000000016640      0x178 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000167b8        0x8 
+ .rodata.CR_Lao
+                0x00000000000167c0      0x128 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000168e8       0x18 
+ .rodata.CR_Khmer
+                0x0000000000016900       0x48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016948       0x18 
+ .rodata.CR_Kharoshthi
+                0x0000000000016960       0x88 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000169e8       0x18 
+ .rodata.CR_Katakana
+                0x0000000000016a00       0x58 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016a58        0x8 
+ .rodata.CR_Kannada
+                0x0000000000016a60       0xd8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016b38        0x8 
+ .rodata.CR_Inherited
+                0x0000000000016b40       0xf8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016c38        0x8 
+ .rodata.CR_Hiragana
+                0x0000000000016c40       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016c68       0x18 
+ .rodata.CR_Hebrew
+                0x0000000000016c80       0xa8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016d28        0x8 
+ .rodata.CR_Hanunoo
+                0x0000000000016d30       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016d48       0x18 
+ .rodata.CR_Hangul
+                0x0000000000016d60       0xc8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016e28       0x18 
+ .rodata.CR_Han
+                0x0000000000016e40       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000016f28       0x18 
+ .rodata.CR_Gurmukhi
+                0x0000000000016f40       0xf8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017038        0x8 
+ .rodata.CR_Gujarati
+                0x0000000000017040       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017128       0x18 
+ .rodata.CR_Greek
+                0x0000000000017140      0x1f8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017338        0x8 
+ .rodata.CR_Gothic
+                0x0000000000017340       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017358        0x8 
+ .rodata.CR_Glagolitic
+                0x0000000000017360       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017388       0x18 
+ .rodata.CR_Georgian
+                0x00000000000173a0       0x48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000173e8       0x18 
+ .rodata.CR_Ethiopic
+                0x0000000000017400      0x1b8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000175b8        0x8 
+ .rodata.CR_Devanagari
+                0x00000000000175c0       0x68 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017628        0x8 
+ .rodata.CR_Deseret
+                0x0000000000017630       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017648       0x18 
+ .rodata.CR_Cyrillic
+                0x0000000000017660       0x68 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000176c8       0x18 
+ .rodata.CR_Cypriot
+                0x00000000000176e0       0x68 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017748       0x18 
+ .rodata.CR_Coptic
+                0x0000000000017760       0x38 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017798        0x8 
+ .rodata.CR_Common
+                0x00000000000177a0      0x7e8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017f88        0x8 
+ .rodata.CR_Cherokee
+                0x0000000000017f90       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017fa8        0x8 
+ .rodata.CR_Canadian_Aboriginal
+                0x0000000000017fb0       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017fc8        0x8 
+ .rodata.CR_Buhid
+                0x0000000000017fd0       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000017fe8       0x18 
+ .rodata.CR_Buginese
+                0x0000000000018000       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018028        0x8 
+ .rodata.CR_Braille
+                0x0000000000018030       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018048       0x18 
+ .rodata.CR_Bopomofo
+                0x0000000000018060       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018088       0x18 
+ .rodata.CR_Bengali
+                0x00000000000180a0       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018188       0x18 
+ .rodata.CR_Armenian
+                0x00000000000181a0       0x58 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000181f8        0x8 
+ .rodata.CR_Arabic
+                0x0000000000018200      0x118 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018318        0x8 
+ .rodata.CR_Zs  0x0000000000018320       0x88 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000183a8        0x8 
+ .rodata.CR_Zp  0x00000000000183b0       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000183c8        0x8 
+ .rodata.CR_Zl  0x00000000000183d0       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000183e8       0x18 
+ .rodata.CR_Z   0x0000000000018400       0x98 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018498        0x8 
+ .rodata.CR_So  0x00000000000184a0      0x788 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018c28       0x18 
+ .rodata.CR_Sm  0x0000000000018c40      0x3b8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000018ff8        0x8 
+ .rodata.CR_Sk  0x0000000000019000      0x178 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000019178        0x8 
+ .rodata.CR_Sc  0x0000000000019180       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000019268       0x18 
+ .rodata.CR_S   0x0000000000019280      0xa28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000019ca8       0x18 
+ .rodata.CR_Ps  0x0000000000019cc0      0x438 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001a0f8        0x8 
+ .rodata.CR_Po  0x000000000001a100      0x588 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001a688       0x18 
+ .rodata.CR_Pi  0x000000000001a6a0       0xa8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001a748       0x18 
+ .rodata.CR_Pf  0x000000000001a760       0x98 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001a7f8        0x8 
+ .rodata.CR_Pe  0x000000000001a800      0x418 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001ac18        0x8 
+ .rodata.CR_Pd  0x000000000001ac20       0xc8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001ace8       0x18 
+ .rodata.CR_Pc  0x000000000001ad00       0x68 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001ad68       0x18 
+ .rodata.CR_P   0x000000000001ad80      0x608 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001b388       0x18 
+ .rodata.CR_No  0x000000000001b3a0      0x1a8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001b548       0x18 
+ .rodata.CR_Nl  0x000000000001b560       0x88 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001b5e8       0x18 
+ .rodata.CR_Nd  0x000000000001b600      0x178 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001b778        0x8 
+ .rodata.CR_N   0x000000000001b780      0x358 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001bad8        0x8 
+ .rodata.CR_Mn  0x000000000001bae0      0x7c8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001c2a8       0x18 
+ .rodata.CR_Me  0x000000000001c2c0       0x48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001c308       0x18 
+ .rodata.CR_Mc  0x000000000001c320      0x3f8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001c718        0x8 
+ .rodata.CR_M   0x000000000001c720      0x858 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001cf78        0x8 
+ .rodata.CR_Lu  0x000000000001cf80     0x1dc8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001ed48       0x18 
+ .rodata.CR_Lt  0x000000000001ed60       0xa8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001ee08       0x18 
+ .rodata.CR_Lo  0x000000000001ee20      0xf58 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001fd78        0x8 
+ .rodata.CR_Lm  0x000000000001fd80      0x1a8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000001ff28       0x18 
+ .rodata.CR_Ll  0x000000000001ff40     0x1e08 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000021d48       0x18 
+ .rodata.CR_L   0x0000000000021d60     0x15b8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000023318        0x8 
+ .rodata.CR_Cs  0x0000000000023320       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000023338        0x8 
+ .rodata.CR_Co  0x0000000000023340       0x38 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000023378        0x8 
+ .rodata.CR_Cn  0x0000000000023380     0x1a48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000024dc8       0x18 
+ .rodata.CR_Cf  0x0000000000024de0       0xe8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000024ec8       0x18 
+ .rodata.CR_Cc  0x0000000000024ee0       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000024f08       0x18 
+ .rodata.CR_C   0x0000000000024f20     0x1a68 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000026988       0x18 
+ .rodata.CR_Assigned
+                0x00000000000269a0     0x1a48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000283e8        0x8 
+ .rodata.CR_Any
+                0x00000000000283f0       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000028408        0x8 
+ .rodata.CR_ASCII
+                0x0000000000028410       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000028428       0x18 
+ .rodata.CR_Alnum
+                0x0000000000028440     0x1b48 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000029f88       0x18 
+ .rodata.CR_Word
+                0x0000000000029fa0     0x1d08 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000002bca8       0x18 
+ .rodata.CR_XDigit
+                0x000000000002bcc0       0x38 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000002bcf8        0x8 
+ .rodata.CR_Upper
+                0x000000000002bd00     0x1dc8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000002dac8       0x18 
+ .rodata.CR_Space
+                0x000000000002dae0       0xb8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000002db98        0x8 
+ .rodata.CR_Punct
+                0x000000000002dba0      0x608 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000002e1a8       0x18 
+ .rodata.CR_Print
+                0x000000000002e1c0     0x1a78 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000002fc38        0x8 
+ .rodata.CR_Lower
+                0x000000000002fc40     0x1e08 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000031a48       0x18 
+ .rodata.CR_Graph
+                0x0000000000031a60     0x1a88 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000334e8       0x18 
+ .rodata.CR_Digit
+                0x0000000000033500      0x178 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000033678        0x8 
+ .rodata.CR_Cntrl
+                0x0000000000033680      0x138 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000337b8        0x8 
+ .rodata.CR_Blank
+                0x00000000000337c0       0x98 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000033858        0x8 
+ .rodata.CR_Alpha
+                0x0000000000033860     0x1a28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000035288        0x8 
+ .rodata.CR_NEWLINE
+                0x0000000000035290       0x18 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000352a8       0x18 
+ .rodata.EncUNICODE_ISO_8859_1_CtypeTable
+                0x00000000000352c0      0x200 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.CaseFold_Locale
+                0x00000000000354c0       0x50 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000035510       0x10 
+ .rodata.CaseFold
+                0x0000000000035520     0x98f8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000003ee18        0x8 
+ .rodata.CaseUnfold_13
+                0x000000000003ee20      0x2a0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.CaseUnfold_12_Locale
+                0x000000000003f0c0       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000003f0e8       0x18 
+ .rodata.CaseUnfold_12
+                0x000000000003f100      0x910 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000003fa10       0x10 
+ .rodata.CaseUnfold_11_Locale
+                0x000000000003fa20       0x28 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000003fa48       0x18 
+ .rodata.CaseUnfold_11
+                0x000000000003fa60     0x85c0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.EncLen_UTF16
+                0x0000000000048020      0x400 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .rodata.OnigEncAsciiToLowerCaseTable
+                0x0000000000048420      0x100 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000048420                OnigEncAsciiToLowerCaseTable
+ .rodata.mHexStr
+                0x0000000000048520       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000048530        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .got.plt       0x0000000000048530        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+                0x0000000000048530                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000048530        0x0
+ .plt           0x0000000000048530        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000048530        0x0
+ .plt.got       0x0000000000048530        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.data           0x0000000000048540     0x10b0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local.mProtocolInstance
+                0x0000000000048540       0x10 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data.gEfiRegularExpressionProtocolGuid
+                0x0000000000048550       0x10 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data.OnigSyntaxPerl
+                0x0000000000048560       0x40 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data.OnigSyntaxPosixExtended
+                0x00000000000485a0       0x40 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data.gEfiRegexSyntaxTypePerlGuid
+                0x00000000000485e0       0x10 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data.gEfiRegexSyntaxTypePosixExtendedGuid
+                0x00000000000485f0       0x10 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .data.rel.local.PBS.9586
+                0x0000000000048600       0xf0 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x00000000000486f0       0x10 
+ .data.rel.local.PBS.10813
+                0x0000000000048700       0xf0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data.rel.local.type_type_cclass_hash
+                0x00000000000487f0       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data.rel.local.hashType.9736
+                0x0000000000048800       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000048810       0x10 
+ .data.rel.local.HashEntryData
+                0x0000000000048820      0x740 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data.rel.local.type_numhash
+                0x0000000000048f60       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data.rel.local.type_code3_hash
+                0x0000000000048f70       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data.rel.local.type_code2_hash
+                0x0000000000048f80       0x10 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x0000000000048f90       0x10 
+ .data.rel.local.OnigEncodingUTF16_LE
+                0x0000000000048fa0       0x78 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000048fa0                OnigEncodingUTF16_LE
+ *fill*         0x0000000000049018        0x8 
+ .data.rel.local.OnigEncodingASCII
+                0x0000000000049020       0x78 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x0000000000049020                OnigEncodingASCII
+ *fill*         0x0000000000049098        0x8 
+ .data.rel.ro.local.mStatusString
+                0x00000000000490a0      0x138 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .data.rel.ro   0x00000000000491d8        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.gImageHandle
+                0x00000000000491d8        0x8 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .bss.onig_inited
+                0x00000000000491e0        0x4 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .bss.FinishCode.9546
+                0x00000000000491e4        0x1 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ *fill*         0x00000000000491e5        0x3 
+ .bss.FreeNodeList
+                0x00000000000491e8        0x8 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .bss.OnigTypeCClassTable
+                0x00000000000491f0        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000491f8        0x8 
+ .bss.CodeRanges
+                0x0000000000049200      0x398 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.CodeRangeTableInited
+                0x0000000000049598        0x4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x000000000004959c        0x4 
+ .bss.NameCtypeTable
+                0x00000000000495a0        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.NameTableInited
+                0x00000000000495a8        0x4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000495ac        0x4 
+ .bss.EndCallTop
+                0x00000000000495b0        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.Unfold3Table
+                0x00000000000495b8        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.Unfold2Table
+                0x00000000000495c0        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.Unfold1Table
+                0x00000000000495c8        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.FoldTable
+                0x00000000000495d0        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ .bss.CaseFoldInited
+                0x00000000000495d8        0x4 /tmp/ccy9Ulln.ltrans1.ltrans.o
+ *fill*         0x00000000000495dc        0x4 
+ .bss.gBS       0x00000000000495e0        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x00000000000495e0                gBS
+ .bss.gST       0x00000000000495e8        0x8 /tmp/ccy9Ulln.ltrans1.ltrans.o
+                0x00000000000495e8                gST
+
+.eh_frame       0x0000000000049600        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000049600        0x0
+ .dynbss        0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000049600        0x0
+ .gnu.version_d
+                0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000049600        0x0
+ .gnu.version   0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000049600        0x0
+ .gnu.version_r
+                0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.rela           0x0000000000049600     0x14d0
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.got      0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000049600        0x0 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.mProtocolInstance
+                0x0000000000049600       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.PBS.9586
+                0x0000000000049630      0x150 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.PBS.10813
+                0x0000000000049780      0x150 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.type_type_cclass_hash
+                0x00000000000498d0       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.hashType.9736
+                0x0000000000049900       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.HashEntryData
+                0x0000000000049930      0xac8 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.type_numhash
+                0x000000000004a3f8       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.type_code3_hash
+                0x000000000004a428       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.type_code2_hash
+                0x000000000004a458       0x30 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.OnigEncodingUTF16_LE
+                0x000000000004a488      0x150 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.local.OnigEncodingASCII
+                0x000000000004a5d8      0x150 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x000000000004a728      0x3a8 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000004aad0       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000004aad0       0x24 BaseDebugPrintErrorLevelLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/RegularExpressionDxe/RegularExpressionDxe/DEBUG/RegularExpressionDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x1ff2c
+ .debug_info    0x0000000000000000    0x1291e /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_info    0x000000000001291e     0xd60e /tmp/ccy9Ulln.ltrans1.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0xfec
+ .debug_abbrev  0x0000000000000000      0x85a /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000085a      0x792 /tmp/ccy9Ulln.ltrans1.ltrans.o
+
+.debug_loc      0x0000000000000000    0x2d4e3
+ .debug_loc     0x0000000000000000    0x1afcc /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_loc     0x000000000001afcc    0x12517 /tmp/ccy9Ulln.ltrans1.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xc10
+ .debug_aranges
+                0x0000000000000000      0x780 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000780      0x490 /tmp/ccy9Ulln.ltrans1.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x4cc0
+ .debug_ranges  0x0000000000000000     0x3420 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000003420     0x18a0 /tmp/ccy9Ulln.ltrans1.ltrans.o
+
+.debug_line     0x0000000000000000     0x5287
+ .debug_line    0x0000000000000000     0x2fe5 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_line    0x0000000000002fe5     0x22a2 /tmp/ccy9Ulln.ltrans1.ltrans.o
+
+.debug_str      0x0000000000000000     0x5697
+ .debug_str     0x0000000000000000     0x3c6d /tmp/ccy9Ulln.ltrans0.ltrans.o
+                                       0x41ae (size before relaxing)
+ .debug_str     0x0000000000003c6d     0x1a2a /tmp/ccy9Ulln.ltrans1.ltrans.o
+                                       0x39fc (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3018
+ .debug_frame   0x0000000000000000     0x1d18 /tmp/ccy9Ulln.ltrans0.ltrans.o
+ .debug_frame   0x0000000000001d18     0x1300 /tmp/ccy9Ulln.ltrans1.ltrans.o

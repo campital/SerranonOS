@@ -1,0 +1,717 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib(HobLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib(PeiServicesLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiServicesTablePointerLib/PeiServicesTablePointerLib/OUTPUT/PeiServicesTablePointerLib.lib(PeiServicesTablePointer.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib(PeCoffExtraActionLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib(PeCoffGetEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib(PerformanceLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiCoreEntryPoint/PeiCoreEntryPoint/OUTPUT/PeiCoreEntryPoint.lib(PeiCoreEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseCacheMaintenanceLib/BaseCacheMaintenanceLib/OUTPUT/BaseCacheMaintenanceLib.lib(X86Cache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib(BasePeCoff.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib(PeCoffLoaderEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(StatusCode.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Security.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Reset.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Ppi.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(PeiMain.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(MemoryServices.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Image.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Hob.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(FwVol.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Dispatcher.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(Dependency.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(BootMode.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(CpuIo.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(PciCfg2.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiLoadFixAddressIsMemoryRangeAvailable
+                0x0000000000000000       0x48 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PerformanceMeasurementEnabled
+                0x0000000000000000        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.BuildResourceDescriptorHob.constprop.20
+                0x0000000000000000       0x5a /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .bss._gPcd_BinaryPatch_PcdLoadFixAddressPeiCodePageNumber
+                0x0000000000000000        0x4 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .bss._gPcd_BinaryPatch_PcdLoadFixAddressRuntimeCodePageNumber
+                0x0000000000000000        0x4 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .bss._gPcd_BinaryPatch_PcdLoadFixAddressBootTimeCodePageNumber
+                0x0000000000000000        0x4 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccgpyFE4.ltrans0.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiServicesTablePointerLib/PeiServicesTablePointerLib/OUTPUT/PeiServicesTablePointerLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/PeiCoreEntryPoint/PeiCoreEntryPoint/OUTPUT/PeiCoreEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseCacheMaintenanceLib/BaseCacheMaintenanceLib/OUTPUT/BaseCacheMaintenanceLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x65d0
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.ReadUnaligned64
+                0x0000000000000240        0x4 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiImageReadForShadow
+                0x0000000000000244       0x28 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultPciCfg2Modify
+                0x000000000000026c        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultPciCfg2Read
+                0x0000000000000277        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultPciCfg2Write
+                0x0000000000000282        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite64
+                0x000000000000028d        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite64
+                0x000000000000028e        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite32
+                0x000000000000028f        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite32
+                0x0000000000000290        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite16
+                0x0000000000000291        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite16
+                0x0000000000000292        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite8
+                0x0000000000000293        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite8
+                0x0000000000000294        0x1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead64
+                0x0000000000000295        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead64
+                0x0000000000000298        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead32
+                0x000000000000029b        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead32
+                0x000000000000029e        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead16
+                0x00000000000002a1        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead16
+                0x00000000000002a4        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead8
+                0x00000000000002a7        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead8
+                0x00000000000002aa        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemRead
+                0x00000000000002ad        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoWrite
+                0x00000000000002b8        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultIoRead
+                0x00000000000002c3        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiDefaultMemWrite
+                0x00000000000002ce        0xb /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiSetBootMode
+                0x00000000000002d9        0xd /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiGetBootMode
+                0x00000000000002e6       0x1e /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiProcessVolume
+                0x0000000000000304       0x15 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiGetHobList
+                0x0000000000000319        0xd /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiCreateHob
+                0x0000000000000326       0x8b /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiInstallPeiMemory
+                0x00000000000003b1       0x2f /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiLocatePpi
+                0x00000000000003e0       0x7a /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ConvertSinglePpiPointer
+                0x000000000000045a       0x68 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.VerifyPeim
+                0x00000000000004c2       0x65 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.SecurityPpiNotifyCallback
+                0x0000000000000527       0x18 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeCoffLoaderImageAddress
+                0x000000000000053f       0x20 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeCoffLoaderGetPeHeaderMagicValue
+                0x000000000000055f       0x17 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeCoffLoaderGetImageInfo
+                0x0000000000000576      0x936 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeCoffLoaderGetMachineType
+                0x0000000000000eac       0x28 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.GetPeiServicesTablePointer
+                0x0000000000000ed4        0x8 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.DispatchNotify.constprop.12
+                0x0000000000000edc       0xd6 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ProcessNotifyList
+                0x0000000000000fb2       0x5b /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalPeiNotifyPpi
+                0x000000000000100d      0x105 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiNotifyPpi
+                0x0000000000001112       0x9e /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiReInstallPpi
+                0x00000000000011b0      0x104 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalPeiInstallPpi
+                0x00000000000012b4       0x99 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiInstallPpi
+                0x000000000000134d       0x9e /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiRegisterForShadow
+                0x00000000000013eb       0x4a /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.FvHandleToCoreHandle
+                0x0000000000001435       0x32 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsGetVolumeInfo
+                0x0000000000001467      0x125 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFindFileByName
+                0x000000000000158c      0x103 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.FileHandleToVolume
+                0x000000000000168f       0x6d /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsGetFileInfo2
+                0x00000000000016fc      0x154 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsGetFileInfo
+                0x0000000000001850      0x138 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFindSectionData3
+                0x0000000000001988      0x140 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFindSectionData
+                0x0000000000001ac8      0x124 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiAllocatePool
+                0x0000000000001bec       0x4e /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x0000000000001c3a       0x42 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x0000000000001c7c       0x27 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.CopyMem.part.0
+                0x0000000000001ca3      0x208 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.CopyMem  0x0000000000001eab        0xe /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiImageRead
+                0x0000000000001eb9       0x21 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiGetFileInfo
+                0x0000000000001eda      0x1bc /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiGetFileInfo2
+                0x0000000000002096      0x10a /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.MigrateMemoryPages
+                0x00000000000021a0       0xad /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalMemSetMem
+                0x000000000000224d       0xce /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.SetMem   0x000000000000231b       0x12 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ZeroMem  0x000000000000232d       0x11 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiGetVolumeInfo
+                0x000000000000233e       0xb2 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiServicesAllocatePages
+                0x00000000000023f0       0x22 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiLoadImageLoadImage.constprop.1
+                0x0000000000002412      0xc23 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiLoadImageLoadImageWrapper
+                0x0000000000003035       0xaf /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiServicesNotifyPpi
+                0x00000000000030e4       0x1d /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiServicesLocatePpi
+                0x0000000000003101       0x26 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiLoadImage.constprop.11
+                0x0000000000003127      0x11a /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.IsPpiInstalled.constprop.10
+                0x0000000000003241       0x45 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeimDispatchReadiness
+                0x0000000000003286      0x111 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiResetSystem2
+                0x0000000000003397       0x49 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiResetSystem
+                0x00000000000033e0       0x40 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiReportStatusCode
+                0x0000000000003420       0x70 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiServicesReInstallPpi
+                0x0000000000003490       0x20 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiServicesInstallPpi
+                0x00000000000034b0       0x1d /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalCheckFvAlignment
+                0x00000000000034cd       0x30 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalPeiCreateHob
+                0x00000000000034fd       0x39 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.GetNextHob
+                0x0000000000003536       0x1c /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.GetHobList
+                0x0000000000003552       0x22 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ProcessSection
+                0x0000000000003574      0x400 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindSectionByType2
+                0x0000000000003974      0x17e /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindSectionByType
+                0x0000000000003af2       0x26 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.GetFirstHob
+                0x0000000000003b18       0x1c /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalBuildMemoryAllocationHob
+                0x0000000000003b34       0xa6 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.UpdateOrSplitMemoryAllocationHob
+                0x0000000000003bda       0x5b /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFreePages
+                0x0000000000003c35      0x1e5 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiAllocatePages
+                0x0000000000003e1a      0x2a4 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ReadUnaligned32
+                0x00000000000040be        0x3 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.CpuDeadLoop
+                0x00000000000040c1       0x1c /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.CalculateSum8
+                0x00000000000040dd       0x14 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.AllocatePool
+                0x00000000000040f1       0x36 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.AllocateCopyPool.constprop.24
+                0x0000000000004127       0x36 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x000000000000415d       0x2a /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.InternalPeiServicesInstallFvInfoPpi
+                0x0000000000004187       0xda /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.FindNextCoreFvHandle
+                0x0000000000004261       0x14 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFindNextVolume
+                0x0000000000004275       0xd2 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ProcessFvFile
+                0x0000000000004347      0x4b6 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.ThirdPartyFvPpiNotifyCallback
+                0x00000000000047fd      0x262 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.FirmwareVolmeInfoPpiNotifyCallback
+                0x0000000000004a5f      0x2da /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.FindFileEx.constprop.0
+                0x0000000000004d39      0x293 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindFileByName
+                0x0000000000004fcc      0x169 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFvPpiFindFileByType
+                0x0000000000005135       0xa1 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiFfsFindNextFile
+                0x00000000000051d6      0x106 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.SwitchStack.constprop.23
+                0x00000000000052dc       0x24 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiCore  0x0000000000005300     0x1108 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiCoreEntry
+                0x0000000000006408        0xe /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text.PeiCheckAndSwitchStack
+                0x0000000000006416      0x362 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x0000000000006778        0xc /tmp/ccgpyFE4.ltrans0.ltrans.o
+                0x0000000000006778                _ModuleEntryPoint
+ *fill*         0x0000000000006784        0xc 
+ .text          0x0000000000006790        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                0x0000000000006790                InternalSwitchStack
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x000000000000679f        0x1 
+ .rodata.PeiLoadImageLoadImage.constprop.1
+                0x00000000000067a0       0x2c /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .rodata.PeimDispatchReadiness
+                0x00000000000067cc       0x1c /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .rodata.mFvAttributes
+                0x00000000000067e8        0x8 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .rodata.mFvAttributes2
+                0x00000000000067f0        0x8 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *(.got .got.*)
+ .got           0x00000000000067f8        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x00000000000067f8       0x18 PcdLib.obj (symbol from plugin)
+                0x00000000000067f8                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000006810        0x0
+ .plt           0x0000000000006810        0x0 PcdLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000006810        0x0
+ .plt.got       0x0000000000006810        0x0 PcdLib.obj (symbol from plugin)
+
+.data           0x0000000000006840      0x4a8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiPeiSecurity2PpiGuid
+                0x0000000000006840       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.rel.local.mPeiLoadImagePpi
+                0x0000000000006850        0x8 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006858        0x8 
+ .data.gEfiPeiMemoryDiscoveredPpiGuid
+                0x0000000000006860       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006870       0x10 
+ .data.rel.local.gPeiDefaultPciCfg2Ppi
+                0x0000000000006880       0x20 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.rel.local.gPeiDefaultCpuIoPpi
+                0x00000000000068a0       0xa0 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiFirmwareVolumeInfoPpiGuid
+                0x0000000000006940       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiStatusCodePpiGuid
+                0x0000000000006950       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiResetPpiGuid
+                0x0000000000006960       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiReset2PpiGuid
+                0x0000000000006970       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.rel.local.mNotifyList
+                0x0000000000006980       0x18 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006998        0x8 
+ .data.rel.local.mNotifyOnFvInfoList
+                0x00000000000069a0       0x30 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x00000000000069d0       0x10 
+ .data.rel.local.mPeiFfs3FwVol
+                0x00000000000069e0       0x58 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006a38        0x8 
+ .data.rel.local.mPeiFfs3FvPpiList
+                0x0000000000006a40       0x18 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006a58        0x8 
+ .data.rel.local.mPeiFfs2FwVol
+                0x0000000000006a60       0x58 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006ab8        0x8 
+ .data.rel.local.mPeiFfs2FvPpiList
+                0x0000000000006ac0       0x18 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006ad8        0x8 
+ .data.rel.local.gPpiLoadFilePpiList
+                0x0000000000006ae0       0x18 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006af8        0x8 
+ .data.gEfiSecHobDataPpiGuid
+                0x0000000000006b00       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiDxeIplPpiGuid
+                0x0000000000006b10       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.rel.local.mMemoryDiscoveredPpi
+                0x0000000000006b20       0x18 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006b38        0x8 
+ .data.gEfiTemporaryRamDonePpiGuid
+                0x0000000000006b40       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006b50       0x10 
+ .data.rel.local.gPs
+                0x0000000000006b60       0xf8 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ *fill*         0x0000000000006c58        0x8 
+ .data.gEfiFirmwareFileSystem2Guid
+                0x0000000000006c60       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiFirmwareVolumeInfo2PpiGuid
+                0x0000000000006c70       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiDecompressPpiGuid
+                0x0000000000006c80       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiHobMemoryAllocStackGuid
+                0x0000000000006c90       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiTemporaryRamSupportPpiGuid
+                0x0000000000006ca0       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gPeiAprioriFileNameGuid
+                0x0000000000006cb0       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiFirmwareFileSystem3Guid
+                0x0000000000006cc0       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.gEfiPeiLoadFilePpiGuid
+                0x0000000000006cd0       0x10 /tmp/ccgpyFE4.ltrans0.ltrans.o
+ .data.rel.ro   0x0000000000006ce0        0x0 PcdLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.gPeiServices
+                0x0000000000006ce0        0x8 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.eh_frame       0x0000000000006d00        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000006d00        0x0
+ .dynbss        0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000006d00        0x0
+ .gnu.version_d
+                0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000006d00        0x0
+ .gnu.version   0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000006d00        0x0
+ .gnu.version_r
+                0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000006d00      0x798
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000006d00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPeiLoadImagePpi
+                0x0000000000006d00       0x18 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gPeiDefaultPciCfg2Ppi
+                0x0000000000006d18       0x48 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gPeiDefaultCpuIoPpi
+                0x0000000000006d60      0x1e0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mNotifyList
+                0x0000000000006f40       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mNotifyOnFvInfoList
+                0x0000000000006f70       0x60 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPeiFfs3FwVol
+                0x0000000000006fd0       0xc0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPeiFfs3FvPpiList
+                0x0000000000007090       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPeiFfs2FwVol
+                0x00000000000070c0       0xc0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPeiFfs2FvPpiList
+                0x0000000000007180       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gPpiLoadFilePpiList
+                0x00000000000071b0       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mMemoryDiscoveredPpi
+                0x00000000000071e0       0x18 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gPs
+                0x00000000000071f8      0x2a0 PcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000007498       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000007498       0x24 PcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Core/Pei/PeiMain/DEBUG/PeiCore.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000     0xcf92
+ .debug_info    0x0000000000000000     0xcf92 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x691
+ .debug_abbrev  0x0000000000000000      0x691 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000     0xdec4
+ .debug_loc     0x0000000000000000     0xdec4 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x6d0
+ .debug_aranges
+                0x0000000000000000      0x6d0 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x1510
+ .debug_ranges  0x0000000000000000     0x1510 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x2b11
+ .debug_line    0x0000000000000000     0x2b11 /tmp/ccgpyFE4.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x466f
+ .debug_str     0x0000000000000000     0x466f /tmp/ccgpyFE4.ltrans0.ltrans.o
+                                       0x5001 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1b68
+ .debug_frame   0x0000000000000000     0x1b68 /tmp/ccgpyFE4.ltrans0.ltrans.o

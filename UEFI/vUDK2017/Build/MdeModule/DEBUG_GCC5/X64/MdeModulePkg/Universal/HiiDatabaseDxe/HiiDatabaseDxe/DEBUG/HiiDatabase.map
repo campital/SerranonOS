@@ -1,0 +1,1001 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(HiiDatabaseEntry.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Image.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ImageEx.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ConfigRouting.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(String.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Database.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(Font.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(ConfigKeywordHandler.obj)
+                              (--whole-archive)
+/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.EfiEventEmptyFunction
+                0x0000000000000000        0x1 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x3 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000000000       0x22 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x24 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccpn4V72.ltrans0.ltrans.o
+LOAD /tmp/ccpn4V72.ltrans1.ltrans.o
+START GROUP
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240    0x16444
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.IsEfiVarStoreQuestion
+                0x0000000000000240       0x1b /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.AsciiHiiToLower
+                0x000000000000025b       0x19 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiToLower
+                0x0000000000000274       0x3c /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.KeyboardLayoutChangeNullEvent
+                0x00000000000002b0        0x1 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InternalAllocatePool
+                0x00000000000002b1       0x34 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x00000000000002e5        0x4 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InternalSafeStringIsOverlap
+                0x00000000000002e9       0x20 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InternalSafeStringNoStrOverlap
+                0x0000000000000309       0x11 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.LocatePackageList
+                0x000000000000031a       0x1b /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.BitFieldRead64
+                0x0000000000000335       0x1f /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x0000000000000354       0x27 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.OnReadyToBoot
+                0x000000000000037b       0xc2 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.IsHiiHandleValid
+                0x000000000000043d       0x12 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000043d                IsHiiHandleValid
+ .text.CompareMem
+                0x000000000000044f       0x2e /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000044f                CompareMem
+ .text.DevicePathFromHandle
+                0x000000000000047d       0x35 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000047d                DevicePathFromHandle
+ .text.IsDevicePathEnd
+                0x00000000000004b2       0x11 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000004b2                IsDevicePathEnd
+ .text.FreePool
+                0x00000000000004c3        0xa /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000004c3                FreePool
+ .text.AllocatePool
+                0x00000000000004cd       0x9e /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000004cd                AllocatePool
+ .text.UnicodeSPrint
+                0x000000000000056b       0xc4 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000056b                UnicodeSPrint
+ .text.BasePrintLibValueToString
+                0x000000000000062f       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000062f                BasePrintLibValueToString
+ .text.BasePrintLibFillBuffer
+                0x0000000000000657       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000657                BasePrintLibFillBuffer
+ .text.ReadUnaligned32
+                0x000000000000067f        0x3 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000067f                ReadUnaligned32
+ .text.ReadUnaligned16
+                0x0000000000000682        0x4 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000682                ReadUnaligned16
+ .text.GetImageIdOrAddress
+                0x0000000000000686      0x1b3 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.DevicePathNodeLength
+                0x0000000000000839       0x15 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000839                DevicePathNodeLength
+ .text.NextDevicePathNode
+                0x000000000000084e       0x14 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000084e                NextDevicePathNode
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x0000000000000862       0x90 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000862                UefiDevicePathLibGetDevicePathSize
+ .text.AsciiStrLen
+                0x00000000000008f2        0xe /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000008f2                AsciiStrLen
+ .text.AsciiStrSize
+                0x0000000000000900       0x11 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000900                AsciiStrSize
+ .text.AsciiStrnCmp.part.3
+                0x0000000000000911       0x52 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000911                AsciiStrnCmp.part.3
+ .text.AsciiStrCmp
+                0x0000000000000963       0x1f /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000963                AsciiStrCmp
+ .text.StrLen   0x0000000000000982        0xf /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000982                StrLen
+ .text.StrSize  0x0000000000000991       0x14 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000991                StrSize
+ .text.StrStr   0x00000000000009a5       0x42 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000009a5                StrStr
+ .text.GetElementsFromRequest
+                0x00000000000009e7       0x50 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.StrnCmp  0x0000000000000a37       0x5e /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000a37                StrnCmp
+ .text.CalculateConfigStringLen
+                0x0000000000000a95       0x34 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.StrCmp   0x0000000000000ac9       0x22 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000ac9                StrCmp
+ .text.AsciiStrnLenS
+                0x0000000000000aeb       0x26 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000aeb                AsciiStrnLenS
+ .text.AsciiStrToUnicodeStrS
+                0x0000000000000b11      0x135 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000b11                AsciiStrToUnicodeStrS
+ .text.AsciiStrCpyS
+                0x0000000000000c46      0x123 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiGetLanguages
+                0x0000000000000d69      0x1a3 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000d69                HiiGetLanguages
+ .text.StrnLenS
+                0x0000000000000f0c       0x27 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000f0c                StrnLenS
+ .text.UnicodeStrToAsciiStrS
+                0x0000000000000f33      0x132 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000000f33                UnicodeStrToAsciiStrS
+ .text.StrnCatS
+                0x0000000000001065      0x170 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.StrCatS  0x00000000000011d5      0x14c /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000011d5                StrCatS
+ .text.StrCpyS  0x0000000000001321      0x12a /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000001321                StrCpyS
+ .text.IsListEmpty
+                0x000000000000144b        0x7 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000144b                IsListEmpty
+ .text.RemoveEntryList
+                0x0000000000001452       0x19 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000001452                RemoveEntryList
+ .text.InsertTailList
+                0x000000000000146b       0x16 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000146b                InsertTailList
+ .text.InsertBlockData
+                0x0000000000001481       0x7b /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InitializeListHead
+                0x00000000000014fc        0xb /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000014fc                InitializeListHead
+ .text._ModuleEntryPoint
+                0x0000000000001507      0x1bf /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000001507                _ModuleEntryPoint
+ .text.CompareGuid
+                0x00000000000016c6       0x42 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000016c6                CompareGuid
+ .text.LocateHiiImageDecoder
+                0x0000000000001708      0x108 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiGetImageInfo
+                0x0000000000001810      0x1c6 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000001810                HiiGetImageInfo
+ .text.CopyMem  0x00000000000019d6      0x211 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000019d6                CopyMem
+ .text.FindQuestionDefaultSetting
+                0x0000000000001be7      0x1b4 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.GetUnicodeStringTextOrSize
+                0x0000000000001d9b       0x66 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.CopyRgbToGopPixel
+                0x0000000000001e01       0x2f /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.CopyGopToRgbPixel
+                0x0000000000001e30       0x32 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.AllocateCopyPool
+                0x0000000000001e62      0x113 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000001e62                AllocateCopyPool
+ .text.OutputConfigBody
+                0x0000000000001f75       0xc9 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.ZeroMem  0x000000000000203e       0x88 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000203e                ZeroMem
+ .text.ImageToBlt
+                0x00000000000020c6      0x175 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InternalAllocateZeroPool
+                0x000000000000223b       0x23 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000223b                InternalAllocateZeroPool
+ .text.HiiGetDatabaseInfo
+                0x000000000000225e       0xd7 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000225e                HiiGetDatabaseInfo
+ .text.ReallocatePool
+                0x0000000000002335       0xee /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002335                ReallocatePool
+ .text.AppendToMultiString
+                0x0000000000002423       0xa2 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x00000000000024c5       0x9e /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000024c5                AllocateZeroPool
+ .text.InvokeRegisteredFunction
+                0x0000000000002563      0x312 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.RemoveKeyboardLayoutPackages
+                0x0000000000002875       0xb2 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002875                RemoveKeyboardLayoutPackages
+ .text.AddDevicePathPackage
+                0x0000000000002927      0x102 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002927                AddDevicePathPackage
+ .text.RemoveDevicePathPackage
+                0x0000000000002a29       0x74 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002a29                RemoveDevicePathPackage
+ .text.RemoveSimpleFontPackages
+                0x0000000000002a9d       0xa2 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002a9d                RemoveSimpleFontPackages
+ .text.RemoveImagePackages
+                0x0000000000002b3f       0x7b /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002b3f                RemoveImagePackages
+ .text.RemoveFontPackages
+                0x0000000000002bba      0x15a /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002bba                RemoveFontPackages
+ .text.RemoveStringPackages
+                0x0000000000002d14       0xf6 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002d14                RemoveStringPackages
+ .text.RemoveFormPackages
+                0x0000000000002e0a       0x9d /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002e0a                RemoveFormPackages
+ .text.ExportFormPackages
+                0x0000000000002ea7      0x11b /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002ea7                ExportFormPackages
+ .text.ExportPackageList
+                0x0000000000002fc2      0x76a /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000002fc2                ExportPackageList
+ .text.RemoveGuidPackages
+                0x000000000000372c       0xb2 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000372c                RemoveGuidPackages
+ .text.HiiCompareLanguage
+                0x00000000000037de       0xd1 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiGetSecondaryLanguages
+                0x00000000000038af      0x204 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000038af                HiiGetSecondaryLanguages
+ .text.ReferFontInfoLocally
+                0x0000000000003ab3       0x74 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.FindStringBlock
+                0x0000000000003b27      0x5f5 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.AddPackages
+                0x000000000000411c     0x1623 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000411c                AddPackages
+ .text.HiiSetString
+                0x000000000000573f      0x876 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000573f                HiiSetString
+ .text.HiiNewString
+                0x0000000000005fb5      0x8ae /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000005fb5                HiiNewString
+ .text.GetStringWorker
+                0x0000000000006863      0x178 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiGetString
+                0x00000000000069db      0x210 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x00000000000069db                HiiGetString
+ .text.GetDevicePath.part.0
+                0x0000000000006beb      0x1ba /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.GetSupportedLanguages
+                0x0000000000006da5       0xa3 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000006da5                GetSupportedLanguages
+ .text.InternalGetString
+                0x0000000000006e48      0x17e /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.BlockArrayCheck
+                0x0000000000006fc6       0xd2 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.IsThisOpcodeRequired
+                0x0000000000007098      0x1b3 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.InsertDefaultValue
+                0x000000000000724b       0x8a /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.GetValueOfNumber
+                0x00000000000072d5      0x16d /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiConfigToBlock
+                0x0000000000007442      0x43b /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000007442                HiiConfigToBlock
+ .text.HiiBlockToConfig
+                0x000000000000787d      0x5d7 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000787d                HiiBlockToConfig
+ .text.MergeDefaultString
+                0x0000000000007e54      0x8c5 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.GenerateSubStr
+                0x0000000000008719      0x203 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x0000000000008719                GenerateSubStr
+ .text.HiiGetAltCfg
+                0x000000000000891c      0x532 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000891c                HiiGetAltCfg
+ .text.IsThisVarstore
+                0x0000000000008e4e      0x17b /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.GetFullStringFromHiiFormPackages.part.5
+                0x0000000000008fc9     0x1ecb /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiConfigRoutingExportConfig
+                0x000000000000ae94      0x3d0 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000ae94                HiiConfigRoutingExportConfig
+ .text.IsThisPackageList
+                0x000000000000b264      0x1f0 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.GetVarStoreType
+                0x000000000000b454      0x316 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiConfigRoutingRouteConfig
+                0x000000000000b76a      0x560 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000b76a                HiiConfigRoutingRouteConfig
+ .text.HiiConfigRoutingExtractConfig
+                0x000000000000bcca      0xaaa /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000bcca                HiiConfigRoutingExtractConfig
+ .text.HiiDrawImage
+                0x000000000000c774      0x3bf /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000c774                HiiDrawImage
+ .text.HiiDrawImageEx
+                0x000000000000cb33        0x9 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000cb33                HiiDrawImageEx
+ .text.HiiSetImage
+                0x000000000000cb3c      0x327 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000cb3c                HiiSetImage
+ .text.HiiSetImageEx
+                0x000000000000ce63        0xd /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000ce63                HiiSetImageEx
+ .text.HiiNewImage
+                0x000000000000ce70      0x282 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000ce70                HiiNewImage
+ .text.HiiNewImageEx
+                0x000000000000d0f2        0x9 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000d0f2                HiiNewImageEx
+ .text.Output8bitPixel
+                0x000000000000d0fb      0x101 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.IGetImage
+                0x000000000000d1fc      0x57a /tmp/ccpn4V72.ltrans0.ltrans.o
+ .text.HiiGetImageEx
+                0x000000000000d776       0xa7 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000d776                HiiGetImageEx
+ .text.HiiDrawImageIdEx
+                0x000000000000d81d       0x96 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000d81d                HiiDrawImageIdEx
+ .text.HiiGetImage
+                0x000000000000d8b3       0xaa /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000d8b3                HiiGetImage
+ .text.HiiDrawImageId
+                0x000000000000d95d       0x96 /tmp/ccpn4V72.ltrans0.ltrans.o
+                0x000000000000d95d                HiiDrawImageId
+ .text.GetWidth
+                0x000000000000d9f3       0xc5 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.FindStorageFromVarId
+                0x000000000000dab8       0x52 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.FindQuestionFromStringId
+                0x000000000000db0a       0x80 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.ExtractReadOnlyFromOpCode
+                0x000000000000db8a        0x7 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.IsLineBreak
+                0x000000000000db91       0x9f /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GlyphToBlt
+                0x000000000000dc30      0x1dc /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.NarrowGlyphToBlt
+                0x000000000000de0c       0xa3 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GlyphToImage
+                0x000000000000deaf      0x110 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.WriteOutputParam.constprop.2
+                0x000000000000dfbf       0x8c /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetUnicodeStringTextAndSize
+                0x000000000000e04b       0x7f /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetCell  0x000000000000e0ca       0x3d /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiFindKeyboardLayouts
+                0x000000000000e107      0x153 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.ExtractValueFromDriver
+                0x000000000000e25a       0xc3 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.ExtractKeyword
+                0x000000000000e31d       0xef /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.SaveFontName
+                0x000000000000e40c       0x61 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.MergeToMultiKeywordResp
+                0x000000000000e46d       0xb0 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GenerateKeywordResp
+                0x000000000000e51d      0x1df /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiGetKeyboardLayout
+                0x000000000000e6fc      0x18f /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.ConstructRequestElement
+                0x000000000000e88b       0xa1 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetStringIdFromRecord
+                0x000000000000e92c      0x5f0 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetStringIdFromDatabase
+                0x000000000000ef1c      0x197 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.ExtractNameSpace
+                0x000000000000f0b3      0x12a /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiGetPackageListHandle
+                0x000000000000f1dd      0x111 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.NewCell  0x000000000000f2ee       0x80 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiRegisterPackageNotify
+                0x000000000000f36e       0xdf /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiSetKeyboardLayout
+                0x000000000000f44d       0xe6 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiUnregisterPackageNotify
+                0x000000000000f533       0xcc /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiExportPackageLists
+                0x000000000000f5ff      0x1d3 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x000000000000f5ff                HiiExportPackageLists
+ .text.HiiListPackageLists
+                0x000000000000f7d2      0x17e /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.StrHexToUint64S.constprop.21
+                0x000000000000f950      0x130 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x000000000000f950                StrHexToUint64S.constprop.21
+ .text.ExtractDevicePath
+                0x000000000000fa80      0x1f9 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.17
+                0x000000000000fc79      0xcf5 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x000000000000fc79                BasePrintLibSPrintMarker.constprop.17
+ .text.unlikely.BasePrintLibSPrint.constprop.16
+                0x000000000001096e       0xb8 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.UnicodeValueToStringS.constprop.15
+                0x0000000000010a26      0x185 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000010a26                UnicodeValueToStringS.constprop.15
+ .text.ConstructConfigHdr
+                0x0000000000010bab      0x2f6 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetVariable2.constprop.9
+                0x0000000000010ea1       0xbb /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000010ea1                GetVariable2.constprop.9
+ .text.GetBestLanguage.constprop.7
+                0x0000000000010f5c       0xf0 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000010f5c                GetBestLanguage.constprop.7
+ .text.GetNameFromId
+                0x000000000001104c      0x193 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.EfiConfigKeywordHandlerSetData
+                0x00000000000111df      0x6e6 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.ExtractConfigRequest
+                0x00000000000118c5      0x159 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.EfiConfigKeywordHandlerGetData
+                0x0000000000011a1e      0xf15 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetFormPackageData.part.4.constprop.6
+                0x0000000000012933       0xcc /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000012933                GetFormPackageData.part.4.constprop.6
+ .text.FindGlyphBlock.constprop.1
+                0x00000000000129ff      0x4bf /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x00000000000129ff                FindGlyphBlock.constprop.1
+ .text.GetSystemFont.part.1
+                0x0000000000012ebe       0xb5 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000012ebe                GetSystemFont.part.1
+ .text.IsSystemFontInfo
+                0x0000000000012f73      0x157 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.IsFontInfoExisted
+                0x00000000000130ca      0x53a /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x00000000000130ca                IsFontInfoExisted
+ .text.HiiGetFontInfo
+                0x0000000000013604      0x3a3 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.GetGlyphBuffer
+                0x00000000000139a7      0x2f9 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiGetGlyph
+                0x0000000000013ca0      0x3bc /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiStringToImage
+                0x000000000001405c     0x1058 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiStringIdToImage
+                0x00000000000150b4      0x51a /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiGetConfigurationSetting
+                0x00000000000155ce      0x11c /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x00000000000155ce                HiiGetConfigurationSetting
+ .text.HiiUpdatePackageList
+                0x00000000000156ea      0x27b /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiRemovePackageList
+                0x0000000000015965      0x23b /tmp/ccpn4V72.ltrans1.ltrans.o
+ .text.HiiNewPackageList
+                0x0000000000015ba0      0x2ba /tmp/ccpn4V72.ltrans1.ltrans.o
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x0000000000015e5a        0x2 
+ .rodata.GetImageIdOrAddress
+                0x0000000000015e5c       0x8c /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.GetElementsFromRequest.str2.2
+                0x0000000000015ee8       0x12 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                         0x22 (size before relaxing)
+ .rodata.CalculateConfigStringLen.str2.2
+                0x0000000000015efa        0xe /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.OutputConfigBody.str2.2
+                0x0000000000015f08       0x12 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                         0x1e (size before relaxing)
+ *fill*         0x0000000000015f1a        0x2 
+ .rodata.InvokeRegisteredFunction
+                0x0000000000015f1c       0x24 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.HiiGetSecondaryLanguages.str1.1
+                0x0000000000015f40        0x2 /tmp/ccpn4V72.ltrans0.ltrans.o
+ *fill*         0x0000000000015f42        0x2 
+ .rodata.FindStringBlock
+                0x0000000000015f44       0x8c /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.AddPackages
+                0x0000000000015fd0       0x24 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.InternalGetString.str1.1
+                0x0000000000015ff4        0x2 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                          0x1 (size before relaxing)
+ .rodata.InternalGetString.str2.2
+                0x0000000000015ff4       0x1a /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.HiiConfigToBlock.str2.2
+                0x000000000001600e       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                         0x20 (size before relaxing)
+ .rodata.HiiBlockToConfig.str2.2
+                0x000000000001601e       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                         0x1e (size before relaxing)
+ .rodata.MergeDefaultString.str2.2
+                0x000000000001601e       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                         0x2c (size before relaxing)
+ .rodata.HiiGetAltCfg.str2.2
+                0x0000000000016046       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+                                         0x1c (size before relaxing)
+ .rodata.IsThisVarstore.str2.2
+                0x0000000000016046        0xe /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.GetFullStringFromHiiFormPackages.part.5.str2.2
+                0x0000000000016054       0xa0 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.HiiSetImage
+                0x00000000000160f4       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.IGetImage
+                0x000000000001611c       0x28 /tmp/ccpn4V72.ltrans0.ltrans.o
+ *fill*         0x0000000000016144        0xc 
+ .rodata.mHexStr
+                0x0000000000016150       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .rodata.ExtractValueFromDriver.str2.2
+                0x0000000000016160       0x14 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.ExtractKeyword.str2.2
+                0x0000000000016160       0x12 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.GenerateKeywordResp.str2.2
+                0x0000000000016172       0x2a /tmp/ccpn4V72.ltrans1.ltrans.o
+                                         0x38 (size before relaxing)
+ .rodata.ConstructRequestElement.str2.2
+                0x000000000001619c       0x2a /tmp/ccpn4V72.ltrans1.ltrans.o
+                                         0x34 (size before relaxing)
+ .rodata.GetStringIdFromRecord.str1.1
+                0x000000000001619c        0x7 /tmp/ccpn4V72.ltrans1.ltrans.o
+ *fill*         0x00000000000161a3        0x1 
+ .rodata.GetStringIdFromRecord
+                0x00000000000161a4       0x8c /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.HiiListPackageLists
+                0x0000000000016230       0x28 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.ExtractDevicePath.str2.2
+                0x0000000000016258        0xc /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.17.str1.1
+                0x0000000000016258       0x7b /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.ConstructConfigHdr.str2.2
+                0x00000000000162d3       0x1a /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.GetVariable2.constprop.9.str2.2
+                0x00000000000162d3       0x1a /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.GetNameFromId.str1.1
+                0x00000000000162d3        0x6 /tmp/ccpn4V72.ltrans1.ltrans.o
+                                          0x7 (size before relaxing)
+ .rodata.EfiConfigKeywordHandlerSetData.str2.2
+                0x00000000000162d9        0xe /tmp/ccpn4V72.ltrans1.ltrans.o
+ *fill*         0x00000000000162d9        0x1 
+ .rodata.EfiConfigKeywordHandlerGetData.str2.2
+                0x00000000000162da       0x62 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.EfiConfigKeywordHandlerGetData
+                0x000000000001633c       0x8c /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.GetSystemFont.part.1.str2.2
+                0x00000000000163c8       0x16 /tmp/ccpn4V72.ltrans1.ltrans.o
+ *fill*         0x00000000000163de        0x2 
+ .rodata.HiiUpdatePackageList
+                0x00000000000163e0       0x24 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdUefiVariableDefaultPlatformLang
+                0x0000000000016404        0x6 /tmp/ccpn4V72.ltrans1.ltrans.o
+ *fill*         0x000000000001640a       0x16 
+ .rodata.mHiiEfiColors
+                0x0000000000016420       0x40 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x0000000000016460      0x224 /tmp/ccpn4V72.ltrans1.ltrans.o
+                                        0x235 (size before relaxing)
+ *(.got .got.*)
+ .got           0x0000000000016684        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x0000000000016684        0x0 PcdLib.obj (symbol from plugin)
+                0x0000000000016684                _GLOBAL_OFFSET_TABLE_
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000016690        0x0
+ .plt           0x0000000000016690        0x0 PcdLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000016688        0x0
+ .plt.got       0x0000000000016688        0x0 PcdLib.obj (symbol from plugin)
+
+.data           0x00000000000166c0      0x4b0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.gEfiEventReadyToBootGuid
+                0x00000000000166c0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiImageExProtocolGuid
+                0x00000000000166d0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiKeyBoardLayoutGuid
+                0x00000000000166e0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiConfigKeywordHandlerProtocolGuid
+                0x00000000000166f0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x0000000000016700       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x0000000000016710       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000016720       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiImageDecoderNamePngGuid
+                0x0000000000016730       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiImageDecoderNameJpegGuid
+                0x0000000000016740       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiImageDecoderProtocolGuid
+                0x0000000000016750       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiConfigAccessProtocolGuid
+                0x0000000000016760       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ *fill*         0x0000000000016770       0x10 
+ .data.mLanguageWindow
+                0x0000000000016780       0x20 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.rel.local.gVarStorageList
+                0x00000000000167a0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gSkuId   0x00000000000167b0        0x8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ *fill*         0x00000000000167b8        0x8 
+ .data.gEdkiiIfrBitVarstoreGuid
+                0x00000000000167c0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x00000000000167d0       0x10 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x00000000000167e0       0x10 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x00000000000167e0                gEfiHiiConfigRoutingProtocolGuid
+ .data.gExportConfigResp
+                0x00000000000167f0        0x1 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x00000000000167f0                gExportConfigResp
+ *fill*         0x00000000000167f1        0xf 
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000016800       0x10 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000016800                gEfiDevicePathProtocolGuid
+ .data.gEfiCallerIdGuid
+                0x0000000000016810       0x10 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .data.rel.local.mPrivate
+                0x0000000000016820      0x1a8 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000016820                mPrivate
+ *fill*         0x00000000000169c8        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x00000000000169d0       0x10 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x00000000000169d0                gEfiGlobalVariableGuid
+ .data.rel.ro.local.mStatusString
+                0x00000000000169e0      0x138 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .data.rel.ro   0x0000000000016b18        0x0 PcdLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.gImageHandle
+                0x0000000000016b18        0x8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .bss.gST       0x0000000000016b20        0x8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .bss.gNvDefaultStoreSize
+                0x0000000000016b28        0x8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .bss.gRTDatabaseInfoBuffer
+                0x0000000000016b30        0x8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .bss.gDatabaseInfoSize
+                0x0000000000016b38        0x8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .bss.gRTConfigRespBuffer
+                0x0000000000016b40        0x8 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .bss.gConfigRespSize
+                0x0000000000016b48        0x8 /tmp/ccpn4V72.ltrans1.ltrans.o
+ .bss.gExportAfterReadyToBoot
+                0x0000000000016b50        0x1 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000016b50                gExportAfterReadyToBoot
+ *fill*         0x0000000000016b51        0x7 
+ .bss.gHiiKeyboardLayoutChanged
+                0x0000000000016b58        0x8 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000016b58                gHiiKeyboardLayoutChanged
+ .bss.gBS       0x0000000000016b60        0x8 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000016b60                gBS
+ .bss.gRT       0x0000000000016b68        0x8 /tmp/ccpn4V72.ltrans1.ltrans.o
+                0x0000000000016b68                gRT
+
+.eh_frame       0x0000000000016b80        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000016b80        0x0
+ .dynbss        0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000016b80        0x0
+ .gnu.version_d
+                0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000016b80        0x0
+ .gnu.version   0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000016b80        0x0
+ .gnu.version_r
+                0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000016b80      0x780
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000016b80        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gVarStorageList
+                0x0000000000016b80       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mPrivate
+                0x0000000000016bb0      0x3a8 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mStatusString
+                0x0000000000016f58      0x3a8 PcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000017300       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000017300       0x24 PcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000    0x260a1
+ .debug_info    0x0000000000000000    0x18930 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_info    0x0000000000018930     0xd771 /tmp/ccpn4V72.ltrans1.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0xb82
+ .debug_abbrev  0x0000000000000000      0x65f /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000065f      0x523 /tmp/ccpn4V72.ltrans1.ltrans.o
+
+.debug_loc      0x0000000000000000    0x2b77a
+ .debug_loc     0x0000000000000000    0x1bd6b /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_loc     0x000000000001bd6b     0xfa0f /tmp/ccpn4V72.ltrans1.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xb90
+ .debug_aranges
+                0x0000000000000000      0x800 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000800      0x390 /tmp/ccpn4V72.ltrans1.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x3f70
+ .debug_ranges  0x0000000000000000     0x2a80 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000002a80     0x14f0 /tmp/ccpn4V72.ltrans1.ltrans.o
+
+.debug_line     0x0000000000000000     0x5a4c
+ .debug_line    0x0000000000000000     0x3823 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_line    0x0000000000003823     0x2229 /tmp/ccpn4V72.ltrans1.ltrans.o
+
+.debug_str      0x0000000000000000     0x6535
+ .debug_str     0x0000000000000000     0x535a /tmp/ccpn4V72.ltrans0.ltrans.o
+                                       0x6324 (size before relaxing)
+ .debug_str     0x000000000000535a     0x11db /tmp/ccpn4V72.ltrans1.ltrans.o
+                                       0x410e (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x4228
+ .debug_frame   0x0000000000000000     0x29c8 /tmp/ccpn4V72.ltrans0.ltrans.o
+ .debug_frame   0x00000000000029c8     0x1860 /tmp/ccpn4V72.ltrans1.ltrans.o
