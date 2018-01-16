@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = EfiLdr
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = DuetPkg/EfiLdr
 PACKAGE_RELATIVE_DIR = EfiLdr
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/A9620E5C-5FA1-40b7-8B21-50B632F88F38EfiLoader
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/A9620E5C-5FA1-40b7-8B21-50B632F88F38EfiLoader
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -59,13 +59,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -228,45 +228,45 @@ INC =  \
     -I$(WORKSPACE)/IntelFrameworkModulePkg \
     -I$(WORKSPACE)/IntelFrameworkModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/object_files.lst
-STATIC_LIBRARY_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/static_library_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/object_files.lst
+STATIC_LIBRARY_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/static_library_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SerialIo.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/LoadedImage.h \
               $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/DuetPkg/EfiLdr/EfiLdrHandoff.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
               $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/DuetPkg/EfiLdr/EfiLdr.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdePkg/Include/Library/SerialPortLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/DuetPkg/EfiLdr/EfiLdrHandoff.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
               $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/LoadedImage.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/MdePkg/Include/Library/SerialPortLib.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/DuetPkg/EfiLdr/EfiLdr.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SerialIo.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
               
 
 #
@@ -276,7 +276,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi \
               
 
 #
@@ -363,85 +363,85 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(DEBUG_DIR)/EfiLoader.efi : $(DEBUG_DIR)/EfiLoader.dll
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
-	$(OBJCOPY) --strip-unneeded -R .eh_frame /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll
-	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
+	$(OBJCOPY) --strip-unneeded -R .eh_frame /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll
+	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll
 	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
-	"$(GENFW)" -e $(MODULE_TYPE) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll $(GENFW_FLAGS)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi $(OUTPUT_DIR)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
+	"$(GENFW)" -e $(MODULE_TYPE) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll $(GENFW_FLAGS)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi $(OUTPUT_DIR)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
 	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
 
 $(OUTPUT_DIR)/EfiLoader.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/EfiLoader.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/EfiLoader.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/EfiLoader.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(DEBUG_DIR)/EfiLoader.dll : $(MAKE_FILE)
 $(DEBUG_DIR)/EfiLoader.dll : $(STATIC_LIBRARY_FILES)
 $(DEBUG_DIR)/EfiLoader.dll : $(STATIC_LIBRARY_FILES_LIST)
-	"$(DLINK)" -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
-	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll
+	"$(DLINK)" -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
+	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/EfiLoader.dll
 
 $(OUTPUT_DIR)/PeLoader.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/PeLoader.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PeLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Support.h
 $(OUTPUT_DIR)/PeLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Debug.h
+$(OUTPUT_DIR)/PeLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Support.h
 $(OUTPUT_DIR)/PeLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/PeLoader.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./PeLoader.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/PeLoader.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./PeLoader.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/PeLoader.c
 
 $(OUTPUT_DIR)/Support.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/Support.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/Support.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Support.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./Support.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/Support.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./Support.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/Support.c
+
+$(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiApplicationEntryPoint.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./AutoGen.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/AutoGen.c
+
+$(OUTPUT_DIR)/EfiLoader.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/EfiLoader.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/LzmaDecompress.h
+$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Support.h
+$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Debug.h
+$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/PeLoader.h
+$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/EfiLoader.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./EfiLoader.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/EfiLoader.c
 
 $(OUTPUT_DIR)/Debug.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/Debug.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/Debug.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Debug.h
 $(OUTPUT_DIR)/Debug.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Debug.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./Debug.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/Debug.c
-
-$(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiApplicationEntryPoint.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./AutoGen.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/DEBUG/AutoGen.c
-
-$(OUTPUT_DIR)/EfiLoader.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/EfiLoader.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/LzmaDecompress.h
-$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Debug.h
-$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/PeLoader.h
-$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/Support.h
-$(OUTPUT_DIR)/EfiLoader.obj : $(WORKSPACE)/DuetPkg/EfiLdr/EfiLoader.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./EfiLoader.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/EfiLoader.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/EfiLdr/EfiLdr/OUTPUT/./Debug.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/EfiLdr/Debug.c
 
 
 

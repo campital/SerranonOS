@@ -33,6 +33,7 @@
 
 [Binaries.X64]
   PE32|CpuDxe.efi
+  DXE_DEPEX|CpuDxe.depex
 
 [PatchPcd.X64]
 

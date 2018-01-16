@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseReportStatusCodeLibNull
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdePkg/Library/BaseReportStatusCodeLibNull
 PACKAGE_RELATIVE_DIR = Library/BaseReportStatusCodeLibNull
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseReportStatusCodeLibNull
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/1DE0B8C2-FFB6-4bdf-97F5-0FFB33979038BaseReportStatusCodeLibNull
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseReportStatusCodeLibNull
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/1DE0B8C2-FFB6-4bdf-97F5-0FFB33979038BaseReportStatusCodeLibNull
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -204,29 +204,29 @@ INC =  \
     -I$(WORKSPACE)/MdePkg/Include \
     -I$(WORKSPACE)/MdePkg/Include/X64
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
               $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(DEBUG_DIR)/AutoGen.h \
               $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
               
 
 #
@@ -236,7 +236,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib \
               
 
 #
@@ -310,12 +310,12 @@ gen_fds:
 #
 $(OUTPUT_DIR)/BaseReportStatusCodeLibNull.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseReportStatusCodeLibNull.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/BaseReportStatusCodeLib.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BaseReportStatusCodeLib.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/BaseReportStatusCodeLib.obj : $(WORKSPACE)/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLib.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/./BaseReportStatusCodeLib.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLib.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/./BaseReportStatusCodeLib.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLib.c
 
 
 

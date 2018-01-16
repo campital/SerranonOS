@@ -36,10 +36,10 @@
 
 [PatchPcd.X64]
   ## SOMETIMES_CONSUMES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|0x00000320|0x2844
+  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|0x00000320|0x2984
 
   ## SOMETIMES_CONSUMES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|0x00000258|0x2840
+  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|0x00000258|0x2980
 
 
 [Protocols.X64]

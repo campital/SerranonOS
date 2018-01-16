@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BdsDxe
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = IntelFrameworkModulePkg/Universal/BdsDxe
 PACKAGE_RELATIVE_DIR = Universal/BdsDxe
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/FC5C7020-1A48-4198-9BE2-EAD5ABC8CF2FBdsDxe
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/FC5C7020-1A48-4198-9BE2-EAD5ABC8CF2FBdsDxe
 
 MODULE_ENTRY_POINT = BdsInitialize
 ARCH_ENTRY_POINT = BdsInitialize
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -265,119 +265,119 @@ INC =  \
     -I$(WORKSPACE)/IntelFrameworkModulePkg \
     -I$(WORKSPACE)/IntelFrameworkModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/object_files.lst
-STATIC_LIBRARY_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/static_library_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/object_files.lst
+STATIC_LIBRARY_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/static_library_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigAccess.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Protocol/BootLogo.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/UefiHiiServicesLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/UserManager.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/BootScript.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/Hob.h \
-              $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/LegacyDevOrder.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Guid/FileInfo.h \
               $(WORKSPACE)/MdePkg/Include/PiDxe.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/LoadFile.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiString.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/Smbios.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/FirmwareVolumeHeader.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/FileInfo.h \
-              $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Bds.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigRouting.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleFileSystem.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/FileSystemVolumeLabelInfo.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/StatusCode.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/CapsuleVendor.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
               $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/FirmwareVolumeImageFormat.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/CapsuleLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/StatusCode.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/Bds.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/SmBios.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/StatusCodeDataTypeId.h \
               $(WORKSPACE)/MdeModulePkg/Include/Guid/ConnectConInEvent.h \
+              $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Bds.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SerialIo.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
               $(WORKSPACE)/MdePkg/Include/Guid/GlobalVariable.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/FrameworkDxe.h \
-              $(WORKSPACE)/IntelFrameworkModulePkg/Include/Library/GenericBdsLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiFont.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/SmBios.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/StatusCodeDataTypeVariable.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigAccess.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/StatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleFileSystem.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/Smbios.h \
               $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/UserManager.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/HiiLib.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Protocol/LegacyBios.h \
+              $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/LegacyDevOrder.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/Performance.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/UgaDraw.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/FirmwareVolumeImageFormat.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/FmpCapsule.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/LoadFile.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/UefiHiiServicesLib.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
+              $(WORKSPACE)/IntelFrameworkModulePkg/Include/Library/PlatformBdsLib.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/StatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiString.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigRouting.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
               $(DEBUG_DIR)/BdsDxeStrDefs.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Protocol/VariableLock.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiDatabase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PerformanceLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/StatusCodeDataTypeId.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SerialIo.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/Performance.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Protocol/GenericMemoryTest.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/FrameworkInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/BlockIo.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/HiiLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/UgaDraw.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/DxeCis.h \
-              $(WORKSPACE)/IntelFrameworkPkg/Include/Protocol/LegacyBios.h \
+              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/Bds.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/FmpCapsule.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImage.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/StatusCodeDataTypeVariable.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverHealth.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiFont.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/MdeModuleHii.h \
-              $(WORKSPACE)/IntelFrameworkModulePkg/Include/Library/PlatformBdsLib.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/BootScript.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/BlockIo.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/CapsuleVendor.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiDatabase.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/Hob.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Protocol/GenericMemoryTest.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImage.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PerformanceLib.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/CapsuleLib.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/FrameworkInternalFormRepresentation.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/MdeModuleHii.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverHealth.h \
+              $(WORKSPACE)/IntelFrameworkModulePkg/Include/Library/GenericBdsLib.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/FileSystemVolumeLabelInfo.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/FrameworkDxe.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/FirmwareVolumeHeader.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Protocol/VariableLock.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+              $(WORKSPACE)/IntelFrameworkPkg/Include/Framework/DxeCis.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Protocol/BootLogo.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
               
 
 #
@@ -387,7 +387,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi \
               
 
 #
@@ -484,610 +484,610 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(DEBUG_DIR)/BdsDxe.efi : $(DEBUG_DIR)/BdsDxe.dll
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
-	$(OBJCOPY) --strip-unneeded -R .eh_frame /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll
-	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
+	$(OBJCOPY) --strip-unneeded -R .eh_frame /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll
+	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll
 	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
-	"$(GENFW)" -e $(MODULE_TYPE) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll $(GENFW_FLAGS)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi $(OUTPUT_DIR)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
+	"$(GENFW)" -e $(MODULE_TYPE) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll $(GENFW_FLAGS)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi $(OUTPUT_DIR)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
 	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
 
 $(OUTPUT_DIR)/BdsDxe.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BdsDxe.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BdsDxe.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(DEBUG_DIR)/BdsDxe.dll : $(MAKE_FILE)
 $(DEBUG_DIR)/BdsDxe.dll : $(STATIC_LIBRARY_FILES)
 $(DEBUG_DIR)/BdsDxe.dll : $(STATIC_LIBRARY_FILES_LIST)
-	"$(DLINK)" -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
-	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll
+	"$(DLINK)" -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
+	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BdsDxe.dll
 
-$(OUTPUT_DIR)/String.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/String.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./String.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/String.c
-
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/DeviceMngr/DeviceManager.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.c
-
-$(OUTPUT_DIR)/Capsules.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/Capsules.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/Capsules.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Capsules.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Capsules.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/Capsules.c
-
-$(OUTPUT_DIR)/HwErrRecSupport.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/HwErrRecSupport.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/HwErrRecSupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.h
-$(OUTPUT_DIR)/HwErrRecSupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./HwErrRecSupport.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.c
-
-$(OUTPUT_DIR)/BootManagerVfr.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootManagerVfr.obj : $(DEBUG_DIR)/BootMngr/BootManagerVfr.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./BootManagerVfr.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMngr/BootManagerVfr.c
-
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Data.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/Data.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Data.c
-
-$(OUTPUT_DIR)/Bm.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/Bm.obj : $(DEBUG_DIR)/BootMaint/Bm.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Bm.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint/Bm.c
-
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMngr/BootManager.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.c
-
-$(OUTPUT_DIR)/DriverHealthVfr.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/DriverHealthVfr.obj : $(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./DriverHealthVfr.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr/DriverHealthVfr.c
-
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/UpdatePage.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/UpdatePage.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/UpdatePage.c
-
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FileExplorer.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/FileExplorer.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FileExplorer.c
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BootMaint.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.c
 
 $(OUTPUT_DIR)/Hotkey.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/Hotkey.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/Hotkey.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
 $(OUTPUT_DIR)/Hotkey.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.h
 $(OUTPUT_DIR)/Hotkey.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Hotkey.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Hotkey.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.c
 
-$(OUTPUT_DIR)/FrontPage.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/FrontPage.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./FrontPage.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.c
-
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootOption.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BootOption.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootOption.c
-
-$(OUTPUT_DIR)/Language.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/Language.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Language.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/Language.c
-
-$(OUTPUT_DIR)/DeviceManagerVfr.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/DeviceManagerVfr.obj : $(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./DeviceManagerVfr.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr/DeviceManagerVfr.c
-
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Variable.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/Variable.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Variable.c
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMngr/BootManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMngr/BootManager.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.c
 
 $(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
 $(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
 $(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
 $(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
 $(OUTPUT_DIR)/BootMaint/BBSsupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BBSsupport.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BBSsupport.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.c
+
+$(OUTPUT_DIR)/DriverHealthVfr.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/DriverHealthVfr.obj : $(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./DriverHealthVfr.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr/DriverHealthVfr.c
+
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/BootOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootOption.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BootOption.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootOption.c
+
+$(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./AutoGen.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/AutoGen.c
+
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/Data.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Data.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/Data.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Data.c
+
+$(OUTPUT_DIR)/Capsules.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/Capsules.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/Capsules.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Capsules.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Capsules.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/Capsules.c
+
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/FileExplorer.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FileExplorer.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/FileExplorer.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FileExplorer.c
+
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/Variable.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Variable.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/Variable.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Variable.c
+
+$(OUTPUT_DIR)/BdsEntry.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BdsEntry.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BdsEntry.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./BdsEntry.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BdsEntry.c
 
 $(OUTPUT_DIR)/FrontPageVfr.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/FrontPageVfr.obj : $(DEBUG_DIR)/FrontPageVfr.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./FrontPageVfr.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/FrontPageVfr.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./FrontPageVfr.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/FrontPageVfr.c
+
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BmLib.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BmLib.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BmLib.c
 
 $(OUTPUT_DIR)/MemoryTest.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/MemoryTest.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/MemoryTest.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
 $(OUTPUT_DIR)/MemoryTest.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/MemoryTest.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./MemoryTest.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/MemoryTest.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./MemoryTest.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/MemoryTest.c
 
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/BootMaint.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BootMaint.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.c
+$(OUTPUT_DIR)/Language.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/Language.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/Language.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Language.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/Language.c
 
-$(OUTPUT_DIR)/BdsEntry.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BdsEntry.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BdsEntry.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BdsEntry.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./BdsEntry.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BdsEntry.c
+$(OUTPUT_DIR)/String.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/String.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/String.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./String.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/String.c
 
-$(OUTPUT_DIR)/FE.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/FE.obj : $(DEBUG_DIR)/BootMaint/FE.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./FE.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint/FE.c
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/BootMaint/UpdatePage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/UpdatePage.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/UpdatePage.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/UpdatePage.c
 
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
-$(OUTPUT_DIR)/BootMaint/BmLib.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BmLib.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/BmLib.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BmLib.c
+$(OUTPUT_DIR)/FrontPage.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/FrontPage.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Hotkey.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/Language.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/FrontPage.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./FrontPage.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.c
+
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
+$(OUTPUT_DIR)/DeviceMngr/DeviceManager.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/DeviceMngr/DeviceManager.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.c
+
+$(OUTPUT_DIR)/BootManagerVfr.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BootManagerVfr.obj : $(DEBUG_DIR)/BootMngr/BootManagerVfr.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./BootManagerVfr.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMngr/BootManagerVfr.c
+
+$(OUTPUT_DIR)/Bm.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/Bm.obj : $(DEBUG_DIR)/BootMaint/Bm.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./Bm.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint/Bm.c
 
 $(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
-$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
-$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
-$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
-$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
 $(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
 $(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManager.h
-$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/String.h
 $(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPage.h
+$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BBSsupport.h
+$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h
+$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManager.h
+$(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/BootMaint.h
 $(OUTPUT_DIR)/BootMaint/ConsoleOption.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/ConsoleOption.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/ConsoleOption.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/ConsoleOption.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/BootMaint/ConsoleOption.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/ConsoleOption.c
 
-$(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./AutoGen.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/AutoGen.c
+$(OUTPUT_DIR)/FE.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/FE.obj : $(DEBUG_DIR)/BootMaint/FE.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./FE.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint/FE.c
+
+$(OUTPUT_DIR)/DeviceManagerVfr.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/DeviceManagerVfr.obj : $(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./DeviceManagerVfr.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr/DeviceManagerVfr.c
+
+$(OUTPUT_DIR)/HwErrRecSupport.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/HwErrRecSupport.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/HwErrRecSupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.h
+$(OUTPUT_DIR)/HwErrRecSupport.obj : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/OUTPUT/./HwErrRecSupport.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/HwErrRecSupport.c
 
 $(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(MAKE_FILE)
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
 $(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(DEBUG_DIR)/AutoGen.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
 $(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(DEBUG_DIR)/AutoGen.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
 $(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
 $(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
 $(DEBUG_DIR)/BootMngr/BootManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManagerVfr.Vfr
-	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManagerVfr.Vfr > $(OUTPUT_DIR)/BootManagerVfr.i
-	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMngr $(OUTPUT_DIR)/BootManagerVfr.i
-
-$(DEBUG_DIR)/FrontPageVfr.c : $(MAKE_FILE)
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(DEBUG_DIR)/AutoGen.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPageVfr.Vfr
-	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPageVfr.Vfr > $(OUTPUT_DIR)/FrontPageVfr.i
-	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/. $(OUTPUT_DIR)/FrontPageVfr.i
-
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(MAKE_FILE)
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(DEBUG_DIR)/AutoGen.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DriverHealthVfr.Vfr
-	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DriverHealthVfr.Vfr > $(OUTPUT_DIR)/DriverHealthVfr.i
-	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr $(OUTPUT_DIR)/DriverHealthVfr.i
-
-$(DEBUG_DIR)/BootMaint/Bm.c : $(MAKE_FILE)
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Base.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(DEBUG_DIR)/AutoGen.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Bm.vfr
-	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Bm.vfr > $(OUTPUT_DIR)/Bm.i
-	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint $(OUTPUT_DIR)/Bm.i
-
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(MAKE_FILE)
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(DEBUG_DIR)/AutoGen.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.Vfr
-	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.Vfr > $(OUTPUT_DIR)/DeviceManagerVfr.i
-	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr $(OUTPUT_DIR)/DeviceManagerVfr.i
+	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMngr/BootManagerVfr.Vfr > $(OUTPUT_DIR)/BootManagerVfr.i
+	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMngr $(OUTPUT_DIR)/BootManagerVfr.i
 
 $(DEBUG_DIR)/BootMaint/FE.c : $(MAKE_FILE)
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Base.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
 $(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(DEBUG_DIR)/AutoGen.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
 $(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(DEBUG_DIR)/AutoGen.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Base.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
 $(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
 $(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
 $(DEBUG_DIR)/BootMaint/FE.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FE.vfr
-	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FE.vfr > $(OUTPUT_DIR)/FE.i
-	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint $(OUTPUT_DIR)/FE.i
+	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FE.vfr > $(OUTPUT_DIR)/FE.i
+	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint $(OUTPUT_DIR)/FE.i
+
+$(DEBUG_DIR)/BootMaint/Bm.c : $(MAKE_FILE)
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(DEBUG_DIR)/AutoGen.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Base.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/FormGuid.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(DEBUG_DIR)/BootMaint/Bm.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Bm.vfr
+	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/BootMaint/Bm.vfr > $(OUTPUT_DIR)/Bm.i
+	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/BootMaint $(OUTPUT_DIR)/Bm.i
+
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(MAKE_FILE)
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(DEBUG_DIR)/AutoGen.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(DEBUG_DIR)/DeviceMngr/DeviceManagerVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.Vfr
+	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.Vfr > $(OUTPUT_DIR)/DeviceManagerVfr.i
+	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr $(OUTPUT_DIR)/DeviceManagerVfr.i
+
+$(DEBUG_DIR)/FrontPageVfr.c : $(MAKE_FILE)
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(DEBUG_DIR)/AutoGen.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(DEBUG_DIR)/FrontPageVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPageVfr.Vfr
+	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/FrontPageVfr.Vfr > $(OUTPUT_DIR)/FrontPageVfr.i
+	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/. $(OUTPUT_DIR)/FrontPageVfr.i
+
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(MAKE_FILE)
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(DEBUG_DIR)/AutoGen.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Base.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DeviceManagerVfr.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(DEBUG_DIR)/BdsDxeStrDefs.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Include/Guid/BdsHii.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(DEBUG_DIR)/DeviceMngr/DriverHealthVfr.c : $(WORKSPACE)/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DriverHealthVfr.Vfr
+	"$(VFRPP)" $(VFRPP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/IntelFrameworkModulePkg/Universal/BdsDxe/DeviceMngr/DriverHealthVfr.Vfr > $(OUTPUT_DIR)/DriverHealthVfr.i
+	"$(VFR)" $(VFR_FLAGS) --string-db $(OUTPUT_DIR)/$(MODULE_NAME)StrDefs.hpk --output-directory /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Universal/BdsDxe/BdsDxe/DEBUG/DeviceMngr $(OUTPUT_DIR)/DriverHealthVfr.i
 
 
 

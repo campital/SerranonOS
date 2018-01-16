@@ -31,6 +31,7 @@
 
 [Binaries.X64]
   PE32|Metronome.efi
+  DXE_DEPEX|Metronome.depex
 
 [PatchPcd.X64]
 

@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = PciBusNoEnumeration
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = DuetPkg/PciBusNoEnumerationDxe
 PACKAGE_RELATIVE_DIR = PciBusNoEnumerationDxe
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/35C0C168-2607-4e51-BB53-448E3ED1A87FPciBusNoEnumerationDxe
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/35C0C168-2607-4e51-BB53-448E3ED1A87FPciBusNoEnumerationDxe
 
 MODULE_ENTRY_POINT = PciBusEntryPoint
 ARCH_ENTRY_POINT = PciBusEntryPoint
@@ -59,13 +59,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -233,94 +233,94 @@ INC =  \
     -I$(WORKSPACE)/DuetPkg \
     -I$(WORKSPACE)/DuetPkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/object_files.lst
-STATIC_LIBRARY_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/static_library_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/object_files.lst
+STATIC_LIBRARY_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/static_library_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciEnumerator.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/Decompress.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciCodeId.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/PciRootBridgeIo.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
+COMMON_DEPS = $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDeviceSupport.h \
               $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciPowerManagement.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciCommand.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDeviceSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci30.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PeCoffLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciOptionRomSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci23.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress21.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/BusSpecificDriverOverride.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi61.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciIo.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
-              $(WORKSPACE)/DuetPkg/Include/Guid/PciOptionRomTable.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciBus.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/UgaIo.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDriverOverride.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress30.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciEnumeratorSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi62.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/LoadedImage.h \
-              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
-              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci22.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciCommand.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciBus.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress21.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciIo.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDriverOverride.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
               $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciRomTable.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/UgaIo.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress30.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciEnumerator.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/DuetPkg/Include/Guid/PciOptionRomTable.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/PciRootBridgeIo.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/LoadedImage.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci23.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/Decompress.h \
+              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/BusSpecificDriverOverride.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PeCoffLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciCodeId.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci22.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciOptionRomSupport.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi61.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciEnumeratorSupport.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci30.h \
               
 
 #
@@ -330,7 +330,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi \
               
 
 #
@@ -417,113 +417,113 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(DEBUG_DIR)/PciBusNoEnumerationDxe.efi : $(DEBUG_DIR)/PciBusNoEnumerationDxe.dll
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
-	$(OBJCOPY) --strip-unneeded -R .eh_frame /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll
-	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
+	$(OBJCOPY) --strip-unneeded -R .eh_frame /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll
+	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll
 	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
-	"$(GENFW)" -e $(MODULE_TYPE) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll $(GENFW_FLAGS)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi $(OUTPUT_DIR)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
+	"$(GENFW)" -e $(MODULE_TYPE) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll $(GENFW_FLAGS)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi $(OUTPUT_DIR)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
 	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
 
 $(OUTPUT_DIR)/PciBusNoEnumerationDxe.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/PciBusNoEnumerationDxe.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/PciBusNoEnumerationDxe.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/PciBusNoEnumerationDxe.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(DEBUG_DIR)/PciBusNoEnumerationDxe.dll : $(MAKE_FILE)
 $(DEBUG_DIR)/PciBusNoEnumerationDxe.dll : $(STATIC_LIBRARY_FILES)
 $(DEBUG_DIR)/PciBusNoEnumerationDxe.dll : $(STATIC_LIBRARY_FILES_LIST)
-	"$(DLINK)" -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
-	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll
-
-$(OUTPUT_DIR)/PciIo.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciIo.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciIo.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciIo.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciIo.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciIo.c
-
-$(OUTPUT_DIR)/ComponentName.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/ComponentName.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/ComponentName.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/ComponentName.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./ComponentName.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/ComponentName.c
-
-$(OUTPUT_DIR)/PciOptionRomSupport.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciOptionRomSupport.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciOptionRomSupport.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciOptionRomSupport.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciOptionRomSupport.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciOptionRomSupport.c
-
-$(OUTPUT_DIR)/PciRomTable.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciRomTable.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciRomTable.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciRomTable.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciRomTable.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciRomTable.c
-
-$(OUTPUT_DIR)/PciDeviceSupport.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciDeviceSupport.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciDeviceSupport.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDeviceSupport.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciDeviceSupport.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciDeviceSupport.c
-
-$(OUTPUT_DIR)/PciPowerManagement.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciPowerManagement.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciPowerManagement.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciPowerManagement.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciPowerManagement.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciPowerManagement.c
-
-$(OUTPUT_DIR)/PciDriverOverride.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciDriverOverride.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciDriverOverride.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDriverOverride.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciDriverOverride.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciDriverOverride.c
-
-$(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./AutoGen.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/AutoGen.c
+	"$(DLINK)" -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
+	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/PciBusNoEnumerationDxe.dll
 
 $(OUTPUT_DIR)/PciCommand.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/PciCommand.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/PciCommand.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciCommand.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciCommand.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciCommand.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciCommand.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciCommand.c
 
 $(OUTPUT_DIR)/PciEnumeratorSupport.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/PciEnumeratorSupport.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/PciEnumeratorSupport.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciEnumeratorSupport.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciEnumeratorSupport.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciEnumeratorSupport.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciEnumeratorSupport.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciEnumeratorSupport.c
 
-$(OUTPUT_DIR)/PciBus.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/PciBus.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/PciBus.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciBus.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciBus.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciBus.c
+$(OUTPUT_DIR)/PciPowerManagement.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciPowerManagement.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciPowerManagement.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciPowerManagement.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciPowerManagement.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciPowerManagement.c
+
+$(OUTPUT_DIR)/PciRomTable.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciRomTable.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciRomTable.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciRomTable.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciRomTable.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciRomTable.c
+
+$(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./AutoGen.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/DEBUG/AutoGen.c
+
+$(OUTPUT_DIR)/ComponentName.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/ComponentName.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/ComponentName.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/ComponentName.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./ComponentName.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/ComponentName.c
+
+$(OUTPUT_DIR)/PciOptionRomSupport.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciOptionRomSupport.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciOptionRomSupport.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciOptionRomSupport.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciOptionRomSupport.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciOptionRomSupport.c
+
+$(OUTPUT_DIR)/PciDeviceSupport.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciDeviceSupport.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciDeviceSupport.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDeviceSupport.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciDeviceSupport.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciDeviceSupport.c
 
 $(OUTPUT_DIR)/PciEnumerator.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/PciEnumerator.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/PciEnumerator.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciEnumerator.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciEnumerator.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciEnumerator.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciEnumerator.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciEnumerator.c
+
+$(OUTPUT_DIR)/PciBus.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciBus.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciBus.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciBus.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciBus.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciBus.c
+
+$(OUTPUT_DIR)/PciIo.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciIo.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciIo.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciIo.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciIo.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciIo.c
+
+$(OUTPUT_DIR)/PciDriverOverride.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/PciDriverOverride.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/PciDriverOverride.obj : $(WORKSPACE)/DuetPkg/PciBusNoEnumerationDxe/PciDriverOverride.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration/OUTPUT/./PciDriverOverride.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/PciBusNoEnumerationDxe/PciDriverOverride.c
 
 
 

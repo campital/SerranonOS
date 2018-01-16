@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = UefiHiiLib
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdeModulePkg/Library/UefiHiiLib
 PACKAGE_RELATIVE_DIR = Library/UefiHiiLib
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/3143687A-7C80-404e-B5FE-2D88980E1B1CUefiHiiLib
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/3143687A-7C80-404e-B5FE-2D88980E1B1CUefiHiiLib
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -208,62 +208,62 @@ INC =  \
     -I$(WORKSPACE)/MdeModulePkg \
     -I$(WORKSPACE)/MdeModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiString.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/HiiLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Protocol/HiiDatabase.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigRouting.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdeModulePkg/Library/UefiHiiLib/InternalHiiLib.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
               $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/UefiHiiServicesLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiDatabase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiFont.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/MdeModuleHii.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImage.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(DEBUG_DIR)/AutoGen.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImage.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/HiiLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdeModulePkg/Library/UefiHiiLib/InternalHiiLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiString.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/MdeModuleHii.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/UefiHiiServicesLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiFont.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
               
 
 #
@@ -273,7 +273,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib \
               
 
 #
@@ -347,22 +347,22 @@ gen_fds:
 #
 $(OUTPUT_DIR)/UefiHiiLib.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/UefiHiiLib.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
-
-$(OUTPUT_DIR)/HiiString.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/HiiString.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/HiiString.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiHiiLib/HiiString.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/./HiiString.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib/HiiString.c
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/HiiLib.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/HiiLib.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/HiiLib.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiHiiLib/HiiLib.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/./HiiLib.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib/HiiLib.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/./HiiLib.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib/HiiLib.c
+
+$(OUTPUT_DIR)/HiiString.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/HiiString.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/HiiString.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiHiiLib/HiiString.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/./HiiString.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib/HiiString.c
 
 $(OUTPUT_DIR)/HiiLanguage.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/HiiLanguage.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/HiiLanguage.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiHiiLib/HiiLanguage.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/./HiiLanguage.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib/HiiLanguage.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/./HiiLanguage.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiHiiLib/HiiLanguage.c
 
 
 

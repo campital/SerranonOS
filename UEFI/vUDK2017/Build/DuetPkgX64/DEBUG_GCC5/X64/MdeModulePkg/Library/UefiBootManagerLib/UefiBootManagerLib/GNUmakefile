@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = UefiBootManagerLib
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdeModulePkg/Library/UefiBootManagerLib
 PACKAGE_RELATIVE_DIR = Library/UefiBootManagerLib
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/8D4752BC-595E-49a2-B4AF-F3F57B601DE9UefiBootManagerLib
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/8D4752BC-595E-49a2-B4AF-F3F57B601DE9UefiBootManagerLib
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -214,111 +214,111 @@ INC =  \
     -I$(WORKSPACE)/MdeModulePkg \
     -I$(WORKSPACE)/MdeModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciCodeId.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/IdeControllerInit.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Protocol/BootLogo.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DxeServicesTableLib.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/MemoryTypeInformation.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PeCoffGetEntryPointLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DeferredImageLoad.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Usb.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/RamDisk.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
-              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/LoadFile.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/FirmwareVolume2.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci22.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/IndustryStandard/Scsi.h \
               $(WORKSPACE)/MdePkg/Include/Guid/FileInfo.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DxeServicesLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleFileSystem.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/SortLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/PciRootBridgeIo.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DiskInfo.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/CapsuleLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/UsbIo.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
-              $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/InternalBm.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/GlobalVariable.h \
-              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Protocol/VariableLock.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress21.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci30.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Atapi.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress30.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/UefiBootManagerLib.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PerformanceLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/Performance.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/NvmExpressPassthru.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleNetwork.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/BlockIo.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/HiiLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress21.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Nvme.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/LoadedImage.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/StatusCodeDataTypeVariable.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Scsi.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverHealth.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci23.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress30.h \
+              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
+              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DiskInfo.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciCodeId.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/UefiBootManagerLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/GlobalVariable.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/Performance.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci30.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/StatusCodeDataTypeVariable.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/FirmwareVolume2.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleFileSystem.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci22.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/IdeControllerInit.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DxeServicesTableLib.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/SortLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/LoadFile.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/RamDisk.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/LoadedImage.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DeferredImageLoad.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PeCoffGetEntryPointLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DxeServicesLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Atapi.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/BlockIo.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/UsbIo.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/PciIo.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/HiiLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleNetwork.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Usb.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
+              $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/InternalBm.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PerformanceLib.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/CapsuleLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/MemoryTypeInformation.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverHealth.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Protocol/VariableLock.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Protocol/BootLogo.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/PciRootBridgeIo.h \
               
 
 #
@@ -328,7 +328,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib \
               
 
 #
@@ -402,52 +402,52 @@ gen_fds:
 #
 $(OUTPUT_DIR)/UefiBootManagerLib.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/UefiBootManagerLib.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
-
-$(OUTPUT_DIR)/BmBoot.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmBoot.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmBoot.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmBoot.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmBoot.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmBoot.c
-
-$(OUTPUT_DIR)/BmLoadOption.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmLoadOption.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmLoadOption.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmLoadOption.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmLoadOption.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmLoadOption.c
-
-$(OUTPUT_DIR)/BmConnect.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmConnect.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmConnect.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmConnect.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmConnect.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmConnect.c
-
-$(OUTPUT_DIR)/BmDriverHealth.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmDriverHealth.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmDriverHealth.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmDriverHealth.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmDriverHealth.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmDriverHealth.c
-
-$(OUTPUT_DIR)/BmPerformance.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmPerformance.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmPerformance.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmPerformance.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmPerformance.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmPerformance.c
-
-$(OUTPUT_DIR)/BmHotkey.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmHotkey.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmHotkey.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmHotkey.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmHotkey.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmHotkey.c
-
-$(OUTPUT_DIR)/BmMisc.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/BmMisc.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/BmMisc.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmMisc.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmMisc.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmMisc.c
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/UefiBootManagerLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/BmBootDescription.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BmBootDescription.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/BmBootDescription.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmBootDescription.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmBootDescription.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmBootDescription.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmBootDescription.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmBootDescription.c
+
+$(OUTPUT_DIR)/BmBoot.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmBoot.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmBoot.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmBoot.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmBoot.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmBoot.c
+
+$(OUTPUT_DIR)/BmPerformance.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmPerformance.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmPerformance.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmPerformance.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmPerformance.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmPerformance.c
+
+$(OUTPUT_DIR)/BmDriverHealth.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmDriverHealth.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmDriverHealth.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmDriverHealth.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmDriverHealth.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmDriverHealth.c
+
+$(OUTPUT_DIR)/BmMisc.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmMisc.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmMisc.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmMisc.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmMisc.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmMisc.c
+
+$(OUTPUT_DIR)/BmLoadOption.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmLoadOption.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmLoadOption.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmLoadOption.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmLoadOption.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmLoadOption.c
 
 $(OUTPUT_DIR)/BmConsole.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BmConsole.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/BmConsole.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmConsole.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmConsole.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmConsole.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmConsole.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmConsole.c
+
+$(OUTPUT_DIR)/BmConnect.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmConnect.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmConnect.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmConnect.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmConnect.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmConnect.c
+
+$(OUTPUT_DIR)/BmHotkey.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/BmHotkey.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/BmHotkey.obj : $(WORKSPACE)/MdeModulePkg/Library/UefiBootManagerLib/BmHotkey.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib/OUTPUT/./BmHotkey.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/UefiBootManagerLib/BmHotkey.c
 
 
 

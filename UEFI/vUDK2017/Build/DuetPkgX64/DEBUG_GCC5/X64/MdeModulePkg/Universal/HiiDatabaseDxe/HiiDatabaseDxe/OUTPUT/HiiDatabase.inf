@@ -35,6 +35,7 @@
 
 [Binaries.X64]
   PE32|HiiDatabase.efi
+  DXE_DEPEX|HiiDatabase.depex
 
 [PatchPcd.X64]
 

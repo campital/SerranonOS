@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseIoLibIntrinsic
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdePkg/Library/BaseIoLibIntrinsic
 PACKAGE_RELATIVE_DIR = Library/BaseIoLibIntrinsic
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/926c9cd0-4bb8-479b-9ac4-8a2a23f85307BaseIoLibIntrinsic
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/926c9cd0-4bb8-479b-9ac4-8a2a23f85307BaseIoLibIntrinsic
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -209,15 +209,15 @@ INC =  \
     -I$(WORKSPACE)/MdePkg/Include \
     -I$(WORKSPACE)/MdePkg/Include/X64
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Library/IoLib.h \
               $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicInternal.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
               $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/Library/IoLib.h \
+              $(DEBUG_DIR)/AutoGen.h \
               $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
               
 
@@ -228,7 +228,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib \
               
 
 #
@@ -301,37 +301,37 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(OUTPUT_DIR)/X64/IoFifo.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/X64/IoFifo.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/IoFifo.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/X64/IoFifo.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/IoFifo.obj : $(WORKSPACE)/MdePkg/Include/Base.h
 $(OUTPUT_DIR)/X64/IoFifo.obj : $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/X64/IoFifo.nasm
-	"$(PP)" $(PP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/X64/IoFifo.nasm > /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.i
-	Trim --trim-long --source-code -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.iii /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.i
-	"$(NASM)" -I/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/X64/ $(NASM_FLAGS) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.obj /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.iii
+	"$(PP)" $(PP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/X64/IoFifo.nasm > /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.i
+	Trim --trim-long --source-code -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.iii /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.i
+	"$(NASM)" -I/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/X64/ $(NASM_FLAGS) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.obj /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/X64/IoFifo.iii
 
 $(OUTPUT_DIR)/BaseIoLibIntrinsic.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseIoLibIntrinsic.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/IoLibMmioBuffer.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/IoLibMmioBuffer.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/IoLibMmioBuffer.obj : $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoLibMmioBuffer.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
-
-$(OUTPUT_DIR)/IoLibGcc.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/IoLibGcc.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/IoLibGcc.obj : $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoLibGcc.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoLibMmioBuffer.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
 
 $(OUTPUT_DIR)/IoLib.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/IoLib.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/IoLib.obj : $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoLib.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoLib.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
+
+$(OUTPUT_DIR)/IoLibGcc.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/IoLibGcc.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/IoLibGcc.obj : $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoLibGcc.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
 
 $(OUTPUT_DIR)/IoHighLevel.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/IoHighLevel.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/IoHighLevel.obj : $(WORKSPACE)/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoHighLevel.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/./IoHighLevel.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
 
 
 

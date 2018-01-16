@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseXApicLib
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = UefiCpuPkg/Library/BaseXApicLib
 PACKAGE_RELATIVE_DIR = Library/BaseXApicLib
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseXApicLib
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/D87CA0A8-1AC2-439b-90F8-EF4A2AC88DAFBaseXApicLib
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseXApicLib
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/D87CA0A8-1AC2-439b-90F8-EF4A2AC88DAFBaseXApicLib
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -206,43 +206,43 @@ INC =  \
     -I$(WORKSPACE)/UefiCpuPkg \
     -I$(WORKSPACE)/UefiCpuPkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/UefiCpuPkg/Include/Library/LocalApicLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/GoldmontMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/IvyBridgeMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/BroadwellMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/CoreMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Pentium4Msr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SandyBridgeMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellEMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Cpuid.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellMsr.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/ArchitecturalMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/AtomMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/NehalemMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Amd/Cpuid.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SilvermontMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SkylakeMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonE7Msr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Xeon5600Msr.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/IoLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonDMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Core2Msr.h \
+COMMON_DEPS = $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/IvyBridgeMsr.h \
               $(WORKSPACE)/UefiCpuPkg/Include/Register/LocalApic.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Library/LocalApicLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Cpuid.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/CoreMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SkylakeMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SandyBridgeMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/BroadwellMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SilvermontMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
               $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonPhiMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonE7Msr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Pentium4Msr.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/Library/IoLib.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Xeon5600Msr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/ArchitecturalMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonDMsr.h \
               $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/P6Msr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/GoldmontMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/NehalemMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellEMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Core2Msr.h \
+              $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/AtomMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Amd/Cpuid.h \
               
 
 #
@@ -252,7 +252,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/BaseXApicLib.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/BaseXApicLib.lib \
               
 
 #
@@ -326,12 +326,12 @@ gen_fds:
 #
 $(OUTPUT_DIR)/BaseXApicLib.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseXApicLib.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/BaseXApicLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/BaseXApicLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/BaseXApicLib.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BaseXApicLib.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/BaseXApicLib.obj : $(WORKSPACE)/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/./BaseXApicLib.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib/OUTPUT/./BaseXApicLib.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseXApicLib/BaseXApicLib.c
 
 
 

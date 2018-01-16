@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = DxeCoreReportStatusCodeLibFromHob
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob
 PACKAGE_RELATIVE_DIR = Library/DxeCoreReportStatusCodeLibFromHob
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/5c7f8702-838f-43df-91e6-7833b6f2a067DxeCoreReportStatusCodeLibFromHob
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/5c7f8702-838f-43df-91e6-7833b6f2a067DxeCoreReportStatusCodeLibFromHob
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -59,13 +59,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -206,58 +206,58 @@ INC =  \
     -I$(WORKSPACE)/MdeModulePkg \
     -I$(WORKSPACE)/MdeModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
               $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/ReportStatusCodeLibInternal.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
-              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/StatusCode.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/StatusCodeDataTypeDebug.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/ReportStatusCodeLibInternal.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
               $(WORKSPACE)/MdePkg/Include/PiDxe.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/StatusCodeDataTypeDebug.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
               $(WORKSPACE)/MdePkg/Include/Guid/StatusCodeDataTypeId.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
               
 
 #
@@ -267,7 +267,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/DxeCoreReportStatusCodeLibFromHob.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/DxeCoreReportStatusCodeLibFromHob.lib \
               
 
 #
@@ -341,17 +341,17 @@ gen_fds:
 #
 $(OUTPUT_DIR)/DxeCoreReportStatusCodeLibFromHob.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/DxeCoreReportStatusCodeLibFromHob.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/DxeCoreReportStatusCodeLibFromHob.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/DxeCoreReportStatusCodeLibFromHob.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/DxeSupport.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/DxeSupport.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/DxeSupport.obj : $(WORKSPACE)/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeSupport.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/./DxeSupport.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeSupport.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/./DxeSupport.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeSupport.c
 
 $(OUTPUT_DIR)/ReportStatusCodeLib.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/ReportStatusCodeLib.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/ReportStatusCodeLib.obj : $(WORKSPACE)/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/ReportStatusCodeLib.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/./ReportStatusCodeLib.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/ReportStatusCodeLib.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/DxeCoreReportStatusCodeLibFromHob/OUTPUT/./ReportStatusCodeLib.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg/Library/DxeCoreReportStatusCodeLibFromHob/ReportStatusCodeLib.c
 
 
 

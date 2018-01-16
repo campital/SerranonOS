@@ -30,6 +30,7 @@
 
 [Binaries.X64]
   PE32|SmbiosDxe.efi
+  DXE_DEPEX|SmbiosDxe.depex
 
 [PatchPcd.X64]
 

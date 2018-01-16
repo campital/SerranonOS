@@ -1,15 +1,14 @@
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/WriteTr.nasm"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/WriteTr.nasm"
 # 1 "<built-in>"
 # 1 "<command-line>"
-# 31 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
-# 32 "<command-line>" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 1
-# 16 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 1
-# 28 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h" 1
-# 188 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h"
+# 1 "<command-line>" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 1
+# 16 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 1
+# 28 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h" 1
+# 188 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h"
   typedef unsigned long long UINT64;
 
 
@@ -65,8 +64,8 @@ typedef UINT64 UINTN;
 
 
 typedef INT64 INTN;
-# 29 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 2
-# 54 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 29 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 2
+# 54 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 extern UINT8 _VerifySizeofBOOLEAN[(sizeof(BOOLEAN) == (1)) / (sizeof(BOOLEAN) == (1))];
 extern UINT8 _VerifySizeofINT8[(sizeof(INT8) == (1)) / (sizeof(INT8) == (1))];
 extern UINT8 _VerifySizeofUINT8[(sizeof(UINT8) == (1)) / (sizeof(UINT8) == (1))];
@@ -78,7 +77,7 @@ extern UINT8 _VerifySizeofINT64[(sizeof(INT64) == (8)) / (sizeof(INT64) == (8))]
 extern UINT8 _VerifySizeofUINT64[(sizeof(UINT64) == (8)) / (sizeof(UINT64) == (8))];
 extern UINT8 _VerifySizeofCHAR8[(sizeof(CHAR8) == (1)) / (sizeof(CHAR8) == (1))];
 extern UINT8 _VerifySizeofCHAR16[(sizeof(CHAR16) == (2)) / (sizeof(CHAR16) == (2))];
-# 73 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 73 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef enum {
   __VerifyUint8EnumValue = 0xff
 } __VERIFY_UINT8_ENUM_SIZE;
@@ -94,7 +93,7 @@ typedef enum {
 extern UINT8 _VerifySizeof__VERIFY_UINT8_ENUM_SIZE[(sizeof(__VERIFY_UINT8_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT8_ENUM_SIZE) == (4))];
 extern UINT8 _VerifySizeof__VERIFY_UINT16_ENUM_SIZE[(sizeof(__VERIFY_UINT16_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT16_ENUM_SIZE) == (4))];
 extern UINT8 _VerifySizeof__VERIFY_UINT32_ENUM_SIZE[(sizeof(__VERIFY_UINT32_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT32_ENUM_SIZE) == (4))];
-# 261 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 261 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef struct {
   UINT32 Data1;
   UINT16 Data2;
@@ -133,142 +132,142 @@ struct _LIST_ENTRY {
   LIST_ENTRY *ForwardLink;
   LIST_ENTRY *BackLink;
 };
-# 657 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 657 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef __builtin_ms_va_list VA_LIST;
-# 761 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 761 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef UINTN *BASE_LIST;
-# 925 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 925 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef UINTN RETURN_STATUS;
-# 1241 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 1241 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
   void * __builtin_return_address (unsigned int level);
-# 17 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h" 1
-# 1082 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 17 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h" 1
+# 1082 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdSetSku (
   UINTN SkuId
   );
-# 1099 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1099 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdGet8 (
   UINTN TokenNumber
   );
-# 1116 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1116 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdGet16 (
   UINTN TokenNumber
   );
-# 1133 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1133 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdGet32 (
   UINTN TokenNumber
   );
-# 1150 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1150 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdGet64 (
   UINTN TokenNumber
   );
-# 1167 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1167 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdGetPtr (
   UINTN TokenNumber
   );
-# 1184 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1184 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdGetBool (
   UINTN TokenNumber
   );
-# 1199 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1199 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetSize (
   UINTN TokenNumber
   );
-# 1220 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1220 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdGetEx8 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1242 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1242 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdGetEx16 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1261 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1261 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdGetEx32 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1283 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1283 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdGetEx64 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1305 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1305 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdGetExPtr (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1327 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1327 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdGetExBool (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1349 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1349 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetExSize (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1370 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1370 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdSet8 (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1390 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1390 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdSet16 (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1410 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1410 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdSet32 (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1430 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1430 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdSet64 (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1460 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1460 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdSetPtr (
@@ -276,14 +275,14 @@ LibPcdSetPtr (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 1481 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1481 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdSetBool (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1505 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1505 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdSetEx8 (
@@ -291,7 +290,7 @@ LibPcdSetEx8 (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1530 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1530 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdSetEx16 (
@@ -299,7 +298,7 @@ LibPcdSetEx16 (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1555 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1555 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdSetEx32 (
@@ -307,7 +306,7 @@ LibPcdSetEx32 (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1580 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1580 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdSetEx64 (
@@ -315,7 +314,7 @@ LibPcdSetEx64 (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1611 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1611 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdSetExPtr (
@@ -324,7 +323,7 @@ LibPcdSetExPtr (
   UINTN *SizeOfBuffer,
   void *Buffer
   );
-# 1637 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1637 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdSetExBool (
@@ -332,35 +331,35 @@ LibPcdSetExBool (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1658 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1658 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet8S (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1677 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1677 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet16S (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1696 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1696 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet32S (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1715 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1715 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet64S (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1744 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1744 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetPtrS (
@@ -368,14 +367,14 @@ LibPcdSetPtrS (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 1764 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1764 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetBoolS (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1787 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1787 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx8S (
@@ -383,7 +382,7 @@ LibPcdSetEx8S (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1811 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1811 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx16S (
@@ -391,7 +390,7 @@ LibPcdSetEx16S (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1835 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1835 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx32S (
@@ -399,7 +398,7 @@ LibPcdSetEx32S (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1859 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1859 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx64S (
@@ -407,7 +406,7 @@ LibPcdSetEx64S (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1889 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1889 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetExPtrS (
@@ -416,7 +415,7 @@ LibPcdSetExPtrS (
   UINTN *SizeOfBuffer,
   void *Buffer
   );
-# 1914 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1914 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetExBoolS (
@@ -424,7 +423,7 @@ LibPcdSetExBoolS (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1938 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1938 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 typedef
 void
 ( *PCD_CALLBACK)(
@@ -433,7 +432,7 @@ void
   void *TokenData,
   UINTN TokenDataSize
   );
-# 1964 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1964 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdCallbackOnSet (
@@ -441,7 +440,7 @@ LibPcdCallbackOnSet (
   UINTN TokenNumber,
   PCD_CALLBACK NotificationFunction
   );
-# 1986 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1986 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdCancelCallback (
@@ -449,20 +448,20 @@ LibPcdCancelCallback (
   UINTN TokenNumber,
   PCD_CALLBACK NotificationFunction
   );
-# 2014 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2014 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetNextToken (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 2036 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2036 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 GUID *
 
 LibPcdGetNextTokenSpace (
   const GUID *TokenSpaceGuid
   );
-# 2066 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2066 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPatchPcdSetPtr (
@@ -471,7 +470,7 @@ LibPatchPcdSetPtr (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 2098 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2098 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPatchPcdSetPtrS (
@@ -480,7 +479,7 @@ LibPatchPcdSetPtrS (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 2132 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2132 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPatchPcdSetPtrAndSize (
@@ -490,7 +489,7 @@ LibPatchPcdSetPtrAndSize (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 2167 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2167 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPatchPcdSetPtrAndSizeS (
@@ -529,14 +528,14 @@ typedef struct {
 
   CHAR8 *PcdName;
 } PCD_INFO;
-# 2219 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2219 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdGetInfo (
   UINTN TokenNumber,
   PCD_INFO *PcdInfo
   );
-# 2239 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2239 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdGetInfoEx (
@@ -544,13 +543,13 @@ LibPcdGetInfoEx (
   UINTN TokenNumber,
   PCD_INFO *PcdInfo
   );
-# 2254 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2254 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetSku (
   void
   );
-# 18 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
+# 18 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
 
 extern GUID gEfiCallerIdGuid;
 extern CHAR8 *gEfiCallerBaseName;
@@ -590,8 +589,8 @@ extern const UINT32 _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength;
 
 
 extern const UINT8 _gPcd_FixedAtBuild_PcdDebugPropertyMask;
-# 32 "<command-line>" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/WriteTr.nasm"
+# 1 "<command-line>" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/WriteTr.nasm"
 ;------------------------------------------------------------------------------ ;
 ; Copyright (c) 2017, Intel Corporation. All rights reserved.<BR>
 ; This program and the accompanying materials

@@ -33,6 +33,7 @@
 
 [Binaries.X64]
   PE32|DxeIpl.efi
+  DXE_DEPEX|DxeIpl.depex
 
 [PatchPcd.X64]
 

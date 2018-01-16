@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseSerialPortLib16550
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdeModulePkg/Library/BaseSerialPortLib16550
 PACKAGE_RELATIVE_DIR = Library/BaseSerialPortLib16550
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/BaseSerialPortLib16550
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/9E7C00CF-355A-4d4e-BF60-0428CFF95540BaseSerialPortLib16550
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/BaseSerialPortLib16550
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/9E7C00CF-355A-4d4e-BF60-0428CFF95540BaseSerialPortLib16550
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -206,27 +206,27 @@ INC =  \
     -I$(WORKSPACE)/MdeModulePkg \
     -I$(WORKSPACE)/MdeModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress30.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SerialIo.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci30.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciCodeId.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/Library/IoLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/SerialPortLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress21.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
               $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci23.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/PlatformHookLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PciLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/IoLib.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci22.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress30.h \
+              $(WORKSPACE)/MdePkg/Include/Library/SerialPortLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciCodeId.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci23.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PciLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/PlatformHookLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PciExpress21.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Pci30.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SerialIo.h \
+              $(DEBUG_DIR)/AutoGen.h \
               
 
 #
@@ -236,7 +236,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/BaseSerialPortLib16550.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/BaseSerialPortLib16550.lib \
               
 
 #
@@ -310,12 +310,12 @@ gen_fds:
 #
 $(OUTPUT_DIR)/BaseSerialPortLib16550.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseSerialPortLib16550.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/BaseSerialPortLib16550.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/BaseSerialPortLib16550.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(OUTPUT_DIR)/BaseSerialPortLib16550.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/BaseSerialPortLib16550.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/BaseSerialPortLib16550.obj : $(WORKSPACE)/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/./BaseSerialPortLib16550.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550/OUTPUT/./BaseSerialPortLib16550.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550.c
 
 
 

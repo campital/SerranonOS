@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = HiiDatabaseDxe
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdeModulePkg/Universal/HiiDatabaseDxe
 PACKAGE_RELATIVE_DIR = Universal/HiiDatabaseDxe
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/348C4D62-BFBD-4882-9ECE-C80BB1C4783BHiiDatabase
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/348C4D62-BFBD-4882-9ECE-C80BB1C4783BHiiDatabase
 
 MODULE_ENTRY_POINT = InitializeHiiDatabase
 ARCH_ENTRY_POINT = InitializeHiiDatabase
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -228,84 +228,84 @@ INC =  \
     -I$(WORKSPACE)/MdeModulePkg \
     -I$(WORKSPACE)/MdeModulePkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/object_files.lst
-STATIC_LIBRARY_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/static_library_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/object_files.lst
+STATIC_LIBRARY_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/static_library_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiString.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigAccess.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImageDecoder.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/GlobalVariable.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigRouting.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigAccess.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/HiiDatabase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigKeyword.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/PcdDataBaseSignatureGuid.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/VariableFormat.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
               $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImage.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/GlobalVariable.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiPlatformSetupFormset.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabase.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/HiiFont.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/MdeModuleHii.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiKeyBoardLayout.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
-              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/VariableFormat.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigKeyword.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/FormBrowser2.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImageDecoder.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DevicePathLib.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/HiiImageEx.h \
               $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiConfigRouting.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
+              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiString.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/MdeModuleHii.h \
+              $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabase.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/PcdDataBaseSignatureGuid.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiKeyBoardLayout.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PrintLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiImage.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/HiiFont.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h \
               
 
 #
@@ -315,7 +315,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi \
               
 
 #
@@ -399,110 +399,110 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(DEBUG_DIR)/HiiDatabase.efi : $(DEBUG_DIR)/HiiDatabase.dll
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
-	$(OBJCOPY) --strip-unneeded -R .eh_frame /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll
-	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
+	$(OBJCOPY) --strip-unneeded -R .eh_frame /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll
+	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll
 	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
-	"$(GENFW)" -e $(MODULE_TYPE) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll $(GENFW_FLAGS)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi $(OUTPUT_DIR)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
+	"$(GENFW)" -e $(MODULE_TYPE) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll $(GENFW_FLAGS)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi $(OUTPUT_DIR)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
 	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
 
 $(OUTPUT_DIR)/HiiDatabase.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/HiiDatabase.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/HiiDatabase.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(DEBUG_DIR)/HiiDatabase.dll : $(MAKE_FILE)
 $(DEBUG_DIR)/HiiDatabase.dll : $(STATIC_LIBRARY_FILES)
 $(DEBUG_DIR)/HiiDatabase.dll : $(STATIC_LIBRARY_FILES_LIST)
-	"$(DLINK)" -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
-	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll
-
-$(OUTPUT_DIR)/Image.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/Image.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/Image.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/Image.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./Image.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/Image.c
-
-$(OUTPUT_DIR)/ImageEx.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/ImageEx.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/ImageEx.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/ImageEx.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./ImageEx.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/ImageEx.c
-
-$(OUTPUT_DIR)/ConfigRouting.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/ConfigRouting.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/ConfigRouting.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigRouting.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./ConfigRouting.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigRouting.c
-
-$(OUTPUT_DIR)/ConfigKeywordHandler.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/ConfigKeywordHandler.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/ConfigKeywordHandler.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigKeywordHandler.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./ConfigKeywordHandler.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigKeywordHandler.c
-
-$(OUTPUT_DIR)/Font.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/Font.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/Font.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/Font.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./Font.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/Font.c
+	"$(DLINK)" -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
+	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/HiiDatabase.dll
 
 $(OUTPUT_DIR)/String.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/String.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/String.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/String.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./String.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/String.c
-
-$(OUTPUT_DIR)/HiiDatabaseEntry.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/HiiDatabaseEntry.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/HiiDatabaseEntry.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseEntry.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./HiiDatabaseEntry.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseEntry.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./String.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/String.c
 
 $(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
 $(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
 $(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
 $(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
 $(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./AutoGen.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/AutoGen.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./AutoGen.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/DEBUG/AutoGen.c
+
+$(OUTPUT_DIR)/ConfigRouting.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/ConfigRouting.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/ConfigRouting.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigRouting.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./ConfigRouting.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigRouting.c
 
 $(OUTPUT_DIR)/Database.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/Database.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/Database.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/Database.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./Database.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/Database.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./Database.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/Database.c
+
+$(OUTPUT_DIR)/ConfigKeywordHandler.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/ConfigKeywordHandler.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/ConfigKeywordHandler.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigKeywordHandler.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./ConfigKeywordHandler.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/ConfigKeywordHandler.c
+
+$(OUTPUT_DIR)/Font.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/Font.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/Font.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/Font.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./Font.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/Font.c
+
+$(OUTPUT_DIR)/ImageEx.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/ImageEx.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/ImageEx.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/ImageEx.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./ImageEx.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/ImageEx.c
+
+$(OUTPUT_DIR)/HiiDatabaseEntry.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/HiiDatabaseEntry.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/HiiDatabaseEntry.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseEntry.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./HiiDatabaseEntry.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseEntry.c
+
+$(OUTPUT_DIR)/Image.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/Image.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/Image.obj : $(WORKSPACE)/MdeModulePkg/Universal/HiiDatabaseDxe/Image.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/HiiDatabaseDxe/HiiDatabaseDxe/OUTPUT/./Image.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Universal/HiiDatabaseDxe/Image.c
 
 
 

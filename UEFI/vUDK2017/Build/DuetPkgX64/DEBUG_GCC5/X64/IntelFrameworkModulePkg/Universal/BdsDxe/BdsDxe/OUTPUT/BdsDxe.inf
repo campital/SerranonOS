@@ -46,34 +46,35 @@
 
 [Binaries.X64]
   PE32|BdsDxe.efi
+  DXE_DEPEX|BdsDxe.depex
   BIN|BdsDxeOffset.bin
 
 [PatchPcd.X64]
   ## PRODUCES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x1D798
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x21E98
 
   ## PRODUCES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x1D79C
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x21E9C
 
   ## PRODUCES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|0x00000320|0x1D794
+  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|0x00000320|0x21E94
 
   ## PRODUCES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|0x00000258|0x1D790
+  gEfiMdeModulePkgTokenSpaceGuid.PcdVideoVerticalResolution|0x00000258|0x21E90
 
   ## CONSUMES
   ## SOMETIMES_PRODUCES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutColumn|0x00000050|0x22844
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutColumn|0x00000050|0x21944
 
   ## CONSUMES
   ## SOMETIMES_PRODUCES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutRow|0x00000019|0x22840
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupConOutRow|0x00000019|0x21940
 
   ## CONSUMES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoHorizontalResolution|0x00000320|0x2284C
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoHorizontalResolution|0x00000320|0x2194C
 
   ## CONSUMES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoVerticalResolution|0x00000258|0x22848
+  gEfiMdeModulePkgTokenSpaceGuid.PcdSetupVideoVerticalResolution|0x00000258|0x21948
 
 
 [Protocols.X64]

@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseUefiCpuLib
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = UefiCpuPkg/Library/BaseUefiCpuLib
 PACKAGE_RELATIVE_DIR = Library/BaseUefiCpuLib
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/34C24FD7-7A90-45c2-89FD-946473D9CE98BaseUefiCpuLib
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/34C24FD7-7A90-45c2-89FD-946473D9CE98BaseUefiCpuLib
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -207,7 +207,7 @@ INC =  \
     -I$(WORKSPACE)/UefiCpuPkg \
     -I$(WORKSPACE)/UefiCpuPkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/object_files.lst
 
 
 COMMON_DEPS = 
@@ -219,7 +219,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib \
               
 
 #
@@ -292,17 +292,17 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(OUTPUT_DIR)/X64/InitializeFpu.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/X64/InitializeFpu.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/InitializeFpu.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
 $(OUTPUT_DIR)/X64/InitializeFpu.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/X64/InitializeFpu.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/InitializeFpu.obj : $(WORKSPACE)/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm
-	"$(PP)" $(PP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm > /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.i
-	Trim --trim-long --source-code -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.iii /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.i
-	"$(NASM)" -I/home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/ $(NASM_FLAGS) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.obj /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.iii
+	"$(PP)" $(PP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm > /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.i
+	Trim --trim-long --source-code -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.iii /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.i
+	"$(NASM)" -I/mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/ $(NASM_FLAGS) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.obj /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/X64/InitializeFpu.iii
 
 $(OUTPUT_DIR)/BaseUefiCpuLib.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseUefiCpuLib.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/OUTPUT/BaseUefiCpuLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 
 

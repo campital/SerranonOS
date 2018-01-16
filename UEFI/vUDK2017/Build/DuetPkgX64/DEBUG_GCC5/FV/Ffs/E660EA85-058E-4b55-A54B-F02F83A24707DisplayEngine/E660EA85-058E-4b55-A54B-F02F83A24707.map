@@ -1,255 +1,650 @@
 Archive member included to satisfy reference by file (symbol)
 
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib(UefiHiiServicesLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiString.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib(HiiLanguage.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLibInternal.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(CustomizedDisplayLibInternal.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(AutoGen.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib(AutoGen.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(FormDisplay.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(FormDisplay.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(ProcessOptions.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(ProcessOptions.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(InputHandler.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(InputHandler.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(Popup.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(Popup.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(AutoGen.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib(AutoGen.obj)
                               (--whole-archive)
 
 Discarded input sections
 
- .text          0x0000000000000000        0x0 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data          0x0000000000000000        0x0 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss           0x0000000000000000        0x0 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.InternalBaseLibIsListValid
-                0x0000000000000000       0x22 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.IsNodeInList
-                0x0000000000000000       0x28 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.InternalAssertJumpBuffer
-                0x0000000000000000        0x1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .comment       0x0000000000000000       0x24 /tmp/ccGAwqqh.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .text.unlikely.FormDisplay
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans0.ltrans.o
  .note.GNU-stack
-                0x0000000000000000        0x0 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
- .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
- .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
- .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
- .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
- .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
- .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
- .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
- .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
- .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
- .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
- .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
- .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .text.unlikely.ProcessOptions
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.InternalSafeStringNoStrOverlap
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.InternalBaseLibIsListValid
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000000000       0x2e /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.IsNodeInList
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.IsNodeInList
+                0x0000000000000000       0x37 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.StrLen
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.StrCmp
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.AsciiStrnLenS
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.StrnLenS
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.StrCatS
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.StrnCpyS
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.StrCpyS
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.IsNull
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.IsListEmpty
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.RemoveEntryList
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.GetNextNode
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.GetFirstNode
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.InsertTailList
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.InsertHeadList
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.SwapListEntries
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.GetStringWidth
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.GetLineByWidth
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.UpdateSkipInfoForMenu
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.GetToken
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.IsSelectable
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.UpdateOptionSkipLines
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.MoveToNextStatement
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.GetWidth
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.UiAddMenuOption
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.PrintAt
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.WaitForKeyStroke
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.PrintHotKeyHelpString
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.LibGetStringWidth
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.LibGetToken
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.unlikely.ProcessUserOpcode
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.SetDisplayAttribute
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.DisplayMenuString
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.DisplayOneMenu
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.GetIndexInfoForOpcode
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.UpdateHighlightMenuInfo
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.FindTopOfScreenMenuOption
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.FindHighLightMenuOption
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.FindTopOfScreenMenu
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.LibGetFieldFromNum
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.unlikely.AdjustDateAndTimePosition
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.ReadUnaligned64
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.HiiRemovePackages
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.UnicodeVSPrint
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.UnicodeSPrint
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.BasePrintLibFillBuffer
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.CompareGuid
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.CopyGuid
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.CopyMem
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.CompareMem
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.ZeroMem
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.AllocateZeroPool
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.HiiGetSupportedLanguages
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.HiiAddPackages
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.AsciiStrLen
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.8.lto_priv.27
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.21
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.unlikely.InternalAllocateCopyPool.constprop.19
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.unlikely.BasePrintLibSPrintMarker.constprop.18
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.17
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.unlikely.GetBestLanguage.constprop.14
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.unlikely.HiiSetString.constprop.13
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .text.unlikely.SetValuesByType
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .text.unlikely.GetNumericInput
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .text.unlikely.AddOneSelectableOption
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .text.unlikely.CreatePopup
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdBrowserFieldTextHighlightColor
+                0x0000000000000000        0x1 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .text.unlikely.GetSelectionInputPopUp
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.HiiGetString.constprop.12
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.LibSetUnicodeMem.constprop.11
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.CreateMultiStringPopUp.constprop.7
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.PrintFormattedNumber.constprop.5
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.CompareHiiValue.constprop.4
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.ProcessLibraryDestructorList
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text.unlikely.ParseMessageString.part.0.lto_priv.28
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .text.unlikely.ReadString
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .text.unlikely.ProcessHelpString
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.PrintCharAt
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.PrintStringAtWithWidth
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.PrintStringAt
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.ClearLines
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.CreateDialog
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.ConfirmDataChange
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text.unlikely.UpdateStatusBar
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .text.unlikely.RefreshKeyHelp
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.EmptyEventProcess
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.DriverClearDisplayPage
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.RefreshTimeOutProcess
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.SetArrayData
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.GetArrayData
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.ValueToOption
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.HiiValueToUINT64
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text.unlikely.NewStrCat
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .text          0x0000000000000000        0x0 PcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGeneric.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathUtilities.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathToText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathFromText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiHiiServicesLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HiiLanguage.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CustomizedDisplayLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CustomizedDisplayLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FormDisplay.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ProcessOptions.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 InputHandler.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Popup.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
 
 Memory Configuration
 
@@ -258,601 +653,865 @@ Name             Origin             Length             Attributes
 
 Linker script and memory map
 
-LOAD /tmp/ccGAwqqh.ltrans0.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans0.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans1.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans2.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans3.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans4.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans5.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans6.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans7.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans8.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans9.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans10.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans11.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans12.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans13.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans14.ltrans.o
+LOAD /tmp/cc8DjpEK.ltrans15.ltrans.o
 START GROUP
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib/OUTPUT/UefiHiiServicesLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/UefiHiiLib/UefiHiiLib/OUTPUT/UefiHiiLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Library/CustomizedDisplayLib/CustomizedDisplayLib/OUTPUT/CustomizedDisplayLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/OUTPUT/DisplayEngine.lib
 END GROUP
                 0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
                 0x0000000000000228                . = PECOFF_HEADER_SIZE
 
-.text           0x0000000000000240     0xca74
+.text           0x0000000000000240     0xd004
  *(.text .text.* .stub .gnu.linkonce.t.*)
- .text.InternalAllocatePool.constprop.22
-                0x0000000000000240       0x37 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.LibSetUnicodeMem.constprop.12
-                0x0000000000000277       0x13 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.SetValuesByType
-                0x000000000000028a       0x30 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.EmptyEventProcess
-                0x00000000000002ba        0x1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.SetArrayData
-                0x00000000000002bb       0x27 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetArrayData
-                0x00000000000002e2       0x2a /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.HiiValueToUINT64
-                0x000000000000030c       0x35 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.LibGetStringWidth.part.2
-                0x0000000000000341       0x48 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.DriverClearDisplayPage
-                0x0000000000000389       0x3e /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.SetDisplayAttribute
-                0x00000000000003c7       0x5a /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.LibGetFieldFromNum
-                0x0000000000000421       0x25 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.AdjustDateAndTimePosition
-                0x0000000000000446       0x60 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetStringWidth
-                0x00000000000004a6        0xd /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.WaitForKeyStroke
-                0x00000000000004b3       0x6d /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.LibGetStringWidth
-                0x0000000000000520        0xd /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.HiiRemovePackages
-                0x000000000000052d        0xd /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.BasePrintLibFillBuffer
-                0x000000000000053a       0x28 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.FreePool
-                0x0000000000000562        0xa /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ProcessLibraryDestructorList
-                0x000000000000056c       0xf8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text._DriverUnloadHandler
-                0x0000000000000664      0x2b1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CopyMem  0x0000000000000915      0x211 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.InternalAllocateCopyPool.constprop.20
-                0x0000000000000b26       0x35 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CompareMem
-                0x0000000000000b5b       0x2e /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetIndexInfoForOpcode
-                0x0000000000000b89       0x53 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.FindHighLightMenuOption
-                0x0000000000000bdc       0xe2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ZeroMem  0x0000000000000cbe       0x88 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.AllocateZeroPool
-                0x0000000000000d46       0xf9 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ParseMessageString.part.0
-                0x0000000000000e3f      0x10e /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetLineByWidth
-                0x0000000000000f4d      0x1be /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ProcessHelpString.constprop.2
-                0x000000000000110b      0x137 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.HiiGetSupportedLanguages
-                0x0000000000001242       0x81 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ReadUnaligned64
-                0x00000000000012c3        0x4 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CompareGuid
-                0x00000000000012c7       0x42 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ProcessUserOpcode
-                0x0000000000001309      0x114 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CopyGuid
-                0x000000000000141d       0x27 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.AsciiStrLen
-                0x0000000000001444        0xe /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.AsciiStrnCmp.part.7
-                0x0000000000001452       0x52 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.StrLen   0x00000000000014a4        0xf /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UpdateSkipInfoForMenu
-                0x00000000000014b3       0xb1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.StrCmp   0x0000000000001564       0x22 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.AsciiStrnLenS
-                0x0000000000001586       0x26 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.StrnLenS
-                0x00000000000015ac       0x27 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.InternalSafeStringNoStrOverlap
-                0x00000000000015d3       0x27 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.StrCatS  0x00000000000015fa      0x14c /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.StrnCpyS
-                0x0000000000001746      0x145 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.StrCpyS  0x000000000000188b      0x12a /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.NewStrCat
-                0x00000000000019b5       0x3b /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.IsListEmpty
-                0x00000000000019f0        0x7 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UpdateHighlightMenuInfo
-                0x00000000000019f7      0x1c2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.RemoveEntryList
-                0x0000000000001bb9       0x19 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetFirstNode
-                0x0000000000001bd2        0x4 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.IsNull   0x0000000000001bd6        0x7 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetNextNode
-                0x0000000000001bdd        0x4 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.InsertTailList
-                0x0000000000001be1       0x16 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.AddOneSelectableOption
-                0x0000000000001bf7       0xf3 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.InsertHeadList
-                0x0000000000001cea       0x15 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.SwapListEntries
-                0x0000000000001cff       0x57 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.unlikely.BasePrintLibSPrint.constprop.18
-                0x0000000000001d56       0xb8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.BasePrintLibSPrintMarker.constprop.19
-                0x0000000000001e0e      0xbec /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UnicodeVSPrint
-                0x00000000000029fa       0xaa /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetBestLanguage.constprop.15
-                0x0000000000002aa4       0xf0 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.HiiGetString.constprop.13
-                0x0000000000002b94      0x255 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetToken
-                0x0000000000002de9       0x40 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CompareHiiValue.constprop.5
-                0x0000000000002e29      0x231 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ValueToOption
-                0x000000000000305a       0xc2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetWidth
-                0x000000000000311c       0xd9 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UiAddMenuOption
-                0x00000000000031f5      0x207 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.LibGetToken
-                0x00000000000033fc       0x40 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.PrintAt  0x000000000000343c      0x1c1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.PrintCharAt
-                0x00000000000035fd       0x26 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.PrintStringAtWithWidth
-                0x0000000000003623       0x26 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.PrintHotKeyHelpString
-                0x0000000000003649      0x233 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.PrintStringAt
-                0x000000000000387c       0x22 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.DisplayMenuString
-                0x000000000000389e       0x82 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ClearLines
-                0x0000000000003920      0x128 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CreateMultiStringPopUp.constprop.8
-                0x0000000000003a48      0x300 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CreatePopup
-                0x0000000000003d48      0xba6 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetSelectionInputPopUp
-                0x00000000000048ee      0xb82 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UpdateStatusBar
-                0x0000000000005470      0x228 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.RefreshKeyHelp
-                0x0000000000005698      0x6d4 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.CreateDialog
-                0x0000000000005d6c      0x44c /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ReadString
-                0x00000000000061b8      0x816 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ConfirmDataChange
-                0x00000000000069ce       0xa5 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.HiiAddPackages
-                0x0000000000006a73       0xf8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UnicodeSPrint
-                0x0000000000006b6b       0x1d /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.PrintFormattedNumber.constprop.6
-                0x0000000000006b88       0x86 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.GetNumericInput
-                0x0000000000006c0e      0xc65 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.RefreshTimeOutProcess
-                0x0000000000007873       0x81 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.HiiSetString.constprop.14
-                0x00000000000078f4      0x126 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.ProcessOptions
-                0x0000000000007a1a      0xe5e /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.DisplayOneMenu
-                0x0000000000008878      0x63d /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.IsSelectable
-                0x0000000000008eb5       0xb0 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.UpdateOptionSkipLines
-                0x0000000000008f65       0x99 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.FindTopOfScreenMenuOption
-                0x0000000000008ffe       0xf2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.FindTopOfScreenMenu
-                0x00000000000090f0       0x83 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .text.MoveToNextStatement
-                0x0000000000009173       0xbe /tmp/ccGAwqqh.ltrans0.ltrans.o
  .text.FormDisplay
-                0x0000000000009231     0x2c51 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x0000000000000240     0x2cb4 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x0000000000000240                FormDisplay
+ .text.ProcessOptions
+                0x0000000000002ef4      0xea9 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x0000000000002ef4                ProcessOptions
+ .text.InternalSafeStringNoStrOverlap
+                0x0000000000003d9d       0x29 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .text.StrLen   0x0000000000003dc6        0xf /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000003dc6                StrLen
+ .text.StrCmp   0x0000000000003dd5       0x1f /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000003dd5                StrCmp
+ .text.AsciiStrnLenS
+                0x0000000000003df4       0x26 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000003df4                AsciiStrnLenS
+ .text.StrnLenS
+                0x0000000000003e1a       0x27 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000003e1a                StrnLenS
+ .text.StrCatS  0x0000000000003e41      0x14c /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000003e41                StrCatS
+ .text.StrnCpyS
+                0x0000000000003f8d      0x14a /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000003f8d                StrnCpyS
+ .text.StrCpyS  0x00000000000040d7      0x12a /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x00000000000040d7                StrCpyS
+ .text.IsNull   0x0000000000004201        0x7 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000004201                IsNull
+ .text.IsListEmpty
+                0x0000000000004208        0x7 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000004208                IsListEmpty
+ .text.RemoveEntryList
+                0x000000000000420f       0x19 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x000000000000420f                RemoveEntryList
+ .text.GetNextNode
+                0x0000000000004228        0x4 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000004228                GetNextNode
+ .text.GetFirstNode
+                0x000000000000422c        0x4 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x000000000000422c                GetFirstNode
+ .text.InsertTailList
+                0x0000000000004230       0x16 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000004230                InsertTailList
+ .text.InsertHeadList
+                0x0000000000004246       0x15 /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x0000000000004246                InsertHeadList
+ .text.SwapListEntries
+                0x000000000000425b       0x5b /tmp/cc8DjpEK.ltrans2.ltrans.o
+                0x000000000000425b                SwapListEntries
  .text._ModuleEntryPoint
-                0x000000000000be82      0x966 /tmp/ccGAwqqh.ltrans0.ltrans.o
-                0x000000000000be82                _ModuleEntryPoint
+                0x00000000000042b6      0x976 /tmp/cc8DjpEK.ltrans3.ltrans.o
+                0x00000000000042b6                _ModuleEntryPoint
+ .text.GetStringWidth
+                0x0000000000004c2c       0x51 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000004c2c                GetStringWidth
+ .text.GetLineByWidth
+                0x0000000000004c7d      0x1c3 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000004c7d                GetLineByWidth
+ .text.UpdateSkipInfoForMenu
+                0x0000000000004e40       0xba /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .text.GetToken
+                0x0000000000004efa       0x43 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000004efa                GetToken
+ .text.IsSelectable
+                0x0000000000004f3d       0xc1 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000004f3d                IsSelectable
+ .text.UpdateOptionSkipLines
+                0x0000000000004ffe       0x99 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000004ffe                UpdateOptionSkipLines
+ .text.MoveToNextStatement
+                0x0000000000005097       0xc6 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000005097                MoveToNextStatement
+ .text.GetWidth
+                0x000000000000515d       0xe6 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x000000000000515d                GetWidth
+ .text.UiAddMenuOption
+                0x0000000000005243      0x228 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000005243                UiAddMenuOption
+ .text.PrintAt  0x000000000000546b      0x1b7 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x000000000000546b                PrintAt
+ .text.WaitForKeyStroke
+                0x0000000000005622       0x70 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000005622                WaitForKeyStroke
+ .text.PrintHotKeyHelpString
+                0x0000000000005692      0x249 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x0000000000005692                PrintHotKeyHelpString
+ .text.LibGetStringWidth
+                0x00000000000058db       0x51 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x00000000000058db                LibGetStringWidth
+ .text.LibGetToken
+                0x000000000000592c       0x43 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x000000000000592c                LibGetToken
+ .text.ProcessUserOpcode
+                0x000000000000596f      0x115 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x000000000000596f                ProcessUserOpcode
+ .text.SetDisplayAttribute
+                0x0000000000005a84       0x69 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.DisplayMenuString
+                0x0000000000005aed       0x82 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .text.DisplayOneMenu
+                0x0000000000005b6f      0x6bb /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x0000000000005b6f                DisplayOneMenu
+ .text.GetIndexInfoForOpcode
+                0x000000000000622a       0x62 /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x000000000000622a                GetIndexInfoForOpcode
+ .text.UpdateHighlightMenuInfo
+                0x000000000000628c      0x1b9 /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x000000000000628c                UpdateHighlightMenuInfo
+ .text.FindTopOfScreenMenuOption
+                0x0000000000006445      0x10f /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x0000000000006445                FindTopOfScreenMenuOption
+ .text.FindHighLightMenuOption
+                0x0000000000006554      0x104 /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x0000000000006554                FindHighLightMenuOption
+ .text.FindTopOfScreenMenu
+                0x0000000000006658       0x9d /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x0000000000006658                FindTopOfScreenMenu
+ .text.LibGetFieldFromNum
+                0x00000000000066f5       0x25 /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x00000000000066f5                LibGetFieldFromNum
+                0x00000000000066f5                GetFieldFromNum
+ .text.AdjustDateAndTimePosition
+                0x000000000000671a       0x5e /tmp/cc8DjpEK.ltrans5.ltrans.o
+                0x000000000000671a                AdjustDateAndTimePosition
+ .text.ReadUnaligned64
+                0x0000000000006778        0x4 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .text.HiiRemovePackages
+                0x000000000000677c        0xd /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x000000000000677c                HiiRemovePackages
+ .text.UnicodeVSPrint
+                0x0000000000006789       0xaa /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006789                UnicodeVSPrint
+ .text.UnicodeSPrint
+                0x0000000000006833       0x1d /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006833                UnicodeSPrint
+ .text.BasePrintLibFillBuffer
+                0x0000000000006850       0x2e /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006850                BasePrintLibFillBuffer
+ .text.FreePool
+                0x000000000000687e        0xa /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x000000000000687e                FreePool
+ .text._DriverUnloadHandler
+                0x0000000000006888      0x2b1 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006888                _DriverUnloadHandler
+ .text.CompareGuid
+                0x0000000000006b39       0x42 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006b39                CompareGuid
+ .text.CopyGuid
+                0x0000000000006b7b       0x27 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006b7b                CopyGuid
+ .text.CopyMem  0x0000000000006ba2      0x201 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006ba2                CopyMem
+ .text.CompareMem
+                0x0000000000006da3       0x31 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006da3                CompareMem
+ .text.ZeroMem  0x0000000000006dd4       0x9a /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006dd4                ZeroMem
+ .text.AllocateZeroPool
+                0x0000000000006e6e       0xf9 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006e6e                AllocateZeroPool
+ .text.HiiGetSupportedLanguages
+                0x0000000000006f67       0x81 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006f67                HiiGetSupportedLanguages
+ .text.HiiAddPackages
+                0x0000000000006fe8       0xf8 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x0000000000006fe8                HiiAddPackages
+ .text.AsciiStrLen
+                0x00000000000070e0        0xe /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x00000000000070e0                AsciiStrLen
+ .text.AsciiStrnCmp.part.8.lto_priv.27
+                0x00000000000070ee       0x47 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                0x00000000000070ee                AsciiStrnCmp.part.8.lto_priv.27
+ .text.InternalAllocatePool.constprop.21
+                0x0000000000007135       0x37 /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x0000000000007135                InternalAllocatePool.constprop.21
+ .text.InternalAllocateCopyPool.constprop.19
+                0x000000000000716c       0x35 /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x000000000000716c                InternalAllocateCopyPool.constprop.19
+ .text.BasePrintLibSPrintMarker.constprop.18
+                0x00000000000071a1      0xef5 /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x00000000000071a1                BasePrintLibSPrintMarker.constprop.18
+ .text.BasePrintLibSPrint.constprop.17
+                0x0000000000008096       0xb8 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .text.GetBestLanguage.constprop.14
+                0x000000000000814e       0xeb /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x000000000000814e                GetBestLanguage.constprop.14
+ .text.HiiSetString.constprop.13
+                0x0000000000008239      0x11f /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x0000000000008239                HiiSetString.constprop.13
+ .text.SetValuesByType
+                0x0000000000008358       0x30 /tmp/cc8DjpEK.ltrans8.ltrans.o
+                0x0000000000008358                SetValuesByType
+ .text.GetNumericInput
+                0x0000000000008388      0xc78 /tmp/cc8DjpEK.ltrans8.ltrans.o
+                0x0000000000008388                GetNumericInput
+ .text.AddOneSelectableOption
+                0x0000000000009000       0xe7 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .text.CreatePopup
+                0x00000000000090e7      0xbde /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x00000000000090e7                CreatePopup
+ .text.GetSelectionInputPopUp
+                0x0000000000009cc5      0xb9a /tmp/cc8DjpEK.ltrans10.ltrans.o
+                0x0000000000009cc5                GetSelectionInputPopUp
+ .text.HiiGetString.constprop.12
+                0x000000000000a85f      0x252 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000a85f                HiiGetString.constprop.12
+ .text.LibSetUnicodeMem.constprop.11
+                0x000000000000aab1       0x13 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000aab1                LibSetUnicodeMem.constprop.11
+ .text.CreateMultiStringPopUp.constprop.7
+                0x000000000000aac4      0x2fe /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000aac4                CreateMultiStringPopUp.constprop.7
+ .text.PrintFormattedNumber.constprop.5
+                0x000000000000adc2       0x89 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000adc2                PrintFormattedNumber.constprop.5
+ .text.CompareHiiValue.constprop.4
+                0x000000000000ae4b      0x267 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000ae4b                CompareHiiValue.constprop.4
+ .text.ProcessLibraryDestructorList
+                0x000000000000b0b2       0xf8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000b0b2                ProcessLibraryDestructorList
+ .text.ParseMessageString.part.0.lto_priv.28
+                0x000000000000b1aa      0x11c /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000b1aa                ParseMessageString.part.0.lto_priv.28
+ .text.ReadString
+                0x000000000000b2c6      0x7a9 /tmp/cc8DjpEK.ltrans12.ltrans.o
+                0x000000000000b2c6                ReadString
+ .text.ProcessHelpString
+                0x000000000000ba6f      0x12a /tmp/cc8DjpEK.ltrans12.ltrans.o
+                0x000000000000ba6f                ProcessHelpString
+ .text.PrintCharAt
+                0x000000000000bb99       0x26 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000bb99                PrintCharAt
+ .text.PrintStringAtWithWidth
+                0x000000000000bbbf       0x26 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000bbbf                PrintStringAtWithWidth
+ .text.PrintStringAt
+                0x000000000000bbe5       0x22 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000bbe5                PrintStringAt
+ .text.ClearLines
+                0x000000000000bc07      0x128 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000bc07                ClearLines
+ .text.CreateDialog
+                0x000000000000bd2f      0x449 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000bd2f                CreateDialog
+ .text.ConfirmDataChange
+                0x000000000000c178       0xa8 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000c178                ConfirmDataChange
+ .text.UpdateStatusBar
+                0x000000000000c220      0x249 /tmp/cc8DjpEK.ltrans13.ltrans.o
+                0x000000000000c220                UpdateStatusBar
+ .text.RefreshKeyHelp
+                0x000000000000c469      0x6c9 /tmp/cc8DjpEK.ltrans14.ltrans.o
+                0x000000000000c469                RefreshKeyHelp
+ .text.EmptyEventProcess
+                0x000000000000cb32        0x1 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cb32                EmptyEventProcess
+ .text.DriverClearDisplayPage
+                0x000000000000cb33       0x3e /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cb33                DriverClearDisplayPage
+ .text.RefreshTimeOutProcess
+                0x000000000000cb71       0x81 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cb71                RefreshTimeOutProcess
+ .text.SetArrayData
+                0x000000000000cbf2       0x27 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cbf2                SetArrayData
+ .text.GetArrayData
+                0x000000000000cc19       0x2a /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cc19                GetArrayData
+ .text.ValueToOption
+                0x000000000000cc43       0xd4 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cc43                ValueToOption
+ .text.HiiValueToUINT64
+                0x000000000000cd17       0x35 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cd17                HiiValueToUINT64
+ .text.NewStrCat
+                0x000000000000cd4c       0x3b /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000cd4c                NewStrCat
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- .rodata.SetValuesByType
-                0x000000000000c7e8       0x14 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.HiiValueToUINT64
-                0x000000000000c7fc       0x1c /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.BasePrintLibSPrintMarker.constprop.19.str1.1
-                0x000000000000c818       0x7b /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.HiiGetString.constprop.13.str1.1
-                0x000000000000c893       0x7b /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                          0x1 (size before relaxing)
- *fill*         0x000000000000c893        0x1 
- .rodata.HiiGetString.constprop.13.str2.2
-                0x000000000000c894       0x1a /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.PrintCharAt.str2.2
-                0x000000000000c8ae        0x6 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.PrintStringAtWithWidth.str2.2
-                0x000000000000c8b4        0x6 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.DisplayMenuString.str2.2
-                0x000000000000c8b4        0x6 /tmp/ccGAwqqh.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x000000000000cd87        0x0 /tmp/cc8DjpEK.ltrans0.ltrans.o
                                           0x2 (size before relaxing)
- .rodata.CreatePopup.str2.2
-                0x000000000000c8b4        0xe /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                         0x16 (size before relaxing)
- *fill*         0x000000000000c8c2        0x2 
- .rodata.GetSelectionInputPopUp
-                0x000000000000c8c4       0x14 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.UpdateStatusBar.str2.2
-                0x000000000000c8d8        0x6 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.RefreshKeyHelp.str2.2
-                0x000000000000c8de       0x16 /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                         0x24 (size before relaxing)
- .rodata.PrintFormattedNumber.constprop.6.str2.2
-                0x000000000000c8f4       0x12 /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                         0x1a (size before relaxing)
- .rodata.GetNumericInput.str2.2
-                0x000000000000c906       0x14 /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                         0x18 (size before relaxing)
- .rodata.RefreshTimeOutProcess.str2.2
-                0x000000000000c91a        0x6 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.HiiSetString.constprop.14.str1.1
-                0x000000000000c920        0x7 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000c927        0x1 
- .rodata.ProcessOptions.str2.2
-                0x000000000000c928        0xa /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                         0x10 (size before relaxing)
- *fill*         0x000000000000c932        0x2 
+ *fill*         0x000000000000cd87        0x1 
  .rodata.FormDisplay
-                0x000000000000c934       0x78 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata._ModuleEntryPoint.str2.2
-                0x000000000000c9ac        0x4 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.mEndOfPakageList
-                0x000000000000c9b0        0x4 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000c9b4        0xc 
- .rodata._gPcd_FixedAtBuild_PcdFrontPageFormSetGuid
-                0x000000000000c9c0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000c9d0       0x10 
+                0x000000000000cd88       0x78 /tmp/cc8DjpEK.ltrans0.ltrans.o
  .rodata.gScreenOperationToControlFlag
-                0x000000000000c9e0       0x50 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ca30       0x10 
+                0x000000000000ce00       0x50 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ *fill*         0x000000000000ce50       0x10 
  .rodata.gScanCodeToOperation
-                0x000000000000ca40       0x38 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.CSWTCH.197
-                0x000000000000ca78        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .rodata.mHexStr
-                0x000000000000ca80       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000ce60       0x38 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x000000000000ce98       0x1e /tmp/cc8DjpEK.ltrans1.ltrans.o
+                                         0x24 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000ceb6        0x4 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ *fill*         0x000000000000ceba        0x6 
+ .rodata._gPcd_FixedAtBuild_PcdFrontPageFormSetGuid
+                0x000000000000cec0       0x10 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .rodata.str2.2
+                0x000000000000ced0        0x2 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .rodata.mEndOfPakageList
+                0x000000000000ced0        0x4 /tmp/cc8DjpEK.ltrans6.ltrans.o
  .rodata.str1.1
-                0x000000000000ca90      0x224 /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                        0x235 (size before relaxing)
+                0x000000000000ced4      0x2a6 /tmp/cc8DjpEK.ltrans7.ltrans.o
+                                        0x2b7 (size before relaxing)
+ *fill*         0x000000000000d17a        0x6 
+ .rodata.mHexStr
+                0x000000000000d180       0x10 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .rodata.SetValuesByType
+                0x000000000000d190       0x14 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .rodata.str2.2
+                0x000000000000d1a4        0x4 /tmp/cc8DjpEK.ltrans8.ltrans.o
+                                         0x18 (size before relaxing)
+ *fill*         0x000000000000d1a4        0x4 
+ .rodata.CSWTCH.58
+                0x000000000000d1a8        0x8 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .rodata.str2.2
+                0x000000000000d1b0        0xe /tmp/cc8DjpEK.ltrans9.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata._gPcd_FixedAtBuild_PcdBrowserFieldBackgroundHighlightColor
+                0x000000000000d1be        0x1 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000d1be                _gPcd_FixedAtBuild_PcdBrowerGrayOutReadOnlyMenu
+                0x000000000000d1be                _gPcd_FixedAtBuild_PcdVerifyNodeInList
+                0x000000000000d1be                _gPcd_FixedAtBuild_PcdBrowserGrayOutTextStatement
+                0x000000000000d1be                _gPcd_FixedAtBuild_PcdBrowserFieldTextColor
+                0x000000000000d1be                _gPcd_FixedAtBuild_PcdBrowserFieldBackgroundHighlightColor
+ .rodata.str2.2
+                0x000000000000d1bf        0x8 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ *fill*         0x000000000000d1bf        0x1 
+ .rodata.GetSelectionInputPopUp
+                0x000000000000d1c0       0x14 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .rodata.str1.1
+                0x000000000000d1d4      0x2a6 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                                          0x1 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000d1d4       0x2c /tmp/cc8DjpEK.ltrans11.ltrans.o
+                                         0x34 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000d200        0xc /tmp/cc8DjpEK.ltrans13.ltrans.o
+                                         0x12 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000d20c       0x16 /tmp/cc8DjpEK.ltrans14.ltrans.o
+                                         0x24 (size before relaxing)
+ .rodata.str2.2
+                0x000000000000d222        0x6 /tmp/cc8DjpEK.ltrans15.ltrans.o
+ .rodata.HiiValueToUINT64
+                0x000000000000d228       0x1c /tmp/cc8DjpEK.ltrans15.ltrans.o
  *(.got .got.*)
- .got           0x000000000000ccb4        0x0 PcdLib.obj (symbol from plugin)
- .got.plt       0x000000000000ccb4        0x0 PcdLib.obj (symbol from plugin)
-                0x000000000000ccb4                _GLOBAL_OFFSET_TABLE_
+ .got           0x000000000000d244        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x000000000000d244        0x0 PcdLib.obj (symbol from plugin)
+                0x000000000000d244                _GLOBAL_OFFSET_TABLE_
  *:AutoGen.obj(.data.g*Guid)
 
-.plt            0x000000000000ccc0        0x0
- .plt           0x000000000000ccc0        0x0 PcdLib.obj (symbol from plugin)
+.plt            0x000000000000d250        0x0
+ .plt           0x000000000000d250        0x0 PcdLib.obj (symbol from plugin)
 
-.plt.got        0x000000000000ccb8        0x0
- .plt.got       0x000000000000ccb8        0x0 PcdLib.obj (symbol from plugin)
-
-.data           0x000000000000ccc0     0x2398
+.data           0x000000000000d280     0x2380
  *(.data .data.* .gnu.linkonce.d.*)
- .data.gEfiHiiImageProtocolGuid
-                0x000000000000ccc0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.gEfiHiiFontProtocolGuid
-                0x000000000000ccd0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.gEfiHiiConfigRoutingProtocolGuid
-                0x000000000000cce0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.gEfiHiiDatabaseProtocolGuid
-                0x000000000000ccf0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.gEfiHiiStringProtocolGuid
-                0x000000000000cd00       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000cd10       0x10 
- .data.CustomizedDisplayLibStrings
-                0x000000000000cd20      0x6ea /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000d40a        0x6 
- .data.gCustomizedDisplayLibGuid
-                0x000000000000d410       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
  .data.gEdkiiFormBrowserEx2ProtocolGuid
-                0x000000000000d420       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000d280       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
  .data.gEfiHiiPopupProtocolGuid
-                0x000000000000d430       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000d290       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
  .data.gEdkiiFormDisplayEngineProtocolGuid
-                0x000000000000d440       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000d450       0x10 
+                0x000000000000d2a0       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ *fill*         0x000000000000d2b0       0x10 
  .data.rel.local.mPrivateData
-                0x000000000000d460       0x38 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000d498        0x8 
+                0x000000000000d2c0       0x38 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ *fill*         0x000000000000d2f8        0x8 
  .data.DisplayEngineStrings
-                0x000000000000d4a0     0x15c6 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ea66        0xa 
+                0x000000000000d300     0x15c6 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ *fill*         0x000000000000e8c6        0xa 
  .data.gDisplayEngineGuid
-                0x000000000000ea70       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000e8d0       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .data.gEfiHiiImageProtocolGuid
+                0x000000000000e8e0       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .data.gEfiHiiFontProtocolGuid
+                0x000000000000e8f0       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .data.gEfiHiiConfigRoutingProtocolGuid
+                0x000000000000e900       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .data.gEfiHiiDatabaseProtocolGuid
+                0x000000000000e910       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .data.gEfiHiiStringProtocolGuid
+                0x000000000000e920       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ *fill*         0x000000000000e930       0x10 
+ .data.CustomizedDisplayLibStrings
+                0x000000000000e940      0x6ea /tmp/cc8DjpEK.ltrans3.ltrans.o
+ *fill*         0x000000000000f02a        0x6 
+ .data.gCustomizedDisplayLibGuid
+                0x000000000000f030       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
  .data.gEfiLoadedImageProtocolGuid
-                0x000000000000ea80       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f040       0x10 /tmp/cc8DjpEK.ltrans3.ltrans.o
  .data.gEfiIfrTianoGuid
-                0x000000000000ea90       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.gLibIsFirstForm
-                0x000000000000eaa0        0x1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.mIsFirstForm
-                0x000000000000eaa1        0x1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000eaa2        0xe 
- .data.gEfiGlobalVariableGuid
-                0x000000000000eab0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f050       0x10 /tmp/cc8DjpEK.ltrans4.ltrans.o
  .data.rel.ro.local.mStatusString
-                0x000000000000eac0      0x138 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .data.rel.ro   0x000000000000ebf8        0x0 PcdLib.obj (symbol from plugin)
+                0x000000000000f060      0x138 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ *fill*         0x000000000000f198        0x8 
+ .data.gEfiGlobalVariableGuid
+                0x000000000000f1a0       0x10 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .data.gLibIsFirstForm
+                0x000000000000f1b0        0x1 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000f1b0                gLibIsFirstForm
+ .data.mIsFirstForm
+                0x000000000000f1b1        0x1 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                0x000000000000f1b1                mIsFirstForm
  *(.bss .bss.*)
- .bss.gImageHandle
-                0x000000000000ebf8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gHiiImage
-                0x000000000000ec00        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gHiiFont  0x000000000000ec08        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gHiiConfigRouting
-                0x000000000000ec10        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gHiiDatabase
-                0x000000000000ec18        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gNoSubmitIf
-                0x000000000000ec20        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.mLibUnknownString
-                0x000000000000ec28        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.mUnknownString
-                0x000000000000ec30        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+ *fill*         0x000000000000f1b2        0x6 
  .bss.gCheckError
-                0x000000000000ec38        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1b8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1b8                gCheckError
  .bss.gSaveNoSubmitProcess
-                0x000000000000ec40        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1c0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1c0                gSaveNoSubmitProcess
  .bss.gChangesOpt
-                0x000000000000ec48        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1c8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1c8                gChangesOpt
  .bss.gDiscardChange
-                0x000000000000ec50        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1d0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1d0                gDiscardChange
  .bss.gJumpToFormSet
-                0x000000000000ec58        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1d8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1d8                gJumpToFormSet
  .bss.gSaveProcess
-                0x000000000000ec60        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1e0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1e0                gSaveProcess
  .bss.gBrowserError
-                0x000000000000ec68        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1e8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1e8                gBrowserError
  .bss.gReconnectRequired
-                0x000000000000ec70        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1f0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1f0                gReconnectRequired
  .bss.gReconnectConfirmChanges
-                0x000000000000ec78        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f1f8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f1f8                gReconnectConfirmChanges
  .bss.gReconnectFail
-                0x000000000000ec80        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f200        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f200                gReconnectFail
  .bss.gNoSubmitIfFailed
-                0x000000000000ec88        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f208        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f208                gNoSubmitIfFailed
  .bss.gProtocolNotFound
-                0x000000000000ec90        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f210        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f210                gProtocolNotFound
  .bss.gFormSuppress
-                0x000000000000ec98        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f218        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f218                gFormSuppress
  .bss.gFormNotFound
-                0x000000000000eca0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f220        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f220                gFormNotFound
  .bss.gSaveFailed
-                0x000000000000eca8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f228        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f228                gSaveFailed
  .bss.gBannerData
-                0x000000000000ecb0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ecb8        0x8 
+                0x000000000000f230        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f230                gBannerData
+ *fill*         0x000000000000f238        0x8 
  .bss.gScreenDimensions
-                0x000000000000ecc0       0x20 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f240       0x20 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f240                gScreenDimensions
  .bss.gFooterHeight
-                0x000000000000ece0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ece8       0x18 
+                0x000000000000f260        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f260                gFooterHeight
+ *fill*         0x000000000000f268       0x18 
  .bss.gHighligthMenuInfo
-                0x000000000000ed00       0x48 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f280       0x48 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f280                gHighligthMenuInfo
  .bss.gClassOfVfr
-                0x000000000000ed48        0x2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ed4a        0x6 
+                0x000000000000f2c8        0x2 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2c8                gClassOfVfr
+ *fill*         0x000000000000f2ca        0x6 
  .bss.gConfirmOpt
-                0x000000000000ed50        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f2d0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2d0                gConfirmOpt
  .bss.gConfirmMsgEnd
-                0x000000000000ed58        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f2d8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2d8                gConfirmMsgEnd
  .bss.gConfirmExitMsg2nd
-                0x000000000000ed60        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f2e0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2e0                gConfirmExitMsg2nd
  .bss.gConfirmResetMsg2nd
-                0x000000000000ed68        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f2e8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2e8                gConfirmResetMsg2nd
  .bss.gConfirmSubmitMsg2nd
-                0x000000000000ed70        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f2f0        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2f0                gConfirmSubmitMsg2nd
  .bss.gConfirmDefaultMsg2nd
-                0x000000000000ed78        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f2f8        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f2f8                gConfirmDefaultMsg2nd
  .bss.gConfirmExitMsg
-                0x000000000000ed80        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f300        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f300                gConfirmExitMsg
  .bss.gConfirmResetMsg
-                0x000000000000ed88        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f308        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f308                gConfirmResetMsg
  .bss.gConfirmSubmitMsg
-                0x000000000000ed90        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f310        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f310                gConfirmSubmitMsg
  .bss.gConfirmDefaultMsg
-                0x000000000000ed98        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f318        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f318                gConfirmDefaultMsg
  .bss.gConfirmDiscardMsg
-                0x000000000000eda0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f320        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f320                gConfirmDiscardMsg
  .bss.gConfirmMsgConnect
-                0x000000000000eda8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f328        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f328                gConfirmMsgConnect
  .bss.gHiiHandle
-                0x000000000000edb0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f330        0x8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f330                gHiiHandle
  .bss.gModalSkipColumn
-                0x000000000000edb8        0x2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000edba        0x6 
+                0x000000000000f338        0x2 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f338                gModalSkipColumn
+ *fill*         0x000000000000f33a        0x6 
  .bss.gMenuOption
-                0x000000000000edc0       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000edd0       0x10 
+                0x000000000000f340       0x10 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f340                gMenuOption
+ *fill*         0x000000000000f350       0x10 
  .bss.gOldFormEntry
-                0x000000000000ede0       0x38 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f360       0x38 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f360                gOldFormEntry
  .bss.gPromptBlockWidth
-                0x000000000000ee18        0x2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ee1a        0x6 
+                0x000000000000f398        0x2 /tmp/cc8DjpEK.ltrans0.ltrans.o
+                0x000000000000f398                gPromptBlockWidth
+ *fill*         0x000000000000f39a        0x6 
  .bss.gPassowordInvalid
-                0x000000000000ee20        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3a0        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3a0                gPassowordInvalid
  .bss.gConfirmError
-                0x000000000000ee28        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3a8        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3a8                gConfirmError
  .bss.gConfirmPassword
-                0x000000000000ee30        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3b0        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3b0                gConfirmPassword
  .bss.gPromptForNewPassword
-                0x000000000000ee38        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3b8        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3b8                gPromptForNewPassword
  .bss.gPromptForPassword
-                0x000000000000ee40        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3c0        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3c0                gPromptForPassword
  .bss.gPasswordUnsupported
-                0x000000000000ee48        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3c8        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3c8                gPasswordUnsupported
  .bss.gPromptForData
-                0x000000000000ee50        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3d0        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3d0                gPromptForData
  .bss.gMisMatch
-                0x000000000000ee58        0x1 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ee59        0x7 
- .bss.gOptionMismatch
-                0x000000000000ee60        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3d8        0x1 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3d8                gMisMatch
+ *fill*         0x000000000000f3d9        0x7 
  .bss.gEmptyString
-                0x000000000000ee68        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gMiniString
-                0x000000000000ee70        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gPressEnter
-                0x000000000000ee78        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gOptionBlockWidth
-                0x000000000000ee80        0x2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ee82        0x6 
- .bss.gUserInput
-                0x000000000000ee88        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gDirection
-                0x000000000000ee90        0x2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ee92        0x6 
- .bss.gFormData
-                0x000000000000ee98        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gConfirmOptCancel
-                0x000000000000eea0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gConfirmOptOk
-                0x000000000000eea8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gConfirmOptNo
-                0x000000000000eeb0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gConfirmOptYes
-                0x000000000000eeb8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gInfoPopup
-                0x000000000000eec0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gWarningPopup
-                0x000000000000eec8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gErrorPopup
-                0x000000000000eed0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gNoOption
-                0x000000000000eed8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gYesOption
-                0x000000000000eee0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gCancelOption
-                0x000000000000eee8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gOkOption
-                0x000000000000eef0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000eef8        0x8 
- .bss.gUserSelectableOptions
-                0x000000000000ef00       0x10 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000ef10       0x10 
- .bss.gPopupDimensions
-                0x000000000000ef20       0x20 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gMesStrLineNum
-                0x000000000000ef40        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gMaxRowWidth
-                0x000000000000ef48        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gMessageString
-                0x000000000000ef50        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.mSpaceBuffer
-                0x000000000000ef58        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gInputErrorMessage
-                0x000000000000ef60        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gNvUpdateMessage
-                0x000000000000ef68        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gLibEmptyString
-                0x000000000000ef70        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gSaveChanges
-                0x000000000000ef78        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gAdjustNumber
-                0x000000000000ef80        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gMinusString
-                0x000000000000ef88        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gPlusString
-                0x000000000000ef90        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gNoResponse
-                0x000000000000ef98        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gYesResponse
-                0x000000000000efa0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gAreYouSure
-                0x000000000000efa8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gToggleCheckBox
-                0x000000000000efb0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gHexNumericInput
-                0x000000000000efb8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gDecNumericInput
-                0x000000000000efc0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gMoveHighlight
-                0x000000000000efc8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gEscapeString
-                0x000000000000efd0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gEnterEscapeString
-                0x000000000000efd8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gEnterCommitString
-                0x000000000000efe0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gEnterString
-                0x000000000000efe8        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.mCDLStringPackHandle
-                0x000000000000eff0        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gHelpBlockWidth
-                0x000000000000eff8        0x2 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000effa        0x6 
- .bss.gST       0x000000000000f000        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- *fill*         0x000000000000f008       0x18 
- .bss.gStatementDimensions
-                0x000000000000f020       0x20 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gRT       0x000000000000f040        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f3e0        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3e0                gEmptyString
+ .bss.gOptionMismatch
+                0x000000000000f3e8        0x8 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                0x000000000000f3e8                gOptionMismatch
+ .bss.gNoSubmitIf
+                0x000000000000f3f0        0x8 /tmp/cc8DjpEK.ltrans3.ltrans.o
+                0x000000000000f3f0                gNoSubmitIf
+ .bss.gImageHandle
+                0x000000000000f3f8        0x8 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .bss.gHiiImage
+                0x000000000000f400        0x8 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .bss.gHiiFont  0x000000000000f408        0x8 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .bss.gHiiConfigRouting
+                0x000000000000f410        0x8 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .bss.gHiiDatabase
+                0x000000000000f418        0x8 /tmp/cc8DjpEK.ltrans3.ltrans.o
+                0x000000000000f418                gHiiDatabase
+ .bss.mLibUnknownString
+                0x000000000000f420        0x8 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x000000000000f420                mLibUnknownString
+ .bss.mUnknownString
+                0x000000000000f428        0x8 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                0x000000000000f428                mUnknownString
  .bss.gHiiString
-                0x000000000000f048        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
- .bss.gBS       0x000000000000f050        0x8 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x000000000000f430        0x8 /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x000000000000f430                gHiiString
+ .bss.gBS       0x000000000000f438        0x8 /tmp/cc8DjpEK.ltrans7.ltrans.o
+                0x000000000000f438                gBS
+ .bss.gOptionBlockWidth
+                0x000000000000f440        0x2 /tmp/cc8DjpEK.ltrans8.ltrans.o
+                0x000000000000f440                gOptionBlockWidth
+ *fill*         0x000000000000f442        0x6 
+ .bss.gConfirmOptCancel
+                0x000000000000f448        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f448                gConfirmOptCancel
+ .bss.gConfirmOptOk
+                0x000000000000f450        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f450                gConfirmOptOk
+ .bss.gConfirmOptNo
+                0x000000000000f458        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f458                gConfirmOptNo
+ .bss.gConfirmOptYes
+                0x000000000000f460        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f460                gConfirmOptYes
+ .bss.gInfoPopup
+                0x000000000000f468        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f468                gInfoPopup
+ .bss.gWarningPopup
+                0x000000000000f470        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f470                gWarningPopup
+ .bss.gErrorPopup
+                0x000000000000f478        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f478                gErrorPopup
+ .bss.gNoOption
+                0x000000000000f480        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f480                gNoOption
+ .bss.gYesOption
+                0x000000000000f488        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f488                gYesOption
+ .bss.gCancelOption
+                0x000000000000f490        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f490                gCancelOption
+ .bss.gOkOption
+                0x000000000000f498        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                0x000000000000f498                gOkOption
+ .bss.gUserSelectableOptions
+                0x000000000000f4a0       0x10 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ *fill*         0x000000000000f4b0       0x10 
+ .bss.gPopupDimensions
+                0x000000000000f4c0       0x20 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .bss.gMesStrLineNum
+                0x000000000000f4e0        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .bss.gMaxRowWidth
+                0x000000000000f4e8        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .bss.gMessageString
+                0x000000000000f4f0        0x8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .bss.gUserInput
+                0x000000000000f4f8        0x8 /tmp/cc8DjpEK.ltrans10.ltrans.o
+                0x000000000000f4f8                gUserInput
+ .bss.gDirection
+                0x000000000000f500        0x2 /tmp/cc8DjpEK.ltrans10.ltrans.o
+                0x000000000000f500                gDirection
+ *fill*         0x000000000000f502        0x6 
+ .bss.gFormData
+                0x000000000000f508        0x8 /tmp/cc8DjpEK.ltrans10.ltrans.o
+                0x000000000000f508                gFormData
+ .bss.mSpaceBuffer
+                0x000000000000f510        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f510                mSpaceBuffer
+ .bss.gInputErrorMessage
+                0x000000000000f518        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f518                gInputErrorMessage
+ .bss.gNvUpdateMessage
+                0x000000000000f520        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f520                gNvUpdateMessage
+ .bss.gLibEmptyString
+                0x000000000000f528        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f528                gLibEmptyString
+ .bss.gSaveChanges
+                0x000000000000f530        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f530                gSaveChanges
+ .bss.gAdjustNumber
+                0x000000000000f538        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f538                gAdjustNumber
+ .bss.gMinusString
+                0x000000000000f540        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f540                gMinusString
+ .bss.gPlusString
+                0x000000000000f548        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f548                gPlusString
+ .bss.gNoResponse
+                0x000000000000f550        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f550                gNoResponse
+ .bss.gYesResponse
+                0x000000000000f558        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f558                gYesResponse
+ .bss.gAreYouSure
+                0x000000000000f560        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f560                gAreYouSure
+ .bss.gToggleCheckBox
+                0x000000000000f568        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f568                gToggleCheckBox
+ .bss.gHexNumericInput
+                0x000000000000f570        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f570                gHexNumericInput
+ .bss.gDecNumericInput
+                0x000000000000f578        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f578                gDecNumericInput
+ .bss.gMoveHighlight
+                0x000000000000f580        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f580                gMoveHighlight
+ .bss.gEscapeString
+                0x000000000000f588        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f588                gEscapeString
+ .bss.gEnterEscapeString
+                0x000000000000f590        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f590                gEnterEscapeString
+ .bss.gEnterCommitString
+                0x000000000000f598        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f598                gEnterCommitString
+ .bss.gEnterString
+                0x000000000000f5a0        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f5a0                gEnterString
+ .bss.mCDLStringPackHandle
+                0x000000000000f5a8        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f5a8                mCDLStringPackHandle
+ .bss.gST       0x000000000000f5b0        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f5b0                gST
+ *fill*         0x000000000000f5b8        0x8 
+ .bss.gStatementDimensions
+                0x000000000000f5c0       0x20 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f5c0                gStatementDimensions
+ .bss.gRT       0x000000000000f5e0        0x8 /tmp/cc8DjpEK.ltrans11.ltrans.o
+                0x000000000000f5e0                gRT
+ .bss.gHelpBlockWidth
+                0x000000000000f5e8        0x2 /tmp/cc8DjpEK.ltrans12.ltrans.o
+                0x000000000000f5e8                gHelpBlockWidth
+ *fill*         0x000000000000f5ea        0x6 
+ .bss.gMiniString
+                0x000000000000f5f0        0x8 /tmp/cc8DjpEK.ltrans12.ltrans.o
+                0x000000000000f5f0                gMiniString
+ .bss.gPressEnter
+                0x000000000000f5f8        0x8 /tmp/cc8DjpEK.ltrans12.ltrans.o
+                0x000000000000f5f8                gPressEnter
 
-.eh_frame       0x000000000000f080        0x0
+.eh_frame       0x000000000000f600        0x0
  *(.eh_frame)
- .eh_frame      0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
- .eh_frame      0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
 
-.dynbss         0x000000000000f080        0x0
- .dynbss        0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
+.dynbss         0x000000000000f600        0x0
+ .dynbss        0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
 
-.gnu.version_d  0x000000000000f080        0x0
+.gnu.version_d  0x000000000000f600        0x0
  .gnu.version_d
-                0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
 
-.gnu.version    0x000000000000f080        0x0
- .gnu.version   0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
+.gnu.version    0x000000000000f600        0x0
+ .gnu.version   0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
 
-.gnu.version_r  0x000000000000f080        0x0
+.gnu.version_r  0x000000000000f600        0x0
  .gnu.version_r
-                0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
 
-.rela           0x000000000000f080      0x408
+.rela           0x000000000000f600      0x408
  *(.rela .rela.*)
- .rela.plt      0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
- .rela.got      0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
- .rela.bss      0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
- .rela.data.rel.ro
-                0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
- .rela.ifunc    0x000000000000f080        0x0 PcdLib.obj (symbol from plugin)
+ .rela.plt      0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text     0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FormDisplay
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.ProcessOptions
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.InternalBaseLibIsListValid
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.IsNodeInList
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x000000000000f600        0x0 PcdLib.obj (symbol from plugin)
  .rela.data.rel.local.mPrivateData
-                0x000000000000f080       0x60 PcdLib.obj (symbol from plugin)
+                0x000000000000f600       0x60 PcdLib.obj (symbol from plugin)
+ .rela.text.GetLineByWidth
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.UpdateSkipInfoForMenu
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.GetToken
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.IsSelectable
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.UpdateOptionSkipLines
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.GetWidth
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.UiAddMenuOption
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.PrintAt
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.WaitForKeyStroke
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.PrintHotKeyHelpString
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.LibGetToken
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.ProcessUserOpcode
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.SetDisplayAttribute
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.DisplayMenuString
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.DisplayOneMenu
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.GetIndexInfoForOpcode
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.UpdateHighlightMenuInfo
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FindTopOfScreenMenuOption
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FindHighLightMenuOption
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.UnicodeVSPrint
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text._DriverUnloadHandler
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.AllocateZeroPool
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.HiiGetSupportedLanguages
+                0x000000000000f660        0x0 PcdLib.obj (symbol from plugin)
  .rela.data.rel.ro.local.mStatusString
-                0x000000000000f0e0      0x3a8 PcdLib.obj (symbol from plugin)
+                0x000000000000f660      0x3a8 PcdLib.obj (symbol from plugin)
+ .rela.text.GetNumericInput
+                0x000000000000fa08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.CreatePopup
+                0x000000000000fa08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.GetSelectionInputPopUp
+                0x000000000000fa08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.CreateMultiStringPopUp.constprop.7
+                0x000000000000fa08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.CompareHiiValue.constprop.4
+                0x000000000000fa08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.ReadString
+                0x000000000000fa08        0x0 PcdLib.obj (symbol from plugin)
 
 .hii
  *(.hii)
 
-.build-id       0x000000000000f488       0x24
+.build-id       0x000000000000fa08       0x24
  *(.note.gnu.build-id)
  .note.gnu.build-id
-                0x000000000000f488       0x24 PcdLib.obj (symbol from plugin)
+                0x000000000000fa08       0x24 PcdLib.obj (symbol from plugin)
 
 /DISCARD/
  *(.note.GNU-stack)
@@ -864,30 +1523,180 @@ END GROUP
  *(.hash .gnu.hash)
  *(.comment)
  *(COMMON)
-OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/DEBUG/DisplayEngine.dll elf64-x86-64)
+OUTPUT(/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe/DEBUG/DisplayEngine.dll elf64-x86-64)
 
-.debug_info     0x0000000000000000    0x12dce
- .debug_info    0x0000000000000000    0x12dce /tmp/ccGAwqqh.ltrans0.ltrans.o
+.debug_info     0x0000000000000000    0x1aaac
+ .debug_info    0x0000000000000000     0x3570 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_info    0x0000000000003570     0x17eb /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_info    0x0000000000004d5b      0xa49 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_info    0x00000000000057a4     0x3d84 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_info    0x0000000000009528     0x1e98 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_info    0x000000000000b3c0     0x1a5c /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_info    0x000000000000ce1c     0x14dd /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_info    0x000000000000e2f9     0x1ea3 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_info    0x000000000001019c     0x1366 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_info    0x0000000000011502     0x18ae /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_info    0x0000000000012db0     0x13fb /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_info    0x00000000000141ab     0x2f91 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_info    0x000000000001713c     0x1229 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_info    0x0000000000018365      0x9ce /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_info    0x0000000000018d33     0x114d /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_info    0x0000000000019e80      0xc2c /tmp/cc8DjpEK.ltrans15.ltrans.o
 
-.debug_abbrev   0x0000000000000000      0x66e
- .debug_abbrev  0x0000000000000000      0x66e /tmp/ccGAwqqh.ltrans0.ltrans.o
+.debug_abbrev   0x0000000000000000     0x2f49
+ .debug_abbrev  0x0000000000000000      0x320 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000320      0x278 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_abbrev  0x0000000000000598      0x2ed /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000885      0x36c /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000bf1      0x3f7 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_abbrev  0x0000000000000fe8      0x35d /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_abbrev  0x0000000000001345      0x3ac /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_abbrev  0x00000000000016f1      0x299 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_abbrev  0x000000000000198a      0x304 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_abbrev  0x0000000000001c8e      0x2eb /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_abbrev  0x0000000000001f79      0x28e /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_abbrev  0x0000000000002207      0x3d9 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_abbrev  0x00000000000025e0      0x286 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_abbrev  0x0000000000002866      0x1d2 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_abbrev  0x0000000000002a38      0x1ed /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_abbrev  0x0000000000002c25      0x324 /tmp/cc8DjpEK.ltrans15.ltrans.o
 
-.debug_loc      0x0000000000000000    0x13c24
- .debug_loc     0x0000000000000000    0x13c24 /tmp/ccGAwqqh.ltrans0.ltrans.o
+.debug_loc      0x0000000000000000    0x141c6
+ .debug_loc     0x0000000000000000     0x29f2 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_loc     0x00000000000029f2     0x11d2 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_loc     0x0000000000003bc4      0x99d /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_loc     0x0000000000004561      0x3ea /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_loc     0x000000000000494b     0x2107 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_loc     0x0000000000006a52     0x18d5 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_loc     0x0000000000008327     0x1f63 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_loc     0x000000000000a28a     0x1daa /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_loc     0x000000000000c034     0x19d4 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_loc     0x000000000000da08     0x11ad /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_loc     0x000000000000ebb5     0x1633 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_loc     0x00000000000101e8     0x1710 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_loc     0x00000000000118f8      0xed5 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_loc     0x00000000000127cd      0xa47 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_loc     0x0000000000013214      0xa34 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_loc     0x0000000000013c48      0x57e /tmp/cc8DjpEK.ltrans15.ltrans.o
 
-.debug_aranges  0x0000000000000000      0x670
+.debug_aranges  0x0000000000000000      0x840
  .debug_aranges
-                0x0000000000000000      0x670 /tmp/ccGAwqqh.ltrans0.ltrans.o
+                0x0000000000000000       0x30 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000030       0x30 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000060      0x150 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_aranges
+                0x00000000000001b0       0x30 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_aranges
+                0x00000000000001e0      0x110 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_aranges
+                0x00000000000002f0       0xc0 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_aranges
+                0x00000000000003b0      0x130 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_aranges
+                0x00000000000004e0       0x80 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_aranges
+                0x0000000000000560       0x40 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_aranges
+                0x00000000000005a0       0x40 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_aranges
+                0x00000000000005e0       0x30 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_aranges
+                0x0000000000000610       0x90 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_aranges
+                0x00000000000006a0       0x40 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_aranges
+                0x00000000000006e0       0x90 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_aranges
+                0x0000000000000770       0x30 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_aranges
+                0x00000000000007a0       0xa0 /tmp/cc8DjpEK.ltrans15.ltrans.o
 
-.debug_ranges   0x0000000000000000     0x2050
- .debug_ranges  0x0000000000000000     0x2050 /tmp/ccGAwqqh.ltrans0.ltrans.o
+.debug_ranges   0x0000000000000000     0x2200
+ .debug_ranges  0x0000000000000000      0xb10 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000b10      0x150 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000000c60      0x1e0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000000e40      0x2e0 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000001120      0x2e0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_ranges  0x0000000000001400      0x270 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_ranges  0x0000000000001670      0x1d0 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_ranges  0x0000000000001840       0xb0 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_ranges  0x00000000000018f0       0x90 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_ranges  0x0000000000001980      0x320 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_ranges  0x0000000000001ca0       0x50 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_ranges  0x0000000000001cf0      0x300 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_ranges  0x0000000000001ff0       0x60 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_ranges  0x0000000000002050       0x80 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_ranges  0x00000000000020d0       0xa0 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_ranges  0x0000000000002170       0x90 /tmp/cc8DjpEK.ltrans15.ltrans.o
 
-.debug_line     0x0000000000000000     0x334b
- .debug_line    0x0000000000000000     0x334b /tmp/ccGAwqqh.ltrans0.ltrans.o
+.debug_line     0x0000000000000000     0x6276
+ .debug_line    0x0000000000000000      0xa83 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_line    0x0000000000000a83      0x545 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_line    0x0000000000000fc8      0x422 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_line    0x00000000000013ea      0x8e2 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_line    0x0000000000001ccc      0x801 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_line    0x00000000000024cd      0x6c8 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_line    0x0000000000002b95      0x7da /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_line    0x000000000000336f      0x87d /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_line    0x0000000000003bec      0x5b9 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_line    0x00000000000041a5      0x57d /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_line    0x0000000000004722      0x4cc /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_line    0x0000000000004bee      0x81a /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_line    0x0000000000005408      0x3e2 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_line    0x00000000000057ea      0x361 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_line    0x0000000000005b4b      0x34c /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_line    0x0000000000005e97      0x3df /tmp/cc8DjpEK.ltrans15.ltrans.o
 
-.debug_str      0x0000000000000000     0x4f9c
- .debug_str     0x0000000000000000     0x4f9c /tmp/ccGAwqqh.ltrans0.ltrans.o
-                                       0x583f (size before relaxing)
+.debug_str      0x0000000000000000     0x51e7
+ .debug_str     0x0000000000000000     0x102a /tmp/cc8DjpEK.ltrans0.ltrans.o
+                                       0x12b3 (size before relaxing)
+ .debug_str     0x000000000000102a      0x256 /tmp/cc8DjpEK.ltrans1.ltrans.o
+                                        0xaa3 (size before relaxing)
+ .debug_str     0x0000000000001280      0x1ff /tmp/cc8DjpEK.ltrans2.ltrans.o
+                                        0x51f (size before relaxing)
+ .debug_str     0x000000000000147f     0x2004 /tmp/cc8DjpEK.ltrans3.ltrans.o
+                                       0x294b (size before relaxing)
+ .debug_str     0x0000000000003483      0x3d4 /tmp/cc8DjpEK.ltrans4.ltrans.o
+                                        0xe0b (size before relaxing)
+ .debug_str     0x0000000000003857      0x361 /tmp/cc8DjpEK.ltrans5.ltrans.o
+                                        0xc66 (size before relaxing)
+ .debug_str     0x0000000000003bb8      0x3b5 /tmp/cc8DjpEK.ltrans6.ltrans.o
+                                        0x9ae (size before relaxing)
+ .debug_str     0x0000000000003f6d      0x44d /tmp/cc8DjpEK.ltrans7.ltrans.o
+                                       0x1358 (size before relaxing)
+ .debug_str     0x00000000000043ba      0x166 /tmp/cc8DjpEK.ltrans8.ltrans.o
+                                        0xa26 (size before relaxing)
+ .debug_str     0x0000000000004520      0x423 /tmp/cc8DjpEK.ltrans9.ltrans.o
+                                        0xc05 (size before relaxing)
+ .debug_str     0x0000000000004943      0x162 /tmp/cc8DjpEK.ltrans10.ltrans.o
+                                        0xa90 (size before relaxing)
+ .debug_str     0x0000000000004aa5      0x3fb /tmp/cc8DjpEK.ltrans11.ltrans.o
+                                       0x1d2f (size before relaxing)
+ .debug_str     0x0000000000004ea0       0xf4 /tmp/cc8DjpEK.ltrans12.ltrans.o
+                                        0xa02 (size before relaxing)
+ .debug_str     0x0000000000004f94       0x9e /tmp/cc8DjpEK.ltrans13.ltrans.o
+                                        0x496 (size before relaxing)
+ .debug_str     0x0000000000005032       0xd5 /tmp/cc8DjpEK.ltrans14.ltrans.o
+                                        0x8b4 (size before relaxing)
+ .debug_str     0x0000000000005107       0xe0 /tmp/cc8DjpEK.ltrans15.ltrans.o
+                                        0x863 (size before relaxing)
 
-.debug_frame    0x0000000000000000     0x1e60
- .debug_frame   0x0000000000000000     0x1e60 /tmp/ccGAwqqh.ltrans0.ltrans.o
+.debug_frame    0x0000000000000000     0x2028
+ .debug_frame   0x0000000000000000       0xa8 /tmp/cc8DjpEK.ltrans0.ltrans.o
+ .debug_frame   0x00000000000000a8      0x278 /tmp/cc8DjpEK.ltrans1.ltrans.o
+ .debug_frame   0x0000000000000320      0x2c0 /tmp/cc8DjpEK.ltrans2.ltrans.o
+ .debug_frame   0x00000000000005e0       0x78 /tmp/cc8DjpEK.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000658      0x4a0 /tmp/cc8DjpEK.ltrans4.ltrans.o
+ .debug_frame   0x0000000000000af8      0x358 /tmp/cc8DjpEK.ltrans5.ltrans.o
+ .debug_frame   0x0000000000000e50      0x310 /tmp/cc8DjpEK.ltrans6.ltrans.o
+ .debug_frame   0x0000000000001160      0x250 /tmp/cc8DjpEK.ltrans7.ltrans.o
+ .debug_frame   0x00000000000013b0      0x138 /tmp/cc8DjpEK.ltrans8.ltrans.o
+ .debug_frame   0x00000000000014e8       0xf8 /tmp/cc8DjpEK.ltrans9.ltrans.o
+ .debug_frame   0x00000000000015e0      0x1b0 /tmp/cc8DjpEK.ltrans10.ltrans.o
+ .debug_frame   0x0000000000001790      0x250 /tmp/cc8DjpEK.ltrans11.ltrans.o
+ .debug_frame   0x00000000000019e0      0x1b0 /tmp/cc8DjpEK.ltrans12.ltrans.o
+ .debug_frame   0x0000000000001b90      0x258 /tmp/cc8DjpEK.ltrans13.ltrans.o
+ .debug_frame   0x0000000000001de8       0xd8 /tmp/cc8DjpEK.ltrans14.ltrans.o
+ .debug_frame   0x0000000000001ec0      0x168 /tmp/cc8DjpEK.ltrans15.ltrans.o

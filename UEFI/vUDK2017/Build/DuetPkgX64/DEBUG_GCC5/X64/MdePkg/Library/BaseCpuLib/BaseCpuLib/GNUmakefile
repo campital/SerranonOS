@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseCpuLib
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdePkg/Library/BaseCpuLib
 PACKAGE_RELATIVE_DIR = Library/BaseCpuLib
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/4FBD2538-249C-4b50-8F4A-A9E66609CBF6BaseCpuLib
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/4FBD2538-249C-4b50-8F4A-A9E66609CBF6BaseCpuLib
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -206,7 +206,7 @@ INC =  \
     -I$(WORKSPACE)/MdePkg/Include \
     -I$(WORKSPACE)/MdePkg/Include/X64
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/object_files.lst
 
 
 COMMON_DEPS = 
@@ -218,7 +218,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib \
               
 
 #
@@ -291,26 +291,26 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(OUTPUT_DIR)/X64/CpuSleep.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/X64/CpuSleep.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/CpuSleep.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/X64/CpuSleep.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/CpuSleep.obj : $(WORKSPACE)/MdePkg/Include/Base.h
 $(OUTPUT_DIR)/X64/CpuSleep.obj : $(WORKSPACE)/MdePkg/Library/BaseCpuLib/X64/CpuSleep.nasm
-	"$(PP)" $(PP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/CpuSleep.nasm > /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.i
-	Trim --trim-long --source-code -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.iii /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.i
-	"$(NASM)" -I/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/ $(NASM_FLAGS) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.obj /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.iii
+	"$(PP)" $(PP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/CpuSleep.nasm > /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.i
+	Trim --trim-long --source-code -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.iii /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.i
+	"$(NASM)" -I/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/ $(NASM_FLAGS) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.obj /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuSleep.iii
 
 $(OUTPUT_DIR)/X64/CpuFlushTlb.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/X64/CpuFlushTlb.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/CpuFlushTlb.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/X64/CpuFlushTlb.obj : $(DEBUG_DIR)/AutoGen.h
 $(OUTPUT_DIR)/X64/CpuFlushTlb.obj : $(WORKSPACE)/MdePkg/Include/Base.h
 $(OUTPUT_DIR)/X64/CpuFlushTlb.obj : $(WORKSPACE)/MdePkg/Library/BaseCpuLib/X64/CpuFlushTlb.nasm
-	"$(PP)" $(PP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/CpuFlushTlb.nasm > /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.i
-	Trim --trim-long --source-code -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.iii /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.i
-	"$(NASM)" -I/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/ $(NASM_FLAGS) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.obj /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.iii
+	"$(PP)" $(PP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/CpuFlushTlb.nasm > /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.i
+	Trim --trim-long --source-code -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.iii /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.i
+	"$(NASM)" -I/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseCpuLib/X64/ $(NASM_FLAGS) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.obj /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/X64/CpuFlushTlb.iii
 
 $(OUTPUT_DIR)/BaseCpuLib.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseCpuLib.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseCpuLib/BaseCpuLib/OUTPUT/BaseCpuLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 
 

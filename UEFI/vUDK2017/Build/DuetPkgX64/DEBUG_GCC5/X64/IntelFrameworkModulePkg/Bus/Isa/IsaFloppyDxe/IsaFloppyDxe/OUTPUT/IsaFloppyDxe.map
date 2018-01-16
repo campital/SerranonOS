@@ -1,260 +1,477 @@
 Archive member included to satisfy reference by file (symbol)
 
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibMmioBuffer.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibMmioBuffer.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoHighLevel.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoHighLevel.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibGcc.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibGcc.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoFifo.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoFifo.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib(HobLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib(BaseReportStatusCodeLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DuetTimerLib/DuetTimerLib/OUTPUT/DuetTimerLib.lib(X86TimerLib.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DuetTimerLib/DuetTimerLib/OUTPUT/DuetTimerLib.lib(X86TimerLib.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(ComponentName.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(ComponentName.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(IsaFloppyCtrl.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(IsaFloppyCtrl.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(IsaFloppyBlock.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(IsaFloppyBlock.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(IsaFloppy.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(IsaFloppy.obj)
                               (--whole-archive)
-/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(AutoGen.obj)
+/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib(AutoGen.obj)
                               (--whole-archive)
 
 Discarded input sections
 
- .text          0x0000000000000000        0x0 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .data          0x0000000000000000        0x0 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .bss           0x0000000000000000        0x0 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddReportStatus
-                0x0000000000000000        0x1 /tmp/ccLWMYTs.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely._DriverUnloadHandler
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .text._DriverUnloadHandler
-                0x0000000000000000        0x3 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.InternalBaseLibIsListValid.constprop.24
-                0x0000000000000000       0x29 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000000000        0x3 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.ReadUnaligned24
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.AsciiStrLen
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.AsciiStrnCmp.part.8
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.LookupUnicodeString2.part.4.lto_priv.33
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.FreePool
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.FreeUnicodeStringTable
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.CompareGuid
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.GetHobList
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely._ModuleEntryPoint
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.CopyMem.part.0.lto_priv.32
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.AllocateCopyPool
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.AddUnicodeString2.part.6.lto_priv.31
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.ZeroMem.part.0.lto_priv.30
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.unlikely.InternalAssertJumpBuffer
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .text.InternalAssertJumpBuffer
-                0x0000000000000000        0x1 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .comment       0x0000000000000000       0x24 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000000000        0x1 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .note.GNU-stack
-                0x0000000000000000        0x0 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text          0x0000000000000000      0x204 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
- .data          0x0000000000000000        0xa /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
- .text          0x0000000000000000        0x6 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
- .text          0x0000000000000000        0xf /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
- .text          0x0000000000000000       0x8f /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
- .text          0x0000000000000000       0x7c /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
- .text          0x0000000000000000        0x3 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
- .text          0x0000000000000000       0x61 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
- .text          0x0000000000000000       0x27 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
- .text          0x0000000000000000       0x2f /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
- .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
- .text          0x0000000000000000       0x13 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
- .text          0x0000000000000000       0x36 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
- .text          0x0000000000000000       0x50 /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoFifo.obj)
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .text.unlikely.FdcControllerDriverSupported
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .text.unlikely.FdcControllerDriverStart
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .text.unlikely.FdcFreeCache
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.SenseIntStatus
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.IsaFloppyComponentNameGetDriverName
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.IsaFloppyComponentNameGetControllerName
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.Specify
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.MotorOff
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.MicroSecondDelay
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.Recalibrate
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.Seek
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.DisketChanged
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.MotorOn
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.unlikely.FddReset
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FddReportStatus
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.FddReportStatus
+                0x0000000000000000        0x1 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FddFlushBlocks
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FdcReset
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FdcWritePort
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FdcReadPort
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FddTimerProc
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.DataOutByte
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.DataInByte
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FddReadWriteBlocks
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FddWriteBlocks
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.unlikely.FddReadBlocks
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.unlikely.FdcControllerDriverStop
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.unlikely.InternalBaseLibIsListValid.constprop.23
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.InternalBaseLibIsListValid.constprop.23
+                0x0000000000000000       0x29 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.unlikely.InternalAllocatePool.constprop.14
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.unlikely.FddWaitForBSYClear.constprop.2
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.unlikely.FddDRQReady.constprop.1
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text.unlikely.SenseDrvStatus.constprop.0
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000000000        0x4 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x35 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccJqg6QE.ltrans4.ltrans.o
+ .text          0x0000000000000000        0x0 PcdLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DebugLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CheckSum.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwitchStack.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SwapBytes16.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LongJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetJump.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 RRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MultS64x64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ModU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LRotU32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LowBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 HighBitSet32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GetPowerOfTwo32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivU64x32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DivS64x64Remainder.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ARShiftU64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BitField.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CpuDeadLoop.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Cpu.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 LinkedList.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SafeString.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 String.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 FilePaths.obj (symbol from plugin)
+ .text          0x0000000000000000      0x204 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0x0 Non-existing.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Math64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Unaligned.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86WriteGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Thunk.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadIdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86ReadGdtr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86Msr.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86GetInterruptState.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxSave.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86FxRestore.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86EnablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging64.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86DisablePaging32.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86RdRand.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 GccInline.obj (symbol from plugin)
+ .text          0x0000000000000000        0xf /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+ .text          0x0000000000000000        0x0 ChkStkGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ScanMem8Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ZeroMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CompareMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem64Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem32Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMem16Wrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 SetMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMemWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsZeroBufferWrapper.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGeneric.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemLibGuid.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CopyMem.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiBootServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLibInternal.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 PrintLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 MemoryAllocationLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiRuntimeServicesTableLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathUtilities.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathToText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DevicePathFromText.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDevicePathLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLibPrint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiNotTiano.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiDriverModel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 Console.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 UefiLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibMmioBuffer.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoHighLevel.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLibGcc.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IoLib.obj (symbol from plugin)
+ .text          0x0000000000000000       0x50 /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoFifo.obj)
+ .text          0x0000000000000000        0x0 HobLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 BaseReportStatusCodeLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 DriverEntryPoint.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 X86TimerLib.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 ComponentName.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsaFloppyCtrl.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsaFloppyBlock.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 IsaFloppy.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 AutoGen.obj (symbol from plugin)
 
 Memory Configuration
 
@@ -263,223 +480,305 @@ Name             Origin             Length             Attributes
 
 Linker script and memory map
 
-LOAD /tmp/ccLWMYTs.ltrans0.ltrans.o
+LOAD /tmp/ccJqg6QE.ltrans0.ltrans.o
+LOAD /tmp/ccJqg6QE.ltrans1.ltrans.o
+LOAD /tmp/ccJqg6QE.ltrans2.ltrans.o
+LOAD /tmp/ccJqg6QE.ltrans3.ltrans.o
+LOAD /tmp/ccJqg6QE.ltrans4.ltrans.o
 START GROUP
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DuetTimerLib/DuetTimerLib/OUTPUT/DuetTimerLib.lib
-LOAD /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/DxeHobLib/DxeHobLib/OUTPUT/DxeHobLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/DuetPkg/Library/DuetTimerLib/DuetTimerLib/OUTPUT/DuetTimerLib.lib
+LOAD /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/OUTPUT/IsaFloppyDxe.lib
 END GROUP
                 0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
                 0x0000000000000228                . = PECOFF_HEADER_SIZE
 
-.text           0x0000000000000240     0x2560
+.text           0x0000000000000240     0x260a
  *(.text .text.* .stub .gnu.linkonce.t.*)
- .text.InternalAllocatePool.constprop.15
-                0x0000000000000240       0x37 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddFlushBlocks
-                0x0000000000000277        0x3 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcControllerDriverSupported
-                0x000000000000027a       0xe4 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcWritePort
-                0x000000000000035e       0x31 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcReadPort
-                0x000000000000038f       0x31 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.MotorOff
-                0x00000000000003c0       0x25 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FreePool
-                0x00000000000003e5        0xa /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcFreeCache
-                0x00000000000003ef       0x2b /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FreeUnicodeStringTable
-                0x000000000000041a       0x46 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.CompareGuid
-                0x0000000000000460       0x17 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.CopyMem.part.0
-                0x0000000000000477      0x208 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.AllocateCopyPool
-                0x000000000000067f      0x111 /tmp/ccLWMYTs.ltrans0.ltrans.o
  .text.ReadUnaligned24
-                0x0000000000000790        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000000240        0x8 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .text.AsciiStrLen
-                0x0000000000000798        0xe /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.AsciiStrnCmp.part.7
-                0x00000000000007a6       0x52 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.AddUnicodeString2.part.3
-                0x00000000000007f8      0x271 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.LookupUnicodeString2.part.1
-                0x0000000000000a69       0xf4 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.IsaFloppyComponentNameGetDriverName
-                0x0000000000000b5d       0x5b /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.IsaFloppyComponentNameGetControllerName
-                0x0000000000000bb8      0x150 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000000248        0xe /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.AsciiStrnCmp.part.8
+                0x0000000000000256       0x47 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .text.LookupUnicodeString2.part.4.lto_priv.33
+                0x000000000000029d       0xf6 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x000000000000029d                LookupUnicodeString2.part.4.lto_priv.33
+ .text.FreePool
+                0x0000000000000393        0xa /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x0000000000000393                FreePool
+ .text.FreeUnicodeStringTable
+                0x000000000000039d       0x46 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x000000000000039d                FreeUnicodeStringTable
+ .text.CompareGuid
+                0x00000000000003e3       0x19 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x00000000000003e3                CompareGuid
  .text.GetHobList
-                0x0000000000000d08       0x67 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.MicroSecondDelay
-                0x0000000000000d6f       0xef /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddWaitForBSYClear.constprop.2
-                0x0000000000000e5e       0x51 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddDRQReady.constprop.1
-                0x0000000000000eaf       0x59 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddTimerProc
-                0x0000000000000f08      0x125 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcControllerDriverStop
-                0x000000000000102d      0x196 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.DataOutByte
-                0x00000000000011c3       0x4b /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.DataInByte
-                0x000000000000120e       0x51 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.SenseIntStatus
-                0x000000000000125f       0x5c /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.MotorOn  0x00000000000012bb       0xa1 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.ZeroMem.part.0
-                0x000000000000135c       0x83 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.SenseDrvStatus.constprop.0
-                0x00000000000013df       0x9e /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.Recalibrate
-                0x000000000000147d       0xce /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.Seek     0x000000000000154b      0x162 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.DisketChanged
-                0x00000000000016ad       0xa5 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.Specify  0x0000000000001752       0x8d /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddReset
-                0x00000000000017df       0xd8 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcControllerDriverStart
-                0x00000000000018b7      0x5fb /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FdcReset
-                0x0000000000001eb2       0x9a /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddReadWriteBlocks
-                0x0000000000001f4c      0x60d /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddReadBlocks
-                0x0000000000002559       0xac /tmp/ccLWMYTs.ltrans0.ltrans.o
- .text.FddWriteBlocks
-                0x0000000000002605       0xaf /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x00000000000003fc       0x64 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x00000000000003fc                GetHobList
  .text._ModuleEntryPoint
-                0x00000000000026b4       0x93 /tmp/ccLWMYTs.ltrans0.ltrans.o
-                0x00000000000026b4                _ModuleEntryPoint
+                0x0000000000000460      0x133 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x0000000000000460                _ModuleEntryPoint
+ .text.CopyMem.part.0.lto_priv.32
+                0x0000000000000593      0x1f8 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x0000000000000593                CopyMem.part.0.lto_priv.32
+ .text.AllocateCopyPool
+                0x000000000000078b      0x111 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x000000000000078b                AllocateCopyPool
+ .text.AddUnicodeString2.part.6.lto_priv.31
+                0x000000000000089c      0x26a /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x000000000000089c                AddUnicodeString2.part.6.lto_priv.31
+ .text.ZeroMem.part.0.lto_priv.30
+                0x0000000000000b06       0x91 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                0x0000000000000b06                ZeroMem.part.0.lto_priv.30
+ .text.FdcControllerDriverSupported
+                0x0000000000000b97       0xea /tmp/ccJqg6QE.ltrans1.ltrans.o
+                0x0000000000000b97                FdcControllerDriverSupported
+ .text.FdcControllerDriverStart
+                0x0000000000000c81      0x600 /tmp/ccJqg6QE.ltrans1.ltrans.o
+                0x0000000000000c81                FdcControllerDriverStart
+ .text.FdcFreeCache
+                0x0000000000001281       0x2a /tmp/ccJqg6QE.ltrans1.ltrans.o
+                0x0000000000001281                FdcFreeCache
+ .text.SenseIntStatus
+                0x00000000000012ab       0x5c /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .text.IsaFloppyComponentNameGetDriverName
+                0x0000000000001307       0x5c /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x0000000000001307                IsaFloppyComponentNameGetDriverName
+ .text.IsaFloppyComponentNameGetControllerName
+                0x0000000000001363      0x150 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x0000000000001363                IsaFloppyComponentNameGetControllerName
+ .text.Specify  0x00000000000014b3       0x68 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x00000000000014b3                Specify
+ .text.MotorOff
+                0x000000000000151b       0x25 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x000000000000151b                MotorOff
+ .text.MicroSecondDelay
+                0x0000000000001540       0xc9 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x0000000000001540                MicroSecondDelay
+ .text.Recalibrate
+                0x0000000000001609       0xd2 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x0000000000001609                Recalibrate
+ .text.Seek     0x00000000000016db      0x13b /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x00000000000016db                Seek
+ .text.DisketChanged
+                0x0000000000001816       0xa7 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x0000000000001816                DisketChanged
+ .text.MotorOn  0x00000000000018bd       0xa0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x00000000000018bd                MotorOn
+ .text.FddReset
+                0x000000000000195d       0xdd /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x000000000000195d                FddReset
+ .text.FddFlushBlocks
+                0x0000000000001a3a        0x3 /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001a3a                FddFlushBlocks
+ .text.FdcReset
+                0x0000000000001a3d       0x9a /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001a3d                FdcReset
+ .text.FdcWritePort
+                0x0000000000001ad7       0x31 /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001ad7                FdcWritePort
+ .text.FdcReadPort
+                0x0000000000001b08       0x31 /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001b08                FdcReadPort
+ .text.FddTimerProc
+                0x0000000000001b39      0x125 /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001b39                FddTimerProc
+ .text.DataOutByte
+                0x0000000000001c5e       0x4b /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001c5e                DataOutByte
+ .text.DataInByte
+                0x0000000000001ca9       0x4f /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000001ca9                DataInByte
+ .text.FddReadWriteBlocks
+                0x0000000000001cf8      0x680 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .text.FddWriteBlocks
+                0x0000000000002378       0xaf /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000002378                FddWriteBlocks
+ .text.FddReadBlocks
+                0x0000000000002427       0xac /tmp/ccJqg6QE.ltrans3.ltrans.o
+                0x0000000000002427                FddReadBlocks
+ .text.FdcControllerDriverStop
+                0x00000000000024d3      0x19f /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x00000000000024d3                FdcControllerDriverStop
+ .text.InternalAllocatePool.constprop.14
+                0x0000000000002672       0x37 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x0000000000002672                InternalAllocatePool.constprop.14
+ .text.FddWaitForBSYClear.constprop.2
+                0x00000000000026a9       0x51 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x00000000000026a9                FddWaitForBSYClear.constprop.2
+ .text.FddDRQReady.constprop.1
+                0x00000000000026fa       0x56 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x00000000000026fa                FddDRQReady.constprop.1
+ .text.SenseDrvStatus.constprop.0
+                0x0000000000002750       0xa1 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x0000000000002750                SenseDrvStatus.constprop.0
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- *fill*         0x0000000000002747        0x1 
- .rodata.FdcControllerDriverStart.str2.2
-                0x0000000000002748       0x28 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .rodata.FdcControllerDriverStart.str1.1
-                0x0000000000002770        0x4 /tmp/ccLWMYTs.ltrans0.ltrans.o
-                                          0x7 (size before relaxing)
- .rodata.str1.1
-                0x0000000000002774        0x7 /tmp/ccLWMYTs.ltrans0.ltrans.o
- *fill*         0x000000000000277b        0x1 
+ *fill*         0x00000000000027f1        0x1 
  .rodata.str2.2
-                0x000000000000277c       0x24 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x00000000000027f2       0x28 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .rodata.str1.1
+                0x000000000000281a        0x4 /tmp/ccJqg6QE.ltrans1.ltrans.o
+                                          0x7 (size before relaxing)
+ .rodata._gDriverUnloadImageCount
+                0x000000000000281e        0x1 /tmp/ccJqg6QE.ltrans1.ltrans.o
+                0x000000000000281e                _gDriverUnloadImageCount
+                0x000000000000281e                _gPcd_FixedAtBuild_PcdComponentName2Disable
+                0x000000000000281e                _gPcd_FixedAtBuild_PcdComponentNameDisable
+ .rodata.str1.1
+                0x000000000000281f        0x7 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .rodata.str2.2
+                0x0000000000002826       0x24 /tmp/ccJqg6QE.ltrans2.ltrans.o
  *(.got .got.*)
- .got           0x00000000000027a0        0x0 PcdLib.obj (symbol from plugin)
- .got.plt       0x00000000000027a0        0x0 PcdLib.obj (symbol from plugin)
-                0x00000000000027a0                _GLOBAL_OFFSET_TABLE_
+ .got           0x000000000000284a        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x000000000000284a        0x0 PcdLib.obj (symbol from plugin)
+                0x000000000000284a                _GLOBAL_OFFSET_TABLE_
  *:AutoGen.obj(.data.g*Guid)
 
-.plt            0x00000000000027a0        0x0
- .plt           0x00000000000027a0        0x0 PcdLib.obj (symbol from plugin)
+.plt            0x0000000000002850        0x0
+ .plt           0x0000000000002850        0x0 PcdLib.obj (symbol from plugin)
 
-.plt.got        0x00000000000027a0        0x0
- .plt.got       0x00000000000027a0        0x0 PcdLib.obj (symbol from plugin)
-
-.data           0x00000000000027c0      0x160
+.data           0x0000000000002880      0x160
  *(.data .data.* .gnu.linkonce.d.*)
  .data.gEfiHobListGuid
-                0x00000000000027c0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000002880       0x10 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .data.gEfiComponentNameProtocolGuid
-                0x00000000000027d0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000002890       0x10 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .data.gEfiComponentName2ProtocolGuid
-                0x00000000000027e0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x00000000000028a0       0x10 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .data.gEfiDriverBindingProtocolGuid
-                0x00000000000027f0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .data.gEfiAcpiDescriptionGuid
-                0x0000000000002800       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
- *fill*         0x0000000000002810       0x10 
- .data.rel.local.mIsaFloppyDriverNameTable
-                0x0000000000002820       0x20 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .data.rel.local.gFdcControllerDriver
-                0x0000000000002840       0x30 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x00000000000028b0       0x10 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .data.rel.local.gIsaFloppyComponentName2
-                0x0000000000002870       0x18 /tmp/ccLWMYTs.ltrans0.ltrans.o
- *fill*         0x0000000000002888        0x8 
+                0x00000000000028c0       0x18 /tmp/ccJqg6QE.ltrans1.ltrans.o
+                0x00000000000028c0                gIsaFloppyComponentName2
+ *fill*         0x00000000000028d8        0x8 
  .data.rel.local.gIsaFloppyComponentName
-                0x0000000000002890       0x18 /tmp/ccLWMYTs.ltrans0.ltrans.o
- *fill*         0x00000000000028a8        0x8 
+                0x00000000000028e0       0x18 /tmp/ccJqg6QE.ltrans1.ltrans.o
+                0x00000000000028e0                gIsaFloppyComponentName
+ *fill*         0x00000000000028f8        0x8 
+ .data.gEfiAcpiDescriptionGuid
+                0x0000000000002900       0x10 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ *fill*         0x0000000000002910       0x10 
+ .data.rel.local.mIsaFloppyDriverNameTable
+                0x0000000000002920       0x20 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .data.rel.local.gFdcControllerDriver
+                0x0000000000002940       0x30 /tmp/ccJqg6QE.ltrans2.ltrans.o
+                0x0000000000002940                gFdcControllerDriver
  .data.gEfiIsaIoProtocolGuid
-                0x00000000000028b0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000002970       0x10 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x0000000000002970                gEfiIsaIoProtocolGuid
  .data.gEfiDevicePathProtocolGuid
-                0x00000000000028c0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000002980       0x10 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x0000000000002980                gEfiDevicePathProtocolGuid
  .data.gEfiBlockIoProtocolGuid
-                0x00000000000028d0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000002990       0x10 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x0000000000002990                gEfiBlockIoProtocolGuid
  .data.rel.local.mControllerHead
-                0x00000000000028e0       0x10 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .data.rel.ro   0x00000000000028f0        0x0 PcdLib.obj (symbol from plugin)
+                0x00000000000029a0       0x10 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x00000000000029a0                mControllerHead
  *(.bss .bss.*)
- .bss.mHobList  0x00000000000028f0        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .bss.gST       0x00000000000028f8        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
+ .bss.mHobList  0x00000000000029b0        0x8 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .bss.gST       0x00000000000029b8        0x8 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .bss.gImageHandle
-                0x0000000000002900        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .bss.gRT       0x0000000000002908        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x00000000000029c0        0x8 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .bss.gRT       0x00000000000029c8        0x8 /tmp/ccJqg6QE.ltrans0.ltrans.o
  .bss.gAcpiDesc
-                0x0000000000002910        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
- .bss.gBS       0x0000000000002918        0x8 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x00000000000029d0        0x8 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .bss.gBS       0x00000000000029d8        0x8 /tmp/ccJqg6QE.ltrans4.ltrans.o
+                0x00000000000029d8                gBS
 
-.eh_frame       0x0000000000002940        0x0
+.eh_frame       0x0000000000002a00        0x0
  *(.eh_frame)
- .eh_frame      0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
- .eh_frame      0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
 
-.dynbss         0x0000000000002940        0x0
- .dynbss        0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
+.dynbss         0x0000000000002a00        0x0
+ .dynbss        0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
 
-.gnu.version_d  0x0000000000002940        0x0
+.gnu.version_d  0x0000000000002a00        0x0
  .gnu.version_d
-                0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
 
-.gnu.version    0x0000000000002940        0x0
- .gnu.version   0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
+.gnu.version    0x0000000000002a00        0x0
+ .gnu.version   0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
 
-.gnu.version_r  0x0000000000002940        0x0
+.gnu.version_r  0x0000000000002a00        0x0
  .gnu.version_r
-                0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
 
-.rela           0x0000000000002940      0x138
+.rela           0x0000000000002a00      0x138
  *(.rela .rela.*)
- .rela.plt      0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
- .rela.got      0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
- .rela.bss      0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
- .rela.data.rel.ro
-                0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
- .rela.ifunc    0x0000000000002940        0x0 PcdLib.obj (symbol from plugin)
- .rela.data.rel.local.mIsaFloppyDriverNameTable
-                0x0000000000002940       0x30 PcdLib.obj (symbol from plugin)
- .rela.data.rel.local.gFdcControllerDriver
-                0x0000000000002970       0x48 PcdLib.obj (symbol from plugin)
+ .rela.plt      0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text     0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FreePool
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text._ModuleEntryPoint
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.AllocateCopyPool
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.AddUnicodeString2.part.6.lto_priv.31
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FdcControllerDriverSupported
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FdcControllerDriverStart
+                0x0000000000002a00        0x0 PcdLib.obj (symbol from plugin)
  .rela.data.rel.local.gIsaFloppyComponentName2
-                0x00000000000029b8       0x48 PcdLib.obj (symbol from plugin)
- .rela.data.rel.local.gIsaFloppyComponentName
                 0x0000000000002a00       0x48 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gIsaFloppyComponentName
+                0x0000000000002a48       0x48 PcdLib.obj (symbol from plugin)
+ .rela.text.SenseIntStatus
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.IsaFloppyComponentNameGetControllerName
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.Specify
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.MotorOff
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.Recalibrate
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.Seek
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.DisketChanged
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.MotorOn
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FddReset
+                0x0000000000002a90        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mIsaFloppyDriverNameTable
+                0x0000000000002a90       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.gFdcControllerDriver
+                0x0000000000002ac0       0x48 PcdLib.obj (symbol from plugin)
+ .rela.text.DataOutByte
+                0x0000000000002b08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.DataInByte
+                0x0000000000002b08        0x0 PcdLib.obj (symbol from plugin)
+ .rela.text.FddReadWriteBlocks
+                0x0000000000002b08        0x0 PcdLib.obj (symbol from plugin)
  .rela.data.rel.local.mControllerHead
-                0x0000000000002a48       0x30 PcdLib.obj (symbol from plugin)
+                0x0000000000002b08       0x30 PcdLib.obj (symbol from plugin)
 
 .hii
  *(.hii)
 
-.build-id       0x0000000000002a78       0x24
+.build-id       0x0000000000002b38       0x24
  *(.note.gnu.build-id)
  .note.gnu.build-id
-                0x0000000000002a78       0x24 PcdLib.obj (symbol from plugin)
+                0x0000000000002b38       0x24 PcdLib.obj (symbol from plugin)
 
 /DISCARD/
  *(.note.GNU-stack)
@@ -491,30 +790,70 @@ END GROUP
  *(.hash .gnu.hash)
  *(.comment)
  *(COMMON)
-OUTPUT(/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/DEBUG/IsaFloppyDxe.dll elf64-x86-64)
+OUTPUT(/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/IntelFrameworkModulePkg/Bus/Isa/IsaFloppyDxe/IsaFloppyDxe/DEBUG/IsaFloppyDxe.dll elf64-x86-64)
 
-.debug_info     0x0000000000000000     0x779a
- .debug_info    0x0000000000000000     0x779a /tmp/ccLWMYTs.ltrans0.ltrans.o
+.debug_info     0x0000000000000000     0xaaf5
+ .debug_info    0x0000000000000000     0x3143 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_info    0x0000000000003143     0x18c3 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_info    0x0000000000004a06     0x26bf /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_info    0x00000000000070c5     0x1ce9 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_info    0x0000000000008dae     0x1d47 /tmp/ccJqg6QE.ltrans4.ltrans.o
 
-.debug_abbrev   0x0000000000000000      0x57d
- .debug_abbrev  0x0000000000000000      0x57d /tmp/ccLWMYTs.ltrans0.ltrans.o
+.debug_abbrev   0x0000000000000000     0x1236
+ .debug_abbrev  0x0000000000000000      0x482 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000482      0x326 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_abbrev  0x00000000000007a8      0x3d6 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_abbrev  0x0000000000000b7e      0x3bd /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_abbrev  0x0000000000000f3b      0x2fb /tmp/ccJqg6QE.ltrans4.ltrans.o
 
-.debug_loc      0x0000000000000000     0x5d3b
- .debug_loc     0x0000000000000000     0x5d3b /tmp/ccLWMYTs.ltrans0.ltrans.o
+.debug_loc      0x0000000000000000     0x605b
+ .debug_loc     0x0000000000000000     0x2274 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_loc     0x0000000000002274      0xc5d /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_loc     0x0000000000002ed1     0x11db /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_loc     0x00000000000040ac     0x19ef /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_loc     0x0000000000005a9b      0x5c0 /tmp/ccJqg6QE.ltrans4.ltrans.o
 
-.debug_aranges  0x0000000000000000      0x300
+.debug_aranges  0x0000000000000000      0x380
  .debug_aranges
-                0x0000000000000000      0x300 /tmp/ccLWMYTs.ltrans0.ltrans.o
+                0x0000000000000000      0x110 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_aranges
+                0x0000000000000110       0x50 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_aranges
+                0x0000000000000160       0xd0 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_aranges
+                0x0000000000000230       0xd0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_aranges
+                0x0000000000000300       0x80 /tmp/ccJqg6QE.ltrans4.ltrans.o
 
-.debug_ranges   0x0000000000000000      0xa30
- .debug_ranges  0x0000000000000000      0xa30 /tmp/ccLWMYTs.ltrans0.ltrans.o
+.debug_ranges   0x0000000000000000      0xc00
+ .debug_ranges  0x0000000000000000      0x280 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000280      0x2f0 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_ranges  0x0000000000000570      0x320 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_ranges  0x0000000000000890      0x2d0 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_ranges  0x0000000000000b60       0xa0 /tmp/ccJqg6QE.ltrans4.ltrans.o
 
-.debug_line     0x0000000000000000     0x15ae
- .debug_line    0x0000000000000000     0x15ae /tmp/ccLWMYTs.ltrans0.ltrans.o
+.debug_line     0x0000000000000000     0x27b0
+ .debug_line    0x0000000000000000      0x9cc /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_line    0x00000000000009cc      0x762 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_line    0x000000000000112e      0x995 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_line    0x0000000000001ac3      0x670 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_line    0x0000000000002133      0x67d /tmp/ccJqg6QE.ltrans4.ltrans.o
 
-.debug_str      0x0000000000000000     0x3167
- .debug_str     0x0000000000000000     0x3167 /tmp/ccLWMYTs.ltrans0.ltrans.o
-                                       0x356c (size before relaxing)
+.debug_str      0x0000000000000000     0x3299
+ .debug_str     0x0000000000000000     0x1c56 /tmp/ccJqg6QE.ltrans0.ltrans.o
+                                       0x1ed3 (size before relaxing)
+ .debug_str     0x0000000000001c56      0x871 /tmp/ccJqg6QE.ltrans1.ltrans.o
+                                       0x1229 (size before relaxing)
+ .debug_str     0x00000000000024c7      0x91b /tmp/ccJqg6QE.ltrans2.ltrans.o
+                                       0x18c3 (size before relaxing)
+ .debug_str     0x0000000000002de2      0x258 /tmp/ccJqg6QE.ltrans3.ltrans.o
+                                        0xfe9 (size before relaxing)
+ .debug_str     0x000000000000303a      0x25f /tmp/ccJqg6QE.ltrans4.ltrans.o
+                                       0x183c (size before relaxing)
 
-.debug_frame    0x0000000000000000      0xad8
- .debug_frame   0x0000000000000000      0xad8 /tmp/ccLWMYTs.ltrans0.ltrans.o
+.debug_frame    0x0000000000000000      0xb88
+ .debug_frame   0x0000000000000000      0x2f0 /tmp/ccJqg6QE.ltrans0.ltrans.o
+ .debug_frame   0x00000000000002f0       0xf8 /tmp/ccJqg6QE.ltrans1.ltrans.o
+ .debug_frame   0x00000000000003e8      0x2e8 /tmp/ccJqg6QE.ltrans2.ltrans.o
+ .debug_frame   0x00000000000006d0      0x340 /tmp/ccJqg6QE.ltrans3.ltrans.o
+ .debug_frame   0x0000000000000a10      0x178 /tmp/ccJqg6QE.ltrans4.ltrans.o

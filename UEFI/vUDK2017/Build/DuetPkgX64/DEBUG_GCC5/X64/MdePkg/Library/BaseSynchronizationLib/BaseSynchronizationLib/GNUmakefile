@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = BaseSynchronizationLib
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = MdePkg/Library/BaseSynchronizationLib
 PACKAGE_RELATIVE_DIR = Library/BaseSynchronizationLib
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/FC9990DF-C5FF-44cf-8799-CBB45B577F87BaseSynchronizationLib
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/FC9990DF-C5FF-44cf-8799-CBB45B577F87BaseSynchronizationLib
 
 MODULE_ENTRY_POINT = _ModuleEntryPoint
 ARCH_ENTRY_POINT = _ModuleEntryPoint
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -208,13 +208,13 @@ INC =  \
     -I$(WORKSPACE)/MdePkg/Include \
     -I$(WORKSPACE)/MdePkg/Include/X64
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/object_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/object_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+COMMON_DEPS = $(DEBUG_DIR)/AutoGen.h \
               $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
               
 
 #
@@ -224,7 +224,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib \
               
 
 #
@@ -298,32 +298,32 @@ gen_fds:
 #
 $(OUTPUT_DIR)/BaseSynchronizationLib.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/BaseSynchronizationLib.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/BaseSynchronizationLib.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/SynchronizationLib.h
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLibInternals.h
+$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/Ia32/InternalGetSpinLockProperties.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/Ia32/InternalGetSpinLockProperties.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib/Ia32/InternalGetSpinLockProperties.c
 
 $(OUTPUT_DIR)/X64/GccInline.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/X64/GccInline.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/X64/GccInline.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/X64/GccInline.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/X64/GccInline.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib/X64/GccInline.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/X64/GccInline.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib/X64/GccInline.c
 
 $(OUTPUT_DIR)/SynchronizationGcc.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/SynchronizationGcc.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLibInternals.h
-$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h
 $(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/SynchronizationLib.h
+$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h
+$(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLibInternals.h
 $(OUTPUT_DIR)/SynchronizationGcc.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/SynchronizationGcc.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/./SynchronizationGcc.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib/SynchronizationGcc.c
-
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLibInternals.h
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Include/Library/SynchronizationLib.h
-$(OUTPUT_DIR)/Ia32/InternalGetSpinLockProperties.obj : $(WORKSPACE)/MdePkg/Library/BaseSynchronizationLib/Ia32/InternalGetSpinLockProperties.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/Ia32/InternalGetSpinLockProperties.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib/Ia32/InternalGetSpinLockProperties.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/./SynchronizationGcc.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseSynchronizationLib/SynchronizationGcc.c
 
 
 

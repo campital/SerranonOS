@@ -37,6 +37,7 @@
 
 [Binaries.X64]
   PE32|SmbiosGenDxe.efi
+  DXE_DEPEX|SmbiosGenDxe.depex
   BIN|SmbiosGenDxeOffset.bin
 
 [PatchPcd.X64]

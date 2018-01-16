@@ -44,11 +44,11 @@
 [PatchPcd.X64]
   ## SOMETIMES_PRODUCES
   ## SOMETIMES_CONSUMES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x5AE8
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|0x00000019|0x5AC8
 
   ## SOMETIMES_PRODUCES
   ## SOMETIMES_CONSUMES
-  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x5AEC
+  gEfiMdeModulePkgTokenSpaceGuid.PcdConOutColumn|0x00000050|0x5ACC
 
 
 [Protocols.X64]

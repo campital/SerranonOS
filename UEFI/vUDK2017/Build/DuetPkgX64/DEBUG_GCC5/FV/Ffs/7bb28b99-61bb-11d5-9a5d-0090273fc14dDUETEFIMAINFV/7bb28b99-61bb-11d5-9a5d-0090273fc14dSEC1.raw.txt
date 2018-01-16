@@ -1,1 +1,1 @@
-GenSec -s EFI_SECTION_RAW -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/7bb28b99-61bb-11d5-9a5d-0090273fc14dDUETEFIMAINFV/7bb28b99-61bb-11d5-9a5d-0090273fc14dSEC1.raw /home/william/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Logo/Logo.bmp
+GenSec -s EFI_SECTION_RAW -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/7bb28b99-61bb-11d5-9a5d-0090273fc14dDUETEFIMAINFV/7bb28b99-61bb-11d5-9a5d-0090273fc14dSEC1.raw /mnt/c/SerranonOS/UEFI/vUDK2017/MdeModulePkg/Logo/Logo.bmp

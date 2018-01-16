@@ -1,15 +1,14 @@
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm"
 # 1 "<built-in>"
 # 1 "<command-line>"
-# 31 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
-# 32 "<command-line>" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h" 1
-# 16 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 1
-# 28 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h" 1
-# 188 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h"
+# 1 "<command-line>" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h" 1
+# 16 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 1
+# 28 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h" 1
+# 188 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h"
   typedef unsigned long long UINT64;
 
 
@@ -65,8 +64,8 @@ typedef UINT64 UINTN;
 
 
 typedef INT64 INTN;
-# 29 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 2
-# 54 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 29 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 2
+# 54 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 extern UINT8 _VerifySizeofBOOLEAN[(sizeof(BOOLEAN) == (1)) / (sizeof(BOOLEAN) == (1))];
 extern UINT8 _VerifySizeofINT8[(sizeof(INT8) == (1)) / (sizeof(INT8) == (1))];
 extern UINT8 _VerifySizeofUINT8[(sizeof(UINT8) == (1)) / (sizeof(UINT8) == (1))];
@@ -78,7 +77,7 @@ extern UINT8 _VerifySizeofINT64[(sizeof(INT64) == (8)) / (sizeof(INT64) == (8))]
 extern UINT8 _VerifySizeofUINT64[(sizeof(UINT64) == (8)) / (sizeof(UINT64) == (8))];
 extern UINT8 _VerifySizeofCHAR8[(sizeof(CHAR8) == (1)) / (sizeof(CHAR8) == (1))];
 extern UINT8 _VerifySizeofCHAR16[(sizeof(CHAR16) == (2)) / (sizeof(CHAR16) == (2))];
-# 73 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 73 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef enum {
   __VerifyUint8EnumValue = 0xff
 } __VERIFY_UINT8_ENUM_SIZE;
@@ -94,7 +93,7 @@ typedef enum {
 extern UINT8 _VerifySizeof__VERIFY_UINT8_ENUM_SIZE[(sizeof(__VERIFY_UINT8_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT8_ENUM_SIZE) == (4))];
 extern UINT8 _VerifySizeof__VERIFY_UINT16_ENUM_SIZE[(sizeof(__VERIFY_UINT16_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT16_ENUM_SIZE) == (4))];
 extern UINT8 _VerifySizeof__VERIFY_UINT32_ENUM_SIZE[(sizeof(__VERIFY_UINT32_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT32_ENUM_SIZE) == (4))];
-# 261 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 261 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef struct {
   UINT32 Data1;
   UINT16 Data2;
@@ -133,15 +132,15 @@ struct _LIST_ENTRY {
   LIST_ENTRY *ForwardLink;
   LIST_ENTRY *BackLink;
 };
-# 657 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 657 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef __builtin_ms_va_list VA_LIST;
-# 761 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 761 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef UINTN *BASE_LIST;
-# 925 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 925 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef UINTN RETURN_STATUS;
-# 1241 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 1241 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
   void * __builtin_return_address (unsigned int level);
-# 17 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h" 2
+# 17 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/Library/BaseUefiCpuLib/BaseUefiCpuLib/DEBUG/AutoGen.h" 2
 
 extern GUID gEfiCallerIdGuid;
 extern CHAR8 *gEfiCallerBaseName;
@@ -149,8 +148,8 @@ extern CHAR8 *gEfiCallerBaseName;
 
 
 extern UINT64 _gPcd_SkuId_Array[];
-# 32 "<command-line>" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm"
+# 1 "<command-line>" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/Library/BaseUefiCpuLib/X64/InitializeFpu.nasm"
 ;------------------------------------------------------------------------------
 ;*
 ;* Copyright (c) 2009 - 2017, Intel Corporation. All rights reserved.<BR>

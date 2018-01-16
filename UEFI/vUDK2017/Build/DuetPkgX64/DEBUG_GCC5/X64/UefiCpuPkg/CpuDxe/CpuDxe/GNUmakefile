@@ -19,7 +19,7 @@ PLATFORM_NAME = DuetPkg
 PLATFORM_GUID = 199E24E0-0989-42aa-87F2-611A8C397E72
 PLATFORM_VERSION = 0.4
 PLATFORM_RELATIVE_DIR = DuetPkg
-PLATFORM_DIR = /home/william/SerranonOS/UEFI/vUDK2017/DuetPkg
+PLATFORM_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/DuetPkg
 PLATFORM_OUTPUT_DIR = Build/DuetPkgX64
 
 #
@@ -35,8 +35,8 @@ MODULE_FILE_BASE_NAME = CpuDxe
 BASE_NAME = $(MODULE_NAME)
 MODULE_RELATIVE_DIR = UefiCpuPkg/CpuDxe
 PACKAGE_RELATIVE_DIR = CpuDxe
-MODULE_DIR = /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe
-FFS_OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/1A1E4886-9517-440e-9FDE-3BE44CEE2136CpuDxe
+MODULE_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe
+FFS_OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/FV/Ffs/1A1E4886-9517-440e-9FDE-3BE44CEE2136CpuDxe
 
 MODULE_ENTRY_POINT = InitializeCpu
 ARCH_ENTRY_POINT = InitializeCpu
@@ -60,13 +60,13 @@ TARGET = DEBUG
 #
 # Build Directory Macro Definition
 #
-# PLATFORM_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
-BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+# PLATFORM_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
+BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5
 BIN_DIR = $(BUILD_DIR)/X64
 LIB_DIR = $(BIN_DIR)
-MODULE_BUILD_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe
-OUTPUT_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT
-DEBUG_DIR = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG
+MODULE_BUILD_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe
+OUTPUT_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT
+DEBUG_DIR = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG
 DEST_DIR_OUTPUT = $(OUTPUT_DIR)
 DEST_DIR_DEBUG = $(DEBUG_DIR)
 
@@ -246,106 +246,106 @@ INC =  \
     -I$(WORKSPACE)/UefiCpuPkg \
     -I$(WORKSPACE)/UefiCpuPkg/Include
 
-OBJECT_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/object_files.lst
-STATIC_LIBRARY_FILES_LIST = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/static_library_files.lst
+OBJECT_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/object_files.lst
+STATIC_LIBRARY_FILES_LIST = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/static_library_files.lst
 
 
-COMMON_DEPS = $(WORKSPACE)/MdePkg/Include/Ppi/SecPlatformInformation2.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Guid/IdleLoopEvent.h \
-              $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuDxe.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SandyBridgeMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/MpService.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DxeServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/VectorHandoffTable.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/AtomMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiPeiCis.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SkylakeMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/CpuLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonE7Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
-              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonDMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Core2Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
-              $(DEBUG_DIR)/AutoGen.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/GoldmontMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Ppi/PciCfg2.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/IvyBridgeMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Base.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Pentium4Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Ppi/SecPlatformInformation.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellEMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
-              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Library/MpInitLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/NehalemMsr.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Library/MtrrLib.h \
-              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/P6Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonPhiMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Library/LocalApicLib.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/CoreMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
-              $(WORKSPACE)/MdePkg/Include/Ppi/CpuIo.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Library/UefiCpuLib.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Xeon5600Msr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
-              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/BroadwellMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
-              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
-              $(WORKSPACE)/MdeModulePkg/Include/Library/CpuExceptionHandlerLib.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
+COMMON_DEPS = $(WORKSPACE)/UefiCpuPkg/Include/Library/LocalApicLib.h \
               $(WORKSPACE)/UefiCpuPkg/Include/Register/ArchitecturalMsr.h \
-              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMsr.h \
-              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
-              $(WORKSPACE)/MdePkg/Include/Ppi/VectorHandoffInfo.h \
-              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
-              $(WORKSPACE)/MdePkg/Include/Protocol/Cpu.h \
+              $(DEBUG_DIR)/AutoGen.h \
+              $(WORKSPACE)/MdePkg/Include/PiDxe.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonE7Msr.h \
+              $(WORKSPACE)/MdePkg/Include/Library/MemoryAllocationLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Xeon5600Msr.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Library/CpuExceptionHandlerLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Library/MtrrLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/NehalemMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellEMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Core2Msr.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/HaswellMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h \
+              $(WORKSPACE)/MdePkg/Include/Library/TimerLib.h \
+              $(WORKSPACE)/MdePkg/Include/Base.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/CoreMsr.h \
+              $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SandyBridgeMsr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Library/MpInitLib.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h \
               $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SilvermontMsr.h \
-              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Library/HobLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonPhiMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/MpService.h \
+              $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuDxe.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/Cpu.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DxeServicesTableLib.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiPeiCis.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName.h \
+              $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseMemoryLib.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h \
               $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h \
+              $(WORKSPACE)/MdeModulePkg/Include/Guid/IdleLoopEvent.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h \
+              $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/SkylakeMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/BroadwellMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/GraphicsOutput.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/Pentium4Msr.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverBinding.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/ComponentName2.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h \
               $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration2.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/XeonDMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Ppi/SecPlatformInformation.h \
+              $(WORKSPACE)/MdePkg/Include/Library/ReportStatusCodeLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Library/UefiCpuLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverConfiguration.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h \
+              $(WORKSPACE)/MdePkg/Include/Library/CpuLib.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/GoldmontMsr.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/VectorHandoffTable.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/IvyBridgeMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Ppi/PciCfg2.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/PentiumMsr.h \
+              $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics.h \
+              $(WORKSPACE)/MdePkg/Include/Ppi/VectorHandoffInfo.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+              $(WORKSPACE)/MdePkg/Include/Ppi/SecPlatformInformation2.h \
+              $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h \
+              $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h \
+              $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/P6Msr.h \
+              $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h \
+              $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+              $(WORKSPACE)/MdePkg/Include/Ppi/CpuIo.h \
+              $(WORKSPACE)/MdePkg/Include/Protocol/DriverDiagnostics2.h \
+              $(WORKSPACE)/UefiCpuPkg/Include/Register/Msr/AtomMsr.h \
               
 
 #
@@ -355,7 +355,7 @@ FORCE_REBUILD = force_build
 INIT_TARGET = init
 PCH_TARGET =
 BC_TARGET = 
-CODA_TARGET = /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi \
+CODA_TARGET = /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi \
               
 
 #
@@ -457,140 +457,140 @@ gen_fds:
 # Individual Object Build Targets
 #
 $(DEBUG_DIR)/CpuDxe.efi : $(DEBUG_DIR)/CpuDxe.dll
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
-	$(OBJCOPY) --strip-unneeded -R .eh_frame /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll
-	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll $(DEBUG_DIR)/$(MODULE_NAME).debug
+	$(OBJCOPY) --strip-unneeded -R .eh_frame /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll
+	-$(OBJCOPY) $(OBJCOPY_ADDDEBUGFLAG) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll
 	-$(CP) $(DEBUG_DIR)/$(MODULE_NAME).debug $(BIN_DIR)/$(MODULE_NAME_GUID).debug
-	"$(GENFW)" -e $(MODULE_TYPE) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll $(GENFW_FLAGS)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi $(OUTPUT_DIR)
-	$(CP) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
+	"$(GENFW)" -e $(MODULE_TYPE) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll $(GENFW_FLAGS)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi $(OUTPUT_DIR)
+	$(CP) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.efi $(BIN_DIR)/$(MODULE_NAME_GUID).efi
 	-$(CP) $(DEBUG_DIR)/*.map $(OUTPUT_DIR)
 
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Base.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(DEBUG_DIR)/AutoGen.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
 $(OUTPUT_DIR)/X64/CpuAsm.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/X64/CpuAsm.nasm
-	"$(PP)" $(PP_FLAGS) $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/X64/CpuAsm.nasm > /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.i
-	Trim --trim-long --source-code -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.iii /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.i
-	"$(NASM)" -I/home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/X64/ $(NASM_FLAGS) -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.obj /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.iii
+	"$(PP)" $(PP_FLAGS) $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/X64/CpuAsm.nasm > /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.i
+	Trim --trim-long --source-code -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.iii /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.i
+	"$(NASM)" -I/mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/X64/ $(NASM_FLAGS) -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.obj /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/X64/CpuAsm.iii
 
 $(OUTPUT_DIR)/CpuDxe.lib : $(OBJECT_FILES)
 $(OUTPUT_DIR)/CpuDxe.lib : $(OBJECT_FILES_LIST)
-	"$(SLINK)" cr /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
+	"$(SLINK)" cr /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/CpuDxe.lib $(SLINK_FLAGS) @$(OBJECT_FILES_LIST)
 
 $(DEBUG_DIR)/CpuDxe.dll : $(MAKE_FILE)
 $(DEBUG_DIR)/CpuDxe.dll : $(STATIC_LIBRARY_FILES)
 $(DEBUG_DIR)/CpuDxe.dll : $(STATIC_LIBRARY_FILES_LIST)
-	"$(DLINK)" -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
-	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll
+	"$(DLINK)" -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll $(DLINK_FLAGS) -Wl,--start-group,@$(STATIC_LIBRARY_FILES_LIST),--end-group $(CC_FLAGS) $(DLINK2_FLAGS)
+	"$(OBJCOPY)" $(OBJCOPY_FLAGS) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/CpuDxe.dll
 
 $(OUTPUT_DIR)/AutoGen.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
 $(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi20.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/WinCertificate.h
 $(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DevicePath.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
-$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
-$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/BaseLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/PcdLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Bluetooth.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Base.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/X64/ProcessorBind.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/DebugSupport.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiS3BootScript.h
 $(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiDriverEntryPoint.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiGpt.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi10.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/PiDxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/DebugLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextOut.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiStatusCode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/PeImage.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDependency.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiMultiPhase.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/AcpiAml.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi60.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi51.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiPxe.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiDxeCis.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiBaseType.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiBootMode.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/PcAnsi.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextInEx.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi40.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Protocol/SimpleTextIn.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareVolume.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi30.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Library/UefiBootServicesTableLib.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Uefi/UefiSpec.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiHob.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/Pi/PiFirmwareFile.h
+$(OUTPUT_DIR)/AutoGen.obj : $(WORKSPACE)/MdePkg/Include/IndustryStandard/Acpi50.h
 $(OUTPUT_DIR)/AutoGen.obj : $(DEBUG_DIR)/AutoGen.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./AutoGen.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/AutoGen.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./AutoGen.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/DEBUG/AutoGen.c
 
 $(OUTPUT_DIR)/CpuDxe.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/CpuDxe.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/CpuDxe.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuPageTable.h
 $(OUTPUT_DIR)/CpuDxe.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuMp.h
 $(OUTPUT_DIR)/CpuDxe.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuDxe.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuDxe.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuDxe.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuDxe.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuDxe.c
 
 $(OUTPUT_DIR)/CpuMp.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/CpuMp.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/CpuMp.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuMp.h
 $(OUTPUT_DIR)/CpuMp.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuMp.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuMp.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuMp.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuMp.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuMp.c
+
+$(OUTPUT_DIR)/CpuPageTable.obj : $(MAKE_FILE)
+$(OUTPUT_DIR)/CpuPageTable.obj : $(COMMON_DEPS)
+$(OUTPUT_DIR)/CpuPageTable.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuPageTable.h
+$(OUTPUT_DIR)/CpuPageTable.obj : $(WORKSPACE)/MdePkg/Include/Uefi.h
+$(OUTPUT_DIR)/CpuPageTable.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuPageTable.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuPageTable.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuPageTable.c
 
 $(OUTPUT_DIR)/CpuGdt.obj : $(MAKE_FILE)
 $(OUTPUT_DIR)/CpuGdt.obj : $(COMMON_DEPS)
 $(OUTPUT_DIR)/CpuGdt.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuGdt.h
 $(OUTPUT_DIR)/CpuGdt.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuGdt.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuGdt.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuGdt.c
-
-$(OUTPUT_DIR)/CpuPageTable.obj : $(MAKE_FILE)
-$(OUTPUT_DIR)/CpuPageTable.obj : $(COMMON_DEPS)
-$(OUTPUT_DIR)/CpuPageTable.obj : $(WORKSPACE)/MdePkg/Include/Uefi.h
-$(OUTPUT_DIR)/CpuPageTable.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuPageTable.h
-$(OUTPUT_DIR)/CpuPageTable.obj : $(WORKSPACE)/UefiCpuPkg/CpuDxe/CpuPageTable.c
-	"$(CC)" $(CC_FLAGS) -c -o /home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuPageTable.obj $(INC) /home/william/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuPageTable.c
+	"$(CC)" $(CC_FLAGS) -c -o /mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/UefiCpuPkg/CpuDxe/CpuDxe/OUTPUT/./CpuGdt.obj $(INC) /mnt/c/SerranonOS/UEFI/vUDK2017/UefiCpuPkg/CpuDxe/CpuGdt.c
 
 
 

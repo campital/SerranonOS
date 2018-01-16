@@ -35,6 +35,7 @@
 
 [Binaries.X64]
   PE32|PcRtc.efi
+  DXE_DEPEX|PcRtc.depex
 
 [PatchPcd.X64]
 

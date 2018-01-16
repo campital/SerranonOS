@@ -1,15 +1,14 @@
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/Thunk16.nasm"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/Thunk16.nasm"
 # 1 "<built-in>"
 # 1 "<command-line>"
-# 31 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
-# 32 "<command-line>" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 1
-# 16 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 1
-# 28 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h" 1
-# 188 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h"
+# 1 "<command-line>" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 1
+# 16 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 1
+# 28 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h" 1
+# 188 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/X64/ProcessorBind.h"
   typedef unsigned long long UINT64;
 
 
@@ -65,8 +64,8 @@ typedef UINT64 UINTN;
 
 
 typedef INT64 INTN;
-# 29 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 2
-# 54 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 29 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h" 2
+# 54 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 extern UINT8 _VerifySizeofBOOLEAN[(sizeof(BOOLEAN) == (1)) / (sizeof(BOOLEAN) == (1))];
 extern UINT8 _VerifySizeofINT8[(sizeof(INT8) == (1)) / (sizeof(INT8) == (1))];
 extern UINT8 _VerifySizeofUINT8[(sizeof(UINT8) == (1)) / (sizeof(UINT8) == (1))];
@@ -78,7 +77,7 @@ extern UINT8 _VerifySizeofINT64[(sizeof(INT64) == (8)) / (sizeof(INT64) == (8))]
 extern UINT8 _VerifySizeofUINT64[(sizeof(UINT64) == (8)) / (sizeof(UINT64) == (8))];
 extern UINT8 _VerifySizeofCHAR8[(sizeof(CHAR8) == (1)) / (sizeof(CHAR8) == (1))];
 extern UINT8 _VerifySizeofCHAR16[(sizeof(CHAR16) == (2)) / (sizeof(CHAR16) == (2))];
-# 73 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 73 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef enum {
   __VerifyUint8EnumValue = 0xff
 } __VERIFY_UINT8_ENUM_SIZE;
@@ -94,7 +93,7 @@ typedef enum {
 extern UINT8 _VerifySizeof__VERIFY_UINT8_ENUM_SIZE[(sizeof(__VERIFY_UINT8_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT8_ENUM_SIZE) == (4))];
 extern UINT8 _VerifySizeof__VERIFY_UINT16_ENUM_SIZE[(sizeof(__VERIFY_UINT16_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT16_ENUM_SIZE) == (4))];
 extern UINT8 _VerifySizeof__VERIFY_UINT32_ENUM_SIZE[(sizeof(__VERIFY_UINT32_ENUM_SIZE) == (4)) / (sizeof(__VERIFY_UINT32_ENUM_SIZE) == (4))];
-# 261 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 261 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef struct {
   UINT32 Data1;
   UINT16 Data2;
@@ -133,142 +132,142 @@ struct _LIST_ENTRY {
   LIST_ENTRY *ForwardLink;
   LIST_ENTRY *BackLink;
 };
-# 657 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 657 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef __builtin_ms_va_list VA_LIST;
-# 761 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 761 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef UINTN *BASE_LIST;
-# 925 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 925 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
 typedef UINTN RETURN_STATUS;
-# 1241 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
+# 1241 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Base.h"
   void * __builtin_return_address (unsigned int level);
-# 17 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h" 1
-# 1082 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 17 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h" 1
+# 1082 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdSetSku (
   UINTN SkuId
   );
-# 1099 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1099 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdGet8 (
   UINTN TokenNumber
   );
-# 1116 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1116 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdGet16 (
   UINTN TokenNumber
   );
-# 1133 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1133 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdGet32 (
   UINTN TokenNumber
   );
-# 1150 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1150 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdGet64 (
   UINTN TokenNumber
   );
-# 1167 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1167 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdGetPtr (
   UINTN TokenNumber
   );
-# 1184 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1184 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdGetBool (
   UINTN TokenNumber
   );
-# 1199 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1199 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetSize (
   UINTN TokenNumber
   );
-# 1220 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1220 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdGetEx8 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1242 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1242 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdGetEx16 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1261 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1261 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdGetEx32 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1283 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1283 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdGetEx64 (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1305 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1305 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdGetExPtr (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1327 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1327 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdGetExBool (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1349 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1349 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetExSize (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 1370 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1370 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdSet8 (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1390 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1390 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdSet16 (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1410 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1410 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdSet32 (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1430 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1430 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdSet64 (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1460 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1460 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdSetPtr (
@@ -276,14 +275,14 @@ LibPcdSetPtr (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 1481 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1481 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdSetBool (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1505 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1505 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT8
 
 LibPcdSetEx8 (
@@ -291,7 +290,7 @@ LibPcdSetEx8 (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1530 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1530 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT16
 
 LibPcdSetEx16 (
@@ -299,7 +298,7 @@ LibPcdSetEx16 (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1555 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1555 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT32
 
 LibPcdSetEx32 (
@@ -307,7 +306,7 @@ LibPcdSetEx32 (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1580 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1580 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINT64
 
 LibPcdSetEx64 (
@@ -315,7 +314,7 @@ LibPcdSetEx64 (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1611 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1611 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPcdSetExPtr (
@@ -324,7 +323,7 @@ LibPcdSetExPtr (
   UINTN *SizeOfBuffer,
   void *Buffer
   );
-# 1637 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1637 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 BOOLEAN
 
 LibPcdSetExBool (
@@ -332,35 +331,35 @@ LibPcdSetExBool (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1658 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1658 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet8S (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1677 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1677 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet16S (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1696 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1696 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet32S (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1715 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1715 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSet64S (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1744 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1744 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetPtrS (
@@ -368,14 +367,14 @@ LibPcdSetPtrS (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 1764 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1764 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetBoolS (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1787 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1787 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx8S (
@@ -383,7 +382,7 @@ LibPcdSetEx8S (
   UINTN TokenNumber,
   UINT8 Value
   );
-# 1811 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1811 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx16S (
@@ -391,7 +390,7 @@ LibPcdSetEx16S (
   UINTN TokenNumber,
   UINT16 Value
   );
-# 1835 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1835 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx32S (
@@ -399,7 +398,7 @@ LibPcdSetEx32S (
   UINTN TokenNumber,
   UINT32 Value
   );
-# 1859 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1859 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetEx64S (
@@ -407,7 +406,7 @@ LibPcdSetEx64S (
   UINTN TokenNumber,
   UINT64 Value
   );
-# 1889 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1889 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetExPtrS (
@@ -416,7 +415,7 @@ LibPcdSetExPtrS (
   UINTN *SizeOfBuffer,
   void *Buffer
   );
-# 1914 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1914 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPcdSetExBoolS (
@@ -424,7 +423,7 @@ LibPcdSetExBoolS (
   UINTN TokenNumber,
   BOOLEAN Value
   );
-# 1938 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1938 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 typedef
 void
 ( *PCD_CALLBACK)(
@@ -433,7 +432,7 @@ void
   void *TokenData,
   UINTN TokenDataSize
   );
-# 1964 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1964 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdCallbackOnSet (
@@ -441,7 +440,7 @@ LibPcdCallbackOnSet (
   UINTN TokenNumber,
   PCD_CALLBACK NotificationFunction
   );
-# 1986 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 1986 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdCancelCallback (
@@ -449,20 +448,20 @@ LibPcdCancelCallback (
   UINTN TokenNumber,
   PCD_CALLBACK NotificationFunction
   );
-# 2014 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2014 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetNextToken (
   const GUID *Guid,
   UINTN TokenNumber
   );
-# 2036 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2036 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 GUID *
 
 LibPcdGetNextTokenSpace (
   const GUID *TokenSpaceGuid
   );
-# 2066 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2066 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPatchPcdSetPtr (
@@ -471,7 +470,7 @@ LibPatchPcdSetPtr (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 2098 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2098 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPatchPcdSetPtrS (
@@ -480,7 +479,7 @@ LibPatchPcdSetPtrS (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 2132 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2132 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void *
 
 LibPatchPcdSetPtrAndSize (
@@ -490,7 +489,7 @@ LibPatchPcdSetPtrAndSize (
   UINTN *SizeOfBuffer,
   const void *Buffer
   );
-# 2167 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2167 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 RETURN_STATUS
 
 LibPatchPcdSetPtrAndSizeS (
@@ -529,14 +528,14 @@ typedef struct {
 
   CHAR8 *PcdName;
 } PCD_INFO;
-# 2219 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2219 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdGetInfo (
   UINTN TokenNumber,
   PCD_INFO *PcdInfo
   );
-# 2239 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2239 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 void
 
 LibPcdGetInfoEx (
@@ -544,13 +543,13 @@ LibPcdGetInfoEx (
   UINTN TokenNumber,
   PCD_INFO *PcdInfo
   );
-# 2254 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
+# 2254 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/PcdLib.h"
 UINTN
 
 LibPcdGetSku (
   void
   );
-# 18 "/home/william/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
+# 18 "/mnt/c/SerranonOS/UEFI/vUDK2017/Build/DuetPkgX64/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h" 2
 
 extern GUID gEfiCallerIdGuid;
 extern CHAR8 *gEfiCallerBaseName;
@@ -590,13 +589,13 @@ extern const UINT32 _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength;
 
 
 extern const UINT8 _gPcd_FixedAtBuild_PcdDebugPropertyMask;
-# 32 "<command-line>" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/Thunk16.nasm"
+# 1 "<command-line>" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/Thunk16.nasm"
 
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 1
-# 19 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h" 1
-# 94 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 1
+# 19 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h" 1
+# 94 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 typedef struct {
   UINT64 Rbx;
   UINT64 Rsp;
@@ -611,21 +610,21 @@ typedef struct {
   UINT64 MxCsr;
   UINT8 XmmBuffer[160];
 } BASE_LIBRARY_JUMP_BUFFER;
-# 203 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 203 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 StrnLenS (
   const CHAR16 *String,
   UINTN MaxSize
   );
-# 231 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 231 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 StrnSizeS (
   const CHAR16 *String,
   UINTN MaxSize
   );
-# 265 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 265 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrCpyS (
@@ -633,7 +632,7 @@ StrCpyS (
   UINTN DestMax,
   const CHAR16 *Source
   );
-# 303 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 303 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrnCpyS (
@@ -642,7 +641,7 @@ StrnCpyS (
   const CHAR16 *Source,
   UINTN Length
   );
-# 342 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 342 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrCatS (
@@ -650,7 +649,7 @@ StrCatS (
   UINTN DestMax,
   const CHAR16 *Source
   );
-# 383 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 383 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrnCatS (
@@ -659,7 +658,7 @@ StrnCatS (
   const CHAR16 *Source,
   UINTN Length
   );
-# 440 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 440 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrDecimalToUintnS (
@@ -667,7 +666,7 @@ StrDecimalToUintnS (
   CHAR16 **EndPointer,
   UINTN *Data
   );
-# 496 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 496 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrDecimalToUint64S (
@@ -675,7 +674,7 @@ StrDecimalToUint64S (
   CHAR16 **EndPointer,
   UINT64 *Data
   );
-# 557 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 557 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrHexToUintnS (
@@ -683,7 +682,7 @@ StrHexToUintnS (
   CHAR16 **EndPointer,
   UINTN *Data
   );
-# 618 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 618 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrHexToUint64S (
@@ -691,21 +690,21 @@ StrHexToUint64S (
   CHAR16 **EndPointer,
   UINT64 *Data
   );
-# 640 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 640 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsciiStrnLenS (
   const CHAR8 *String,
   UINTN MaxSize
   );
-# 666 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 666 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsciiStrnSizeS (
   const CHAR8 *String,
   UINTN MaxSize
   );
-# 698 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 698 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrCpyS (
@@ -713,7 +712,7 @@ AsciiStrCpyS (
   UINTN DestMax,
   const CHAR8 *Source
   );
-# 734 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 734 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrnCpyS (
@@ -722,7 +721,7 @@ AsciiStrnCpyS (
   const CHAR8 *Source,
   UINTN Length
   );
-# 771 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 771 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrCatS (
@@ -730,7 +729,7 @@ AsciiStrCatS (
   UINTN DestMax,
   const CHAR8 *Source
   );
-# 810 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 810 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrnCatS (
@@ -739,7 +738,7 @@ AsciiStrnCatS (
   const CHAR8 *Source,
   UINTN Length
   );
-# 866 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 866 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrDecimalToUintnS (
@@ -747,7 +746,7 @@ AsciiStrDecimalToUintnS (
   CHAR8 **EndPointer,
   UINTN *Data
   );
-# 921 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 921 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrDecimalToUint64S (
@@ -755,7 +754,7 @@ AsciiStrDecimalToUint64S (
   CHAR8 **EndPointer,
   UINT64 *Data
   );
-# 980 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 980 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrHexToUintnS (
@@ -763,7 +762,7 @@ AsciiStrHexToUintnS (
   CHAR8 **EndPointer,
   UINTN *Data
   );
-# 1039 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1039 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrHexToUint64S (
@@ -771,14 +770,14 @@ AsciiStrHexToUint64S (
   CHAR8 **EndPointer,
   UINT64 *Data
   );
-# 1075 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1075 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16 *
 
 StrCpy (
   CHAR16 *Destination,
   const CHAR16 *Source
   );
-# 1115 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1115 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16 *
 
 StrnCpy (
@@ -786,26 +785,26 @@ StrnCpy (
   const CHAR16 *Source,
   UINTN Length
   );
-# 1141 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1141 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 StrLen (
   const CHAR16 *String
   );
-# 1166 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1166 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 StrSize (
   const CHAR16 *String
   );
-# 1201 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1201 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 StrCmp (
   const CHAR16 *FirstString,
   const CHAR16 *SecondString
   );
-# 1241 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1241 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 StrnCmp (
@@ -813,14 +812,14 @@ StrnCmp (
   const CHAR16 *SecondString,
   UINTN Length
   );
-# 1286 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1286 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16 *
 
 StrCat (
   CHAR16 *Destination,
   const CHAR16 *Source
   );
-# 1334 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1334 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16 *
 
 StrnCat (
@@ -828,38 +827,38 @@ StrnCat (
   const CHAR16 *Source,
   UINTN Length
   );
-# 1368 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1368 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16 *
 
 StrStr (
   const CHAR16 *String,
   const CHAR16 *SearchString
   );
-# 1409 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1409 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 StrDecimalToUintn (
   const CHAR16 *String
   );
-# 1449 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1449 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 StrDecimalToUint64 (
   const CHAR16 *String
   );
-# 1491 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1491 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 StrHexToUintn (
   const CHAR16 *String
   );
-# 1533 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1533 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 StrHexToUint64 (
   const CHAR16 *String
   );
-# 1597 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1597 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrToIpv6Address (
@@ -868,7 +867,7 @@ StrToIpv6Address (
   IPv6_ADDRESS *Address,
   UINT8 *PrefixLength
   );
-# 1655 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1655 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrToIpv4Address (
@@ -877,14 +876,14 @@ StrToIpv4Address (
   IPv4_ADDRESS *Address,
   UINT8 *PrefixLength
   );
-# 1710 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1710 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrToGuid (
   const CHAR16 *String,
   GUID *Guid
   );
-# 1761 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1761 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 StrHexToBytes (
@@ -893,14 +892,14 @@ StrHexToBytes (
   UINT8 *Buffer,
   UINTN MaxBufferSize
   );
-# 1807 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1807 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR8 *
 
 UnicodeStrToAsciiStr (
   const CHAR16 *Source,
   CHAR8 *Destination
   );
-# 1857 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1857 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 UnicodeStrToAsciiStrS (
@@ -908,7 +907,7 @@ UnicodeStrToAsciiStrS (
   CHAR8 *Destination,
   UINTN DestMax
   );
-# 1909 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1909 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 UnicodeStrnToAsciiStrS (
@@ -918,14 +917,14 @@ UnicodeStrnToAsciiStrS (
   UINTN DestMax,
   UINTN *DestinationLength
   );
-# 1944 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1944 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR8 *
 
 AsciiStrCpy (
   CHAR8 *Destination,
   const CHAR8 *Source
   );
-# 1981 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 1981 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR8 *
 
 AsciiStrnCpy (
@@ -933,33 +932,33 @@ AsciiStrnCpy (
   const CHAR8 *Source,
   UINTN Length
   );
-# 2007 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2007 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsciiStrLen (
   const CHAR8 *String
   );
-# 2031 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2031 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsciiStrSize (
   const CHAR8 *String
   );
-# 2064 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2064 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 AsciiStrCmp (
   const CHAR8 *FirstString,
   const CHAR8 *SecondString
   );
-# 2101 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2101 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 AsciiStriCmp (
   const CHAR8 *FirstString,
   const CHAR8 *SecondString
   );
-# 2139 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2139 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 AsciiStrnCmp (
@@ -967,14 +966,14 @@ AsciiStrnCmp (
   const CHAR8 *SecondString,
   UINTN Length
   );
-# 2179 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2179 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR8 *
 
 AsciiStrCat (
   CHAR8 *Destination,
   const CHAR8 *Source
   );
-# 2225 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2225 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR8 *
 
 AsciiStrnCat (
@@ -982,38 +981,38 @@ AsciiStrnCat (
   const CHAR8 *Source,
   UINTN Length
   );
-# 2258 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2258 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR8 *
 
 AsciiStrStr (
   const CHAR8 *String,
   const CHAR8 *SearchString
   );
-# 2296 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2296 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsciiStrDecimalToUintn (
   const CHAR8 *String
   );
-# 2333 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2333 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsciiStrDecimalToUint64 (
   const CHAR8 *String
   );
-# 2374 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2374 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsciiStrHexToUintn (
   const CHAR8 *String
   );
-# 2415 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2415 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsciiStrHexToUint64 (
   const CHAR8 *String
   );
-# 2473 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2473 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrToIpv6Address (
@@ -1022,7 +1021,7 @@ AsciiStrToIpv6Address (
   IPv6_ADDRESS *Address,
   UINT8 *PrefixLength
   );
-# 2525 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2525 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrToIpv4Address (
@@ -1031,14 +1030,14 @@ AsciiStrToIpv4Address (
   IPv4_ADDRESS *Address,
   UINT8 *PrefixLength
   );
-# 2577 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2577 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrToGuid (
   const CHAR8 *String,
   GUID *Guid
   );
-# 2626 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2626 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrHexToBytes (
@@ -1047,14 +1046,14 @@ AsciiStrHexToBytes (
   UINT8 *Buffer,
   UINTN MaxBufferSize
   );
-# 2666 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2666 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16 *
 
 AsciiStrToUnicodeStr (
   const CHAR8 *Source,
   CHAR16 *Destination
   );
-# 2712 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2712 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrToUnicodeStrS (
@@ -1062,7 +1061,7 @@ AsciiStrToUnicodeStrS (
   CHAR16 *Destination,
   UINTN DestMax
   );
-# 2763 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2763 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 RETURN_STATUS
 
 AsciiStrnToUnicodeStrS (
@@ -1072,249 +1071,249 @@ AsciiStrnToUnicodeStrS (
   UINTN DestMax,
   UINTN *DestinationLength
   );
-# 2786 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2786 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 DecimalToBcd8 (
   UINT8 Value
   );
-# 2807 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2807 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 BcdToDecimal8 (
   UINT8 Value
   );
-# 2825 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2825 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 PathRemoveLastItem(
   CHAR16 *Path
   );
-# 2844 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2844 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 CHAR16*
 
 PathCleanUpDirectories(
   CHAR16 *Path
   );
-# 2890 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2890 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 IsNodeInList (
   const LIST_ENTRY *FirstEntry,
   const LIST_ENTRY *SecondEntry
   );
-# 2914 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2914 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 InitializeListHead (
   LIST_ENTRY *ListHead
   );
-# 2943 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2943 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 InsertHeadList (
   LIST_ENTRY *ListHead,
   LIST_ENTRY *Entry
   );
-# 2973 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 2973 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 InsertTailList (
   LIST_ENTRY *ListHead,
   LIST_ENTRY *Entry
   );
-# 3001 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3001 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 GetFirstNode (
   const LIST_ENTRY *List
   );
-# 3029 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3029 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 GetNextNode (
   const LIST_ENTRY *List,
   const LIST_ENTRY *Node
   );
-# 3058 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3058 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 GetPreviousNode (
   const LIST_ENTRY *List,
   const LIST_ENTRY *Node
   );
-# 3085 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3085 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 IsListEmpty (
   const LIST_ENTRY *ListHead
   );
-# 3118 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3118 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 IsNull (
   const LIST_ENTRY *List,
   const LIST_ENTRY *Node
   );
-# 3149 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3149 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 IsNodeAtEnd (
   const LIST_ENTRY *List,
   const LIST_ENTRY *Node
   );
-# 3183 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3183 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 SwapListEntries (
   LIST_ENTRY *FirstEntry,
   LIST_ENTRY *SecondEntry
   );
-# 3212 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3212 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 LIST_ENTRY *
 
 RemoveEntryList (
   const LIST_ENTRY *Entry
   );
-# 3237 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3237 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 LShiftU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 3260 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3260 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 RShiftU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 3283 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3283 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 ARShiftU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 3307 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3307 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 LRotU32 (
   UINT32 Operand,
   UINTN Count
   );
-# 3331 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3331 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 RRotU32 (
   UINT32 Operand,
   UINTN Count
   );
-# 3355 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3355 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 LRotU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 3379 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3379 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 RRotU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 3400 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3400 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 LowBitSet32 (
   UINT32 Operand
   );
-# 3421 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3421 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 LowBitSet64 (
   UINT64 Operand
   );
-# 3442 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3442 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 HighBitSet32 (
   UINT32 Operand
   );
-# 3463 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3463 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INTN
 
 HighBitSet64 (
   UINT64 Operand
   );
-# 3483 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3483 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 GetPowerOfTwo32 (
   UINT32 Operand
   );
-# 3503 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3503 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 GetPowerOfTwo64 (
   UINT64 Operand
   );
-# 3522 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3522 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 SwapBytes16 (
   UINT16 Value
   );
-# 3541 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3541 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 SwapBytes32 (
   UINT32 Value
   );
-# 3560 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3560 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 SwapBytes64 (
   UINT64 Value
   );
-# 3581 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3581 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 MultU64x32 (
   UINT64 Multiplicand,
   UINT32 Multiplier
   );
-# 3603 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3603 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 MultU64x64 (
   UINT64 Multiplicand,
   UINT64 Multiplier
   );
-# 3625 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3625 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INT64
 
 MultS64x64 (
   INT64 Multiplicand,
   INT64 Multiplier
   );
-# 3649 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3649 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 DivU64x32 (
   UINT64 Dividend,
   UINT32 Divisor
   );
-# 3673 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3673 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 ModU64x32 (
   UINT64 Dividend,
   UINT32 Divisor
   );
-# 3700 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3700 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 DivU64x32Remainder (
@@ -1322,7 +1321,7 @@ DivU64x32Remainder (
   UINT32 Divisor,
   UINT32 *Remainder
   );
-# 3728 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3728 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 DivU64x64Remainder (
@@ -1330,7 +1329,7 @@ DivU64x64Remainder (
   UINT64 Divisor,
   UINT64 *Remainder
   );
-# 3760 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3760 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 INT64
 
 DivS64x64Remainder (
@@ -1338,59 +1337,59 @@ DivS64x64Remainder (
   INT64 Divisor,
   INT64 *Remainder
   );
-# 3782 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3782 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 ReadUnaligned16 (
   const UINT16 *Buffer
   );
-# 3804 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3804 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 WriteUnaligned16 (
   UINT16 *Buffer,
   UINT16 Value
   );
-# 3825 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3825 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 ReadUnaligned24 (
   const UINT32 *Buffer
   );
-# 3847 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3847 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 WriteUnaligned24 (
   UINT32 *Buffer,
   UINT32 Value
   );
-# 3868 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3868 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 ReadUnaligned32 (
   const UINT32 *Buffer
   );
-# 3890 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3890 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 WriteUnaligned32 (
   UINT32 *Buffer,
   UINT32 Value
   );
-# 3911 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3911 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 ReadUnaligned64 (
   const UINT64 *Buffer
   );
-# 3933 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3933 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 WriteUnaligned64 (
   UINT64 *Buffer,
   UINT64 Value
   );
-# 3964 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3964 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 BitFieldRead8 (
@@ -1398,7 +1397,7 @@ BitFieldRead8 (
   UINTN StartBit,
   UINTN EndBit
   );
-# 3996 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 3996 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 BitFieldWrite8 (
@@ -1407,7 +1406,7 @@ BitFieldWrite8 (
   UINTN EndBit,
   UINT8 Value
   );
-# 4030 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4030 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 BitFieldOr8 (
@@ -1416,7 +1415,7 @@ BitFieldOr8 (
   UINTN EndBit,
   UINT8 OrData
   );
-# 4064 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4064 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 BitFieldAnd8 (
@@ -1425,7 +1424,7 @@ BitFieldAnd8 (
   UINTN EndBit,
   UINT8 AndData
   );
-# 4101 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4101 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 BitFieldAndThenOr8 (
@@ -1435,7 +1434,7 @@ BitFieldAndThenOr8 (
   UINT8 AndData,
   UINT8 OrData
   );
-# 4131 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4131 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 BitFieldRead16 (
@@ -1443,7 +1442,7 @@ BitFieldRead16 (
   UINTN StartBit,
   UINTN EndBit
   );
-# 4163 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4163 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 BitFieldWrite16 (
@@ -1452,7 +1451,7 @@ BitFieldWrite16 (
   UINTN EndBit,
   UINT16 Value
   );
-# 4197 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4197 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 BitFieldOr16 (
@@ -1461,7 +1460,7 @@ BitFieldOr16 (
   UINTN EndBit,
   UINT16 OrData
   );
-# 4231 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4231 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 BitFieldAnd16 (
@@ -1470,7 +1469,7 @@ BitFieldAnd16 (
   UINTN EndBit,
   UINT16 AndData
   );
-# 4268 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4268 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 BitFieldAndThenOr16 (
@@ -1480,7 +1479,7 @@ BitFieldAndThenOr16 (
   UINT16 AndData,
   UINT16 OrData
   );
-# 4298 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4298 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 BitFieldRead32 (
@@ -1488,7 +1487,7 @@ BitFieldRead32 (
   UINTN StartBit,
   UINTN EndBit
   );
-# 4330 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4330 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 BitFieldWrite32 (
@@ -1497,7 +1496,7 @@ BitFieldWrite32 (
   UINTN EndBit,
   UINT32 Value
   );
-# 4364 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4364 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 BitFieldOr32 (
@@ -1506,7 +1505,7 @@ BitFieldOr32 (
   UINTN EndBit,
   UINT32 OrData
   );
-# 4398 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4398 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 BitFieldAnd32 (
@@ -1515,7 +1514,7 @@ BitFieldAnd32 (
   UINTN EndBit,
   UINT32 AndData
   );
-# 4435 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4435 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 BitFieldAndThenOr32 (
@@ -1525,7 +1524,7 @@ BitFieldAndThenOr32 (
   UINT32 AndData,
   UINT32 OrData
   );
-# 4465 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4465 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 BitFieldRead64 (
@@ -1533,7 +1532,7 @@ BitFieldRead64 (
   UINTN StartBit,
   UINTN EndBit
   );
-# 4497 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4497 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 BitFieldWrite64 (
@@ -1542,7 +1541,7 @@ BitFieldWrite64 (
   UINTN EndBit,
   UINT64 Value
   );
-# 4531 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4531 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 BitFieldOr64 (
@@ -1551,7 +1550,7 @@ BitFieldOr64 (
   UINTN EndBit,
   UINT64 OrData
   );
-# 4565 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4565 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 BitFieldAnd64 (
@@ -1560,7 +1559,7 @@ BitFieldAnd64 (
   UINTN EndBit,
   UINT64 AndData
   );
-# 4602 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4602 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 BitFieldAndThenOr64 (
@@ -1570,89 +1569,89 @@ BitFieldAndThenOr64 (
   UINT64 AndData,
   UINT64 OrData
   );
-# 4634 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4634 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 CalculateSum8 (
   const UINT8 *Buffer,
   UINTN Length
   );
-# 4660 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4660 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT8
 
 CalculateCheckSum8 (
   const UINT8 *Buffer,
   UINTN Length
   );
-# 4687 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4687 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 CalculateSum16 (
   const UINT16 *Buffer,
   UINTN Length
   );
-# 4715 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4715 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 CalculateCheckSum16 (
   const UINT16 *Buffer,
   UINTN Length
   );
-# 4742 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4742 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 CalculateSum32 (
   const UINT32 *Buffer,
   UINTN Length
   );
-# 4770 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4770 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 CalculateCheckSum32 (
   const UINT32 *Buffer,
   UINTN Length
   );
-# 4797 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4797 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 CalculateSum64 (
   const UINT64 *Buffer,
   UINTN Length
   );
-# 4825 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4825 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 CalculateCheckSum64 (
   const UINT64 *Buffer,
   UINTN Length
   );
-# 4845 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4845 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 CalculateCrc32(
   void *Buffer,
   UINTN Length
   );
-# 4863 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4863 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 typedef
 void
 ( *SWITCH_STACK_ENTRY_POINT)(
   void *Context1,
   void *Context2
   );
-# 4878 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4878 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 MemoryFence (
   void
   );
-# 4906 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4906 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 SetJump (
   BASE_LIBRARY_JUMP_BUFFER *JumpBuffer
   );
-# 4929 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4929 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 LongJump (
@@ -1681,7 +1680,7 @@ void
 DisableInterrupts (
   void
   );
-# 4967 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4967 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 SaveAndDisableInterrupts (
@@ -1699,25 +1698,25 @@ void
 EnableDisableInterrupts (
   void
   );
-# 4996 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 4996 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 GetInterruptState (
   void
   );
-# 5017 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 5017 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 SetInterruptState (
   BOOLEAN InterruptState
   );
-# 5031 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 5031 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 CpuPause (
   void
   );
-# 5067 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 5067 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 SwitchStack (
@@ -1727,19 +1726,19 @@ SwitchStack (
   void *NewStack,
   ...
   );
-# 5085 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 5085 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 CpuBreakpoint (
   void
   );
-# 5101 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 5101 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 CpuDeadLoop (
   void
   );
-# 6504 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 6504 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 typedef union {
   struct {
     UINT32 CF:1;
@@ -1878,7 +1877,7 @@ typedef struct {
   UINT16 Limit;
   UINTN Base;
 } IA32_DESCRIPTOR;
-# 6738 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 6738 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 typedef union {
   struct {
     UINT32 OffsetLow:16;
@@ -2019,7 +2018,7 @@ typedef struct {
   UINT32 RealModeBufferSize;
   UINT32 ThunkAttributes;
 } THUNK_CONTEXT;
-# 6908 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 6908 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmCpuid (
@@ -2029,7 +2028,7 @@ AsmCpuid (
   UINT32 *Ecx,
   UINT32 *Edx
   );
-# 6951 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 6951 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmCpuidEx (
@@ -2040,46 +2039,46 @@ AsmCpuidEx (
   UINT32 *Ecx,
   UINT32 *Edx
   );
-# 6970 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 6970 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmDisableCache (
   void
   );
-# 6984 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 6984 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmEnableCache (
   void
   );
-# 7005 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7005 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmReadMsr32 (
   UINT32 Index
   );
-# 7029 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7029 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmWriteMsr32 (
   UINT32 Index,
   UINT32 Value
   );
-# 7056 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7056 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrOr32 (
   UINT32 Index,
   UINT32 OrData
   );
-# 7083 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7083 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrAnd32 (
   UINT32 Index,
   UINT32 AndData
   );
-# 7113 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7113 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrAndThenOr32 (
@@ -2087,7 +2086,7 @@ AsmMsrAndThenOr32 (
   UINT32 AndData,
   UINT32 OrData
   );
-# 7144 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7144 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrBitFieldRead32 (
@@ -2095,7 +2094,7 @@ AsmMsrBitFieldRead32 (
   UINTN StartBit,
   UINTN EndBit
   );
-# 7178 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7178 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrBitFieldWrite32 (
@@ -2104,7 +2103,7 @@ AsmMsrBitFieldWrite32 (
   UINTN EndBit,
   UINT32 Value
   );
-# 7215 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7215 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrBitFieldOr32 (
@@ -2113,7 +2112,7 @@ AsmMsrBitFieldOr32 (
   UINTN EndBit,
   UINT32 OrData
   );
-# 7252 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7252 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrBitFieldAnd32 (
@@ -2122,7 +2121,7 @@ AsmMsrBitFieldAnd32 (
   UINTN EndBit,
   UINT32 AndData
   );
-# 7293 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7293 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT32
 
 AsmMsrBitFieldAndThenOr32 (
@@ -2132,34 +2131,34 @@ AsmMsrBitFieldAndThenOr32 (
   UINT32 AndData,
   UINT32 OrData
   );
-# 7318 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7318 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMsr64 (
   UINT32 Index
   );
-# 7342 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7342 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmWriteMsr64 (
   UINT32 Index,
   UINT64 Value
   );
-# 7368 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7368 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrOr64 (
   UINT32 Index,
   UINT64 OrData
   );
-# 7394 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7394 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrAnd64 (
   UINT32 Index,
   UINT64 AndData
   );
-# 7423 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7423 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrAndThenOr64 (
@@ -2167,7 +2166,7 @@ AsmMsrAndThenOr64 (
   UINT64 AndData,
   UINT64 OrData
   );
-# 7454 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7454 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrBitFieldRead64 (
@@ -2175,7 +2174,7 @@ AsmMsrBitFieldRead64 (
   UINTN StartBit,
   UINTN EndBit
   );
-# 7487 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7487 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrBitFieldWrite64 (
@@ -2184,7 +2183,7 @@ AsmMsrBitFieldWrite64 (
   UINTN EndBit,
   UINT64 Value
   );
-# 7524 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7524 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrBitFieldOr64 (
@@ -2193,7 +2192,7 @@ AsmMsrBitFieldOr64 (
   UINTN EndBit,
   UINT64 OrData
   );
-# 7561 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7561 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrBitFieldAnd64 (
@@ -2202,7 +2201,7 @@ AsmMsrBitFieldAnd64 (
   UINTN EndBit,
   UINT64 AndData
   );
-# 7601 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7601 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmMsrBitFieldAndThenOr64 (
@@ -2212,355 +2211,355 @@ AsmMsrBitFieldAndThenOr64 (
   UINT64 AndData,
   UINT64 OrData
   );
-# 7622 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7622 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadEflags (
   void
   );
-# 7639 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7639 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadCr0 (
   void
   );
-# 7656 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7656 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadCr2 (
   void
   );
-# 7673 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7673 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadCr3 (
   void
   );
-# 7690 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7690 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadCr4 (
   void
   );
-# 7708 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7708 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteCr0 (
   UINTN Cr0
   );
-# 7726 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7726 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteCr2 (
   UINTN Cr2
   );
-# 7744 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7744 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteCr3 (
   UINTN Cr3
   );
-# 7762 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7762 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteCr4 (
   UINTN Cr4
   );
-# 7779 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7779 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr0 (
   void
   );
-# 7796 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7796 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr1 (
   void
   );
-# 7813 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7813 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr2 (
   void
   );
-# 7830 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7830 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr3 (
   void
   );
-# 7847 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7847 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr4 (
   void
   );
-# 7864 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7864 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr5 (
   void
   );
-# 7881 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7881 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr6 (
   void
   );
-# 7898 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7898 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmReadDr7 (
   void
   );
-# 7916 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7916 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr0 (
   UINTN Dr0
   );
-# 7934 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7934 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr1 (
   UINTN Dr1
   );
-# 7952 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7952 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr2 (
   UINTN Dr2
   );
-# 7970 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7970 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr3 (
   UINTN Dr3
   );
-# 7988 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 7988 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr4 (
   UINTN Dr4
   );
-# 8006 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8006 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr5 (
   UINTN Dr5
   );
-# 8024 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8024 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr6 (
   UINTN Dr6
   );
-# 8042 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8042 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmWriteDr7 (
   UINTN Dr7
   );
-# 8058 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8058 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadCs (
   void
   );
-# 8074 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8074 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadDs (
   void
   );
-# 8090 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8090 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadEs (
   void
   );
-# 8106 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8106 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadFs (
   void
   );
-# 8122 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8122 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadGs (
   void
   );
-# 8138 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8138 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadSs (
   void
   );
-# 8154 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8154 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadTr (
   void
   );
-# 8172 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8172 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmReadGdtr (
   IA32_DESCRIPTOR *Gdtr
   );
-# 8190 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8190 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteGdtr (
   const IA32_DESCRIPTOR *Gdtr
   );
-# 8208 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8208 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmReadIdtr (
   IA32_DESCRIPTOR *Idtr
   );
-# 8226 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8226 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteIdtr (
   const IA32_DESCRIPTOR *Idtr
   );
-# 8242 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8242 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT16
 
 AsmReadLdtr (
   void
   );
-# 8258 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8258 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteLdtr (
   UINT16 Ldtr
   );
-# 8278 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8278 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmFxSave (
   IA32_FX_BUFFER *Buffer
   );
-# 8299 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8299 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmFxRestore (
   const IA32_FX_BUFFER *Buffer
   );
-# 8315 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8315 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm0 (
   void
   );
-# 8331 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8331 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm1 (
   void
   );
-# 8347 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8347 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm2 (
   void
   );
-# 8363 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8363 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm3 (
   void
   );
-# 8379 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8379 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm4 (
   void
   );
-# 8395 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8395 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm5 (
   void
   );
-# 8411 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8411 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm6 (
   void
   );
-# 8427 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8427 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadMm7 (
   void
   );
-# 8443 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8443 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm0 (
   UINT64 Value
   );
-# 8459 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8459 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm1 (
   UINT64 Value
   );
-# 8475 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8475 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm2 (
   UINT64 Value
   );
-# 8491 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8491 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm3 (
   UINT64 Value
   );
-# 8507 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8507 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm4 (
   UINT64 Value
   );
-# 8523 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8523 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm5 (
   UINT64 Value
   );
-# 8539 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8539 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm6 (
   UINT64 Value
   );
-# 8555 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8555 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWriteMm7 (
   UINT64 Value
   );
-# 8571 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8571 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadTsc (
   void
   );
-# 8589 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8589 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINT64
 
 AsmReadPmc (
   UINT32 Index
   );
-# 8612 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8612 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmMonitor (
@@ -2568,32 +2567,32 @@ AsmMonitor (
   UINTN Ecx,
   UINTN Edx
   );
-# 8635 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8635 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 UINTN
 
 AsmMwait (
   UINTN Eax,
   UINTN Ecx
   );
-# 8650 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8650 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmWbinvd (
   void
   );
-# 8664 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8664 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmInvd (
   void
   );
-# 8686 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8686 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void *
 
 AsmFlushCacheLine (
   void *LinearAddress
   );
-# 8730 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8730 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmEnablePaging32 (
@@ -2602,7 +2601,7 @@ AsmEnablePaging32 (
   void *Context2,
   void *NewStack
   );
-# 8774 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8774 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmDisablePaging32 (
@@ -2611,7 +2610,7 @@ AsmDisablePaging32 (
   void *Context2,
   void *NewStack
   );
-# 8816 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8816 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmEnablePaging64 (
@@ -2621,7 +2620,7 @@ AsmEnablePaging64 (
   UINT64 Context2,
   UINT64 NewStack
   );
-# 8857 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8857 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmDisablePaging64 (
@@ -2631,44 +2630,44 @@ AsmDisablePaging64 (
   UINT32 Context2,
   UINT32 NewStack
   );
-# 8893 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8893 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmGetThunk16Properties (
   UINT32 *RealModeBufferSize,
   UINT32 *ExtraStackSize
   );
-# 8915 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8915 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmPrepareThunk16 (
   THUNK_CONTEXT *ThunkContext
   );
-# 8975 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 8975 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmThunk16 (
   THUNK_CONTEXT *ThunkContext
   );
-# 9002 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 9002 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 void
 
 AsmPrepareAndThunk16 (
   THUNK_CONTEXT *ThunkContext
   );
-# 9019 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 9019 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 AsmRdRand16 (
   UINT16 *Rand
   );
-# 9036 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 9036 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 AsmRdRand32 (
   UINT32 *Rand
   );
-# 9053 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
+# 9053 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseLib.h"
 BOOLEAN
 
 AsmRdRand64 (
@@ -2685,9 +2684,9 @@ void
 AsmWriteTr (
   UINT16 Selector
   );
-# 20 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h" 1
-# 39 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 20 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h" 1
+# 39 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 CopyMem (
@@ -2695,7 +2694,7 @@ CopyMem (
   const void *SourceBuffer,
   UINTN Length
   );
-# 61 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 61 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 SetMem (
@@ -2703,7 +2702,7 @@ SetMem (
   UINTN Length,
   UINT8 Value
   );
-# 88 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 88 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 SetMem16 (
@@ -2711,7 +2710,7 @@ SetMem16 (
   UINTN Length,
   UINT16 Value
   );
-# 115 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 115 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 SetMem32 (
@@ -2719,7 +2718,7 @@ SetMem32 (
   UINTN Length,
   UINT32 Value
   );
-# 142 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 142 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 SetMem64 (
@@ -2727,7 +2726,7 @@ SetMem64 (
   UINTN Length,
   UINT64 Value
   );
-# 169 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 169 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 SetMemN (
@@ -2735,14 +2734,14 @@ SetMemN (
   UINTN Length,
   UINTN Value
   );
-# 191 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 191 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ZeroMem (
   void *Buffer,
   UINTN Length
   );
-# 220 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 220 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 INTN
 
 CompareMem (
@@ -2750,7 +2749,7 @@ CompareMem (
   const void *SourceBuffer,
   UINTN Length
   );
-# 247 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 247 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ScanMem8 (
@@ -2758,7 +2757,7 @@ ScanMem8 (
   UINTN Length,
   UINT8 Value
   );
-# 276 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 276 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ScanMem16 (
@@ -2766,7 +2765,7 @@ ScanMem16 (
   UINTN Length,
   UINT16 Value
   );
-# 305 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 305 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ScanMem32 (
@@ -2774,7 +2773,7 @@ ScanMem32 (
   UINTN Length,
   UINT32 Value
   );
-# 334 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 334 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ScanMem64 (
@@ -2782,7 +2781,7 @@ ScanMem64 (
   UINTN Length,
   UINT64 Value
   );
-# 363 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 363 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ScanMemN (
@@ -2790,21 +2789,21 @@ ScanMemN (
   UINTN Length,
   UINTN Value
   );
-# 386 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 386 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 GUID *
 
 CopyGuid (
   GUID *DestinationGuid,
   const GUID *SourceGuid
   );
-# 409 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 409 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 BOOLEAN
 
 CompareGuid (
   const GUID *Guid1,
   const GUID *Guid2
   );
-# 438 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 438 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 void *
 
 ScanGuid (
@@ -2812,22 +2811,22 @@ ScanGuid (
   UINTN Length,
   const GUID *Guid
   );
-# 460 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 460 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 BOOLEAN
 
 IsZeroGuid (
   const GUID *Guid
   );
-# 482 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
+# 482 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/BaseMemoryLib.h"
 BOOLEAN
 
 IsZeroBuffer (
   const void *Buffer,
   UINTN Length
   );
-# 21 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 2
-# 1 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h" 1
-# 95 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 21 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 2
+# 1 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h" 1
+# 95 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 void
 
 DebugPrint (
@@ -2835,7 +2834,7 @@ DebugPrint (
   const CHAR8 *Format,
   ...
   );
-# 125 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 125 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 void
 
 DebugAssert (
@@ -2843,114 +2842,114 @@ DebugAssert (
   UINTN LineNumber,
   const CHAR8 *Description
   );
-# 149 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 149 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 void *
 
 DebugClearMemory (
   void *Buffer,
   UINTN Length
   );
-# 167 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 167 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 BOOLEAN
 
 DebugAssertEnabled (
   void
   );
-# 184 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 184 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 BOOLEAN
 
 DebugPrintEnabled (
   void
   );
-# 201 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 201 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 BOOLEAN
 
 DebugCodeEnabled (
   void
   );
-# 218 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 218 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 BOOLEAN
 
 DebugClearMemoryEnabled (
   void
   );
-# 233 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
+# 233 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Include/Library/DebugLib.h"
 BOOLEAN
 
 DebugPrintLevelEnabled (
   const UINTN ErrorLevel
   );
-# 22 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 2
-# 41 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 22 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h" 2
+# 41 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathLShiftU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 61 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 61 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathRShiftU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 81 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 81 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathARShiftU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 102 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 102 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathLRotU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 123 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 123 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathRRotU64 (
   UINT64 Operand,
   UINTN Count
   );
-# 142 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 142 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathSwapBytes64 (
   UINT64 Operand
   );
-# 162 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 162 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathMultU64x32 (
   UINT64 Multiplicand,
   UINT32 Multiplier
   );
-# 183 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 183 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathMultU64x64 (
   UINT64 Multiplicand,
   UINT64 Multiplier
   );
-# 204 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 204 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathDivU64x32 (
   UINT64 Dividend,
   UINT32 Divisor
   );
-# 225 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 225 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT32
 
 InternalMathModU64x32 (
   UINT64 Dividend,
   UINT32 Divisor
   );
-# 249 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 249 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathDivRemU64x32 (
@@ -2958,7 +2957,7 @@ InternalMathDivRemU64x32 (
   UINT32 Divisor,
   UINT32 *Remainder
   );
-# 274 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 274 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINT64
 
 InternalMathDivRemU64x64 (
@@ -2966,7 +2965,7 @@ InternalMathDivRemU64x64 (
   UINT64 Divisor,
   UINT64 *Remainder
   );
-# 299 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 299 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 INT64
 
 InternalMathDivRemS64x64 (
@@ -2974,7 +2973,7 @@ InternalMathDivRemS64x64 (
   INT64 Divisor,
   INT64 *Remainder
   );
-# 331 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 331 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalSwitchStack (
@@ -2984,7 +2983,7 @@ InternalSwitchStack (
   void *NewStack,
   VA_LIST Marker
   );
-# 354 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 354 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINTN
 
 BitFieldReadUint (
@@ -2992,7 +2991,7 @@ BitFieldReadUint (
   UINTN StartBit,
   UINTN EndBit
   );
-# 379 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 379 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINTN
 
 BitFieldOrUint (
@@ -3001,7 +3000,7 @@ BitFieldOrUint (
   UINTN EndBit,
   UINTN OrData
   );
-# 405 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 405 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINTN
 
 BitFieldAndUint (
@@ -3010,104 +3009,104 @@ BitFieldAndUint (
   UINTN EndBit,
   UINTN AndData
   );
-# 426 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 426 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalAssertJumpBuffer (
   BASE_LIBRARY_JUMP_BUFFER *JumpBuffer
   );
-# 444 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 444 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalLongJump (
   BASE_LIBRARY_JUMP_BUFFER *JumpBuffer,
   UINTN Value
   );
-# 465 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 465 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalIsDecimalDigitCharacter (
   CHAR16 Char
   );
-# 487 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 487 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 CHAR16
 
 InternalCharToUpper (
   CHAR16 Char
   );
-# 507 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 507 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINTN
 
 InternalHexCharToUintn (
   CHAR16 Char
   );
-# 528 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 528 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalIsHexaDecimalDigitCharacter (
   CHAR16 Char
   );
-# 548 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 548 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalAsciiIsDecimalDigitCharacter (
   CHAR8 Char
   );
-# 568 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 568 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 CHAR8
 
 InternalBaseLibAsciiToUpper (
   CHAR8 Chr
   );
-# 589 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 589 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalAsciiIsHexaDecimalDigitCharacter (
   CHAR8 Char
   );
-# 609 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 609 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 UINTN
 
 InternalAsciiHexCharToUintn (
   CHAR8 Char
   );
-# 630 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 630 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86ReadGdtr (
   IA32_DESCRIPTOR *Gdtr
   );
-# 645 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 645 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86WriteGdtr (
   const IA32_DESCRIPTOR *Gdtr
   );
-# 660 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 660 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86ReadIdtr (
   IA32_DESCRIPTOR *Idtr
   );
-# 675 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 675 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86WriteIdtr (
   const IA32_DESCRIPTOR *Idtr
   );
-# 691 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 691 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86FxSave (
   IA32_FX_BUFFER *Buffer
   );
-# 707 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 707 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86FxRestore (
   const IA32_FX_BUFFER *Buffer
   );
-# 746 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 746 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86EnablePaging32 (
@@ -3116,7 +3115,7 @@ InternalX86EnablePaging32 (
   void *Context2,
   void *NewStack
   );
-# 785 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 785 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86DisablePaging32 (
@@ -3125,7 +3124,7 @@ InternalX86DisablePaging32 (
   void *Context2,
   void *NewStack
   );
-# 821 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 821 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86EnablePaging64 (
@@ -3135,7 +3134,7 @@ InternalX86EnablePaging64 (
   UINT64 Context2,
   UINT64 NewStack
   );
-# 857 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 857 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 void
 
 InternalX86DisablePaging64 (
@@ -3145,25 +3144,25 @@ InternalX86DisablePaging64 (
   UINT32 Context2,
   UINT32 NewStack
   );
-# 876 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 876 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalX86RdRand16 (
   UINT16 *Rand
   );
-# 891 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 891 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalX86RdRand32 (
   UINT32 *Rand
   );
-# 907 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
+# 907 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/BaseLibInternals.h"
 BOOLEAN
 
 InternalX86RdRand64 (
   UINT64 *Rand
   );
-# 3 "/home/william/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/Thunk16.nasm" 2
+# 3 "/mnt/c/SerranonOS/UEFI/vUDK2017/MdePkg/Library/BaseLib/X64/Thunk16.nasm" 2
 
 ;------------------------------------------------------------------------------
 ;
