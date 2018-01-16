@@ -30,7 +30,6 @@
 
 [Binaries.X64]
   PE32|Legacy8259.efi
-  DXE_DEPEX|Legacy8259.depex
 
 [PatchPcd.X64]
 

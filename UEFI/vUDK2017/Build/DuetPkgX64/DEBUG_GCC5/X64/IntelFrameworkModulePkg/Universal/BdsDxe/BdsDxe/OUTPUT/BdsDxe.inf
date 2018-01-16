@@ -46,7 +46,6 @@
 
 [Binaries.X64]
   PE32|BdsDxe.efi
-  DXE_DEPEX|BdsDxe.depex
   BIN|BdsDxeOffset.bin
 
 [PatchPcd.X64]

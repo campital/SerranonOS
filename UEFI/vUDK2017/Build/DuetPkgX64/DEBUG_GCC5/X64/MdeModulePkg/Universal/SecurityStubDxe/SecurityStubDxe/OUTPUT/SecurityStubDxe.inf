@@ -30,7 +30,6 @@
 
 [Binaries.X64]
   PE32|SecurityStubDxe.efi
-  DXE_DEPEX|SecurityStubDxe.depex
 
 [PatchPcd.X64]
 

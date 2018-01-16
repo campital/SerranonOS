@@ -43,7 +43,6 @@
 
 [Binaries.X64]
   PE32|FSVariable.efi
-  DXE_DEPEX|FSVariable.depex
 
 [PatchPcd.X64]
 

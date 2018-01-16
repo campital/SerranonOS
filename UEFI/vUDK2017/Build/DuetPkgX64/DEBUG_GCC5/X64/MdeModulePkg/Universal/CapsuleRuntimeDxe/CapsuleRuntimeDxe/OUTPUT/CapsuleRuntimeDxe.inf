@@ -33,7 +33,6 @@
 
 [Binaries.X64]
   PE32|CapsuleRuntimeDxe.efi
-  DXE_DEPEX|CapsuleRuntimeDxe.depex
 
 [PatchPcd.X64]
 

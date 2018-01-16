@@ -30,7 +30,6 @@
 
 [Binaries.X64]
   PE32|AcpiReset.efi
-  DXE_DEPEX|AcpiReset.depex
 
 [PatchPcd.X64]
 

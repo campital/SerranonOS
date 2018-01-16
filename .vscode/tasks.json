@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build SerranonOS",
+            "type": "shell",
+            "command": "bash -c 'cd /mnt/c/SerranonOS && ./makeimg.sh'",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Build SerranonOS - no UEFI",
+            "type": "shell",
+            "command": "bash -c 'cd /mnt/c/SerranonOS && ./makeimg.sh -nofi'",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Emulate with QEMU",
+            "type": "shell",
+            "command": "bash -c 'cd /mnt/c/SerranonOS && ./emulate.sh'"
+        }
+    ]
+}

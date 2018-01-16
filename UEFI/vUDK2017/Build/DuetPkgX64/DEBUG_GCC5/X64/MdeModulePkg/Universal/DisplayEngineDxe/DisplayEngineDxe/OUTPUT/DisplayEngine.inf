@@ -33,7 +33,6 @@
 
 [Binaries.X64]
   PE32|DisplayEngine.efi
-  DXE_DEPEX|DisplayEngine.depex
   BIN|DisplayEngineOffset.bin
 
 [PatchPcd.X64]

@@ -34,7 +34,6 @@
 
 [Binaries.X64]
   PE32|DevicePathDxe.efi
-  DXE_DEPEX|DevicePathDxe.depex
 
 [PatchPcd.X64]
 

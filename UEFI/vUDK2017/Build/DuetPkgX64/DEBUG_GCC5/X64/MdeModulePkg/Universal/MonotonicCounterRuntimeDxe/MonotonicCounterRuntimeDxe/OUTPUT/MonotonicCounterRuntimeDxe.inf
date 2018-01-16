@@ -31,7 +31,6 @@
 
 [Binaries.X64]
   PE32|MonotonicCounterRuntimeDxe.efi
-  DXE_DEPEX|MonotonicCounterRuntimeDxe.depex
 
 [PatchPcd.X64]
 

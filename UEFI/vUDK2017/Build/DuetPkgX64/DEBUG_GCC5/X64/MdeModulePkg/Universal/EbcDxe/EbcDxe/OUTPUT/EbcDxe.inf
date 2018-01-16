@@ -35,7 +35,6 @@
 
 [Binaries.X64]
   PE32|EbcDxe.efi
-  DXE_DEPEX|EbcDxe.depex
 
 [PatchPcd.X64]
 

@@ -31,7 +31,6 @@
 
 [Binaries.X64]
   PE32|CpuIo2Dxe.efi
-  DXE_DEPEX|CpuIo2Dxe.depex
 
 [PatchPcd.X64]
 

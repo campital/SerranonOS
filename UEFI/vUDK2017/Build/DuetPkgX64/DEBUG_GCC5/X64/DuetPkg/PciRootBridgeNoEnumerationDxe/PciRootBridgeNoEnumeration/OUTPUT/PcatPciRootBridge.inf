@@ -32,7 +32,6 @@
 
 [Binaries.X64]
   PE32|PcatPciRootBridge.efi
-  DXE_DEPEX|PcatPciRootBridge.depex
 
 [PatchPcd.X64]
 

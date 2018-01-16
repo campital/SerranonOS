@@ -34,7 +34,6 @@
 
 [Binaries.X64]
   PE32|SetupBrowser.efi
-  DXE_DEPEX|SetupBrowser.depex
 
 [PatchPcd.X64]
 
