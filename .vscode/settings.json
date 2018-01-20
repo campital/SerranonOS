@@ -1,7 +1,8 @@
 {
     "C_Cpp.intelliSenseEngineFallback": "Enabled",
     "files.associations": {
-        "simplefilesystem.h": "c"
+        "simplefilesystem.h": "c",
+        "llkernel.h": "c"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

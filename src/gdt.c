@@ -1,10 +1,6 @@
 #include "llkernel.h"
+#include "gdt.h"
 
-typedef struct __attribute__((packed)){
-    unsigned short rpl : 2;
-    unsigned short alwaysZero : 1;
-    unsigned short selector : 13;
-} SEGMENT_SELECTOR;
 GDT_ENTRY populateGDTEntry(unsigned int base, unsigned int limit, char isUser, char isCodeSegment);
 
 /*

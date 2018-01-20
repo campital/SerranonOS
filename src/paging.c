@@ -1,4 +1,5 @@
 #include "llkernel.h"
+#include "paging.h"
 
 // base must have at LEAST numberOfPagesToInitialize * 64 + (~)0x400000 memory above it
 void initIdentity(unsigned long numberOfPagesToInitialize, PAGE_ENTRY* base) // uses 2 mebibyte pages
@@ -50,6 +51,18 @@ void mapPage(unsigned long virtualPage, unsigned long physicalMapping, unsigned 
     PAGE_ENTRY_2MB* addressOfEntry = (PAGE_ENTRY_2MB*)(base+4096+512*4096+virtualPage*8);
     *addressOfEntry = pageEntry;
 }
+
+void* getPhysicalAddress(unsigned long virt_address, unsigned long* base)
+{
+    unsigned long base_cast = (unsigned long) base;
+    unsigned long virt_page = virt_address/0x200000; // page aligned
+    unsigned long virt_extra = virt_address%0x200000;
+    PAGE_ENTRY_2MB *entry = (PAGE_ENTRY_2MB*)(base_cast+4096+512*4096+virt_page*8);
+    unsigned long return_value = entry->addr;
+    return_value *= 0x200000;
+    return (void*)(return_value+virt_extra);
+}
+
 
 // paging must be disabled before
 void reloadPaging(unsigned long base)
