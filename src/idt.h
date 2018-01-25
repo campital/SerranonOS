@@ -13,3 +13,4 @@ typedef struct {
 } IDT_ENTRY;
 void setupISRs(IDT_ENTRY* baseAddress, SEGMENT_SELECTOR kernelCode);
 void setInterruptGate(IDT_ENTRY* baseAddress, unsigned long procedureAddress, SEGMENT_SELECTOR codeSelector, int irq);
+void reloadIDT(unsigned long baseAddress);

@@ -129,12 +129,12 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     }
     
     // read kernel file
-    unsigned char* kernelDataBuffer = (unsigned char*) 1; // may not be null
-    error = SystemTable->BootServices->AllocatePages(AllocateAnyPages, EfiLoaderData, MAX_KERNEL_FILE_SIZE / 0x1000, (EFI_PHYSICAL_ADDRESS*) kernelDataBuffer);
+    EFI_PHYSICAL_ADDRESS kernelDataBuffer = 0; // may not be null
+    error = SystemTable->BootServices->AllocatePages(AllocateAnyPages, EfiLoaderData, MAX_KERNEL_FILE_SIZE / 0x1000, &kernelDataBuffer);
     if(error == EFI_OUT_OF_RESOURCES || error == EFI_NOT_FOUND)
         SystemTable->ConOut->OutputString(SystemTable->ConOut, L"Not enough memory for kernel.\r\n");
     checkError(error, L"FATAL: Unable to allocate memory for the kernel.\r\n");
-    error = kernelFile->Read(kernelFile, &kernelFileSize, kernelDataBuffer); // will return actual size in kernelFileSize
+    error = kernelFile->Read(kernelFile, &kernelFileSize, (unsigned char*)(kernelDataBuffer)); // will return actual size in kernelFileSize
     checkError(error, L"FATAL: Unable to read from kernel file.\r\n");
     error = kernelFile->Close(kernelFile);
     checkError(error, L"FATAL: Unable to close kernel file.\r\n");
@@ -155,7 +155,7 @@ EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *System
     error = SystemTable->BootServices->ExitBootServices(ImageHandle, mapKey);
     checkError(error, L"FATAL: Could not exit UEFI services.\r\n");
     // jump to kernel:
-    relocateMemory((unsigned long*) kernelDataBuffer, (unsigned long*) KERNEL_FINAL_LOAD_LOCATION, MAX_KERNEL_FILE_SIZE);
+    relocateMemory((unsigned long*) (kernelDataBuffer), (unsigned long*) KERNEL_FINAL_LOAD_LOCATION, MAX_KERNEL_FILE_SIZE);
     jumpToKernel((void*)KERNEL_FINAL_LOAD_LOCATION, memmapbuffer, mmapSize);
     
     return EFI_ABORTED; // should never get to here
