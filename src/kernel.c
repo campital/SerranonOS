@@ -32,7 +32,6 @@ void start(EFI_MEMORY_DESCRIPTOR* mmapBuffer, unsigned long numberOfEntries)
         panic("Paging was not properly initialized.");
 
     debugLog("The page table has been initialized.", KERNEL);
-    __asm__ __volatile__("int $0x7");
     halt();
 }
 

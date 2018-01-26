@@ -169,232 +169,232 @@ void dispatchISR(unsigned long errorCode, unsigned int interrupt)
 
 void int0()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n" // would be movq (%%esp), %%rcx if the callq had an error code
-                         "movq $0, %%rdx\n" // int 0
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n" // would be movq (%%esp), %%rdi if the callq had an error code
+                         "movq $0, %%rsi\n" // int 0
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n" // exexution should never reach here
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int1()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $1, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $1, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int2()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $2, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $2, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int3()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $3, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $3, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int4()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $4, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $4, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int5()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $5, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $5, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int6()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $6, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $6, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int7()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $7, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $7, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int8()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n" // even with a double fault, the error code is always zero
-                         "movq $8, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n" // even with a double fault, the error code is always zero
+                         "movq $8, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int9()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $9, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $9, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int10()
 {
-    __asm__ __volatile__("movq (%%esp), %%rcx\n" // error code contains the segment selector
-                         "movq $10, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq (%%esp), %%rdi\n" // error code contains the segment selector
+                         "movq $10, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int11()
 {
-    __asm__ __volatile__("movq (%%esp), %%rcx\n"
-                         "movq $11, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq (%%esp), %%rdi\n"
+                         "movq $11, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int12()
 {
-    __asm__ __volatile__("movq (%%esp), %%rcx\n"
-                         "movq $12, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq (%%esp), %%rdi\n"
+                         "movq $12, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int13()
 {
-    __asm__ __volatile__("movq (%%esp), %%rcx\n"
-                         "movq $13, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq (%%esp), %%rdi\n"
+                         "movq $13, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int14()
 {
-    __asm__ __volatile__("movq (%%esp), %%rcx\n"
-                         "movq $14, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq (%%esp), %%rdi\n"
+                         "movq $14, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 // isr 15 doesn't really exist
 void int15()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $15, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $15, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int16()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $16, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $16, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int17()
 {
-    __asm__ __volatile__("movq (%%esp), %%rcx\n"
-                         "movq $17, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq (%%esp), %%rdi\n"
+                         "movq $17, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int18()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $18, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $18, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int19()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $19, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $19, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }
 
 void int20()
 {
-    __asm__ __volatile__("movq $0, %%rcx\n"
-                         "movq $20, %%rdx\n" // int
-                         "callq *%%rax\n"
+    __asm__ __volatile__("movq $0, %%rdi\n"
+                         "movq $20, %%rsi\n" // int
+                         "callq *%%rbx\n"
                          "iretq\n"
                          "hlt\n"
-                        :: "a" (dispatchISR)
-                        : "%rcx", "%rdx");
+                        :: "b" (dispatchISR), "a" (0)
+                        : "%rdi", "%rsi");
 }

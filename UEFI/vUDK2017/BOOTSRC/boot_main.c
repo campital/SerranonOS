@@ -54,7 +54,7 @@ int compareCHAR16(CHAR16* string1, CHAR16* string2, unsigned int numberOfBYTESTo
 
 void jumpToKernel(void* address, EFI_MEMORY_DESCRIPTOR* mmapBuffer, unsigned long numberOfEntries)
 {
-    __asm__ __volatile__("jmp %%rax" :: "a" (address), "c" (mmapBuffer), "d" (numberOfEntries));
+    __asm__ __volatile__("jmpq *%%rbx" :: "b" (address), "D" (mmapBuffer), "S" (numberOfEntries), "a" (0));
 }
 
 EFI_STATUS EFIAPI UEFIBootMain (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable)
